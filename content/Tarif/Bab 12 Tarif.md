@@ -30,11 +30,11 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 12.01 | Kacang kedelai, pecah maupun tidak. | Soya beans, whether or not broken. |  |  |  |  |
+| **12.01** | **Kacang kedelai, pecah maupun tidak.** | **Soya beans, whether or not broken.** |  |  |  |  |
 | 1201.10.00 | - Benih | - Seed | 0 | - | - | - |
 | 1201.90.00 | - Lain-lain | - Other | 0 | - | - | - |
 |  |  |  |  |  |  |  |
-| 12.02 | Kacang tanah, tidak digongseng atau dimasak secara lain, dihilangkan tempurungnya atau pecah maupun tidak. | Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken. |  |  |  |  |
+| **12.02** | **Kacang tanah, tidak digongseng atau dimasak secara lain, dihilangkan tempurungnya atau pecah maupun tidak.** | **Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken.** |  |  |  |  |
 | 1202.30.00 | - Benih | - Seed | 5 | - | - | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
 | 1202.41.00 | - - Bertempurung | - - In shell | 5 | - | 11 | - |
@@ -44,13 +44,13 @@ lang:
 |  |  |  |  |  |  |  |
 | 1204.00.00 | Biji rami, pecah maupun tidak. | Linseed, whether or not broken. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 12.05 | Biji lobak atau colza, pecah maupun tidak. | Rape or colza seeds, whether or not broken. |  |  |  |  |
+| **12.05** | **Biji lobak atau colza, pecah maupun tidak.** | **Rape or colza seeds, whether or not broken.** |  |  |  |  |
 | 1205.10.00 | - Biji lobak atau colza mengandung asam erusat rendah | - Low erucic acid rape or colza seeds | 5 | - | 11 | - |
 | 1205.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 | 1206.00.00 | Biji bunga matahari, pecah maupun tidak. | Sunflower seeds, whether or not broken. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 12.07 | Biji dan buah lainnya yang mengandung minyak, pecah maupun tidak. | Other oil seeds and oleaginous fruits, whether or not broken. |  |  |  |  |
+| **12.07** | **Biji dan buah lainnya yang mengandung minyak, pecah maupun tidak.** | **Other oil seeds and oleaginous fruits, whether or not broken.** |  |  |  |  |
 | 1207.10 | - Biji dan kernel kelapa sawit : | - Palm nuts and kernels : |  |  |  |  |
 | 1207.10.10 | - - Biji kelapa sawit cocok untuk disemai/ditanam | - - Palm nuts suitable for sowing/planting | 5 | *) | - | - |
 | 1207.10.30 | - - Kernel | - - Kernels | 5 | *) | 11 | - |
@@ -72,11 +72,11 @@ lang:
 | 1207.99.50 | - - - Tandan buah segar kelapa sawit | - - - Fresh fruit bunch of oil palm | 5 | *) | 11 | - |
 | 1207.99.90 | - - - Lain-lain | - - - Other | 5 | *) | 11 | - |
 |  |  |  |  |  |  |  |
-| 12.08 | Tepung halus dan tepung kasar dari biji atau buah yang mengandung minyak, selain mustar. | Flours and meals of oil seeds or oleaginous fruits, other than those of mustard. |  |  |  |  |
+| **12.08** | **Tepung halus dan tepung kasar dari biji atau buah yang mengandung minyak, selain mustar.** | **Flours and meals of oil seeds or oleaginous fruits, other than those of mustard.** |  |  |  |  |
 | 1208.10.00 | - Dari kacang kedelai | - Of soya beans | 5 | - | 11 | - |
 | 1208.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 12.09 | Biji, buah dan spora, dari jenis yang digunakan untuk disemai. | Seeds, fruit and spores, of a kind used for sowing. |  |  |  |  |
+| **12.09** | **Biji, buah dan spora, dari jenis yang digunakan untuk disemai.** | **Seeds, fruit and spores, of a kind used for sowing.** |  |  |  |  |
 | 1209.10.00 | - Biji bit gula | - Sugar beet seeds | 0 | - | - | - |
 |  | - Biji dari tanaman makanan ternak : | - Seeds of forage plants : |  |  |  |  |
 | 1209.21.00 | - - Biji Lucerne (alfalfa) | - - Lucerne (alfalfa) seeds | 0 | - | - | - |
@@ -97,11 +97,11 @@ lang:
 | 1209.99.30 | - - - Biji kenaf | - - - Kenaf seeds | 0 | - | - | - |
 | 1209.99.90 | - - - Lain-lain | - - - Other | 0 | - | - | - |
 |  |  |  |  |  |  |  |
-| 12.10 | Kerucut buah hop, segar atau dikeringkan, ditumbuk, dijadikan bubuk atau dalam bentuk pelet maupun tidak; lupulin. | Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin. |  |  |  |  |
+| **12.10** | **Kerucut buah hop, segar atau dikeringkan, ditumbuk, dijadikan bubuk atau dalam bentuk pelet maupun tidak; lupulin.** | **Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin.** |  |  |  |  |
 | 1210.10.00 | - Kerucut buah hop, tidak ditumbuk maupun dijadikan bubuk maupun dalam bentuk pelet | - Hop cones, neither ground nor powdered nor in the form of pellets | 5 | - | 11 | - |
 | 1210.20.00 | - Kerucut buah hop, ditumbuk, dijadikan bubuk atau dalam bentuk pelet; lupulin | - Hop cones, ground, powdered or in the form of pellets; lupulin | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 12.11 | Tanaman dan bagiannya (termasuk biji dan buah), yang terutama dipakai dalam pembuatan wewangian, dalam farmasi atau untuk insektisida, fungisida atau untuk tujuan yang semacam itu, segar, didinginkan, beku atau dikeringkan, baik dipotong, dihancurkan atau dijadikan bubuk maupun tidak. | Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. |  |  |  |  |
+| **12.11** | **Tanaman dan bagiannya (termasuk biji dan buah), yang terutama dipakai dalam pembuatan wewangian, dalam farmasi atau untuk insektisida, fungisida atau untuk tujuan yang semacam itu, segar, didinginkan, beku atau dikeringkan, baik dipotong, dihancurkan atau dijadikan bubuk maupun tidak.** | **Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered.** |  |  |  |  |
 | 1211.20 | - Akar ginseng : | - Ginseng roots : |  |  |  |  |
 | 1211.20.10 | - - Segar atau dikeringkan | - - Fresh or dried | 5 | - | 11 | - |
 | 1211.20.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -127,7 +127,7 @@ lang:
 | 1211.90.98 | - - - Lain-lain, dalam bentuk potongan, dihancurkan atau dalam bentuk bubuk | - - - Other, in cut, crushed or powdered form | 5 | - | 11 | - |
 | 1211.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 12.12 | Kacang karob, rumput laut dan ganggang lainnya, bit gula dan tebu, segar, dingin, beku atau dikeringkan, ditumbuk maupun tidak; kulit keras buah dan kernel serta produk nabati lainnya (termasuk akar chicory yang tidak digongseng dari varietas Cichorium intybus sativum) dari jenis yang terutama digunakan untuk konsumsi manusia, tidak dirinci atau termasuk dalam pos lainnya. | Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichorium intybus sativum) of a kind used primarily for human consumption, not elsewhere specified or included. |  |  |  |  |
+| **12.12** | **Kacang karob, rumput laut dan ganggang lainnya, bit gula dan tebu, segar, dingin, beku atau dikeringkan, ditumbuk maupun tidak; kulit keras buah dan kernel serta produk nabati lainnya (termasuk akar chicory yang tidak digongseng dari varietas Cichorium intybus sativum) dari jenis yang terutama digunakan untuk konsumsi manusia, tidak dirinci atau termasuk dalam pos lainnya.** | **Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichorium intybus sativum) of a kind used primarily for human consumption, not elsewhere specified or included.** |  |  |  |  |
 |  | - Rumput laut dan ganggang lainnya : | - Seaweeds and other algae : |  |  |  |  |
 | 1212.21 | - - Layak untuk dikonsumsi manusia : | - - Fit for human consumption : |  |  |  |  |
 |  | - - - Dikeringkan tetapi tidak ditumbuk : | - - - Dried but not ground : |  |  |  |  |
@@ -155,6 +155,6 @@ lang:
 |  |  |  |  |  |  |  |
 | 1213.00.00 | Jerami dan sekam serealia, tidak diolah, baik dicacah, ditumbuk, ditekan atau dalam bentuk pelet maupun tidak. | Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 12.14 | Swedes (sejenis lobak), mangold (sejenis bit), akar makanan ternak, rumput kering, lucerne (alfalfa), semanggi, sainfoin, Kale makanan ternak, lupine, Vetch dan produk makanan ternak sejenis lainnya, dalam bentuk pelet maupun tidak. | Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets. |  |  |  |  |
+| **12.14** | **Swedes (sejenis lobak), mangold (sejenis bit), akar makanan ternak, rumput kering, lucerne (alfalfa), semanggi, sainfoin, Kale makanan ternak, lupine, Vetch dan produk makanan ternak sejenis lainnya, dalam bentuk pelet maupun tidak.** | **Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets.** |  |  |  |  |
 | 1214.10.00 | - Tepung kasar dan pelet lucerne (alfalfa) | - Lucerne (alfalfa) meal and pellets | 5 | - | 11 | - |
 | 1214.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |

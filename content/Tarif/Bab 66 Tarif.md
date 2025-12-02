@@ -30,7 +30,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 66.01 | Payung dan payung panas (termasuk payung berbentuk tongkat jalan, payung taman dan payung semacam itu). | Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas). |  |  |  |  |
+| **66.01** | **Payung dan payung panas (termasuk payung berbentuk tongkat jalan, payung taman dan payung semacam itu).** | **Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas).** |  |  |  |  |
 | 6601.10.00 | - Payung taman atau payung semacam itu | - Garden or similar umbrellas | 15 | - | 11 | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
 | 6601.91.00 | - - Mempunyai tangkai teleskopis | - - Having a telescopic shaft | 15 | - | 11 | - |
@@ -38,7 +38,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 6602.00.00 | Tongkat jalan, tongkat duduk, cambuk, pecut dan sejenisnya. | Walking-sticks, seat-sticks, whips, riding-crops and the like. | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 66.03 | Bagian, hiasan dan aksesori barang dari pos 66.01 atau 66.02. | Parts, trimmings and accessories of articles of heading 66.01 or 66.02. |  |  |  |  |
+| **66.03** | **Bagian, hiasan dan aksesori barang dari pos 66.01 atau 66.02.** | **Parts, trimmings and accessories of articles of heading 66.01 or 66.02.** |  |  |  |  |
 | 6603.20.00 | - Rangka payung, termasuk rangka yang dipasangkan pada tangkai (tongkat) | - Umbrella frames, including frames mounted on shafts (sticks) | 5 | - | 11 | - |
 | 6603.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 6603.90.10 | - - Untuk barang dari pos 66.01 | - - For articles of heading 66.01 | 10 | - | 11 | - |

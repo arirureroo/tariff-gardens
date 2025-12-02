@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 08.01 | Kelapa, kacang Brasil dan kacang mede, segar atau dikeringkan, dihilangkan tempurungnya atau dikupas maupun tidak. | Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled. |  |  |  |  |
+| **08.01** | **Kelapa, kacang Brasil dan kacang mede, segar atau dikeringkan, dihilangkan tempurungnya atau dikupas maupun tidak.** | **Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.** |  |  |  |  |
 |  | - Kelapa : | - Coconuts : |  |  |  |  |
 | 0801.11.00 | - - Diparut dan dikeringkan | - - Desiccated | 5 | - | 11 | - |
 | 0801.12.00 | - - Di dalam kulit (endocarp) | - - In the inner shell (endocarp) | 5 | - | 11 | - |
@@ -46,7 +46,7 @@ lang:
 | 0801.31.00 | - - Bertempurung | - - In shell | 5 | - | 11 | - |
 | 0801.32.00 | - - Dihilangkan tempurungnya | - - Shelled | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 08.02 | Buah bertempurung lainnya, segar atau dikeringkan, dihilangkan tempurungnya atau dikupas maupun tidak. | Other nuts, fresh or dried, whether or not shelled or peeled. |  |  |  |  |
+| **08.02** | **Buah bertempurung lainnya, segar atau dikeringkan, dihilangkan tempurungnya atau dikupas maupun tidak.** | **Other nuts, fresh or dried, whether or not shelled or peeled.** |  |  |  |  |
 |  | - Almond : | - Almonds : |  |  |  |  |
 | 0802.11.00 | - - Bertempurung | - - In shell | 5 | - | 11 | - |
 | 0802.12 | - - Dihilangkan tempurungnya : | - - Shelled : |  |  |  |  |
@@ -74,7 +74,7 @@ lang:
 | 0802.92.00 | - - Kacang pinus, dihilangkan tempurungnya | - - Pine nuts, shelled | 5 | - | 11 | - |
 | 0802.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 08.03 | Pisang, termasuk pisang yang tidak cocok dikonsumsi langsung sebagai buah, segar atau dikeringkan. | Bananas, including plantains, fresh or dried. |  |  |  |  |
+| **08.03** | **Pisang, termasuk pisang yang tidak cocok dikonsumsi langsung sebagai buah, segar atau dikeringkan.** | **Bananas, including plantains, fresh or dried.** |  |  |  |  |
 | 0803.10 | - Pisang yang tidak cocok dikonsumsi langsung sebagai buah : | - Plantains : |  |  |  |  |
 | 0803.10.10 | - - Segar | - - Fresh | 5 | - | - | - |
 | 0803.10.20 | - - Dikeringkan | - - Dried | 5 | - | 11 | - |
@@ -84,7 +84,7 @@ lang:
 | 0803.90.30 | - - Pisang chestnut (persilangan Musa acuminata dengan Musa balbisiana, kultivar Berangan) | - - Chestnut banana (hybrid of Musa acuminata and Musa balbisiana, cultivar Berangan) | 5 | - | 11*) | - |
 | 0803.90.90 | - - Lain-lain | - - Other | 5 | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 08.04 | Korma, buah ara, nanas, alpokat, jambu, mangga dan manggis, segar atau dikeringkan. | Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried. |  |  |  |  |
+| **08.04** | **Korma, buah ara, nanas, alpokat, jambu, mangga dan manggis, segar atau dikeringkan.** | **Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.** |  |  |  |  |
 | 0804.10.00 | - Korma | - Dates | 5 | - | 11*) | - |
 | 0804.20.00 | - Buah ara | - Figs | 5 | - | 11*) | - |
 | 0804.30.00 | - Nanas | - Pineapples | 5 | - | 11*) | - |
@@ -96,7 +96,7 @@ lang:
 | 0804.50.22 | - - - Dikeringkan | - - - Dried | 20 | - | 11 | - |
 | 0804.50.30 | - - Manggis | - - Mangosteens | 5 | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 08.05 | Buah jeruk, segar atau dikeringkan. | Citrus fruit, fresh or dried. |  |  |  |  |
+| **08.05** | **Buah jeruk, segar atau dikeringkan.** | **Citrus fruit, fresh or dried.** |  |  |  |  |
 | 0805.10 | - Orange : | - Oranges : |  |  |  |  |
 | 0805.10.10 | - - Segar | - - Fresh | 5 | - | - | - |
 | 0805.10.20 | - - Dikeringkan | - - Dried | 5 | - | 11 | - |
@@ -110,22 +110,22 @@ lang:
 | 0805.50.20 | - - Limau (Citrus aurantifolia, Citrus latifolia) | - - Limes (Citrus aurantifolia, Citrus latifolia) | 5 | - | 11*) | - |
 | 0805.90.00 | - Lain-lain | - Other | 5 | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 08.06 | Anggur, segar atau dikeringkan. | Grapes, fresh or dried. |  |  |  |  |
+| **08.06** | **Anggur, segar atau dikeringkan.** | **Grapes, fresh or dried.** |  |  |  |  |
 | 0806.10.00 | - Segar | - Fresh | 5 | - | - | - |
 | 0806.20.00 | - Dikeringkan | - Dried | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 08.07 | Melon (termasuk semangka) dan papaw (pepaya), segar. | Melons (including watermelons) and papaws (papayas), fresh. |  |  |  |  |
+| **08.07** | **Melon (termasuk semangka) dan papaw (pepaya), segar.** | **Melons (including watermelons) and papaws (papayas), fresh.** |  |  |  |  |
 |  | - Melon (termasuk semangka) : | - Melons (including watermelons) : |  |  |  |  |
 | 0807.11.00 | - - Semangka | - - Watermelons | 5 | - | - | - |
 | 0807.19.00 | - - Lain-lain | - - Other | 5 | - | - | - |
 | 0807.20.00 | - Papaw (pepaya) | - Papaws (papayas) | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 08.08 | Apel, pir dan quince, segar. | Apples, pears and quinces, fresh. |  |  |  |  |
+| **08.08** | **Apel, pir dan quince, segar.** | **Apples, pears and quinces, fresh.** |  |  |  |  |
 | 0808.10.00 | - Apel | - Apples | 5 | - | - | - |
 | 0808.30.00 | - Pir | - Pears | 5 | - | - | - |
 | 0808.40.00 | - Quince | - Quinces | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 08.09 | Aprikot, ceri, persik (termasuk nektarin), plum dan sloe, segar. | Apricots, cherries, peaches (including nectarines), plums and sloes, fresh. |  |  |  |  |
+| **08.09** | **Aprikot, ceri, persik (termasuk nektarin), plum dan sloe, segar.** | **Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.** |  |  |  |  |
 | 0809.10.00 | - Aprikot | - Apricots | 5 | - | - | - |
 |  | - Ceri : | - Cherries : |  |  |  |  |
 | 0809.21.00 | - - Ceri asam (Prunus cerasus) | - - Sour cherries (Prunus cerasus) | 5 | - | - | - |
@@ -135,7 +135,7 @@ lang:
 | 0809.40.10 | - - Plum | - - Plums | 5 | - | - | - |
 | 0809.40.20 | - - Sloe | - - Sloes | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 08.10 | Buah lainnya, segar. | Other fruit, fresh. |  |  |  |  |
+| **08.10** | **Buah lainnya, segar.** | **Other fruit, fresh.** |  |  |  |  |
 | 0810.10.00 | - Stroberi | - Strawberries | 5 | - | - | - |
 | 0810.20.00 | - Rasberi, blackberry, mulberry, dan loganberry | - Raspberries, blackberries, mulberries and loganberries | 5 | - | - | - |
 | 0810.30.00 | - Currant hitam, putih atau merah dan gooseberry | - Black, white or red currants and gooseberries | 5 | - | - | - |
@@ -158,18 +158,18 @@ lang:
 | 0810.90.94 | - - - Delima (Punica spp.), sirsak atau sarikaya (Annona spp.), jambu air (Syzygium spp., Eugenia spp.), gandaria (Bouea spp.), markisa (Passiflora spp.), kecapi (Sandoricum spp.), jujube (Ziziphus spp.) dan tampoi atau rambai (Baccaurea spp.) | - - - Pomegranate (Punica spp.), soursop or sweetsops (Annona spp.), bell fruit (Syzygium spp., Eugenia spp.), marian plum (Bouea spp.), passion fruit (Passiflora spp.), cottonfruit (Sandoricum spp.), jujube (Ziziphus spp.) and tampoi or rambai (Baccaurea spp.) | 5 | - | - | - |
 | 0810.90.99 | - - - Lain-lain | - - - Other | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 08.11 | Buah dan buah bertempurung, tidak dimasak atau dimasak dengan cara dikukus atau direbus, beku, mengandung tambahan gula atau bahan pemanis lainnya maupun tidak. | Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter. |  |  |  |  |
+| **08.11** | **Buah dan buah bertempurung, tidak dimasak atau dimasak dengan cara dikukus atau direbus, beku, mengandung tambahan gula atau bahan pemanis lainnya maupun tidak.** | **Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.** |  |  |  |  |
 | 0811.10.00 | - Stroberi | - Strawberries | 5 | - | 11*) | - |
 | 0811.20.00 | - Rasberi, blackberry, mulberry, loganberry, currant hitam, putih atau merah dan gooseberry | - Raspberries, blackberries, mulberries, loganberries, black, white or red currants and gooseberries | 5 | - | 11*) | - |
 | 0811.90.00 | - Lain-lain | - Other | 5 | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 08.12 | Buah dan buah bertempurung diawetkan sementara, tetapi tidak cocok untuk konsumsi langsung. | Fruit and nuts provisionally preserved, but unsuitable in that state for immediate consumption. |  |  |  |  |
+| **08.12** | **Buah dan buah bertempurung diawetkan sementara, tetapi tidak cocok untuk konsumsi langsung.** | **Fruit and nuts provisionally preserved, but unsuitable in that state for immediate consumption.** |  |  |  |  |
 | 0812.10.00 | - Ceri | - Cherries | 5 | - | 11 | - |
 | 0812.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 0812.90.10 | - - Stroberi | - - Strawberries | 5 | - | 11 | - |
 | 0812.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 08.13 | Buah, kering, selain yang disebut dalam pos 08.01 sampai dengan 08.06; campuran dari buah bertempurung atau buah kering dari Bab ini. | Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter. |  |  |  |  |
+| **08.13** | **Buah, kering, selain yang disebut dalam pos 08.01 sampai dengan 08.06; campuran dari buah bertempurung atau buah kering dari Bab ini.** | **Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter.** |  |  |  |  |
 | 0813.10.00 | - Aprikot | - Apricots | 5 | - | 11 | - |
 | 0813.20.00 | - Prune | - Prunes | 5 | - | 11 | - |
 | 0813.30.00 | - Apel | - Apples | 5 | - | 11 | - |

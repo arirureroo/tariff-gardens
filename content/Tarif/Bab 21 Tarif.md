@@ -31,7 +31,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 21.01 | Ekstrak, esens dan konsentrat, dari kopi, teh atau mate dan olahan dengan dasar produk ini atau dengan dasar kopi, teh atau mate; chicory digongseng dan pengganti kopi yang digongseng lainnya, dan ekstrak, esens dan konsentratnya. | Extracts, essences and concentrates, of coffee, tea or maté, and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof. |  |  |  |  |
+| **21.01** | **Ekstrak, esens dan konsentrat, dari kopi, teh atau mate dan olahan dengan dasar produk ini atau dengan dasar kopi, teh atau mate; chicory digongseng dan pengganti kopi yang digongseng lainnya, dan ekstrak, esens dan konsentratnya.** | **Extracts, essences and concentrates, of coffee, tea or maté, and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof.** |  |  |  |  |
 |  | - Ekstrak, esens dan konsentrat, dari kopi, serta olahan dengan dasar ekstrak, esens atau konsentrat kopi atau olahan dengan dasar kopi : | - Extracts, essences and concentrates, of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee : |  |  |  |  |
 | 2101.11 | - - Ekstrak, esens dan konsentrat : | - - Extracts, essences and concentrates : |  |  |  |  |
 |  | - - - Kopi instan : | - - - Instant coffee : |  |  |  |  |
@@ -50,14 +50,14 @@ lang:
 | 2101.20.90 | - - Lain-lain | - - Other | 20 | - | 11 | - |
 | 2101.30.00 | - Chicory digongseng dan pengganti kopi digongseng lainnya, dan ekstrak, esens dan konsentratnya | - Roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 21.02 | Ragi (aktif atau tidak aktif); mikro-organisme bersel tunggal lainnya, mati (tetapi tidak termasuk vaksin dari pos 30.02); bubuk pengembang roti. | Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading 30.02); prepared baking powders. |  |  |  |  |
+| **21.02** | **Ragi (aktif atau tidak aktif); mikro-organisme bersel tunggal lainnya, mati (tetapi tidak termasuk vaksin dari pos 30.02); bubuk pengembang roti.** | **Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading 30.02); prepared baking powders.** |  |  |  |  |
 | 2102.10.00 | - Ragi aktif | - Active yeasts | 5 | - | 11 | - |
 | 2102.20 | - Ragi tidak aktif; mikro-organisme bersel tunggal lainnya, mati : | - Inactive yeasts; other single-cell micro-organisms, dead : |  |  |  |  |
 | 2102.20.10 | - - Dari jenis yang digunakan untuk makanan hewan | - - Of a kind used in animal feeding | 5 | - | 11*) | - |
 | 2102.20.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 2102.30.00 | - Bubuk pengembang roti | - Prepared baking powders | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 21.03 | Saus dan olahannya; campuran bahan penyedap dan campuran bumbu; tepung mustar dan tepung kasar mustar serta mustar olahan. | Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard. |  |  |  |  |
+| **21.03** | **Saus dan olahannya; campuran bahan penyedap dan campuran bumbu; tepung mustar dan tepung kasar mustar serta mustar olahan.** | **Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard.** |  |  |  |  |
 | 2103.10.00 | - Kecap | - Soya sauce | 15 | - | 11 | - |
 | 2103.20.00 | - Tomato ketchup dan saus tomat lainnya | - Tomato ketchup and other tomato sauces | 15 | - | 11 | - |
 | 2103.30.00 | - Tepung mustar dan tepung kasar mustar serta mustar olahan | - Mustard flour and meal and prepared mustard | 5 | - | 11 | - |
@@ -71,7 +71,7 @@ lang:
 | 2103.90.21 | - - - Pasta udang termasuk terasi (belacan) | - - - Shrimp paste including belachan (blachan) | 5 | - | 11 | - |
 | 2103.90.29 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 21.04 | Sop dan kaldu serta olahannya; olahan makanan campuran homogen. | Soups and broths and preparations therefor; homogenised composite food preparations. |  |  |  |  |
+| **21.04** | **Sop dan kaldu serta olahannya; olahan makanan campuran homogen.** | **Soups and broths and preparations therefor; homogenised composite food preparations.** |  |  |  |  |
 | 2104.10 | - Sop dan kaldu serta olahannya : | - Soups and broths and preparations therefor : |  |  |  |  |
 |  | - - Mengandung daging : | - - Containing meat : |  |  |  |  |
 | 2104.10.11 | - - - Cocok untuk bayi atau anak-anak | - - - Suitable for infants or young children | 5 | - | 11 | - |
@@ -89,7 +89,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 2105.00.00 | Es krim dan es lainnya yang dapat dimakan, mengandung kakao maupun tidak. | Ice cream and other edible ice, whether or not containing cocoa. | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 21.06 | Olahan makanan yang tidak dirinci atau termasuk dalam pos lainnya. | Food preparations not elsewhere specified or included. |  |  |  |  |
+| **21.06** | **Olahan makanan yang tidak dirinci atau termasuk dalam pos lainnya.** | **Food preparations not elsewhere specified or included.** |  |  |  |  |
 | 2106.10.00 | - Konsentrat protein dan zat protein diteksturisasi | - Protein concentrates and textured protein substances | 5 | - | 11 | - |
 | 2106.90 | - Lain-lain : | - Other : |  |  |  |  |
 |  | - - Beancurd : | - - Beancurd : |  |  |  |  |

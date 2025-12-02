@@ -28,7 +28,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 98.01 | Kendaraan bermotor dalam keadaan terurai tidak lengkap; sasis dengan mesin terpasang dalam keadaan terurai tidak lengkap. | Incompletely knocked down motor vehicles; incompletely knocked down chassis fitted with engines. |  |  |  |  |
+| **98.01** | **Kendaraan bermotor dalam keadaan terurai tidak lengkap; sasis dengan mesin terpasang dalam keadaan terurai tidak lengkap.** | **Incompletely knocked down motor vehicles; incompletely knocked down chassis fitted with engines.** |  |  |  |  |
 | 9801.40.00 | - Traktor jalan untuk semi-trailer dari subpos 8701.21, subpos 8701.22, subpos 8701.23, dan subpos 8701.29 | - Road tractors for semi-trailers of subheading 8701.21, subheading 8701.22, subheading 8701.23, and subheading 8701.29 | 0 | - | 11 | - |
 | 9801.50 | - Kendaraan jenis bus dari pos 87.02 selain dari barang pada subpos 9801.90 : | - Bus vehicles of heading 87.02 other than those of subheading 9801.90 : |  |  |  |  |
 | 9801.50.10 | - - Dengan g.v.w. tidak lebih dari 5 ton | - - Of a g.v.w. not exceeding 5 tonnes | 7,5 | - | 11 | - |
@@ -57,12 +57,12 @@ lang:
 | 9801.90.40 | - - Kendaraan pengangkutan barang dari subpos 8704.60 | - - Motor vehicles for transport of goods of subheading 8704.60 | 0 | - | 11 | - |
 | 9801.90.50 | - - Sasis dilengkapi dengan motor listrik sebagai penggerak, dari pos 87.06 | - - Chassis fitted with electric motor for propulsion, of heading 87.06 | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 98.02 | Komponen kendaraan bermotor dalam keadaan terurai tidak lengkap. | Components of incompletely knocked down motor vehicle. |  |  |  |  |
+| **98.02** | **Komponen kendaraan bermotor dalam keadaan terurai tidak lengkap.** | **Components of incompletely knocked down motor vehicle.** |  |  |  |  |
 | 9802.10.00 | - Mesin piston pembakaran dalam bolak balik berputar atau cetus api atau mesin piston pembakaran dalam nyala kompresi (diesel/semi diesel) | - Rotary internal combustion piston engine or reciprocating spark-ignition combustion piston engine or compression-ignition piston engine (diesel/semi diesel) | 2,5 | - | 11 | - |
 | 9802.20.00 | - Gear box | - Gear boxes | 2,5 | - | 11 | - |
 | 9802.30.00 | - Poros penggerak | - Drive-axles | 2,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 98.04 | Komponen kapal dari Bab 72. | Components of ships of Chapter 72. |  |  |  |  |
+| **98.04** | **Komponen kapal dari Bab 72.** | **Components of ships of Chapter 72.** |  |  |  |  |
 | 9804.10.00 | - Section L dengan panjang sisi tidak sama terbuat dari baja bukan paduan dengan tinggi 80 mm atau lebih, dengan karbon kurang dari 0,6% menurut beratnya, tidak dikerjakan lebih lanjut selain dicanai panas, ditarik panas atau diekstrusi, yang termasuk dalam pos tarif 7216.40.90 | - L section with unequal side, of non-alloy steel, with height of 80 mm or more, with a carbon weight less than 0.6%, not further worked than hot-rolled, hot-drawn or extruded, which is included in the tariff heading 7216.40.90 | 0 | - | 11 | - |
 | 9804.20.00 | - Bulb plate terbuat dari baja bukan paduan, dengan tinggi kurang dari 80 mm, dengan karbon kurang dari 0,6% menurut beratnya, tidak dikerjakan lebih lanjut selain dicanai panas, ditarik panas atau diekstrusi, yang termasuk dalam pos tarif 7216.50.19 | - Bulb plate of non-alloy steel, with a height of less than 80 mm, with a carbon weight of less than 0.6%, not further worked than hot-rolled, hot-drawn or extruded, which is included in the tariff heading 7216.50.19 | 0 | - | 11 | - |
 | 9804.30.00 | - Bulb Plate terbuat dari baja bukan paduan, dengan tinggi 80 mm atau lebih, dengan karbon kurang dari 0,6% menurut beratnya, tidak dikerjakan lebih lanjut selain dicanai panas, ditarik panas atau diekstrusi, yang termasuk dalam pos tarif 7216.50.99 | - Bulb plate of non-alloy steel, with a height of 80 mm or more, with a carbon weight of less than 0.6%, not further worked than hot-rolled, hot-drawn or extruded, which is included in the tariff heading 7216.50.99 | 0 | - | 11 | - |
@@ -71,7 +71,7 @@ lang:
 | 9804.60.00 | - Batang baja stainles berpenampang silang lingkaran, dicanai panas atau ditarik panas, dengan kandungan kromium 16% sampai dengan 20%, karbon tidak melebihi 0,1%, dan nikel 8% sampai dengan 15% menurut beratnya, yang termasuk dalam pos tarif 7222.11.00 | - Stainless steel bars with circular cross-section, hot-rolled or hot-drawn, containing by weight 16% to 20% of chromium, carbon not exceeding 0.1% and 8% to 15% of nickel, which is included in tariff heading 7222.11.00 | 0 | - | 11 | - |
 | 9804.70.00 | - Batang baja stainles, berpenampang silang persegi panjang atau bujur sangkar, dicanai panas atau ditarik panas, dengan kandungan kromium 16% sampai dengan 20%, karbon tidak melebihi 0,1%, dan nikel 8% sampai dengan 15% menurut beratnya, yang termasuk dalam pos tarif 7222.19.00 | - Stainless steel bars, rectangular (including square) cross-section, hot-rolled or hot-drawn, containing by weight 16% to 20% of chromium, carbon not exceeding 0.1% and 8% to 15% of nickel, which is included in tariff heading 7222.19.00 | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 98.05 | Komponen kapal dari Bab 73. | Components of ships of Chapter 73. |  |  |  |  |
+| **98.05** | **Komponen kapal dari Bab 73.** | **Components of ships of Chapter 73.** |  |  |  |  |
 | 9805.10.00 | - Longitudinally Electric Resistance Welded (ERW) dari baja stainles, dengan kandungan kromium 16% sampai dengan 18% dan nikel 10% sampai dengan 15% menurut beratnya, yang termasuk dalam pos tarif 7306.11.10 | - Longitudinally Electric Resistance Welded (ERW) from stainless steel, containing by weight 16 to 18% of chromium and 10% to 15% of nickel, which is included in tariff heading 7306.11.10 | 0 | - | 11 | - |
 | 9805.20.00 | - Jangkar kapal terbuat dari besi atau baja dengan berat melebihi 300 kg, yang termasuk dalam pos tarif 7316.00.00 | - Vessel's anchor of iron or steel weighing more than 300 kg, which is included in the tariff heading 7316.00.00 | 0 | - | 11 | - |
 | 9805.30 | - Dari pos 73.04 : | - Of heading 73.04 : |  |  |  |  |
@@ -94,11 +94,11 @@ lang:
 | 9805.60.10 | - - Poros kemudi dan kelengkapannya terbuat dari baja, yang termasuk dalam pos tarif 7326.90.99 | - - Steering shaft and its fittings, of steel, which is included in the tariff heading 7326.90.99 | 0 | - | 11 | - |
 | 9805.60.20 | - - Poros baling-baling terbuat dari baja, yang termasuk dalam pos tarif 7326.90.99 | - - Propeller shaft of steel, which is included in the tariff heading 7326.90.99 | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 98.06 | Komponen kapal dari Bab 74. | Components of ships of Chapter 74. |  |  |  |  |
+| **98.06** | **Komponen kapal dari Bab 74.** | **Components of ships of Chapter 74.** |  |  |  |  |
 | 9806.10.00 | - Pipa dari paduan dasar tembaga-seng (kuningan), yang termasuk dalam pos tarif 7411.21.00 | - Pipe of copper-zinc base alloys (brass), which is included in tariff heading 7411.21.00 | 0 | - | 11 | - |
 | 9806.20.00 | - Pipa dari paduan dasar tembaga-nikel (cupro-nikel), yang termasuk dalam pos tarif 7411.22.00 | - Pipe of copper-nickel base alloys (cupro-nickel), which is included in tariff heading 7411.22.00 | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 98.07 | Komponen kapal dari Bab 76. | Components of ships of Chapter 76. |  |  |  |  |
+| **98.07** | **Komponen kapal dari Bab 76.** | **Components of ships of Chapter 76.** |  |  |  |  |
 | 9807.10.00 | - Alat kelengkapan pipa terbuat dari paduan aluminium, mengandung unsur mangan 0,4% sampai dengan 5,1%, dan silikon tidak melebihi 1,3% menurut beratnya, yang termasuk dalam pos tarif 7609.00.00 | - Pipe fittings of aluminium alloy containing by weight 0.4% to 5.1% manganese, and silicon not exceeding 1.3%, which is included in tariff heading 7609.00.00 | 0 | - | 11 | - |
 | 9807.20 | - Dari pos 76.04 : | - Of heading 76.04 : |  |  |  |  |
 | 9807.20.10 | - - Batang dan batang kecil dari paduan aluminium di ekstrusi, mengandung unsur silikon 0,4% sampai dengan 1,3% dan mangan 0,4% sampai dengan 1,2% menurut beratnya, yang termasuk dalam pos tarif 7604.29.10 | - - Extruded bars and rods of aluminium alloys, containing by weight 0.4% to 1.3% of silicone and 0.4% to 1.2% of manganese, which is included in tariff heading 7604.29.10 | 0 | - | 11 | - |
@@ -115,7 +115,7 @@ lang:
 | 9807.50.10 | - - Elemen struktur kapal berupa penyambung antar dinding dan antar plafon terbuat dari aluminium, yang termasuk dalam pos tarif 7610.90.99 | - - Elements of vessel structures in the form of joint between walls and ceilings, made of aluminium, which is included in the tariff heading 7610.90.99 | 0 | - | 11 | - |
 | 9807.50.20 | - - Elemen struktur kapal berupa dinding dan plafon terbuat dari dua lembar aluminium yang bagian tengahnya terdapat rockwool atau bahan insulator lainnya, yang termasuk dalam pos tarif 7610.90.99 | - - Elements of vessel structures in the form of walls and ceilings, made of two sheets of aluminium with rockwool or other insulating material in the center, which is included in the tariff heading 7610.90.99 | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 98.08 | Komponen kapal dari Bab 84. | Components of ships of Chapter 84. |  |  |  |  |
+| **98.08** | **Komponen kapal dari Bab 84.** | **Components of ships of Chapter 84.** |  |  |  |  |
 | 9808.10.00 | - Economizer ketel uap, yang termasuk dalam pos tarif 8404.10.19 | - Boiler's economizer, which is included in the tariff heading 8404.10.19 | 0 | - | 11 | - |
 | 9808.20.00 | - Mesin pembakar limbah minyak yang digunakan di kapal dan dioperasikan secara non elektrik, yang termasuk dalam pos tarif 8417.80.10 | - Machine used in vessels for burning oil waste, not electrically operated, which is included in tariff heading 8417.80.10 | 0 | - | 11 | - |
 | 9808.30.00 | - Mesin pembersih ruang muat kapal tanker, yang termasuk dalam pos tarif 8424.30.00 | - Machine for cleaning tanker cargo hold, which is included in tariff heading 8424.30.00 | 0 | - | 11 | - |
@@ -164,7 +164,7 @@ lang:
 | 9808.78.70 | - - - Katup pintu, dioperasikan secara manual, dari besi atau baja, mempunyai diameter bagian dalam pemasukan dan pengeluaran lebih dari 5 cm tetapi tidak lebih dari 40 cm, yang termasuk dalam pos tarif 8481.80.73 | - - - Gate valves, manually operated, of iron or steel, having inlet and outlet internal diameters of more than 5 cm but not more than 40 cm, which is included in tariff heading 8481.80.73 | 0 | - | 11 | - |
 | 9808.78.80 | - - - Katup pintu, dioperasikan secara manual, dari besi atau baja, mempunyai diameter bagian dalam pemasukan dan pengeluaran lebih dari 40 cm, yang termasuk dalam pos tarif 8481.80.74 | - - - Gate valves, manually operated, of iron or steel, having inlet and outlet internal diameters of more than 40 cm, which is included in tariff heading 8481.80.74 | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 98.09 | Komponen kapal dari Bab 85. | Components of ships of Chapter 85. |  |  |  |  |
+| **98.09** | **Komponen kapal dari Bab 85.** | **Components of ships of Chapter 85.** |  |  |  |  |
 | 9809.10.00 | - Mesin pembakar limbah minyak yang digunakan di kapal dan dioperasikan secara elektrik, yang termasuk dalam pos tarif 8514.32.90 dan 8514.39.90 | - Machine used in vessels for burning oil waste, electrically operated, which is included in tariff heading 8514.32.90 dan 8514.39.90 | 0 | - | 11 | - |
 | 9809.20.00 | - Sistem komunikasi internal di kapal berupa set amplifier suara listrik yang terdiri dari mikrofon, amplifier, pengeras suara dan kelengkapan lainnya, yang termasuk dalam pos tarif 8518.50.10 | - Internal communication system used in vessels, in the form of an electric sound amplifier set consisting of microphone, amplifier, loudspeaker and other equipments, which is included in tariff heading 8518.50.10 | 0 | - | 11 | - |
 | 9809.30.00 | - Panel sistem pengontrol katup pada sistim perpipaan di kapal yang dioperasikan secara hidrolik, pneumatik, atau elektrik dengan voltase tidak melebihi 1.000 volt, yang termasuk dalam pos tarif 8537.10.19 | - Valve control system panels for piping systems, operated hydraulically, pneumatically or electrically, with a voltage not exceeding 1,000 volts, which is included in the tariff heading 8537.10.19 | 0 | - | 11 | - |
@@ -194,7 +194,7 @@ lang:
 | 9809.70.30 | - - Instrumen isyarat suara dan visual untuk sistem keselamatan kapal, yang termasuk dalam pos tarif 8531.80.90 | - - Sound and visual signalling instruments for vessel's safety systems, which is included in the tariff heading 8531.80.90 | 0 | - | 11 | - |
 | 9809.70.40 | - - Alat pengirim pesan/perintah bekerja secara elektrik dari anjungan ke kamar mesin kapal, yang termasuk dalam pos tarif 8531.80.90 | - - Apparatus for sending message or command from the bridge to the vessel's engine room, operated electrically, which is included in the tariff heading 8531.80.90 | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 98.10 | Komponen kapal dari Bab 90. | Components of ships of Chapter 90. |  |  |  |  |
+| **98.10** | **Komponen kapal dari Bab 90.** | **Components of ships of Chapter 90.** |  |  |  |  |
 | 9810.10.00 | - Instrumen pada kapal untuk mengukur kecepatan angin, yang termasuk dalam pos tarif 9015.80.90 | - Instruments to measuring wind speed, used in vessels, which is included in tariff heading 9015.80.90 | 0 | - | 11 | - |
 | 9810.20.00 | - Alat keselamatan darurat yang terdiri dari masker, tabung dan selang penghubung, yang termasuk dalam pos tarif 9020.00.90 | - Emergency safety equipment consisting of masks, tubes and hoses, which is included in tariff heading 9020.00.90 | 0 | - | 11 | - |
 | 9810.30 | - Dari pos 90.14 : | - Of heading 90.14 : |  |  |  |  |
@@ -210,6 +210,6 @@ lang:
 | 9810.40.10 | - - Sistem pengontrol otomatis muatan cair kapal tanker, yang termasuk dalam pos tarif 9032.81.00 | - - Automatic control system for liquid load of tanker, which is included in tariff heading 9032.81.00 | 0 | - | 11 | - |
 | 9810.40.20 | - - Sistem pendeteksi gas yang bekerja secara otomatis untuk memutus semua sumber gas di kapal, yang termasuk dalam pos tarif 9032.89.39 | - - Gas detection system operated automatically to cut off all gas supply in vessel, which is included in tariff heading 9032.89.39 | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 98.11 | Komponen kapal dari Bab lainnya. | Components of ships of other-Chapter. |  |  |  |  |
+| **98.11** | **Komponen kapal dari Bab lainnya.** | **Components of ships of other-Chapter.** |  |  |  |  |
 | 9811.10.00 | - Dudukan mesin sebagai peredam getaran pada mesin kapal terbuat dari plastik, yang termasuk dalam pos tarif 3926.90.99 | - Engine holder used as vibration damper for vessel's engine, made of plastic, which is included in the tariff heading 3926.90.99 | 0 | - | 11 | - |
 | 9811.20.00 | - Dudukan mesin sebagai peredam getaran pada mesin kapal terbuat dari karet divulkanisasi, yang termasuk dalam pos tarif 4016.99.59 | - Engine holder used as vibration damper for vessel's engine, made of vulcanised rubber, which is included in tariff heading 4016.99.59 | 0 | - | 11 | - |

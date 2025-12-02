@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 14.01 | Bahan nabati dari jenis yang terutama dipakai untuk anyam-anyaman (misalnya, bambu, rotan, buluh, kumbuh, osier, rafia, jerami serealia dibersihkan, dikelantang atau dicelup, dan kulit pohon limau). | Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark). |  |  |  |  |
+| **14.01** | **Bahan nabati dari jenis yang terutama dipakai untuk anyam-anyaman (misalnya, bambu, rotan, buluh, kumbuh, osier, rafia, jerami serealia dibersihkan, dikelantang atau dicelup, dan kulit pohon limau).** | **Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark).** |  |  |  |  |
 | 1401.10.00 | - Bambu | - Bamboos | 5 | - | 11 | - |
 | 1401.20 | - Rotan : | - Rattans : |  |  |  |  |
 | 1401.20.10 | - - Utuh | - - Whole | 0 | - | 11 | - |
@@ -43,7 +43,7 @@ lang:
 | 1401.20.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 | 1401.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 14.04 | Produk nabati tidak dirinci atau termasuk pos lainnya. | Vegetable products not elsewhere specified or included. |  |  |  |  |
+| **14.04** | **Produk nabati tidak dirinci atau termasuk pos lainnya.** | **Vegetable products not elsewhere specified or included.** |  |  |  |  |
 | 1404.20.00 | - Linter kapas | - Cotton linters | 0 | - | 11 | - |
 | 1404.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 1404.90.20 | - - Dari jenis yang digunakan terutama pada penyamakan atau pencelupan | - - Of a kind used primarily in tanning or dyeing | 5 | - | 11 | - |

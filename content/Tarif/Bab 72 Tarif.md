@@ -32,12 +32,12 @@ lang:
 |  |  |  |  |  |  |  |
 |  | SUB-BAB I BAHAN PRIMER; PRODUK DALAM BENTUK BUTIR ATAU BUBUK | SUB-CHAPTER I PRIMARY MATERIALS; PRODUCTS IN GRANULAR OR POWDER FORM |  |  |  |  |
 |  |  |  |  |  |  |  |
-| 72.01 | Besi pig dan besi cermin (spiegeleisen) dalam bentuk pig, blok atau bentuk asal lainnya. | Pig iron and, spiegeleisen in pigs, blocks or other primary forms. |  |  |  |  |
+| **72.01** | **Besi pig dan besi cermin (spiegeleisen) dalam bentuk pig, blok atau bentuk asal lainnya.** | **Pig iron and, spiegeleisen in pigs, blocks or other primary forms.** |  |  |  |  |
 | 7201.10.00 | - Besi pig mengandung fosfor 0,5 % atau kurang menurut beratnya | - Non-alloy pig iron containing by weight 0.5 % or less of phosphorus | 0 | - | 11 | - |
 | 7201.20.00 | - Besi pig bukan paduan mengandung fosfor lebih dari 0,5 % menurut beratnya | - Non-alloy pig iron containing by weight more than 0.5 % of phosphorus | 0 | - | 11 | - |
 | 7201.50.00 | - Besi pig paduan; besi cermin (spiegeleisen) | - Alloy pig iron; spiegeleisen | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.02 | Paduan fero. | Ferro-alloys. |  |  |  |  |
+| **72.02** | **Paduan fero.** | **Ferro-alloys.** |  |  |  |  |
 |  | - Fero-mangan : | - Ferro-manganese : |  |  |  |  |
 | 7202.11.00 | - - Mengandung karbon lebih dari 2 % menurut beratnya | - - Containing by weight more than 2 % of carbon | 0 | - | 11 | - |
 | 7202.19.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -58,11 +58,11 @@ lang:
 | 7202.93.00 | - - Fero-niobium | - - Ferro-niobium | 0 | - | 11 | - |
 | 7202.99.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.03 | Produk fero diperoleh dengan reduksi langsung dari bijih besi dan produk besi spon lainnya, dalam bentuk bongkah, pelet atau semacamnya; besi yang mempunyai kemurnian sekurang-kurangnya 99,94 % menurut beratnya, dalam bentuk bongkah, pelet atau semacamnya. | Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94 %, in lumps, pellets or similar forms. |  |  |  |  |
+| **72.03** | **Produk fero diperoleh dengan reduksi langsung dari bijih besi dan produk besi spon lainnya, dalam bentuk bongkah, pelet atau semacamnya; besi yang mempunyai kemurnian sekurang-kurangnya 99,94 % menurut beratnya, dalam bentuk bongkah, pelet atau semacamnya.** | **Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94 %, in lumps, pellets or similar forms.** |  |  |  |  |
 | 7203.10.00 | - Produk besi yang diperoleh dengan reduksi langsung dari bijih besi | - Ferrous products obtained by direct reduction of iron ore | 0 | - | 11 | - |
 | 7203.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.04 | Sisa dan skrap fero; ingot hasil peleburan kembali skrap besi atau baja. | Ferrous waste and scrap; remelting scrap ingots of iron or steel. |  |  |  |  |
+| **72.04** | **Sisa dan skrap fero; ingot hasil peleburan kembali skrap besi atau baja.** | **Ferrous waste and scrap; remelting scrap ingots of iron or steel.** |  |  |  |  |
 | 7204.10.00 | - Sisa dan skrap dari besi tuang | - Waste and scrap of cast iron | 0 | - | 11 | - |
 |  | - Sisa dan skrap dari baja paduan : | - Waste and scrap of alloy steel : |  |  |  |  |
 | 7204.21.00 | - - Dari baja stainless | - - Of stainless steel | 0 | - | 11 | - |
@@ -73,7 +73,7 @@ lang:
 | 7204.49.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 | 7204.50.00 | - Ingot hasil peleburan kembali skrap | - Remelting scrap ingots | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.05 | Butir dan bubuk, dari besi pig, besi cermin (spiegeleisen), besi atau baja. | Granules and powders, of pig iron, spiegeleisen, iron or steel. |  |  |  |  |
+| **72.05** | **Butir dan bubuk, dari besi pig, besi cermin (spiegeleisen), besi atau baja.** | **Granules and powders, of pig iron, spiegeleisen, iron or steel.** |  |  |  |  |
 | 7205.10.00 | - Butir | - Granules | 0 | - | 11 | - |
 |  | - Bubuk : | - Powders : |  |  |  |  |
 | 7205.21.00 | - - Dari baja paduan | - - Of alloy steel | 0 | - | 11 | - |
@@ -81,13 +81,13 @@ lang:
 |  |  |  |  |  |  |  |
 |  | SUB-BAB IIBESI DAN BAJA BUKAN PADUAN | SUB-CHAPTER IIIRON AND NON-ALLOY STEEL |  |  |  |  |
 |  |  |  |  |  |  |  |
-| 72.06 | Besi dan baja bukan paduan dalam bentuk ingot atau bentuk asal lainnya (tidak termasuk besi dari pos 72.03). | Iron and non-alloy steel in ingots or other primary forms (excluding iron of heading 72.03). |  |  |  |  |
+| **72.06** | **Besi dan baja bukan paduan dalam bentuk ingot atau bentuk asal lainnya (tidak termasuk besi dari pos 72.03).** | **Iron and non-alloy steel in ingots or other primary forms (excluding iron of heading 72.03).** |  |  |  |  |
 | 7206.10 | - Ingot : | - Ingots : |  |  |  |  |
 | 7206.10.10 | - - Mengandung karbon lebih dari 0,6 % menurut beratnya | - - Containing by weight more than 0.6 % of carbon | 0 | - | 11 | - |
 | 7206.10.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 | 7206.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.07 | Produk setengah jadi dari besi atau baja bukan paduan. | Semi-finished products of iron or non-alloy steel. |  |  |  |  |
+| **72.07** | **Produk setengah jadi dari besi atau baja bukan paduan.** | **Semi-finished products of iron or non-alloy steel.** |  |  |  |  |
 |  | - Mengandung karbon kurang dari 0,25 % menurut beratnya : | - Containing by weight less than 0.25 % of carbon : |  |  |  |  |
 | 7207.11.00 | - - Dengan penampang silang empat persegi panjang (termasuk bujur sangkar), ukuran lebarnya kurang dari dua kali ketebalannya | - - Of rectangular (including square) cross-section, the width measuring less than twice the thickness | 0 | - | 11 | - |
 | 7207.12 | - - Lain-lain, dengan penampang silang empat persegi panjang (selain dari bujur sangkar) : | - - Other, of rectangular (other than square) cross-section : |  |  |  |  |
@@ -106,7 +106,7 @@ lang:
 | 7207.20.92 | - - - - Blok yang dibentuk secara kasar dengan ditempa; sheet bar | - - - - Blocks roughly shaped by forging; sheet bars | 0 | - | 11 | - |
 | 7207.20.99 | - - - - Lain-lain | - - - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.08 | Produk canai lantaian dari besi atau baja bukan paduan, dengan lebar 600 mm atau lebih, dicanai panas, tidak dipalut, tidak disepuh atau tidak dilapisi. | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated. |  |  |  |  |
+| **72.08** | **Produk canai lantaian dari besi atau baja bukan paduan, dengan lebar 600 mm atau lebih, dicanai panas, tidak dipalut, tidak disepuh atau tidak dilapisi.** | **Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated.** |  |  |  |  |
 | 7208.10.00 | - Dalam gulungan, tidak dikerjakan lebih lanjut selain dicanai panas, dengan pola relief | - In coils, not further worked than hot-rolled, with patterns in relief | 15 | - | 11 | - |
 |  | - Lain-lain, dalam gulungan, tidak dikerjakan lebih lanjut selain dicanai panas, telah dibersihkan dengan asam : | - Other, in coils, not further worked than hot-rolled, pickled : |  |  |  |  |
 | 7208.25.00 | - - Dengan ketebalan 4,75 mm atau lebih | - - Of a thickness of 4.75 mm or more | 15 | - | 11 | - |
@@ -141,7 +141,7 @@ lang:
 | 7208.90.20 | - - Lain-lain, mengandung karbon kurang dari 0,6 % menurut beratnya dan dengan ketebalan 0,17 mm atau kurang | - - Other, containing by weight less than 0.6 % of carbon and of a thickness of 0.17 mm or less | 15 | - | 11 | - |
 | 7208.90.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.09 | Produk canai lantaian dari besi atau baja bukan paduan, dengan lebar 600 mm atau lebih, dicanai dingin (cold-reduced), tidak dipalut, tidak disepuh atau tidak dilapisi. | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coated. |  |  |  |  |
+| **72.09** | **Produk canai lantaian dari besi atau baja bukan paduan, dengan lebar 600 mm atau lebih, dicanai dingin (cold-reduced), tidak dipalut, tidak disepuh atau tidak dilapisi.** | **Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coated.** |  |  |  |  |
 |  | - Dalam gulungan, tidak dikerjakan lebih lanjut selain dicanai dingin (cold-reduced) : | - In coils, not further worked than cold-rolled (cold-reduced) : |  |  |  |  |
 | 7209.15.00 | - - Dengan ketebalan 3 mm atau lebih | - - Of a thickness of 3 mm or more | 15 | - | 11 | - |
 | 7209.16 | - - Dengan ketebalan melebihi 1 mm tetapi kurang dari 3 mm : | - - Of a thickness exceeding 1 mm but less than 3 mm : |  |  |  |  |
@@ -170,7 +170,7 @@ lang:
 | 7209.90.10 | - - Bergelombang | - - Corrugated | 15 | - | 11 | - |
 | 7209.90.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.10 | Produk canai lantaian dari besi atau baja bukan paduan, dengan lebar 600 mm atau lebih, dipalut, disepuh atau dilapisi. | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated. |  |  |  |  |
+| **72.10** | **Produk canai lantaian dari besi atau baja bukan paduan, dengan lebar 600 mm atau lebih, dipalut, disepuh atau dilapisi.** | **Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated.** |  |  |  |  |
 |  | - Disepuh atau dilapisi dengan timah : | - Plated or coated with tin : |  |  |  |  |
 | 7210.11 | - - Dengan ketebalan 0,5 mm atau lebih : | - - Of a thickness of 0.5 mm or more : |  |  |  |  |
 | 7210.11.10 | - - - Mengandung karbon 0,6 % atau lebih menurut beratnya | - - - Containing by weight 0.6 % or more of carbon | 12,5 | - | 11 | - |
@@ -243,7 +243,7 @@ lang:
 | 7210.90.10 | - - Mengandung karbon kurang dari 0,6 % menurut beratnya dan dengan ketebalan 1,5 mm atau kurang | - - Containing by weight less than 0.6 % of carbon and of a thickness of 1.5 mm or less | 20 | - | 11 | - |
 | 7210.90.90 | - - Lain-lain | - - Other | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.11 | Produk canai lantaian dari besi atau baja bukan paduan, dengan lebar kurang dari 600 mm, tidak dipalut, tidak disepuh atau tidak dilapisi. | Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, not clad, plated or coated. |  |  |  |  |
+| **72.11** | **Produk canai lantaian dari besi atau baja bukan paduan, dengan lebar kurang dari 600 mm, tidak dipalut, tidak disepuh atau tidak dilapisi.** | **Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, not clad, plated or coated.** |  |  |  |  |
 |  | - Tidak dikerjakan lebih lanjut selain dicanai panas : | - Not further worked than hot-rolled : |  |  |  |  |
 | 7211.13 | - - Dicanai keempat sisinya atau dicanai didalam box pass tertutup, dengan lebar melebihi 150 mm dan ketebalan tidak kurang dari 4 mm, tidak dalam gulungan dan tanpa pola relief : | - - Rolled on four faces or in a closed box pass, of a width exceeding 150 mm and a thickness of not less than 4 mm, not in coils and without patterns in relief : |  |  |  |  |
 |  | - - - Mengandung karbon kurang dari 0,6 % menurut beratnya : | - - - Containing by weight less than 0.6 % of carbon : |  |  |  |  |
@@ -296,7 +296,7 @@ lang:
 | 7211.90.91 | - - - Dengan ketebalan 0,17 mm atau kurang | - - - Of a thickness of 0.17 mm or less | 15 | - | 11 | - |
 | 7211.90.99 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.12 | Produk canai lantaian dari besi atau baja bukan paduan, dengan lebar kurang dari 600 mm, dipalut, disepuh atau dilapisi. | Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coated. |  |  |  |  |
+| **72.12** | **Produk canai lantaian dari besi atau baja bukan paduan, dengan lebar kurang dari 600 mm, dipalut, disepuh atau dilapisi.** | **Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coated.** |  |  |  |  |
 | 7212.10 | - Disepuh atau dilapisi dengan timah : | - Plated or coated with tin : |  |  |  |  |
 |  | - - Mengandung karbon kurang dari 0,6 % menurut beratnya : | - - Containing by weight less than 0.6 % of carbon : |  |  |  |  |
 | 7212.10.11 | - - - Simpai dan strip, dengan lebar tidak melebihi 25 mm | - - - Hoop and strip, of a width not exceeding 25 mm | 12,5 | - | 11 | - |
@@ -348,7 +348,7 @@ lang:
 | 7212.60.91 | - - - Simpai dan strip | - - - Hoop and strip | 20 | - | 11 | - |
 | 7212.60.99 | - - - Lain-lain | - - - Other | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.13 | Batang dan batang kecil, dicanai panas, dalam gulungan yang putarannya tidak beraturan, dari besi atau baja bukan paduan. | Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel. |  |  |  |  |
+| **72.13** | **Batang dan batang kecil, dicanai panas, dalam gulungan yang putarannya tidak beraturan, dari besi atau baja bukan paduan.** | **Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel.** |  |  |  |  |
 | 7213.10 | - Mengandung lekukan, rusuk, alur atau deformasi lainnya yang dihasilkan selama proses pencanaian : | - Containing indentations, ribs, grooves or other deformations produced during the rolling process : |  |  |  |  |
 | 7213.10.10 | - - Dengan ukuran diameter penampang silang lingkarannya tidak melebihi 50 mm | - - Of circular cross-section measuring not exceeding 50 mm in diameter | 17,5 | - | 11 | - |
 | 7213.10.90 | - - Lain-lain | - - Other | 17,5 | - | 11 | - |
@@ -364,7 +364,7 @@ lang:
 | 7213.99.20 | - - - Dari jenis yang digunakan untuk penguatan beton (rebar) | - - - Of a kind used for concrete reinforcement (rebars) | 15 | - | 11 | - |
 | 7213.99.90 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.14 | Batang dan batang kecil lainnya dari besi atau baja bukan paduan, tidak dikerjakan lebih lanjut selain ditempa, dicanai panas, ditarik panas atau diekstrusi panas, termasuk yang dipuntir setelah dicanai. | Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling. |  |  |  |  |
+| **72.14** | **Batang dan batang kecil lainnya dari besi atau baja bukan paduan, tidak dikerjakan lebih lanjut selain ditempa, dicanai panas, ditarik panas atau diekstrusi panas, termasuk yang dipuntir setelah dicanai.** | **Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling.** |  |  |  |  |
 | 7214.10 | - Ditempa : | - Forged : |  |  |  |  |
 |  | - - Mengandung karbon kurang dari 0,6 % menurut beratnya : | - - Containing by weight less than 0.6 % of carbon : |  |  |  |  |
 | 7214.10.11 | - - - Dengan penampang silang lingkaran | - - - Of circular cross-section | 15 | - | 11 | - |
@@ -407,7 +407,7 @@ lang:
 | 7214.99.93 | - - - - Mengandung karbon 0,17 % atau lebih tetapi kurang dari 0,46 % dan mangan 1,2 % atau lebih tetapi kurang dari 1,65 % menurut beratnya | - - - - Containing by weight 0.17 % or more but less than 0.46 % of carbon and 1.2 % or more but less than 1.65 % of manganese | 5 | - | 11 | - |
 | 7214.99.99 | - - - - Lain-lain | - - - - Other | 17,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.15 | Batang dan batang kecil lainnya dari besi atau baja bukan paduan. | Other bars and rods of iron or non-alloy steel. |  |  |  |  |
+| **72.15** | **Batang dan batang kecil lainnya dari besi atau baja bukan paduan.** | **Other bars and rods of iron or non-alloy steel.** |  |  |  |  |
 | 7215.10 | - Dari baja free cutting, tidak dikerjakan lebih lanjut selain cold-formed atau cold-finished : | - Of free-cutting steel, not further worked than cold-formed or cold-finished : |  |  |  |  |
 | 7215.10.10 | - - Dengan penampang silang lingkaran | - - Of circular cross-section | 10 | - | 11 | - |
 | 7215.10.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -422,7 +422,7 @@ lang:
 | 7215.90.91 | - - - Dengan penampang silang lingkaran | - - - Of circular cross-section | 15 | - | 11 | - |
 | 7215.90.99 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.16 | Angle, shape dan section dari besi atau baja bukan paduan. | Angles, shapes and sections of iron or non-alloy steel. |  |  |  |  |
+| **72.16** | **Angle, shape dan section dari besi atau baja bukan paduan.** | **Angles, shapes and sections of iron or non-alloy steel.** |  |  |  |  |
 | 7216.10.00 | - U, I atau H section, tidak dikerjakan lebih lanjut selain dicanai panas, ditarik panas atau diekstrusi, dengan tinggi kurang dari 80 mm | - U, I or H sections, not further worked than hot-rolled, hot- drawn or extruded, of a height of less than 80 mm | 20 | - | 11 | - |
 |  | - L atau T section, tidak dikerjakan lebih lanjut selain dicanai panas, ditarik panas atau diekstrusi, dengan tinggi kurang dari 80 mm : | - L or T sections, not further worked than hot-rolled, hot- drawn or extruded, of a height of less than 80 mm : |  |  |  |  |
 | 7216.21 | - - L section : | - - L sections : |  |  |  |  |
@@ -460,7 +460,7 @@ lang:
 | 7216.91.90 | - - - Lain-lain | - - - Other | 20 | - | 11 | - |
 | 7216.99.00 | - - Lain-lain | - - Other | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.17 | Kawat besi atau baja bukan paduan. | Wire of iron or non-alloy steel. |  |  |  |  |
+| **72.17** | **Kawat besi atau baja bukan paduan.** | **Wire of iron or non-alloy steel.** |  |  |  |  |
 | 7217.10 | - Tidak disepuh atau tidak dilapisi, dipoles maupun tidak : | - Not plated or coated, whether or not polished : |  |  |  |  |
 | 7217.10.10 | - - Mengandung karbon kurang dari 0,25 % menurut beratnya | - - Containing by weight less than 0.25 % of carbon | 10 | - | 11 | - |
 |  | - - Mengandung karbon 0,25 % atau lebih tetapi kurang dari 0,6 % menurut beratnya : | - - Containing by weight 0.25 % or more but less than 0.6 % of carbon : |  |  |  |  |
@@ -492,13 +492,13 @@ lang:
 |  |  |  |  |  |  |  |
 |  | SUB-BAB IIIBAJA STAINLESS | SUB-CHAPTER IIISTAINLESS STEEL |  |  |  |  |
 |  |  |  |  |  |  |  |
-| 72.18 | Baja stainless berbentuk ingot atau bentuk asal lainnya; produk setengah jadi dari baja stainless. | Stainless steel in ingots or other primary forms; semi-finished products of stainless steel. |  |  |  |  |
+| **72.18** | **Baja stainless berbentuk ingot atau bentuk asal lainnya; produk setengah jadi dari baja stainless.** | **Stainless steel in ingots or other primary forms; semi-finished products of stainless steel.** |  |  |  |  |
 | 7218.10.00 | - Ingot dan bentuk asal lainnya | - Ingots and other primary forms | 0 | - | 11 | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
 | 7218.91.00 | - - Dengan penampang silang empat persegi panjang (selain bujur sangkar) | - - Of rectangular (other than square) cross-section | 0 | - | 11 | - |
 | 7218.99.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.19 | Produk canai lantaian dari baja stainless, dengan lebar 600 mm atau lebih. | Flat-rolled products of stainless steel, of a width of 600 mm or more. |  |  |  |  |
+| **72.19** | **Produk canai lantaian dari baja stainless, dengan lebar 600 mm atau lebih.** | **Flat-rolled products of stainless steel, of a width of 600 mm or more.** |  |  |  |  |
 |  | - Tidak dikerjakan lebih lanjut selain dicanai panas, dalam gulungan : | - Not further worked than hot-rolled, in coils : |  |  |  |  |
 | 7219.11.00 | - - Dengan ketebalan melebihi 10 mm | - - Of a thickness exceeding 10 mm | 0 | - | 11 | - |
 | 7219.12.00 | - - Dengan ketebalan 4,75 mm atau lebih tetapi tidak melebihi 10 mm | - - Of a thickness of 4.75 mm or more but not exceeding 10 mm | 0 | - | 11 | - |
@@ -517,7 +517,7 @@ lang:
 | 7219.35.00 | - - Dengan ketebalan kurang dari 0,5 mm | - - Of a thickness of less than 0.5 mm | 10 | - | 11 | - |
 | 7219.90.00 | - Lain-lain | - Other | 7,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.20 | Produk canai lantaian dari baja stainless, dengan lebar kurang dari 600 mm. | Flat-rolled products of stainless steel, of a width of less than 600 mm. |  |  |  |  |
+| **72.20** | **Produk canai lantaian dari baja stainless, dengan lebar kurang dari 600 mm.** | **Flat-rolled products of stainless steel, of a width of less than 600 mm.** |  |  |  |  |
 |  | - Tidak dikerjakan lebih lanjut selain dicanai panas : | - Not further worked than hot-rolled : |  |  |  |  |
 | 7220.11 | - - Dengan ketebalan 4,75 mm atau lebih : | - - Of a thickness of 4.75 mm or more : |  |  |  |  |
 | 7220.11.10 | - - - Simpai dan strip, dengan lebar tidak melebihi 400 mm | - - - Hoop and strip, of a width not exceeding 400 mm | 0 | - | 11 | - |
@@ -534,7 +534,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 7221.00.00 | Batang dan batang kecil, dicanai panas, dalam gulungan yang putarannya tidak beraturan, dari baja stainless. | Bars and rods, hot-rolled, in irregularly wound coils, of stainless steel. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.22 | Batang dan batang kecil lainnya dari baja stainless; angle, shape dan section dari baja stainless. | Other bars and rods of stainless steel; angles, shapes and sections of stainless steel. |  |  |  |  |
+| **72.22** | **Batang dan batang kecil lainnya dari baja stainless; angle, shape dan section dari baja stainless.** | **Other bars and rods of stainless steel; angles, shapes and sections of stainless steel.** |  |  |  |  |
 |  | - Batang dan batang kecil, tidak dikerjakan lebih lanjut selain dicanai panas, ditarik panas atau diekstrusi : | - Bars and rods, not further worked than hot-rolled, hot-drawn or extruded : |  |  |  |  |
 | 7222.11.00 | - - Dengan penampang silang lingkaran | - - Of circular cross-section | 5 | - | 11 | - |
 | 7222.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -548,17 +548,17 @@ lang:
 | 7222.40.10 | - - Tidak dikerjakan lebih lanjut selain dicanai panas, ditarik panas atau diekstrusi | - - Not further worked than hot-rolled, hot-drawn or extruded | 7,5 | - | 11 | - |
 | 7222.40.90 | - - Lain-lain | - - Other | 7,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.23 | Kawat dari baja stainless. | Wire of stainless steel. |  |  |  |  |
+| **72.23** | **Kawat dari baja stainless.** | **Wire of stainless steel.** |  |  |  |  |
 | 7223.00.10 | - Dengan penampang silang melebihi 13 mm | - Of cross-section exceeding 13 mm | 5 | - | 11 | - |
 | 7223.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB IV BAJA PADUAN LAINNYA; BATANG DAN BATANG KECIL BOR BERONGGA, DARI BAJA PADUAN ATAU BAJA BUKAN PADUAN | SUB-CHAPTER IV OTHER ALLOY STEEL; HOLLOW DRILL BARS AND RODS, OF ALLOY OR NON- ALLOY STEEL |  |  |  |  |
 |  |  |  |  |  |  |  |
-| 72.24 | Baja paduan lainnya dalam bentuk ingot atau bentuk asal lainnya; produk setengah jadi dari baja paduan lainnya. | Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel. |  |  |  |  |
+| **72.24** | **Baja paduan lainnya dalam bentuk ingot atau bentuk asal lainnya; produk setengah jadi dari baja paduan lainnya.** | **Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel.** |  |  |  |  |
 | 7224.10.00 | - Ingot dan bentuk asal lainnya | - Ingots and other primary forms | 5 | - | 11 | - |
 | 7224.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.25 | Produk canai lantaian dari baja paduan lainnya, dengan lebar 600 mm atau lebih. | Flat-rolled products of other alloy steel, of a width of 600 mm or more. |  |  |  |  |
+| **72.25** | **Produk canai lantaian dari baja paduan lainnya, dengan lebar 600 mm atau lebih.** | **Flat-rolled products of other alloy steel, of a width of 600 mm or more.** |  |  |  |  |
 |  | - Dari baja silikon-listrik : | - Of silicon-electrical steel : |  |  |  |  |
 | 7225.11.00 | - - Grain-oriented | - - Grain-oriented | 0 | - | 11 | - |
 | 7225.19.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -583,7 +583,7 @@ lang:
 | 7225.99.10 | - - - Dari baja high speed | - - - Of high speed steel | 0 | - | 11 | - |
 | 7225.99.90 | - - - Lain-lain | - - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.26 | Produk canai lantaian dari baja paduan lainnya, dengan lebar kurang dari 600 mm. | Flat-rolled products of other alloy steel, of a width of less than 600 mm. |  |  |  |  |
+| **72.26** | **Produk canai lantaian dari baja paduan lainnya, dengan lebar kurang dari 600 mm.** | **Flat-rolled products of other alloy steel, of a width of less than 600 mm.** |  |  |  |  |
 |  | - Dari baja silikon-listrik : | - Of silicon-electrical steel : |  |  |  |  |
 | 7226.11 | - - Grain-oriented : | - - Grain-oriented : |  |  |  |  |
 | 7226.11.10 | - - - Simpai dan strip, dengan lebar tidak melebihi 400 mm | - - - Hoop and strip, of a width not exceeding 400 mm | 0 | - | 11 | - |
@@ -609,14 +609,14 @@ lang:
 | 7226.99.91 | - - - - Disepuh atau dilapisi dengan seng | - - - - Plated or coated with zinc | 5 | - | 11 | - |
 | 7226.99.99 | - - - - Lain-lain | - - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.27 | Batang dan batang kecil, dicanai panas, dalam gulungan yang putarannya tidak beraturan, dari baja paduan lainnya. | Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel. |  |  |  |  |
+| **72.27** | **Batang dan batang kecil, dicanai panas, dalam gulungan yang putarannya tidak beraturan, dari baja paduan lainnya.** | **Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel.** |  |  |  |  |
 | 7227.10.00 | - Dari baja high speed | - Of high speed steel | 5 | - | 11 | - |
 | 7227.20.00 | - Dari baja silikon-mangan | - Of silico-manganese steel | 5 | - | 11 | - |
 | 7227.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 7227.90.10 | - - Mengandung kromium 0,5 % atau lebih menurut beratnya | - - Containing by weight 0.5 % or more of chromium | 5 | - | 11 | - |
 | 7227.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.28 | Batang dan batang kecil lainnya dari baja paduan lainnya; angle, shape, dan section dari baja paduan lainnya; batang dan batang kecil bor berongga, dari baja paduan atau baja bukan paduan. | Other bars and rods of other alloy steel; angles, shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or non-alloy steel. |  |  |  |  |
+| **72.28** | **Batang dan batang kecil lainnya dari baja paduan lainnya; angle, shape, dan section dari baja paduan lainnya; batang dan batang kecil bor berongga, dari baja paduan atau baja bukan paduan.** | **Other bars and rods of other alloy steel; angles, shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or non-alloy steel.** |  |  |  |  |
 | 7228.10 | - Batang dan batang kecil, dari baja high speed : | - Bars and rods, of high speed steel : |  |  |  |  |
 | 7228.10.10 | - - Dengan penampang silang lingkaran | - - Of circular cross-section | 0 | - | 11 | - |
 | 7228.10.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -648,7 +648,7 @@ lang:
 | 7228.80.19 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 7228.80.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 72.29 | Kawat dari baja paduan lainnya. | Wire of other alloy steel. |  |  |  |  |
+| **72.29** | **Kawat dari baja paduan lainnya.** | **Wire of other alloy steel.** |  |  |  |  |
 | 7229.20.00 | - Dari baja silikon-mangan | - Of silico-manganese steel | 10 | - | 11 | - |
 | 7229.90 | - Lain-lain : | - Other : |  |  |  |  |
 |  | - - Dengan penampang silang tidak melebihi 5,5 mm : | - - Of cross-section not exceeding 5.5 mm : |  |  |  |  |

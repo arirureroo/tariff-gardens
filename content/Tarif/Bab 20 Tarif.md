@@ -32,32 +32,32 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 20.01 | Sayuran, buah, kacang dan bagian tanaman lainnya yang dapat dimakan, diolah atau diawetkan dengan cuka atau asam asetat. | Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid. |  |  |  |  |
+| **20.01** | **Sayuran, buah, kacang dan bagian tanaman lainnya yang dapat dimakan, diolah atau diawetkan dengan cuka atau asam asetat.** | **Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid.** |  |  |  |  |
 | 2001.10.00 | - Ketimun dan ketimun acar | - Cucumbers and gherkins | 5 | - | 11 | - |
 | 2001.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 2001.90.10 | - - Bawang bombay | - - Onions | 5 | - | 11 | - |
 | 2001.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 20.02 | Tomat diolah atau diawetkan selain dengan cuka atau asam asetat. | Tomatoes prepared or preserved otherwise than by vinegar or acetic acid. |  |  |  |  |
+| **20.02** | **Tomat diolah atau diawetkan selain dengan cuka atau asam asetat.** | **Tomatoes prepared or preserved otherwise than by vinegar or acetic acid.** |  |  |  |  |
 | 2002.10.00 | - Tomat, utuh atau potongan | - Tomatoes, whole or in pieces | 5 | - | 11 | - |
 | 2002.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 2002.90.10 | - - Pasta tomat | - - Tomato paste | 5 | - | 11 | - |
 | 2002.90.20 | - - Serbuk tomat | - - Tomato powder | 5 | - | 11 | - |
 | 2002.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 20.03 | Jamur dan cendawan tanah, diolah atau diawetkan selain dengan cuka atau asam asetat. | Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid. |  |  |  |  |
+| **20.03** | **Jamur dan cendawan tanah, diolah atau diawetkan selain dengan cuka atau asam asetat.** | **Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid.** |  |  |  |  |
 | 2003.10.00 | - Jamur dari genus Agaricus | - Mushrooms of the genus Agaricus | 5 | - | 11 | - |
 | 2003.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 2003.90.10 | - - Cendawan tanah | - - Truffles | 5 | - | 11 | - |
 | 2003.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 20.04 | Sayuran lainnya yang diolah atau diawetkan selain dengan cuka atau asam asetat, beku, selain produk dari pos 20.06. | Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 20.06. |  |  |  |  |
+| **20.04** | **Sayuran lainnya yang diolah atau diawetkan selain dengan cuka atau asam asetat, beku, selain produk dari pos 20.06.** | **Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 20.06.** |  |  |  |  |
 | 2004.10.00 | - Kentang | - Potatoes | 5 | - | 11 | - |
 | 2004.90 | - Sayuran lainnya dan campuran sayuran : | - Other vegetables and mixtures of vegetables : |  |  |  |  |
 | 2004.90.10 | - - Cocok untuk bayi atau anak-anak | - - Suitable for infants or young children | 5 | - | 11 | - |
 | 2004.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 20.05 | Sayuran lainnya yang diolah atau diawetkan selain dengan cuka atau asam asetat, tidak beku, selain produk dari pos 20.06. | Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 20.06. |  |  |  |  |
+| **20.05** | **Sayuran lainnya yang diolah atau diawetkan selain dengan cuka atau asam asetat, tidak beku, selain produk dari pos 20.06.** | **Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 20.06.** |  |  |  |  |
 | 2005.10 | - Sayuran homogen : | - Homogenised vegetables : |  |  |  |  |
 | 2005.10.20 | - - Cocok untuk bayi atau anak-anak | - - Suitable for infants or young children | 5 | - | 11 | - |
 | 2005.10.30 | - - Cocok untuk keperluan diet | - - Suitable for dietetic purposes | 5 | - | 11 | - |
@@ -85,7 +85,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 2006.00.00 | Sayuran, buah, kacang, kulit buah dan bagian lain dari tanaman, diawetkan dengan gula (dikeringkan, dilapisi atau dikristalisasi). | Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised). | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 20.07 | Selai, jeli buah, marmelade, pure dan pasta dari buah atau kacang, diperoleh dari pemasakan, mengandung tambahan gula atau bahan pemanis lainnya maupun tidak. | Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter. |  |  |  |  |
+| **20.07** | **Selai, jeli buah, marmelade, pure dan pasta dari buah atau kacang, diperoleh dari pemasakan, mengandung tambahan gula atau bahan pemanis lainnya maupun tidak.** | **Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter.** |  |  |  |  |
 | 2007.10.00 | - Olahan homogen | - Homogenised preparations | 5 | - | 11 | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
 | 2007.91.00 | - - Buah jeruk | - - Citrus fruit | 5 | - | 11 | - |
@@ -95,7 +95,7 @@ lang:
 | 2007.99.30 | - - - Pure mangga | - - - Mango purée | 5 | - | 11 | - |
 | 2007.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 20.08 | Buah, kacang dan bagian tanaman lainnya yang dapat dimakan, diolah atau diawetkan secara lain, mengandung tambahan gula atau bahan pemanis lainnya atau alkohol maupun tidak, tidak dirinci atau termasuk pos lainnya. | Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included. |  |  |  |  |
+| **20.08** | **Buah, kacang dan bagian tanaman lainnya yang dapat dimakan, diolah atau diawetkan secara lain, mengandung tambahan gula atau bahan pemanis lainnya atau alkohol maupun tidak, tidak dirinci atau termasuk pos lainnya.** | **Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included.** |  |  |  |  |
 |  | - Kacang, kacang tanah dan kacang lainnya, dicampur maupun tidak : | - Nuts, ground-nuts and other seeds, whether or not mixed together : |  |  |  |  |
 | 2008.11 | - - Kacang tanah : | - - Ground-nuts : |  |  |  |  |
 | 2008.11.10 | - - - Digongseng | - - - Roasted | 5 | - | 11 | - |
@@ -137,7 +137,7 @@ lang:
 | 2008.99.40 | - - - Lain-lain, mengandung tambahan gula atau bahan pemanis lainnya atau alkohol | - - - Other, containing added sugar or other sweetening matter or spirit | 5 | - | 11 | - |
 | 2008.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 20.09 | Jus buah atau buah bertempurung (termasuk grape must dan air kelapa) dan jus sayuran, tidak difermentasi dan tidak mengandung tambahan alkohol, mengandung tambahan gula atau pemanis lainnya maupun tidak. | Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter. |  |  |  |  |
+| **20.09** | **Jus buah atau buah bertempurung (termasuk grape must dan air kelapa) dan jus sayuran, tidak difermentasi dan tidak mengandung tambahan alkohol, mengandung tambahan gula atau pemanis lainnya maupun tidak.** | **Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter.** |  |  |  |  |
 |  | - Jus orange : | - Orange juice : |  |  |  |  |
 | 2009.11.00 | - - Beku | - - Frozen | 5 | - | 11 | - |
 | 2009.12.00 | - - Tidak beku, dengan nilai Brix tidak melebihi 20 | - - Not frozen, of a Brix value not exceeding 20 | 10 | - | 11 | - |

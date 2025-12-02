@@ -34,11 +34,11 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 73.01 | Sheet piling dari besi atau baja, dibor, dilobangi atau dibuat dari rakitan elemen maupun tidak; angle, shape dan section dilas, dari besi atau baja. | Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel. |  |  |  |  |
+| **73.01** | **Sheet piling dari besi atau baja, dibor, dilobangi atau dibuat dari rakitan elemen maupun tidak; angle, shape dan section dilas, dari besi atau baja.** | **Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel.** |  |  |  |  |
 | 7301.10.00 | - Sheet piling | - Sheet piling | 5 | - | 11 | - |
 | 7301.20.00 | - Angle, shape dan section | - Angles, shapes and sections | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.02 | Bahan konstruksi rel kereta api atau trem dari besi atau baja, sebagai berikut : rel, rel simpang dan rel gigi, bilah wesel, sambungan persimpangan, batang kecil wesel dan bagian persimpangan lainnya, bantalan rel (cross-ties), pelat apit, tumpuan, pasak tumpuan, pelat tapak (pelat dasar), jepit rel, pelat alas, ganjal rel dan barang lainnya khusus untuk menyambung atau memasang rel. | Railway or tramway track construction material of iron or steel, the following: rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips, bedplates, ties and other material specialized for jointing or fixing rails. |  |  |  |  |
+| **73.02** | **Bahan konstruksi rel kereta api atau trem dari besi atau baja, sebagai berikut : rel, rel simpang dan rel gigi, bilah wesel, sambungan persimpangan, batang kecil wesel dan bagian persimpangan lainnya, bantalan rel (cross-ties), pelat apit, tumpuan, pasak tumpuan, pelat tapak (pelat dasar), jepit rel, pelat alas, ganjal rel dan barang lainnya khusus untuk menyambung atau memasang rel.** | **Railway or tramway track construction material of iron or steel, the following: rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips, bedplates, ties and other material specialized for jointing or fixing rails.** |  |  |  |  |
 | 7302.10.00 | - Rel | - Rails | 0 | - | 11 | - |
 | 7302.30.00 | - Bilah wesel, sambungan persimpangan, batang kecil wesel dan bagian persimpangan lainnya | - Switch blades, crossing frogs, point rods and other crossing pieces | 5 | - | 11 | - |
 | 7302.40.00 | - Pelat apit dan pelat tapak | - Fish-plates and sole plates | 5 | - | 11 | - |
@@ -46,7 +46,7 @@ lang:
 | 7302.90.10 | - - Bantalan rel (cross-ties) | - - Sleepers (cross-ties) | 5 | - | 11 | - |
 | 7302.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.03 | Pembuluh, pipa dan profil berongga, dari besi tuang. | Tubes, pipes and hollow profiles, of cast iron. |  |  |  |  |
+| **73.03** | **Pembuluh, pipa dan profil berongga, dari besi tuang.** | **Tubes, pipes and hollow profiles, of cast iron.** |  |  |  |  |
 |  | - Pembuluh dan pipa : | - Tubes and pipes : |  |  |  |  |
 | 7303.00.11 | - - Pembuluh dan pipa tanpa sambungan | - - Hubless tubes and pipes | 12,5 | - | 11 | - |
 | 7303.00.19 | - - Lain-lain | - - Other | 12,5 | - | 11 | - |
@@ -54,7 +54,7 @@ lang:
 | 7303.00.91 | - - Dengan diameter luar tidak melebihi 100 mm | - - With an external diameter not exceeding 100 mm | 12,5 | - | 11 | - |
 | 7303.00.99 | - - Lain-lain | - - Other | 12,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.04 | Pembuluh, pipa dan profil berongga, tanpa kampuh, dari besi (selain besi tuang) atau baja. | Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel. |  |  |  |  |
+| **73.04** | **Pembuluh, pipa dan profil berongga, tanpa kampuh, dari besi (selain besi tuang) atau baja.** | **Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel.** |  |  |  |  |
 |  | - Pipa salur dari jenis yang digunakan untuk pipa penyaluran minyak atau gas : | - Line pipe of a kind used for oil or gas pipelines : |  |  |  |  |
 | 7304.11.00 | - - Dari baja stainless | - - Of stainless steel | 5 | - | 11 | - |
 | 7304.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -99,7 +99,7 @@ lang:
 | 7304.90.30 | - - Lain-lain, mempunyai diameter luar kurang dari 140 mm dan mengandung karbon kurang dari 0,45 % menurut beratnya | - - Other, having an external diameter of less than 140 mm and containing less than 0.45 % by weight of carbon | 5 | - | 11 | - |
 | 7304.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.05 | Pembuluh dan pipa lainnya (misalnya, dilas, dikeling, atau disambung semacam itu), mempunyai penampang silang lingkaran, diameter luarnya melebihi 406,4 mm, dari besi atau baja. | Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406.4 mm, of iron or steel. |  |  |  |  |
+| **73.05** | **Pembuluh dan pipa lainnya (misalnya, dilas, dikeling, atau disambung semacam itu), mempunyai penampang silang lingkaran, diameter luarnya melebihi 406,4 mm, dari besi atau baja.** | **Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406.4 mm, of iron or steel.** |  |  |  |  |
 |  | - Pipa salur dari jenis yang digunakan untuk penyaluran minyak atau gas : | - Line pipe of a kind used for oil or gas pipelines : |  |  |  |  |
 | 7305.11.00 | - - Dilas secara longitudinal dengan metode submerged arc welded | - - Longitudinally submerged arc welded | 15 | - | 11 | - |
 | 7305.12 | - - Lain-lain, dilas secara longitudinal : | - - Other, longitudinally welded : |  |  |  |  |
@@ -118,7 +118,7 @@ lang:
 | 7305.39.90 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 | 7305.90.00 | - Lain-lain | - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.06 | Pembuluh, pipa dan profil berongga lainnya (misalnya, kampuh atau dilas terbuka, dikeling atau sambungan semacam itu), dari besi atau baja. | Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel. |  |  |  |  |
+| **73.06** | **Pembuluh, pipa dan profil berongga lainnya (misalnya, kampuh atau dilas terbuka, dikeling atau sambungan semacam itu), dari besi atau baja.** | **Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel.** |  |  |  |  |
 |  | - Pipa salur dari jenis yang digunakan untuk pipa penyaluran minyak atau gas : | - Line pipe of a kind used for oil or gas pipelines : |  |  |  |  |
 | 7306.11 | - - Dilas, dari baja stainless : | - - Welded, of stainless steel : |  |  |  |  |
 | 7306.11.10 | - - - Longitudinally electric resistance welded (ERW) | - - - Longitudinally electric resistance welded (ERW) | 15 | - | 11 | - |
@@ -178,7 +178,7 @@ lang:
 | 7306.90.97 | - - - Lain-lain, dengan diameter dalam lebih dari 12,5 mm, dengan diameter luar kurang dari 140 mm dan mengandung karbon 0,45 % menurut beratnya | - - - Other, with an internal diameter more than 12.5 mm, an external diameter less than 140 mm and containing by weight less than 0.45% of carbon | 15 | - | 11 | - |
 | 7306.90.99 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.07 | Alat kelengkapan pembuluh atau pipa (misalnya, penyambung, siku-siku, selongsong) dari besi atau baja. | Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel. |  |  |  |  |
+| **73.07** | **Alat kelengkapan pembuluh atau pipa (misalnya, penyambung, siku-siku, selongsong) dari besi atau baja.** | **Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel.** |  |  |  |  |
 |  | - Alat kelengkapan besi tuangan : | - Cast fittings : |  |  |  |  |
 | 7307.11 | - - Dari besi tuang yang tidak dapat ditempa : | - - Of non-malleable cast iron : |  |  |  |  |
 | 7307.11.10 | - - - Alat kelengkapan pembuluh atau pipa tanpa sambungan | - - - Hubless tube or pipe fittings | 12,5 | - | 11 | - |
@@ -211,7 +211,7 @@ lang:
 | 7307.99.10 | - - - Mempunyai diameter dalam kurang dari 15 cm | - - - Having an internal diameter of less than 15 cm | 5 | - | 11 | - |
 | 7307.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.08 | Struktur (tidak termasuk bangunan prapabrikasi dari pos 94.06) dan bagian dari struktur (misalnya, jembatan dan bagian jembatan, daun pintu air, menara, tiang kisi-kisi, atap, rangka atap, pintu dan jendela serta rangkanya dan ambang untuk pintu, penutup jendela, langkan pilar dan tiang), dari besi atau baja; pelat, batang kecil, angle, shape, section, pembuluh dan sejenisnya, disiapkan untuk keperluan struktur, dari besi atau baja. | Structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frame-works, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel. |  |  |  |  |
+| **73.08** | **Struktur (tidak termasuk bangunan prapabrikasi dari pos 94.06) dan bagian dari struktur (misalnya, jembatan dan bagian jembatan, daun pintu air, menara, tiang kisi-kisi, atap, rangka atap, pintu dan jendela serta rangkanya dan ambang untuk pintu, penutup jendela, langkan pilar dan tiang), dari besi atau baja; pelat, batang kecil, angle, shape, section, pembuluh dan sejenisnya, disiapkan untuk keperluan struktur, dari besi atau baja.** | **Structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frame-works, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel.** |  |  |  |  |
 | 7308.10 | - Jembatan dan bagian jembatan : | - Bridges and bridge-sections : |  |  |  |  |
 | 7308.10.10 | - - Modular prapabrikasi dari jenis yang disambung dengan konektor gunting | - - Prefabricated modular type joined by shear connectors | 12,5 | - | 11 | - |
 | 7308.10.90 | - - Lain-lain | - - Other | 12,5 | - | 11 | - |
@@ -237,7 +237,7 @@ lang:
 | 7308.90.92 | - - - Pagar pembatas | - - - Guardrails | 12,5 | - | 11 | - |
 | 7308.90.99 | - - - Lain-lain | - - - Other | 12,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.09 | Reservoir, tangki, tong dan tempat penyimpanan semacamnya untuk segala jenis bahan (selain gas dibawah tekanan atau gas dicairkan), dari besi atau baja, dengan kapasitas melebihi 300 liter, dilapis atau diisolasi panas maupun tidak, tetapi tidak dilengkapi dengan perlengkapan mekanik atau termal. | Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment. |  |  |  |  |
+| **73.09** | **Reservoir, tangki, tong dan tempat penyimpanan semacamnya untuk segala jenis bahan (selain gas dibawah tekanan atau gas dicairkan), dari besi atau baja, dengan kapasitas melebihi 300 liter, dilapis atau diisolasi panas maupun tidak, tetapi tidak dilengkapi dengan perlengkapan mekanik atau termal.** | **Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment.** |  |  |  |  |
 |  | - Dari jenis yang digunakan untuk pengangkutan atau pengemasan barang : | - Of a kind used for the conveyance or packing of goods : |  |  |  |  |
 | 7309.00.11 | - - Dilapisi atau diisolasi panas | - - Lined or heat-insulated | 7,5 | - | 11 | - |
 | 7309.00.19 | - - Lain-lain | - - Other | 7,5 | - | 11 | - |
@@ -245,7 +245,7 @@ lang:
 | 7309.00.91 | - - Dilapisi atau diisolasi panas | - - Lined or heat-insulated | 7,5 | - | 11 | - |
 | 7309.00.99 | - - Lain-lain | - - Other | 7,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.10 | Tangki, tahang, drum, kaleng, kotak dan tempat penyimpanan semacam itu, untuk berbagai bahan (selain dari gas dibawah tekanan atau gas dicairkan), dari besi atau baja, dengan kapasitas tidak melebihi 300 liter, dilapisi atau diisolasi panas maupun tidak, tetapi tidak dilengkapi dengan perlengkapan mekanik atau termal. | Tanks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment. |  |  |  |  |
+| **73.10** | **Tangki, tahang, drum, kaleng, kotak dan tempat penyimpanan semacam itu, untuk berbagai bahan (selain dari gas dibawah tekanan atau gas dicairkan), dari besi atau baja, dengan kapasitas tidak melebihi 300 liter, dilapisi atau diisolasi panas maupun tidak, tetapi tidak dilengkapi dengan perlengkapan mekanik atau termal.** | **Tanks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment.** |  |  |  |  |
 | 7310.10 | - Dengan kapasitas 50 liter atau lebih : | - Of a capacity of 50 l or more : |  |  |  |  |
 | 7310.10.10 | - - Dari tinplate | - - Of tinplate | 15 | - | 11 | - |
 |  | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -268,7 +268,7 @@ lang:
 | 7310.29.92 | - - - - Dituang, ditempa atau dicap, dalam keadaan kasar | - - - - Other casting, forging or stamping, in the rough state | 7,5 | - | 11 | - |
 | 7310.29.99 | - - - - Lain-lain | - - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.11 | Kemasan untuk gas dibawah tekanan atau gas dicairkan, dari besi atau baja. | Containers for compressed or liquefied gas, of iron or steel. |  |  |  |  |
+| **73.11** | **Kemasan untuk gas dibawah tekanan atau gas dicairkan, dari besi atau baja.** | **Containers for compressed or liquefied gas, of iron or steel.** |  |  |  |  |
 |  | - Silinder baja tanpa kampuh : | - Seamless steel cylinders : |  |  |  |  |
 | 7311.00.21 | - - Dengan kapasitas 30 liter atau lebih, tetapi kurang dari 110 liter untuk Automotive Compressed Natural Gas (CNG) atau Liquefied Natural Gas (LNG) | - - Of a capacity of 30 l or more, but less than 110 l, for Automotive Compressed Natural Gas (CNG) or Liquefied Natural Gas (LNG) | 5 | - | 11 | - |
 | 7311.00.22 | - - Dengan kapasitas 110 liter atau lebih untuk Automotive Compressed Natural Gas (CNG) atau Liquefied Natural Gas (LNG) | - - Of a capacity of 110 l or more, for Automotive Compressed Natural Gas (CNG) or Liquefied Natural Gas (LNG) | 5 | - | 11 | - |
@@ -284,7 +284,7 @@ lang:
 | 7311.00.94 | - - Dengan kapasitas 30 liter atau lebih, tetapi kurang dari 110 liter | - - Of a capacity of 30 l or more, but less than 110 l | 12,5 | - | 11 | - |
 | 7311.00.99 | - - Lain-lain | - - Other | 12,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.12 | Kawat dipilin, tali, kabel, ban anyaman, sling dan sejenisnya, dari besi atau baja, tidak diisolasi elektrik. | Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated. |  |  |  |  |
+| **73.12** | **Kawat dipilin, tali, kabel, ban anyaman, sling dan sejenisnya, dari besi atau baja, tidak diisolasi elektrik.** | **Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated.** |  |  |  |  |
 | 7312.10 | - Kawat dipilin, tali dan kabel : | - Stranded wire, ropes and cables : |  |  |  |  |
 | 7312.10.10 | - - Locked coil, flattened strand dan non-rotating wire rope | - - Locked coils, flattened strands and non-rotating wire ropes | 15 | - | 11 | - |
 | 7312.10.20 | - - Disepuh atau dilapisi dengan kuningan dan dengan diameter tidak melebihi 3 mm | - - Plated or coated with brass and of a diameter not exceeding 3 mm | 15 | - | 11 | - |
@@ -296,7 +296,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 7313.00.00 | Kawat berduri dari besi atau baja; simpai dipuntir atau kawat pipih tunggal, berduri atau tidak, dan kawat rangkap dipilin secara longgar, dari jenis yang digunakan untuk pagar, dari besi atau baja. | Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel. | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.14 | Kain (termasuk ban tanpa ujung), anyaman kisi, jaring dan pagar, dari kawat besi atau baja; expanded metal dari besi atau baja. | Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel. |  |  |  |  |
+| **73.14** | **Kain (termasuk ban tanpa ujung), anyaman kisi, jaring dan pagar, dari kawat besi atau baja; expanded metal dari besi atau baja.** | **Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel.** |  |  |  |  |
 |  | - Kain tenunan : | - Woven cloth : |  |  |  |  |
 | 7314.12.00 | - - Ban tanpa ujung untuk mesin, dari baja stainless | - - Endless bands for machinery, of stainless steel | 5 | - | 11 | - |
 | 7314.14.00 | - - Kain tenun lainnya, dari baja stainless | - - Other woven cloth, of stainless steel | 5 | - | 11 | - |
@@ -313,7 +313,7 @@ lang:
 | 7314.49.00 | - - Lain-lain | - - Other | 12,5 | - | 11 | - |
 | 7314.50.00 | - Expanded metal | - Expanded metal | 12,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.15 | Rantai dan bagiannya, dari besi atau baja. | Chain and parts thereof, of iron or steel. |  |  |  |  |
+| **73.15** | **Rantai dan bagiannya, dari besi atau baja.** | **Chain and parts thereof, of iron or steel.** |  |  |  |  |
 |  | - Rantai penghubung bersambung dan bagiannya : | - Articulated link chain and parts thereof : |  |  |  |  |
 | 7315.11 | - - Rantai pemutar : | - - Roller chain : |  |  |  |  |
 | 7315.11.10 | - - - Rantai sepeda roda dua atau sepeda motor | - - - Bicycle or motorcycle chain | 20 | - | 11 | - |
@@ -340,13 +340,13 @@ lang:
 | 7316.00.00 | Jangkar, jangkar kecil dan bagiannya, dari besi atau baja. | Anchors, grapnels and parts thereof, of iron or steel. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| 73.17 | Paku, pasak, paku payung, corrugated nail, paku kokot (selain yang dimaksud pos 83.05) dan barang semacam itu, dari besi atau baja, dengan kepala dari bahan lain maupun tidak, tetapi tidak termasuk barang seperti itu dengan kepala dari tembaga. | Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 83.05) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper. |  |  |  |  |
+| **73.17** | **Paku, pasak, paku payung, corrugated nail, paku kokot (selain yang dimaksud pos 83.05) dan barang semacam itu, dari besi atau baja, dengan kepala dari bahan lain maupun tidak, tetapi tidak termasuk barang seperti itu dengan kepala dari tembaga.** | **Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 83.05) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper.** |  |  |  |  |
 | 7317.00.10 | - Paku kawat | - Wire nails | 12,5 | - | 11 | - |
 | 7317.00.20 | - Paku kokot | - Staples | 7,5 | - | 11 | - |
 | 7317.00.30 | - Paku rel untuk bantalan rel; gang nail | - Dog spikes for rail sleepers; gang nails | 5 | - | 11 | - |
 | 7317.00.90 | - Lain-lain | - Other | 12,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.18 | Sekrup, baut, mur, sekrup rel, kait sekrup, paku keling, pasak, pasak kunci, cincin pipih (termasuk cincin pipih pegas) dan barang semacam itu, dari besi atau baja. | Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of iron or steel. |  |  |  |  |
+| **73.18** | **Sekrup, baut, mur, sekrup rel, kait sekrup, paku keling, pasak, pasak kunci, cincin pipih (termasuk cincin pipih pegas) dan barang semacam itu, dari besi atau baja.** | **Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of iron or steel.** |  |  |  |  |
 |  | - Barang berulir : | - Threaded articles : |  |  |  |  |
 | 7318.11.00 | - - Sekrup rel | - - Coach screws | 12,5 | - | 11 | - |
 | 7318.12 | - - Sekrup kayu lainnya : | - - Other wood screws : |  |  |  |  |
@@ -376,7 +376,7 @@ lang:
 | 7318.29.10 | - - - Dengan diameter luar shank tidak melebihi 16 mm | - - - Having a shank of an external diameter not exceeding 16 mm | 12,5 | - | 11 | - |
 | 7318.29.90 | - - - Lain-lain | - - - Other | 12,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.19 | Jarum jahit, jarum rajut, jarum jelujur, jarum kait, jarum bordir dan barang semacam itu, digunakan dengan tangan, dari besi atau baja; pin pengaman dan pin lainnya dari besi atau baja, tidak dirinci atau termasuk dalam pos lainnya. | Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included. |  |  |  |  |
+| **73.19** | **Jarum jahit, jarum rajut, jarum jelujur, jarum kait, jarum bordir dan barang semacam itu, digunakan dengan tangan, dari besi atau baja; pin pengaman dan pin lainnya dari besi atau baja, tidak dirinci atau termasuk dalam pos lainnya.** | **Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included.** |  |  |  |  |
 | 7319.40 | - Pin pengaman dan pin lainnya : | - Safety pins and other pins : |  |  |  |  |
 | 7319.40.10 | - - Pin pengaman | - - Safety pins | 15 | - | 11 | - |
 | 7319.40.20 | - - Pin lainnya | - - Other pins | 15 | - | 11 | - |
@@ -384,7 +384,7 @@ lang:
 | 7319.90.10 | - - Jarum jahit, jarum tisik atau bordir | - - Sewing, darning or embroidery needles | 5 | - | 11 | - |
 | 7319.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.20 | Pegas dan daun untuk pegas, dari besi atau baja. | Springs and leaves for springs, of iron or steel. |  |  |  |  |
+| **73.20** | **Pegas dan daun untuk pegas, dari besi atau baja.** | **Springs and leaves for springs, of iron or steel.** |  |  |  |  |
 | 7320.10 | - Pegas daun dan lembarannya : | - Leaf-springs and leaves therefor : |  |  |  |  |
 |  | - - Cocok digunakan untuk kendaraan bermotor atau mesin dari pos 84.29 atau 84.30 : | - - Suitable for use on motor vehicles or machinery of heading 84.29 or 84.30 : |  |  |  |  |
 | 7320.10.11 | - - - Cocok digunakan untuk kendaraan bermotor dari pos 87.02, 87.03 atau 87.04 | - - - Suitable for use on motor vehicles of heading 87.02, 87.03 or 87.04 | 12,5 | - | 11 | - |
@@ -401,7 +401,7 @@ lang:
 | 7320.90.10 | - - Cocok digunakan untuk kendaraan bermotor | - - Suitable for use on motor vehicles | 20 | - | 11 | - |
 | 7320.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.21 | Tungku, kompor, tungku terbuka, alat masak (termasuk tungku dengan ketel tambahan untuk pemanasan sentral), panggangan besar, anglo, gelang gas, piring pemanas, dan peralatan rumah tangga tanpa listrik semacam itu, dan bagiannya, dari besi atau baja. | Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gas-rings, plate warmers and similar non-electric domestic appliances, and parts thereof, of iron or steel. |  |  |  |  |
+| **73.21** | **Tungku, kompor, tungku terbuka, alat masak (termasuk tungku dengan ketel tambahan untuk pemanasan sentral), panggangan besar, anglo, gelang gas, piring pemanas, dan peralatan rumah tangga tanpa listrik semacam itu, dan bagiannya, dari besi atau baja.** | **Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gas-rings, plate warmers and similar non-electric domestic appliances, and parts thereof, of iron or steel.** |  |  |  |  |
 |  | - Peralatan masak dan piring pemanas : | - Cooking appliances and plate warmers : |  |  |  |  |
 | 7321.11.00 | - - Dengan bahan bakar gas atau gabungan gas dan bahan bakar lainnya | - - For gas fuel or for both gas and other fuels | 20 | - | 11 | - |
 | 7321.12.00 | - - Dengan bahan bakar cair | - - For liquid fuel | 7,5 | - | 11 | - |
@@ -419,13 +419,13 @@ lang:
 | 7321.90.29 | - - - Lain-lain | - - - Other | 7,5 | - | 11 | - |
 | 7321.90.90 | - - Lain-lain | - - Other | 7,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.22 | Radiator untuk pemanasan sentral, tidak dipanaskan dengan listrik, dan bagiannya, dari besi atau baja; pemanas udara dan distributor udara panas (termasuk distributor yang dapat juga mendistribusikan udara segar atau didinginkan), tidak dipanaskan dengan listrik, didalamnya dipasang kipas atau alat tiup yang dijalankan dengan motor, dan bagiannya, dari besi atau baja. | Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot air distributors (including distributors which can also distribute fresh or conditioned air), not electrically heated, incorporating a motor- driven fan or blower, and parts thereof, of iron or steel. |  |  |  |  |
+| **73.22** | **Radiator untuk pemanasan sentral, tidak dipanaskan dengan listrik, dan bagiannya, dari besi atau baja; pemanas udara dan distributor udara panas (termasuk distributor yang dapat juga mendistribusikan udara segar atau didinginkan), tidak dipanaskan dengan listrik, didalamnya dipasang kipas atau alat tiup yang dijalankan dengan motor, dan bagiannya, dari besi atau baja.** | **Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot air distributors (including distributors which can also distribute fresh or conditioned air), not electrically heated, incorporating a motor- driven fan or blower, and parts thereof, of iron or steel.** |  |  |  |  |
 |  | - Radiator dan bagiannya : | - Radiators and parts thereof : |  |  |  |  |
 | 7322.11.00 | - - Dari besi tuang | - - Of cast iron | 5 | - | 11 | - |
 | 7322.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 7322.90.00 | - Lain-lain | - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.23 | Barang untuk penggunaan di atas meja, di dapur atau peralatan rumah tangga lainnya dan bagiannya, dari besi atau baja; wol besi atau wol baja; penggosok pot dan bantalan gosok atau pemoles, sarung tangan dan sejenisnya, dari besi atau baja. | Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel. |  |  |  |  |
+| **73.23** | **Barang untuk penggunaan di atas meja, di dapur atau peralatan rumah tangga lainnya dan bagiannya, dari besi atau baja; wol besi atau wol baja; penggosok pot dan bantalan gosok atau pemoles, sarung tangan dan sejenisnya, dari besi atau baja.** | **Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel.** |  |  |  |  |
 | 7323.10.00 | - Wol besi atau wol baja; penggosok pot dan bantalan gosok atau pemoles, sarung tangan dan sejenisnya | - Iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like | 15 | - | 11 | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
 | 7323.91 | - - Dari besi tuang, tidak dienamel : | - - Of cast iron, not enamelled : |  |  |  |  |
@@ -443,7 +443,7 @@ lang:
 | 7323.99.20 | - - - Asbak | - - - Ashtrays | 15 | - | 11 | - |
 | 7323.99.90 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.24 | Perangkat saniter dan bagiannya, dari besi atau baja. | Sanitary ware and parts thereof, of iron or steel. |  |  |  |  |
+| **73.24** | **Perangkat saniter dan bagiannya, dari besi atau baja.** | **Sanitary ware and parts thereof, of iron or steel.** |  |  |  |  |
 | 7324.10 | - Bak cuci dan wastafel, dari baja stainless : | - Sinks and wash basins, of stainless steel : |  |  |  |  |
 | 7324.10.10 | - - Tempat cuci piring | - - Kitchen sinks | 15 | - | 11 | - |
 | 7324.10.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
@@ -461,7 +461,7 @@ lang:
 | 7324.90.93 | - - - Bagian dari pembuang air kloset atau urinal (tipe tetap) | - - - Parts of flushing water closets or urinals (fixed type) | 15 | - | 11 | - |
 | 7324.90.99 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.25 | Barang tuangan lainnya dari besi atau baja. | Other cast articles of iron or steel. |  |  |  |  |
+| **73.25** | **Barang tuangan lainnya dari besi atau baja.** | **Other cast articles of iron or steel.** |  |  |  |  |
 | 7325.10 | - Dari besi tuang tidak dapat ditempa : | - Of non-malleable cast iron : |  |  |  |  |
 | 7325.10.20 | - - Penutup lubang, grating dan framenya | - - Manhole covers, gratings and frames therefor | 7,5 | - | 11 | - |
 | 7325.10.30 | - - Cerek dan cawan untuk pengumpul lateks | - - Spouts and cups for latex collection | 7,5 | - | 11 | - |
@@ -472,7 +472,7 @@ lang:
 | 7325.99.20 | - - - Penutup lubang, grating dan framenya | - - - Manhole covers, gratings and frames therefor | 7,5 | - | 11 | - |
 | 7325.99.90 | - - - Lain-lain | - - - Other | 7,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 73.26 | Barang lainnya dari besi atau baja. | Other articles of iron or steel. |  |  |  |  |
+| **73.26** | **Barang lainnya dari besi atau baja.** | **Other articles of iron or steel.** |  |  |  |  |
 |  | - Ditempa atau dicap, tetapi tidak dikerjakan lebih lanjut : | - Forged or stamped, but not further worked : |  |  |  |  |
 | 7326.11.00 | - - Bola penggerinda dan barang semacam itu untuk menggiling | - - Grinding balls and similar articles for mills | 5 | - | 11 | - |
 | 7326.19.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |

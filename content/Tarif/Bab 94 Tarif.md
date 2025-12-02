@@ -34,7 +34,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 94.01 | Tempat duduk (selain barang yang dimaksud dari pos 94.02), dapat diubah menjadi tempat tidur maupun tidak, dan bagiannya. | Seats (other than those of heading 94.02), whether or not convertible into beds, and parts thereof. |  |  |  |  |
+| **94.01** | **Tempat duduk (selain barang yang dimaksud dari pos 94.02), dapat diubah menjadi tempat tidur maupun tidak, dan bagiannya.** | **Seats (other than those of heading 94.02), whether or not convertible into beds, and parts thereof.** |  |  |  |  |
 | 9401.10.00 | - Tempat duduk dari jenis yang digunakan untuk kendaraan udara | - Seats of a kind used for aircraft | 0 | - | 11 | - |
 | 9401.20 | - Tempat duduk dari jenis yang digunakan untuk kendaraan bermotor : | - Seats of a kind used for motor vehicles : |  |  |  |  |
 | 9401.20.10 | - - Dari jenis yang digunakan untuk kendaraan dari pos 87.02, 87.03 atau 87.04 | - - Of a kind used for vehicles of heading 87.02, 87.03 or 87.04 | 10 | - | 11 | - |
@@ -72,7 +72,7 @@ lang:
 | 9401.99.91 | - - - - Dari plastik | - - - - Of plastics | 10 | - | 11 | - |
 | 9401.99.99 | - - - - Lain-lain | - - - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 94.02 | Perabotan medis, bedah, perawatan gigi atau kedokteran hewan (misalnya, meja operasi, meja pemeriksaan, tempat tidur rumah sakit dengan alat kelengkapan mekanis, kursi perawatan gigi); kursi cukur dan kursi semacam itu, yang mempunyai penggerak berputar, rebah dan naik turun; bagian dari barang tersebut. | Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists’ chairs); barbers’ chairs and similar chairs, having rotating as well as both reclining and elevating movements; parts of the foregoing articles. |  |  |  |  |
+| **94.02** | **Perabotan medis, bedah, perawatan gigi atau kedokteran hewan (misalnya, meja operasi, meja pemeriksaan, tempat tidur rumah sakit dengan alat kelengkapan mekanis, kursi perawatan gigi); kursi cukur dan kursi semacam itu, yang mempunyai penggerak berputar, rebah dan naik turun; bagian dari barang tersebut.** | **Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists’ chairs); barbers’ chairs and similar chairs, having rotating as well as both reclining and elevating movements; parts of the foregoing articles.** |  |  |  |  |
 | 9402.10 | - Kursi perawatan gigi, kursi cukur atau kursi semacam itu dan bagiannya : | - Dentists’, barbers’ or similar chairs and parts thereof : |  |  |  |  |
 | 9402.10.10 | - - Kursi untuk perawatan gigi dan bagiannya | - - Dentists' chairs and parts thereof | 5 | - | 11 | - |
 | 9402.10.30 | - - Kursi cukur atau kursi semacam itu dan bagiannya | - - Barbers’ or similar chairs and parts thereof | 5 | - | 11 | - |
@@ -86,7 +86,7 @@ lang:
 | 9402.90.19 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 9402.90.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 94.03 | Perabotan lain dan bagiannya. | Other furniture and parts thereof. |  |  |  |  |
+| **94.03** | **Perabotan lain dan bagiannya.** | **Other furniture and parts thereof.** |  |  |  |  |
 | 9403.10.00 | - Perabotan logam dari jenis yang digunakan di kantor | - Metal furniture of a kind used in offices | 10 | - | 11 | - |
 | 9403.20 | - Perabotan logam lainnya : | - Other metal furniture : |  |  |  |  |
 | 9403.20.10 | - - Fume cupboard | - - Fume cupboards | 10 | - | 11 | - |
@@ -113,7 +113,7 @@ lang:
 | 9403.99.10 | - - - Dari subpos 9403.70.10 | - - - Of subheading 9403.70.10 | 15 | - | 11 | - |
 | 9403.99.90 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 94.04 | Alas kasur; barang keperluan tidur dan perabotan semacam itu (misalnya, kasur, selimut tebal, eiderdown, bantalan kursi, pouffe dan bantal) dilengkapi dengan pegas atau diisi atau dilengkapi bagian dalamnya dengan berbagai bahan atau dengan karet atau plastik seluler, disarungi maupun tidak. | Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered. |  |  |  |  |
+| **94.04** | **Alas kasur; barang keperluan tidur dan perabotan semacam itu (misalnya, kasur, selimut tebal, eiderdown, bantalan kursi, pouffe dan bantal) dilengkapi dengan pegas atau diisi atau dilengkapi bagian dalamnya dengan berbagai bahan atau dengan karet atau plastik seluler, disarungi maupun tidak.** | **Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered.** |  |  |  |  |
 | 9404.10.00 | - Alas kasur | - Mattress supports | 10 | - | 11 | - |
 |  | - Kasur : | - Mattresses : |  |  |  |  |
 | 9404.21 | - - Dari karet atau plastik seluler, disarungi maupun tidak : | - - Of cellular rubber or plastics, whether or not covered : |  |  |  |  |
@@ -127,7 +127,7 @@ lang:
 | 9404.40.00 | - Selimut tebal, penutup tempat tidur, eiderdown dan duvet (comforter) | - Quilts, bedspreads, eiderdowns and duvets (comforters) | 15 | - | 11 | - |
 | 9404.90.00 | - Lain-lain | - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 94.05 | Luminer dan alat kelengkapan penerangan termasuk searchlight dan lampu sorot serta bagiannya, tidak dirinci atau termasuk dalam pos lain; tanda iluminasi, papan nama iluminasi dan sejenisnya, mempunyai sumber cahaya permanen, dan bagiannya yang tidak dirinci atau termasuk dalam pos lain. | Luminaires and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included. |  |  |  |  |
+| **94.05** | **Luminer dan alat kelengkapan penerangan termasuk searchlight dan lampu sorot serta bagiannya, tidak dirinci atau termasuk dalam pos lain; tanda iluminasi, papan nama iluminasi dan sejenisnya, mempunyai sumber cahaya permanen, dan bagiannya yang tidak dirinci atau termasuk dalam pos lain.** | **Luminaires and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included.** |  |  |  |  |
 |  | - Lampu gantung bercabang dan alat kelengkapan penerangan lainnya untuk langit-langit atau dinding, tidak termasuk yang dimaksud dari jenis yang digunakan untuk penerangan umum pada ruang terbuka atau jalan : | - Chandeliers and other electric ceiling or wall lighting fittings, excluding those of a kind used for lighting public open spaces or thoroughfares : |  |  |  |  |
 | 9405.11 | - - Dirancang untuk digunakan semata-mata dengan sumber cahaya light-emitting diode (LED) : | - - Designed for use solely with light-emitting diode (LED) light sources : |  |  |  |  |
 | 9405.11.10 | - - - Luminer untuk ruang operasi | - - - Luminaires for operating rooms | 10 | - | 11 | - |
@@ -207,7 +207,7 @@ lang:
 | 9405.99.50 | - - - Lain-lain, dari keramik atau dari logam | - - - Other, of ceramic or of metal | 5 | - | 11 | - |
 | 9405.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 94.06 | Bangunan prapabrikasi. | Prefabricated buildings. |  |  |  |  |
+| **94.06** | **Bangunan prapabrikasi.** | **Prefabricated buildings.** |  |  |  |  |
 | 9406.10 | - Dari kayu : | - Of wood : |  |  |  |  |
 | 9406.10.10 | - - Rumah kaca dilengkapi dengan perlengkapan mekanik atau termal | - - Greenhouses fitted with mechanical or thermal equipment | 12,5 | - | 11 | - |
 | 9406.10.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |

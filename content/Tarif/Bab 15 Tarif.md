@@ -32,22 +32,22 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 15.01 | Lemak babi (termasuk lard) dan lemak unggas, selain dari pos 02.09 atau 15.03. | Pig fat (including lard) and poultry fat, other than that of heading 02.09 or 15.03. |  |  |  |  |
+| **15.01** | **Lemak babi (termasuk lard) dan lemak unggas, selain dari pos 02.09 atau 15.03.** | **Pig fat (including lard) and poultry fat, other than that of heading 02.09 or 15.03.** |  |  |  |  |
 | 1501.10.00 | - Lard | - Lard | 5 | - | 11 | - |
 | 1501.20.00 | - Lemak babi lainnya | - Other pig fat | 5 | - | 11 | - |
 | 1501.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.02 | Lemak dari binatang jenis lembu, biri-biri atau kambing, selain pos 15.03. | Fats of bovine animals, sheep or goats, other than those of heading 15.03. |  |  |  |  |
+| **15.02** | **Lemak dari binatang jenis lembu, biri-biri atau kambing, selain pos 15.03.** | **Fats of bovine animals, sheep or goats, other than those of heading 15.03.** |  |  |  |  |
 | 1502.10.00 | - Tallow | - Tallow | 5 | - | 11 | - |
 | 1502.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 1502.90.10 | - - Dapat dimakan | - - Edible | 5 | - | 11 | - |
 | 1502.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.03 | Lard stearin, minyak lard, oleostearin, minyak oleo dan minyak tallow, tidak diemulsi atau dicampur atau diolah dengan cara lain. | Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared. |  |  |  |  |
+| **15.03** | **Lard stearin, minyak lard, oleostearin, minyak oleo dan minyak tallow, tidak diemulsi atau dicampur atau diolah dengan cara lain.** | **Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared.** |  |  |  |  |
 | 1503.00.10 | - Lard stearin atau oleostearin | - Lard stearin or oleostearin | 5 | - | 11 | - |
 | 1503.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.04 | Lemak dan minyak serta fraksinya, dari ikan atau binatang laut menyusui, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified. |  |  |  |  |
+| **15.04** | **Lemak dan minyak serta fraksinya, dari ikan atau binatang laut menyusui, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia.** | **Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified.** |  |  |  |  |
 | 1504.10 | - Minyak hati ikan dan fraksinya : | - Fish-liver oils and their fractions : |  |  |  |  |
 | 1504.10.20 | - - Fraksi padat | - - Solid fractions | 5 | - | 11 | - |
 | 1504.10.90 | - - Lain-lain | - - Other | 5 | - | 11*) | - |
@@ -56,24 +56,24 @@ lang:
 | 1504.20.90 | - - Lain-lain | - - Other | 5 | - | 11*) | - |
 | 1504.30.00 | - Lemak dan minyak serta fraksinya dari binatang laut menyusui | - Fats and oils and their fractions, of marine mammals | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.05 | Wool grease dan zat lemak turunannya (termasuk lanolin). | Wool grease and fatty substances derived therefrom (including lanolin). |  |  |  |  |
+| **15.05** | **Wool grease dan zat lemak turunannya (termasuk lanolin).** | **Wool grease and fatty substances derived therefrom (including lanolin).** |  |  |  |  |
 | 1505.00.10 | - Lanolin | - Lanolin | 5 | - | 11 | - |
 | 1505.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 | 1506.00.00 | Lemak dan minyak binatang lainnya serta fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | Other animal fats and oils and their fractions, whether or not refined, but not chemically modified. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.07 | Minyak kacang kedelai dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | Soya-bean oil and its fractions, whether or not refined, but not chemically modified. |  |  |  |  |
+| **15.07** | **Minyak kacang kedelai dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia.** | **Soya-bean oil and its fractions, whether or not refined, but not chemically modified.** |  |  |  |  |
 | 1507.10.00 | - Minyak mentah, dihilangkan getahnya maupun tidak | - Crude oil, whether or not degummed | 5 | - | 11 | - |
 | 1507.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 1507.90.10 | - - Fraksi dari minyak kacang kedelai yang tidak dimurnikan | - - Fractions of unrefined soya-bean oil | 5 | - | 11 | - |
 | 1507.90.20 | - - Minyak kacang kedelai dimurnikan, dijernihkan dan dihilangkan baunya (RBD) | - - Refined, bleached and deodorised (RBD) soya-bean oil | 5 | - | 11 | - |
 | 1507.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.08 | Minyak kacang tanah dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | Ground-nut oil and its fractions, whether or not refined, but not chemically modified. |  |  |  |  |
+| **15.08** | **Minyak kacang tanah dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia.** | **Ground-nut oil and its fractions, whether or not refined, but not chemically modified.** |  |  |  |  |
 | 1508.10.00 | - Minyak mentah | - Crude oil | 5 | - | 11 | - |
 | 1508.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.09 | Minyak zaitun dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | Olive oil and its fractions, whether or not refined, but not chemically modified. |  |  |  |  |
+| **15.09** | **Minyak zaitun dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia.** | **Olive oil and its fractions, whether or not refined, but not chemically modified.** |  |  |  |  |
 | 1509.20 | - Minyak zaitun ekstra virgin : | - Extra virgin olive oil : |  |  |  |  |
 | 1509.20.10 | - - Dalam kemasan dengan berat bersih tidak melebihi 30 kg | - - In packings of a net weight not exceeding 30 kg | 5 | - | 11 | - |
 | 1509.20.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -87,14 +87,14 @@ lang:
 | 1509.90.91 | - - - Dalam kemasan dengan berat bersih tidak melebihi 30 kg | - - - In packings of a net weight not exceeding 30 kg | 5 | - | 11 | - |
 | 1509.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.10 | Minyak lain dan fraksinya, diperoleh semata-mata dari zaitun, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia, termasuk campuran dari beberapa minyak atau fraksinya dengan minyak atau fraksi dari pos 15.09. | Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09. |  |  |  |  |
+| **15.10** | **Minyak lain dan fraksinya, diperoleh semata-mata dari zaitun, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia, termasuk campuran dari beberapa minyak atau fraksinya dengan minyak atau fraksi dari pos 15.09.** | **Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09.** |  |  |  |  |
 | 1510.10.00 | - Minyak zaitun pomace mentah | - Crude olive pomace oil | 5 | - | 11 | - |
 | 1510.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 1510.90.10 | - - Minyak mentah | - - Crude oil | 5 | - | 11 | - |
 | 1510.90.20 | - - Fraksi dari minyak yang tidak dimurnikan | - - Fractions of unrefined oil | 5 | - | 11 | - |
 | 1510.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.11 | Minyak kelapa sawit dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | Palm oil and its fractions, whether or not refined, but not chemically modified. |  |  |  |  |
+| **15.11** | **Minyak kelapa sawit dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia.** | **Palm oil and its fractions, whether or not refined, but not chemically modified.** |  |  |  |  |
 | 1511.10.00 | - Minyak mentah | - Crude oil | 0 | *) | 11 | - |
 | 1511.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 1511.90.20 | - - Minyak dimurnikan | - - Refined oil | 5 | *) | 11 | - |
@@ -111,7 +111,7 @@ lang:
 | 1511.90.42 | - - - Lain-lain, dalam kemasan dengan berat bersih tidak melebihi dari 25 kg | - - - Other, with packing of a net weight not exceeding 25 kg | 0 | *) | 11 | - |
 | 1511.90.49 | - - - Lain-lain | - - - Other | 0 | *) | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.12 | Minyak biji bunga matahari, safflower atau biji kapas dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified. |  |  |  |  |
+| **15.12** | **Minyak biji bunga matahari, safflower atau biji kapas dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia.** | **Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified.** |  |  |  |  |
 |  | - Minyak biji bunga matahari atau safflower dan fraksinya : | - Sunflower-seed or safflower oil and fractions thereof : |  |  |  |  |
 | 1512.11.00 | - - Minyak mentah | - - Crude oil | 5 | - | 11 | - |
 | 1512.19 | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -124,7 +124,7 @@ lang:
 | 1512.29.10 | - - - Fraksi dari minyak biji kapas tidak dimurnikan | - - - Fractions of unrefined cotton-seed oil | 5 | - | 11 | - |
 | 1512.29.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.13 | Minyak kelapa (kopra), kernel kelapa sawit atau babassu dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified. |  |  |  |  |
+| **15.13** | **Minyak kelapa (kopra), kernel kelapa sawit atau babassu dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia.** | **Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified.** |  |  |  |  |
 |  | - Minyak kelapa (kopra) dan fraksinya : | - Coconut (copra) oil and its fractions : |  |  |  |  |
 | 1513.11 | - - Minyak mentah : | - - Crude oil : |  |  |  |  |
 | 1513.11.10 | - - - Minyak kelapa virgin | - - - Virgin coconut oil | 5 | - | 11 | - |
@@ -150,7 +150,7 @@ lang:
 | 1513.29.96 | - - - - Lain-lain, minyak kernel kepala sawit | - - - - Other, palm kernel oil | 5 | - | 11 | - |
 | 1513.29.97 | - - - - Lain-lain, dari minyak babassu | - - - - Other, of babassu oil | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.14 | Minyak lobak, colza atau mustar dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified. |  |  |  |  |
+| **15.14** | **Minyak lobak, colza atau mustar dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia.** | **Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified.** |  |  |  |  |
 |  | - Minyak lobak atau colza mengandung asam erusat rendah dan fraksinya : | - Low erucic acid rape or colza oil and its fractions : |  |  |  |  |
 | 1514.11.00 | - - Minyak mentah | - - Crude oil | 5 | - | 11 | - |
 | 1514.19 | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -163,7 +163,7 @@ lang:
 | 1514.99.10 | - - - Fraksi dari minyak tidak dimurnikan | - - - Fractions of unrefined oil | 5 | - | 11 | - |
 | 1514.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.15 | Lemak dan minyak nabati atau mikroba tertentu lainnya (termasuk minyak jojoba) dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | Other fixed vegetable or microbial fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified. |  |  |  |  |
+| **15.15** | **Lemak dan minyak nabati atau mikroba tertentu lainnya (termasuk minyak jojoba) dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia.** | **Other fixed vegetable or microbial fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified.** |  |  |  |  |
 |  | - Minyak biji rami dan fraksinya : | - Linseed oil and its fractions : |  |  |  |  |
 | 1515.11.00 | - - Minyak mentah | - - Crude oil | 0 | - | 11 | - |
 | 1515.19.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -202,7 +202,7 @@ lang:
 | 1515.90.92 | - - - Fraksi dari minyak tidak dimurnikan | - - - Fractions of unrefined oil | 5 | - | 11 | - |
 | 1515.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.16 | Lemak dan minyak hewani, nabati atau mikroba dan fraksinya, sebagian atau seluruhnya dihidrogenasi, diinter-esterifikasi, dire-esterifikasi atau dielaidinisasi, dimurnikan maupun tidak, tetapi tidak diolah lebih lanjut. | Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared. |  |  |  |  |
+| **15.16** | **Lemak dan minyak hewani, nabati atau mikroba dan fraksinya, sebagian atau seluruhnya dihidrogenasi, diinter-esterifikasi, dire-esterifikasi atau dielaidinisasi, dimurnikan maupun tidak, tetapi tidak diolah lebih lanjut.** | **Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared.** |  |  |  |  |
 | 1516.10 | - Minyak dan lemak hewani dan fraksinya : | - Animal fats and oils and their fractions : |  |  |  |  |
 | 1516.10.20 | - - Dire-esterifikasi | - - Re-esterified | 5 | - | 11 | - |
 | 1516.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -259,7 +259,7 @@ lang:
 | 1516.20.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 1516.30.00 | - Lemak dan minyak mikroba dan fraksinya | - Microbial fats and oils and their fractions | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.17 | Margarin; campuran atau olahan yang dapat dimakan dari lemak atau minyak hewani, nabati atau mikroba atau dari fraksi lemak atau minyak yang berbeda dalam bab ini, selain lemak dan minyak yang dapat dimakan atau fraksinya dari pos 15.16. | Margarine; edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, other than edible fats and oils or their fractions of heading 15.16. |  |  |  |  |
+| **15.17** | **Margarin; campuran atau olahan yang dapat dimakan dari lemak atau minyak hewani, nabati atau mikroba atau dari fraksi lemak atau minyak yang berbeda dalam bab ini, selain lemak dan minyak yang dapat dimakan atau fraksinya dari pos 15.16.** | **Margarine; edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, other than edible fats and oils or their fractions of heading 15.16.** |  |  |  |  |
 | 1517.10 | - Margarin, tidak termasuk margarin cair : | - Margarine, excluding liquid margarine : |  |  |  |  |
 | 1517.10.10 | - - Dalam kemasan kedap udara untuk penjualan eceran | - - In airtight container for retail sale | 0 | - | 11 | - |
 | 1517.10.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -284,7 +284,7 @@ lang:
 | 1517.90.80 | - - Campuran atau olahan dari lemak atau minyak hewani atau dari fraksinya | - - Of mixtures or preparations of animal fats or oils or of their fractions | 5 | - | 11 | - |
 | 1517.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.18 | Lemak dan minyak hewani, nabati atau mikroba serta fraksinya, dipanaskan, dioksidasi, didehidrasi, disulfurisasi, ditiup, dipolimerisasi dengan panas dalam hampa udara atau dalam gas inert atau dimodifikasi secara kimia lainnya, tidak termasuk dari pos 15.16; olahan atau campuran yang tidak dapat dimakan dari lemak atau minyak hewani, nabati atau mikroba atau dari fraksi lemak atau minyak yang berbeda dalam Bab ini, tidak dirinci atau termasuk dalam pos lainnya. | Animal, vegetable or microbial fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 15.16; inedible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, not elsewhere specified or included. |  |  |  |  |
+| **15.18** | **Lemak dan minyak hewani, nabati atau mikroba serta fraksinya, dipanaskan, dioksidasi, didehidrasi, disulfurisasi, ditiup, dipolimerisasi dengan panas dalam hampa udara atau dalam gas inert atau dimodifikasi secara kimia lainnya, tidak termasuk dari pos 15.16; olahan atau campuran yang tidak dapat dimakan dari lemak atau minyak hewani, nabati atau mikroba atau dari fraksi lemak atau minyak yang berbeda dalam Bab ini, tidak dirinci atau termasuk dalam pos lainnya.** | **Animal, vegetable or microbial fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 15.16; inedible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, not elsewhere specified or included.** |  |  |  |  |
 |  | - Lemak dan minyak hewani, nabati, atau mikroba serta fraksinya, dipanaskan, dioksidasi, didehidrasi, disulfurisasi, ditiup, dipolimerisasi dengan panas dalam hampa udara atau dalam gas inert atau dimodifikasi secara kimia lainnya, tidak termasuk dari pos 15.16 : | - Animal, vegetable or microbial fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified excluding those of heading 15.16 : |  |  |  |  |
 | 1518.00.12 | - - Lemak dan minyak hewani | - - Animal fats and oils | 5 | - | 11 | - |
 | 1518.00.14 | - - Minyak kacang tanah, kacang kedelai, kelapa sawit atau kelapa | - - Ground-nut, soya-bean, palm or coconut oil | 5 | - | 11 | - |
@@ -304,16 +304,16 @@ lang:
 | 1518.00.60 | - Olahan atau campuran yang tidak dapat dimakan dari lemak atau minyak hewani atau fraksinya dan lemak atau minyak nabati atau fraksinya | - Inedible mixtures or preparations of animal fats or oils or of fractions thereof and vegetable fats or oils or fractions thereof | 5 | - | 11 | - |
 | 1518.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.20 | Gliserol, mentah; air gliserol dan larutan alkali gliserol. | Glycerol, crude; glycerol waters and glycerol lyes. |  |  |  |  |
+| **15.20** | **Gliserol, mentah; air gliserol dan larutan alkali gliserol.** | **Glycerol, crude; glycerol waters and glycerol lyes.** |  |  |  |  |
 | 1520.00.10 | - Gliserol mentah | - Crude glycerol | 5 | - | 11 | - |
 | 1520.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.21 | Malam nabati (selain trigliserida), malam lebah, malam serangga lainnya dan spermaceti, dimurnikan atau diwarnai maupun tidak. | Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured. |  |  |  |  |
+| **15.21** | **Malam nabati (selain trigliserida), malam lebah, malam serangga lainnya dan spermaceti, dimurnikan atau diwarnai maupun tidak.** | **Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured.** |  |  |  |  |
 | 1521.10.00 | - Malam nabati | - Vegetable waxes | 5 | - | 11 | - |
 | 1521.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 1521.90.10 | - - Malam lebah dan malam serangga lainnya | - - Beeswax and other insect waxes | 5 | - | 11 | - |
 | 1521.90.20 | - - Spermaceti | - - Spermaceti | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 15.22 | Degra; residu yang diperoleh dari pengolahan zat berlemak atau malam hewani atau nabati. | Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes. |  |  |  |  |
+| **15.22** | **Degra; residu yang diperoleh dari pengolahan zat berlemak atau malam hewani atau nabati.** | **Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes.** |  |  |  |  |
 | 1522.00.10 | - Degra | - Degras | 5 | - | 11 | - |
 | 1522.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |

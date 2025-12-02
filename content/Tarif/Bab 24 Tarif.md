@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 24.01 | Tembakau belum dipabrikasi; sisa tembakau. | Unmanufactured tobacco; tobacco refuse. |  |  |  |  |
+| **24.01** | **Tembakau belum dipabrikasi; sisa tembakau.** | **Unmanufactured tobacco; tobacco refuse.** |  |  |  |  |
 | 2401.10 | - Tembakau, tidak bertangkai/bertulang daun : | - Tobacco, not stemmed/stripped : |  |  |  |  |
 | 2401.10.10 | - - Jenis Virginia, diolah dengan udara panas | - - Virginia type, flue-cured | 5 | - | 11 | - |
 | 2401.10.20 | - - Jenis Virginia, selain yang diolah dengan udara panas | - - Virginia type, other than flue-cured | 5 | - | 11 | - |
@@ -50,7 +50,7 @@ lang:
 | 2401.30.10 | - - Batang tembakau | - - Tobacco stems | 5 | - | 11 | - |
 | 2401.30.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 24.02 | Cerutu, cheroot, cerutu kecil dan sigaret, dari tembakau atau pengganti tembakau. | Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes. |  |  |  |  |
+| **24.02** | **Cerutu, cheroot, cerutu kecil dan sigaret, dari tembakau atau pengganti tembakau.** | **Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.** |  |  |  |  |
 | 2402.10.00 | - Cerutu, cheroot dan cerutu kecil, mengandung tembakau | - Cigars, cheroots and cigarillos, containing tobacco | 40 | - | 11 | - |
 | 2402.20 | - Sigaret mengandung tembakau : | - Cigarettes containing tobacco : |  |  |  |  |
 | 2402.20.10 | - - Beedies | - - Beedies | 40 | - | 11 | - |
@@ -60,7 +60,7 @@ lang:
 | 2402.90.10 | - - Cerutu, cheroot dan cerutu kecil dari pengganti tembakau | - - Cigars, cheroots and cigarillos of tobacco substitutes | 40 | - | 11 | - |
 | 2402.90.20 | - - Sigaret dari pengganti tembakau | - - Cigarettes of tobacco substitutes | 40 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 24.03 | Tembakau dipabrikasi lainnya dan pengganti tembakau dipabrikasi; tembakau "dihomogenisasi" atau "dibentuk kembali"; ekstrak dan esens tembakau. | Other manufactured tobacco and manufactured tobacco substitutes; “homogenised” or “reconstituted” tobacco; tobacco extracts and essences. |  |  |  |  |
+| **24.03** | **Tembakau dipabrikasi lainnya dan pengganti tembakau dipabrikasi; tembakau "dihomogenisasi" atau "dibentuk kembali"; ekstrak dan esens tembakau.** | **Other manufactured tobacco and manufactured tobacco substitutes; “homogenised” or “reconstituted” tobacco; tobacco extracts and essences.** |  |  |  |  |
 |  | - Tembakau rokok, mengandung pengganti tembakau maupun tidak, dalam perbandingan berapapun : | - Smoking tobacco, whether or not containing tobacco substitutes in any proportion : |  |  |  |  |
 | 2403.11 | - - Tembakau pipa air yang dijelaskan pada Catatan Subpos 1 pada Bab ini : | - - Water pipe tobacco specified in Subheading Note 1 to this Chapter : |  |  |  |  |
 | 2403.11.10 | - - - Dikemas untuk penjualan eceran | - - - Packed for retail sale | 40 | - | 11 | - |
@@ -84,7 +84,7 @@ lang:
 | 2403.99.50 | - - - Tembakau kunyah dan tembakau hisap | - - - Chewing and sucking tobacco | 10 | - | 11 | - |
 | 2403.99.90 | - - - Lain-lain | - - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 24.04 | Produk yang mengandung tembakau, tembakau dibentuk kembali, nikotin, atau pengganti tembakau atau nikotin, dimaksudkan untuk inhalasi tanpa pembakaran; produk mengandung nikotin lainnya yang dimaksudkan untuk memasukkan nikotin ke dalam tubuh manusia. | Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body. |  |  |  |  |
+| **24.04** | **Produk yang mengandung tembakau, tembakau dibentuk kembali, nikotin, atau pengganti tembakau atau nikotin, dimaksudkan untuk inhalasi tanpa pembakaran; produk mengandung nikotin lainnya yang dimaksudkan untuk memasukkan nikotin ke dalam tubuh manusia.** | **Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body.** |  |  |  |  |
 |  | - Produk yang dimaksudkan untuk inhalasi tanpa pembakaran : | - Products intended for inhalation without combustion : |  |  |  |  |
 | 2404.11.00 | - - Mengandung tembakau atau tembakau dibentuk kembali | - - Containing tobacco or reconstituted tobacco | 10 | - | 11 | - |
 | 2404.12 | - - Lain-lain, mengandung nikotin : | - - Other, containing nicotine : |  |  |  |  |

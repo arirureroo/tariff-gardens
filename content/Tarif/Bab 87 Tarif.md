@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 87.01 | Traktor (selain traktor dari pos 87.09). | Tractors (other than tractors of heading 87.09). |  |  |  |  |
+| **87.01** | **Traktor (selain traktor dari pos 87.09).** | **Tractors (other than tractors of heading 87.09).** |  |  |  |  |
 | 8701.10 | - Traktor berporos tunggal : | - Single axle tractors : |  |  |  |  |
 |  | - - Dengan tenaga tidak melebihi 22,5 kW, dioperasikan secara elektrik maupun tidak : | - - Of a power not exceeding 22.5 kW, whether or not electrically operated : |  |  |  |  |
 | 8701.10.11 | - - - Untuk keperluan pertanian | - - - For agricultural use | 35 | - | 11 | - |
@@ -74,7 +74,7 @@ lang:
 | 8701.95.10 | - - - Traktor pertanian | - - - Agricultural tractors | 15 | - | 11 | - |
 | 8701.95.90 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.02 | Kendaraan bermotor untuk pengangkutan sepuluh orang atau lebih, termasuk pengemudi. | Motor vehicles for the transport of ten or more persons, including the driver. |  |  |  |  |
+| **87.02** | **Kendaraan bermotor untuk pengangkutan sepuluh orang atau lebih, termasuk pengemudi.** | **Motor vehicles for the transport of ten or more persons, including the driver.** |  |  |  |  |
 | 8702.10 | - Hanya dengan mesin piston pembakaran dalam nyala kompresi (diesel atau semi diesel) : | - With only compression-ignition internal combustion piston engine (diesel or semi-diesel) : |  |  |  |  |
 |  | - - Completely Knocked Down : | - - Completely Knocked Down : |  |  |  |  |
 | 8702.10.10 | - - - Mobil (termasuk limousin panjang tetapi tidak termasuk coach, bus, minibus atau van) | - - - Motor cars (including stretch limousines but not including coaches, buses, minibuses or vans) | 10 | - | 11 | - |
@@ -194,7 +194,7 @@ lang:
 | 8702.90.80 | - - - Lain-lain, dengan g.v.w. melebihi 24 t | - - - Other, of a g.v.w. exceeding 24 t | 50 | - | 11 | 15*); 20*); 25*); 30*) |
 | 8702.90.90 | - - - Lain-lain | - - - Other | 20 | - | 11 | 15*); 20*); 25*); 30*) |
 |  |  |  |  |  |  |  |
-| 87.03 | Mobil dan kendaraan bermotor lainnya terutama dirancang untuk pengangkutan orang (selain yang dimaksud dari pos 87.02), termasuk station wagon dan mobil balap. | Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 87.02), including station wagons and racing cars. |  |  |  |  |
+| **87.03** | **Mobil dan kendaraan bermotor lainnya terutama dirancang untuk pengangkutan orang (selain yang dimaksud dari pos 87.02), termasuk station wagon dan mobil balap.** | **Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 87.02), including station wagons and racing cars.** |  |  |  |  |
 | 8703.10 | - Kendaraan dirancang secara khusus untuk perjalanan di atas salju; mobil golf dan kendaraan semacam itu : | - Vehicles specially designed for travelling on snow; golf cars and similar vehicles : |  |  |  |  |
 | 8703.10.10 | - - Mobil golf (termasuk golf buggy) dan kendaraan semacam itu | - - Golf cars (including golf buggies) and similar vehicles | 50 | - | 11 | 50*) |
 | 8703.10.90 | - - Lain-lain | - - Other | 50 | - | 11 | 60*) |
@@ -802,7 +802,7 @@ lang:
 | 8703.90.98 | - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi tidak termasuk van) | - - - Other motor cars (including station wagons and sports cars, but not including vans) | 50 | - | 11 | 15*); 20*); 25*); 40*); 50*); 60*); 70*); 95*) |
 | 8703.90.99 | - - - Lain-lain | - - - Other | 50 | - | 11 | 15*); 20*); 25*); 40*); 50*); 60*); 70*); 95*) |
 |  |  |  |  |  |  |  |
-| 87.04 | Kendaraan bermotor untuk pengangkutan barang. | Motor vehicles for the transport of goods. |  |  |  |  |
+| **87.04** | **Kendaraan bermotor untuk pengangkutan barang.** | **Motor vehicles for the transport of goods.** |  |  |  |  |
 | 8704.10 | - Damper dirancang untuk penggunaan bukan di jalan raya : | - Dumpers designed for off-highway use : |  |  |  |  |
 |  | - - Completely Knocked Down : | - - Completely Knocked Down : |  |  |  |  |
 | 8704.10.13 | - - - g.v.w. tidak melebihi 5 t | - - - g.v.w. not exceeding 5 t | 10 | - | 11 | - |
@@ -1134,7 +1134,7 @@ lang:
 | 8704.90.94 | - - - g.v.w. melebihi 20 t tetapi tidak melebihi 45 t | - - - g.v.w. exceeding 20 t but not exceeding 45 t | 50 | - | 11 | - |
 | 8704.90.95 | - - - g.v.w. melebihi 45 t | - - - g.v.w. exceeding 45 t | 50 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.05 | Kendaraan bermotor untuk keperluan khusus, selain yang terutama dirancang untuk pengangkutan orang atau barang (misalnya, lori derek, lori crane, kendaraan pemadam kebakaran, lori pencampur beton, lori penyapu jalan, lori penyemprot, mobil bengkel, mobil unit radiologi). | Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units). |  |  |  |  |
+| **87.05** | **Kendaraan bermotor untuk keperluan khusus, selain yang terutama dirancang untuk pengangkutan orang atau barang (misalnya, lori derek, lori crane, kendaraan pemadam kebakaran, lori pencampur beton, lori penyapu jalan, lori penyemprot, mobil bengkel, mobil unit radiologi).** | **Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units).** |  |  |  |  |
 | 8705.10.00 | - Lori crane | - Crane lorries | 5 | - | 11 | - |
 | 8705.20.00 | - Mobil derek pengebor | - Mobile drilling derricks | 5 | - | 11 | - |
 | 8705.30.00 | - Kendaraan pemadam kebakaran | - Fire fighting vehicles | 5 | - | 11 | - |
@@ -1144,7 +1144,7 @@ lang:
 | 8705.90.60 | - - Kendaraan pembuat bahan peledak | - - Mobile explosive production vehicles | 5 | - | 11 | - |
 | 8705.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.06 | Sasis dilengkapi dengan mesin, untuk kendaraan bermotor dari pos 87.01 sampai dengan 87.05. | Chassis fitted with engines, for the motor vehicles of headings 87.01 to 87.05. |  |  |  |  |
+| **87.06** | **Sasis dilengkapi dengan mesin, untuk kendaraan bermotor dari pos 87.01 sampai dengan 87.05.** | **Chassis fitted with engines, for the motor vehicles of headings 87.01 to 87.05.** |  |  |  |  |
 |  | - Untuk kendaraan dari pos 87.01 : | - For vehicles of heading 87.01 : |  |  |  |  |
 | 8706.00.11 | - - Untuk traktor pertanian dari pos 87.01 | - - For agricultural tractors of heading 87.01 | 15 | - | 11 | - |
 | 8706.00.19 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -1163,7 +1163,7 @@ lang:
 | 8706.00.42 | - - Untuk kendaraan dengan g.v.w. melebihi 24 t | - - For vehicles with g.v.w. exceeding 24 t | 10 | - | 11 | - |
 | 8706.00.50 | - Untuk kendaraan dari pos 87.05 | - For vehicles of heading 87.05 | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.07 | Bodi (termasuk kabin), untuk kendaraan bermotor dari pos 87.01 sampai dengan 87.05. | Bodies (including cabs), for the motor vehicles of headings 87.01 to 87.05. |  |  |  |  |
+| **87.07** | **Bodi (termasuk kabin), untuk kendaraan bermotor dari pos 87.01 sampai dengan 87.05.** | **Bodies (including cabs), for the motor vehicles of headings 87.01 to 87.05.** |  |  |  |  |
 | 8707.10 | - Untuk kendaraan dari pos 87.03 : | - For the vehicles of heading 87.03 : |  |  |  |  |
 | 8707.10.10 | - - Untuk gokart dan mobil golf (termasuk golf buggy) dan kendaraan semacam itu | - - For go-karts and golf cars (including golf buggies) and similar vehicles | 40 | - | 11 | - |
 | 8707.10.20 | - - Untuk ambulan | - - For ambulances | 40 | - | 11 | - |
@@ -1180,7 +1180,7 @@ lang:
 | 8707.90.40 | - - Kabin pengemudi untuk damper yang dirancang untuk penggunaan bukan di jalan raya | - - Driver's cabin for dumpers designed for off-highway use | 10 | - | 11 | - |
 | 8707.90.90 | - - Lain-lain | - - Other | 40 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.08 | Bagian dan aksesori kendaraan bermotor dari pos 87.01 sampai dengan 87.05. | Parts and accessories of the motor vehicles of headings 87.01 to 87.05. |  |  |  |  |
+| **87.08** | **Bagian dan aksesori kendaraan bermotor dari pos 87.01 sampai dengan 87.05.** | **Parts and accessories of the motor vehicles of headings 87.01 to 87.05.** |  |  |  |  |
 | 8708.10 | - Bumper dan bagiannya : | - Bumpers and parts thereof : |  |  |  |  |
 | 8708.10.10 | - - Untuk kendaraan dari pos 87.01 | - - For vehicles of heading 87.01 | 10 | - | 11 | - |
 | 8708.10.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -1350,7 +1350,7 @@ lang:
 | 8708.99.91 | - - - - Tangki bahan bakar tidak dirakit; penyangga mesin | - - - - Unassembled fuel tanks; engine brackets | 10 | - | 11 | - |
 | 8708.99.99 | - - - - Lain-lain | - - - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.09 | Truk kerja, berdaya gerak sendiri, tidak dilengkapi dengan perlengkapan pengangkat atau penanganan, dari tipe yang digunakan di pabrik, gudang, area dok atau bandar udara untuk pengangkutan barang jarak pendek; traktor dari tipe yang digunakan di stasiun kereta api; bagian dari kendaraan tersebut. | Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles. |  |  |  |  |
+| **87.09** | **Truk kerja, berdaya gerak sendiri, tidak dilengkapi dengan perlengkapan pengangkat atau penanganan, dari tipe yang digunakan di pabrik, gudang, area dok atau bandar udara untuk pengangkutan barang jarak pendek; traktor dari tipe yang digunakan di stasiun kereta api; bagian dari kendaraan tersebut.** | **Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles.** |  |  |  |  |
 |  | - Kendaraan : | - Vehicles : |  |  |  |  |
 | 8709.11.00 | - - Elektrik | - - Electrical | 10 | - | 11 | - |
 | 8709.19.00 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -1358,7 +1358,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 8710.00.00 | Tank dan kendaraan tempur lapis baja lainnya, bermotor, dilengkapi dengan senjata maupun tidak, dan bagian dari kendaraan tersebut. | Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles. | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.11 | Sepeda motor (termasuk moped) dan sepeda yang dilengkapi dengan motor bantu, dengan atau tanpa kereta samping; kereta samping. | Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars. |  |  |  |  |
+| **87.11** | **Sepeda motor (termasuk moped) dan sepeda yang dilengkapi dengan motor bantu, dengan atau tanpa kereta samping; kereta samping.** | **Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars.** |  |  |  |  |
 | 8711.10 | - Dengan mesin piston pembakaran dalam dengan kapasitas silinder tidak melebihi 50 cc : | - With internal combustion piston engine of a cylinder capacity not exceeding 50 cc : |  |  |  |  |
 |  | - - Completely Knocked Down : | - - Completely Knocked Down : |  |  |  |  |
 | 8711.10.12 | - - - Moped atau sepeda roda dua bermotor | - - - Mopeds or motorised bicycles | 10 | - | 11 | - |
@@ -1421,17 +1421,17 @@ lang:
 | 8711.90.60 | - - Lain-lain, Completely Knocked Down | - - Other, Completely Knocked Down | 10 | - | 11 | - |
 | 8711.90.90 | - - Lain-lain | - - Other | 40 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.12 | Sepeda roda dua dan sepeda lainnya (termasuk sepeda roda tiga untuk pengantar), tidak bermotor. | Bicycles and other cycles (including delivery tricycles), not motorised. |  |  |  |  |
+| **87.12** | **Sepeda roda dua dan sepeda lainnya (termasuk sepeda roda tiga untuk pengantar), tidak bermotor.** | **Bicycles and other cycles (including delivery tricycles), not motorised.** |  |  |  |  |
 | 8712.00.10 | - Sepeda balap roda dua | - Racing bicycles | 25 | - | 11 | - |
 | 8712.00.20 | - Sepeda roda dua dirancang untuk dikendarai oleh anak-anak | - Bicycles designed to be ridden by children | 25 | - | 11 | - |
 | 8712.00.30 | - Sepeda roda dua lainnya | - Other bicycles | 25 | - | 11 | - |
 | 8712.00.90 | - Lain-lain | - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.13 | Kendaraan untuk orang cacat, bermotor maupun tidak atau digerakkan secara mekanik lainnya. | Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled. |  |  |  |  |
+| **87.13** | **Kendaraan untuk orang cacat, bermotor maupun tidak atau digerakkan secara mekanik lainnya.** | **Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled.** |  |  |  |  |
 | 8713.10.00 | - Tidak digerakkan secara mekanik | - Not mechanically propelled | 0 | - | 11 | - |
 | 8713.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.14 | Bagian dan aksesori kendaraan dari pos 87.11 sampai dengan 87.13. | Parts and accessories of vehicles of headings 87.11 to 87.13. |  |  |  |  |
+| **87.14** | **Bagian dan aksesori kendaraan dari pos 87.11 sampai dengan 87.13.** | **Parts and accessories of vehicles of headings 87.11 to 87.13.** |  |  |  |  |
 | 8714.10 | - Dari sepeda motor (termasuk moped) : | - Of motorcycles (including mopeds) : |  |  |  |  |
 | 8714.10.10 | - - Sadel | - - Saddles | 10 | - | 11 | - |
 | 8714.10.20 | - - Jeruji dan nipple | - - Spokes and nipples | 20 | - | 11 | - |
@@ -1479,7 +1479,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 8715.00.00 | Kereta bayi dan bagiannya. | Baby carriages and parts thereof. | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 87.16 | Trailer dan semi trailer; kendaraan lainnya, tidak digerakkan secara mekanik; bagiannya. | Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof. |  |  |  |  |
+| **87.16** | **Trailer dan semi trailer; kendaraan lainnya, tidak digerakkan secara mekanik; bagiannya.** | **Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof.** |  |  |  |  |
 | 8716.10.00 | - Trailer dan semi-trailer dari tipe karavan, untuk perumahan atau perkemahan | - Trailers and semi-trailers of the caravan type, for housing or camping | 40 | - | 11 | 95*) |
 | 8716.20.00 | - Trailer dan semi-trailer berdaya muat atau berdaya bongkar sendiri untuk keperluan pertanian | - Self-loading or self-unloading trailers and semi-trailers for agricultural purposes | 15 | - | 11 | - |
 |  | - Trailer dan semi-trailer lainnya untuk pengangkutan barang : | - Other trailers and semi-trailers for the transport of goods : |  |  |  |  |

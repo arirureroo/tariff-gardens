@@ -32,20 +32,20 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 32.01 | Ekstrak penyamak dari bahan nabati; tanin dan garamnya, eter, ester serta turunan lainnya. | Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives. |  |  |  |  |
+| **32.01** | **Ekstrak penyamak dari bahan nabati; tanin dan garamnya, eter, ester serta turunan lainnya.** | **Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives.** |  |  |  |  |
 | 3201.10.00 | - Ekstrak quebracho | - Quebracho extract | 5 | - | 11 | - |
 | 3201.20.00 | - Ekstrak wattle | - Wattle extract | 5 | - | 11 | - |
 | 3201.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.02 | Zat penyamak organik sintetik; zat penyamak anorganik; preparat penyamak, mengandung zat penyamak alami maupun tidak; preparat mengandung enzim untuk penyamakan pendahuluan. | Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre-tanning. |  |  |  |  |
+| **32.02** | **Zat penyamak organik sintetik; zat penyamak anorganik; preparat penyamak, mengandung zat penyamak alami maupun tidak; preparat mengandung enzim untuk penyamakan pendahuluan.** | **Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre-tanning.** |  |  |  |  |
 | 3202.10.00 | - Zat penyamak organik sintetis | - Synthetic organic tanning substances | 5 | - | 11 | - |
 | 3202.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.03 | Bahan pewarna dari nabati atau hewani (termasuk ekstrak pencelupan tetapi tidak termasuk animal black), mempunyai rumus kimia tertentu maupun tidak; preparat sebagaimana dirinci dalam Catatan 3 pada Bab ini yang berasal dari bahan pewarna nabati atau hewani. | Colouring matter of vegetable or animal origin (including dyeing extracts but excluding animal black), whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on colouring matter of vegetable or animal origin. |  |  |  |  |
+| **32.03** | **Bahan pewarna dari nabati atau hewani (termasuk ekstrak pencelupan tetapi tidak termasuk animal black), mempunyai rumus kimia tertentu maupun tidak; preparat sebagaimana dirinci dalam Catatan 3 pada Bab ini yang berasal dari bahan pewarna nabati atau hewani.** | **Colouring matter of vegetable or animal origin (including dyeing extracts but excluding animal black), whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on colouring matter of vegetable or animal origin.** |  |  |  |  |
 | 3203.00.10 | - Dari jenis yang digunakan dalam industri makanan atau minuman | - Of a kind used in the food or drink industries | 0 | - | 11 | - |
 | 3203.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.04 | Bahan pewarna organik sintetik, mempunyai rumus kimia tertentu maupun tidak; preparat sebagaimana dirinci dalam Catatan 3 dari Bab ini yang berasal dari bahan pewarna organik sintetik; produk organik sintetik dari jenis yang digunakan sebagai bahan pencemerlang fluoresen atau sebagai luminofor, mempunyai rumus kimia tertentu maupun tidak. | Synthetic organic colouring matter, whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on synthetic organic colouring matter; synthetic organic products of a kind used as fluorescent brightening agents or as luminophores, whether or not chemically defined. |  |  |  |  |
+| **32.04** | **Bahan pewarna organik sintetik, mempunyai rumus kimia tertentu maupun tidak; preparat sebagaimana dirinci dalam Catatan 3 dari Bab ini yang berasal dari bahan pewarna organik sintetik; produk organik sintetik dari jenis yang digunakan sebagai bahan pencemerlang fluoresen atau sebagai luminofor, mempunyai rumus kimia tertentu maupun tidak.** | **Synthetic organic colouring matter, whether or not chemically defined; preparations as specified in Note 3 to this Chapter based on synthetic organic colouring matter; synthetic organic products of a kind used as fluorescent brightening agents or as luminophores, whether or not chemically defined.** |  |  |  |  |
 |  | - Bahan pewarna organik sintetik dan preparat yang dibuat dari padanya sebagaimana dirinci dalam Catatan 3 dalam Bab ini : | - Synthetic organic colouring matter and preparations based thereon as specified in Note 3 to this Chapter : |  |  |  |  |
 | 3204.11 | - - Bahan celup dispersi dan preparat yang dibuat dari padanya : | - - Disperse dyes and preparations based thereon : |  |  |  |  |
 | 3204.11.10 | - - - Mentah | - - - Crude | 0 | - | 11 | - |
@@ -67,7 +67,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 3205.00.00 | Lak warna; preparat yang dibuat dari lak warna sebagaimana dirinci dalam Catatan 3 pada Bab ini. | Colour lakes; preparations as specified in Note 3 to this Chapter based on colour lakes. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.06 | Bahan pewarna lainnya; preparat sebagaimana dirinci dalam Catatan 3 pada Bab ini selain yang disebut dalam pos 32.03, 32.04 atau 32.05; produk anorganik dari jenis yang digunakan sebagai luminofor, mempunyai rumus kimia tertentu maupun tidak. | Other colouring matter; preparations as specified in Note 3 to this Chapter other than those of heading 32.03, 32.04 or 32.05; inorganic products of a kind used as luminophores, whether or not chemically defined. |  |  |  |  |
+| **32.06** | **Bahan pewarna lainnya; preparat sebagaimana dirinci dalam Catatan 3 pada Bab ini selain yang disebut dalam pos 32.03, 32.04 atau 32.05; produk anorganik dari jenis yang digunakan sebagai luminofor, mempunyai rumus kimia tertentu maupun tidak.** | **Other colouring matter; preparations as specified in Note 3 to this Chapter other than those of heading 32.03, 32.04 or 32.05; inorganic products of a kind used as luminophores, whether or not chemically defined.** |  |  |  |  |
 |  | - Pigmen dan preparat yang dibuat dari titanium dioksida : | - Pigments and preparations based on titanium dioxide : |  |  |  |  |
 | 3206.11 | - - Mengandung titanium dioksida 80 % atau lebih menurut beratnya dihitung dari bahan kering : | - - Containing 80 % or more by weight of titanium dioxide calculated on the dry matter : |  |  |  |  |
 | 3206.11.10 | - - - Pigmen | - - - Pigments | 5 | - | 11 | - |
@@ -94,7 +94,7 @@ lang:
 | 3206.50.10 | - - Preparat | - - Preparations | 5 | - | 11 | - |
 | 3206.50.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.07 | Pigmen olahan, bahan opasitas olahan dan pewarna olahan, enamel dan glasir yang dapat divitrifikasi, engobes (slip), pengkilap cair dan preparat semacam itu, dari jenis yang digunakan dalam industri keramik, enamel atau kaca; frit kaca dan kaca lainnya, dalam bentuk bubuk, butiran atau serpih. | Prepared pigments, prepared opacifiers and prepared colours, vitrifiable enamels and glazes, engobes (slips), liquid lustres and similar preparations, of a kind used in the ceramic, enamelling or glass industry; glass frit and other glass, in the form of powder, granules or flakes. |  |  |  |  |
+| **32.07** | **Pigmen olahan, bahan opasitas olahan dan pewarna olahan, enamel dan glasir yang dapat divitrifikasi, engobes (slip), pengkilap cair dan preparat semacam itu, dari jenis yang digunakan dalam industri keramik, enamel atau kaca; frit kaca dan kaca lainnya, dalam bentuk bubuk, butiran atau serpih.** | **Prepared pigments, prepared opacifiers and prepared colours, vitrifiable enamels and glazes, engobes (slips), liquid lustres and similar preparations, of a kind used in the ceramic, enamelling or glass industry; glass frit and other glass, in the form of powder, granules or flakes.** |  |  |  |  |
 | 3207.10.00 | - Pigmen olahan, bahan opasitas olahan, pewarna olahan dan preparat semacam itu | - Prepared pigments, prepared opacifiers, prepared colours and similar preparations | 5 | - | 11 | - |
 | 3207.20 | - Enamel dan glasir yang dapat divitrifikasi, engobes (slip) dan preparat semacam itu : | - Vitrifiable enamels and glazes, engobes (slips) and similar preparations : |  |  |  |  |
 | 3207.20.10 | - - Frit enamel | - - Enamel frits | 5 | - | 11 | - |
@@ -102,7 +102,7 @@ lang:
 | 3207.30.00 | - Pengkilap cair dan preparat semacam itu | - Liquid lustres and similar preparations | 5 | - | 11 | - |
 | 3207.40.00 | - Frit kaca dan kaca lainnya, dalam bentuk bubuk, butiran atau serpih | - Glass frit and other glass, in the form of powder, granules or flakes | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.08 | Cat dan pernis (termasuk enamel dan lak) dibuat dari polimer sintetik atau polimer alam yang dimodifikasi secara kimia, didispersikan atau dilarutkan dalam media bukan air; larutan sebagaimana dinyatakan dalam Catatan 4 pada Bab ini. | Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a non-aqueous medium; solutions as defined in Note 4 to this Chapter. |  |  |  |  |
+| **32.08** | **Cat dan pernis (termasuk enamel dan lak) dibuat dari polimer sintetik atau polimer alam yang dimodifikasi secara kimia, didispersikan atau dilarutkan dalam media bukan air; larutan sebagaimana dinyatakan dalam Catatan 4 pada Bab ini.** | **Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a non-aqueous medium; solutions as defined in Note 4 to this Chapter.** |  |  |  |  |
 | 3208.10 | - Dibuat dari poliester : | - Based on polyesters : |  |  |  |  |
 |  | - - Pernis (termasuk lak) : | - - Varnishes (including lacquers) : |  |  |  |  |
 | 3208.10.11 | - - - Dari jenis yang digunakan dalam kedokteran gigi | - - - Of a kind used in dentistry | 5 | - | 11 | - |
@@ -123,7 +123,7 @@ lang:
 | 3208.90.30 | - - Cat anti lumut dan/atau anti karat untuk lambung kapal | - - Anti-fouling and/or anti-corrosive paints for ships’ hulls | 10 | - | 11 | - |
 | 3208.90.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.09 | Cat dan pernis (termasuk enamel dan lak) dibuat dari polimer sintetik atau polimer alam yang dimodifikasi secara kimia, didispersikan atau dilarutkan dalam media air. | Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium. |  |  |  |  |
+| **32.09** | **Cat dan pernis (termasuk enamel dan lak) dibuat dari polimer sintetik atau polimer alam yang dimodifikasi secara kimia, didispersikan atau dilarutkan dalam media air.** | **Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium.** |  |  |  |  |
 | 3209.10 | - Dibuat dari polimer akrilat atau vinil : | - Based on acrylic or vinyl polymers : |  |  |  |  |
 | 3209.10.10 | - - Pernis (termasuk lak) | - - Varnishes (including lacquers) | 5 | - | 11 | - |
 | 3209.10.40 | - - Cat kulit samak | - - Leather paints | 5 | - | 11 | - |
@@ -131,7 +131,7 @@ lang:
 | 3209.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 3209.90.00 | - Lain-lain | - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.10 | Cat dan pernis lainnya (termasuk enamel, lak dan distemper); pigmen air olahan dari jenis yang digunakan untuk penyempurnaan kulit. | Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather. |  |  |  |  |
+| **32.10** | **Cat dan pernis lainnya (termasuk enamel, lak dan distemper); pigmen air olahan dari jenis yang digunakan untuk penyempurnaan kulit.** | **Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather.** |  |  |  |  |
 | 3210.00.10 | - Pernis (termasuk lak) | - Varnishes (including lacquers) | 5 | - | 11 | - |
 | 3210.00.20 | - Distemper | - Distempers | 10 | - | 11 | - |
 | 3210.00.30 | - Pigmen air olahan dari jenis yang digunakan untuk penyempurnaan kulit samak | - Prepared water pigments of a kind used for finishing leather | 0 | - | 11 | - |
@@ -141,7 +141,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 3211.00.00 | Olahan pengering. | Prepared driers. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.12 | Pigmen (termasuk bubuk dan serpih metalik) didispersikan dalam media bukan air, dalam bentuk cair atau pasta, dari jenis yang digunakan dalam pembuatan cat (termasuk enamel); stamping foil; bahan celup dan pewarna lainnya disiapkan dalam bentuk atau kemasan untuk penjualan eceran. | Pigments (including metallic powders and flakes) dispersed in non-aqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels); stamping foils; dyes and other colouring matter put up in forms or packings for retail sale. |  |  |  |  |
+| **32.12** | **Pigmen (termasuk bubuk dan serpih metalik) didispersikan dalam media bukan air, dalam bentuk cair atau pasta, dari jenis yang digunakan dalam pembuatan cat (termasuk enamel); stamping foil; bahan celup dan pewarna lainnya disiapkan dalam bentuk atau kemasan untuk penjualan eceran.** | **Pigments (including metallic powders and flakes) dispersed in non-aqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels); stamping foils; dyes and other colouring matter put up in forms or packings for retail sale.** |  |  |  |  |
 | 3212.10.00 | - Stamping foil | - Stamping foils | 5 | - | 11 | - |
 | 3212.90 | - Lain-lain : | - Other : |  |  |  |  |
 |  | - - Pigmen (termasuk bubuk dan serpih metalik) didispersikan dalam media bukan air, dalam bentuk cair atau pasta, dari jenis yang digunakan dalam pembuatan cat (termasuk enamel) : | - - Pigments (including metallic powders and flakes) dispersed in non-aqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels) : |  |  |  |  |
@@ -154,15 +154,15 @@ lang:
 | 3212.90.22 | - - - Bahan celup lainnya | - - - Other dyes | 5 | - | 11 | - |
 | 3212.90.29 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.13 | Pewarna untuk seniman, pelajar atau pelukis papan petunjuk, modifying tints, untuk hiburan dan sejenisnya, dalam tablet, tabung, jar, botol, bejana atau dalam bentuk atau kemasan semacam itu. | Artists', students' or signboard painters' colours, modifying tints, amusement colours and the like, in tablets, tubes, jars, bottles, pans or in similar forms or packings. |  |  |  |  |
+| **32.13** | **Pewarna untuk seniman, pelajar atau pelukis papan petunjuk, modifying tints, untuk hiburan dan sejenisnya, dalam tablet, tabung, jar, botol, bejana atau dalam bentuk atau kemasan semacam itu.** | **Artists', students' or signboard painters' colours, modifying tints, amusement colours and the like, in tablets, tubes, jars, bottles, pans or in similar forms or packings.** |  |  |  |  |
 | 3213.10.00 | - Pewarna dalam set | - Colours in sets | 10 | - | 11 | - |
 | 3213.90.00 | - Lain-lain | - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.14 | Dempul kaca, dempul pengenten, semen resin, kompon untuk mendempul dan mastik lainnya; painters' filling; preparat pelapis tidak tahan panas untuk bagian luar, dinding bagian dalam, lantai, langit-langit atau sejenisnya. | Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings; non-refractory surfacing preparations for facades, indoor walls, floors, ceilings or the like. |  |  |  |  |
+| **32.14** | **Dempul kaca, dempul pengenten, semen resin, kompon untuk mendempul dan mastik lainnya; painters' filling; preparat pelapis tidak tahan panas untuk bagian luar, dinding bagian dalam, lantai, langit-langit atau sejenisnya.** | **Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings; non-refractory surfacing preparations for facades, indoor walls, floors, ceilings or the like.** |  |  |  |  |
 | 3214.10.00 | - Dempul kaca, dempul pengenten, semen resin, kompon untuk mendempul dan mastik lainnya; painters' filling | - Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings | 5 | - | 11 | - |
 | 3214.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 32.15 | Tinta cetak, tinta tulis atau tinta gambar dan tinta lainnya, konsentrat atau padat maupun tidak. | Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid. |  |  |  |  |
+| **32.15** | **Tinta cetak, tinta tulis atau tinta gambar dan tinta lainnya, konsentrat atau padat maupun tidak.** | **Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid.** |  |  |  |  |
 |  | - Tinta cetak : | - Printing ink : |  |  |  |  |
 | 3215.11 | - - Hitam : | - - Black : |  |  |  |  |
 | 3215.11.10 | - - - Tinta pelindung ultra-violet | - - - Ultra-violet curable inks | 5 | - | 11 | - |

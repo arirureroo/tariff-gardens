@@ -34,7 +34,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 10.01 | Gandum dan meslin. | Wheat and meslin. |  |  |  |  |
+| **10.01** | **Gandum dan meslin.** | **Wheat and meslin.** |  |  |  |  |
 |  | - Gandum durum : | - Durum wheat : |  |  |  |  |
 | 1001.11.00 | - - Benih | - - Seed | 0 | - | - | - |
 | 1001.19.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -49,19 +49,19 @@ lang:
 | 1001.99.91 | - - - - Meslin | - - - - Meslin | 5 | - | 11 | - |
 | 1001.99.99 | - - - - Lain-lain | - - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 10.02 | Gandum hitam. | Rye. |  |  |  |  |
+| **10.02** | **Gandum hitam.** | **Rye.** |  |  |  |  |
 | 1002.10.00 | - Benih | - Seed | 5 | - | - | - |
 | 1002.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 10.03 | Barli. | Barley. |  |  |  |  |
+| **10.03** | **Barli.** | **Barley.** |  |  |  |  |
 | 1003.10.00 | - Benih | - Seed | 0 | - | - | - |
 | 1003.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 10.04 | Oat. | Oats. |  |  |  |  |
+| **10.04** | **Oat.** | **Oats.** |  |  |  |  |
 | 1004.10.00 | - Benih | - Seed | 5 | - | - | - |
 | 1004.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 10.05 | Jagung. | Maize (corn). |  |  |  |  |
+| **10.05** | **Jagung.** | **Maize (corn).** |  |  |  |  |
 | 1005.10.00 | - Bibit | - Seed | 0 | - | - | - |
 | 1005.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 1005.90.10 | - - Jagung brondong | - - Popcorn | 5 | - | - | - |
@@ -69,7 +69,7 @@ lang:
 | 1005.90.91 | - - - Layak untuk dikonsumsi manusia | - - - Fit for human consumption | 5 | - | - | - |
 | 1005.90.99 | - - - Lain-lain | - - - Other | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 10.06 | Beras. | Rice. |  |  |  |  |
+| **10.06** | **Beras.** | **Rice.** |  |  |  |  |
 | 1006.10 | - Beras berkulit (padi atau gabah) : | - Rice in the husk (paddy or rough) : |  |  |  |  |
 | 1006.10.10 | - - Cocok untuk disemai | - - Suitable for sowing | 450,-/kg | - | - | - |
 | 1006.10.90 | - - Lain-lain | - - Other | 450,-/kg | - | - | - |
@@ -89,11 +89,11 @@ lang:
 | 1006.40.10 | - - Dari jenis yang digunakan untuk makanan hewan | - - Of a kind used for animal feed | 450,-/kg | - | 11 | - |
 | 1006.40.90 | - - Lain-lain | - - Other | 450,-/kg | - | - | - |
 |  |  |  |  |  |  |  |
-| 10.07 | Butiran sorghum. | Grain sorghum. |  |  |  |  |
+| **10.07** | **Butiran sorghum.** | **Grain sorghum.** |  |  |  |  |
 | 1007.10.00 | - Benih | - Seed | 0 | - | - | - |
 | 1007.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 10.08 | Buckwheat, millet dan biji canary; serealia lainnya. | Buckwheat, millet and canary seeds; other cereals. |  |  |  |  |
+| **10.08** | **Buckwheat, millet dan biji canary; serealia lainnya.** | **Buckwheat, millet and canary seeds; other cereals.** |  |  |  |  |
 | 1008.10.00 | - Buckwheat | - Buckwheat | 5 | - | 11 | - |
 |  | - Millet : | - Millet : |  |  |  |  |
 | 1008.21.00 | - - Benih | - - Seed | 5 | - | - | - |

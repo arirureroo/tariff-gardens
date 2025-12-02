@@ -30,7 +30,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 46.01 | Anyaman dan produk semacam itu dari bahan anyaman, strip maupun tidak; bahan anyaman, anyaman dan produk semacam itu dari bahan anyaman, diikat bersama menjadi untaian atau tenunan sejajar, dalam bentuk lembaran, merupakan barang jadi maupun tidak (misalnya, mat, matting, tirai). | Plaits and similar products of plaiting materials, whether or not assembled into strips; plaiting materials, plaits and similar products of plaiting materials, bound together in parallel strands or woven, in sheet form, whether or not being finished articles (for example, mats, matting, screens). |  |  |  |  |
+| **46.01** | **Anyaman dan produk semacam itu dari bahan anyaman, strip maupun tidak; bahan anyaman, anyaman dan produk semacam itu dari bahan anyaman, diikat bersama menjadi untaian atau tenunan sejajar, dalam bentuk lembaran, merupakan barang jadi maupun tidak (misalnya, mat, matting, tirai).** | **Plaits and similar products of plaiting materials, whether or not assembled into strips; plaiting materials, plaits and similar products of plaiting materials, bound together in parallel strands or woven, in sheet form, whether or not being finished articles (for example, mats, matting, screens).** |  |  |  |  |
 |  | - Mat, matting dan tirai dari bahan nabati : | - Mats, matting and screens of vegetable materials : |  |  |  |  |
 | 4601.21.00 | - - Dari bambu | - - Of bamboo | 25 | - | 11 | - |
 | 4601.22.00 | - - Dari rotan | - - Of rattan | 25 | - | 11 | - |
@@ -54,7 +54,7 @@ lang:
 | 4601.99.30 | - - - Kipas dan handscreen, bingkai dan gagangnya, dan bagiannya | - - - Fans and handscreens, frames and handles therefor, and parts thereof | 25 | - | 11 | - |
 | 4601.99.90 | - - - Lain-lain | - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 46.02 | Keranjang, barang anyaman dan barang lainnya, dibuat secara langsung menjadi berbentuk dari bahan anyaman atau dibuat dari barang dalam pos 46.01; barang dari loofah. | Basketwork, wickerwork and other articles, made directly to shape from plaiting materials or made up from goods of heading 46.01; articles of loofah. |  |  |  |  |
+| **46.02** | **Keranjang, barang anyaman dan barang lainnya, dibuat secara langsung menjadi berbentuk dari bahan anyaman atau dibuat dari barang dalam pos 46.01; barang dari loofah.** | **Basketwork, wickerwork and other articles, made directly to shape from plaiting materials or made up from goods of heading 46.01; articles of loofah.** |  |  |  |  |
 |  | - Dari bahan nabati : | - Of vegetable materials : |  |  |  |  |
 | 4602.11 | - - Dari bambu : | - - Of bamboo : |  |  |  |  |
 | 4602.11.10 | - - - Tas untuk bepergian dan koper | - - - Travelling bags and suitcases | 25 | - | 11 | - |

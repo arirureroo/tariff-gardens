@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 40.01 | Karet alam, balata, getah perca, guayule, chicle dan getah alam semacam itu, dalam bentuk asal atau pelat, lembaran atau strip. | Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip. |  |  |  |  |
+| **40.01** | **Karet alam, balata, getah perca, guayule, chicle dan getah alam semacam itu, dalam bentuk asal atau pelat, lembaran atau strip.** | **Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip.** |  |  |  |  |
 | 4001.10 | - Lateks karet alam, dipra-vulkanisasi maupun tidak : | - Natural rubber latex, whether or not pre-vulcanised : |  |  |  |  |
 |  | - - Mengandung amoniak melebihi 0,5 % berdasarkan volume : | - - Exceeding 0.5 % by volume of ammonia content : |  |  |  |  |
 | 4001.10.11 | - - - Lateks karet konsentrat sentrifugal | - - - Centrifuged concentrate rubber latex | 5 | - | 11 | - |
@@ -72,7 +72,7 @@ lang:
 | 4001.30.20 | - - Dalam bentuk asal | - - In primary forms | 5 | - | 11 | - |
 | 4001.30.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.02 | Karet sintetik dan factice diperoleh dari minyak, dalam bentuk asal atau pelat, lembaran atau strip; campuran produk dari pos 40.01 dengan produk apapun dari pos ini, dalam bentuk asal atau pelat, lembaran atau strip. | Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of any product of heading 40.01 with any product of this heading, in primary forms or in plates, sheets or strip. |  |  |  |  |
+| **40.02** | **Karet sintetik dan factice diperoleh dari minyak, dalam bentuk asal atau pelat, lembaran atau strip; campuran produk dari pos 40.01 dengan produk apapun dari pos ini, dalam bentuk asal atau pelat, lembaran atau strip.** | **Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of any product of heading 40.01 with any product of this heading, in primary forms or in plates, sheets or strip.** |  |  |  |  |
 |  | - Styrene butadiene rubber (SBR); carboxylated styrene-butadiene rubber (XSBR) : | - Styrene-butadiene rubber (SBR); carboxylated styrene-butadiene rubber (XSBR) : |  |  |  |  |
 | 4002.11.00 | - - Lateks | - - Latex | 5 | - | 11 | - |
 | 4002.19 | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -118,7 +118,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 4004.00.00 | Sisa, reja dan skrap karet (selain karet keras) dan bubuk serta butir yang diperoleh daripadanya. | Waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.05 | Karet campuran, tidak divulkanisasi, dalam bentuk asal atau pelat, lembaran atau strip. | Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip. |  |  |  |  |
+| **40.05** | **Karet campuran, tidak divulkanisasi, dalam bentuk asal atau pelat, lembaran atau strip.** | **Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip.** |  |  |  |  |
 | 4005.10 | - Dikompon dengan carbon black atau silika : | - Compounded with carbon black or silica : |  |  |  |  |
 | 4005.10.10 | - - Dari jenis getah alam | - - Of natural gums | 5 | - | 11 | - |
 | 4005.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -132,7 +132,7 @@ lang:
 | 4005.99.20 | - - - Karet alam dikompon dengan zat selain karbon atau silika | - - - Natural rubber compounded with substances other than carbon or silica | 5 | - | 11 | - |
 | 4005.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.06 | Bentuk lainnya (misalnya, bentuk batang kecil, pembuluh dan profil) dan barang (misalnya, cakram dan cincin), dari karet tidak divulkanisasi. | Other forms (for example, rods, tubes and profile shapes) and articles (for example, discs and rings), of unvulcanised rubber. |  |  |  |  |
+| **40.06** | **Bentuk lainnya (misalnya, bentuk batang kecil, pembuluh dan profil) dan barang (misalnya, cakram dan cincin), dari karet tidak divulkanisasi.** | **Other forms (for example, rods, tubes and profile shapes) and articles (for example, discs and rings), of unvulcanised rubber.** |  |  |  |  |
 | 4006.10.00 | - Strip "camel-back" untuk menelapaki ban karet | - “Camel-back” strips for retreading rubber tyres | 5 | - | 11 | - |
 | 4006.90 | - Lain-lain : | - Other : |  |  |  |  |
 |  | - - Dari jenis karet alam : | - - Of natural gums : |  |  |  |  |
@@ -142,7 +142,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 4007.00.00 | Benang dan tali karet divulkanisasi. | Vulcanised rubber thread and cord. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.08 | Bentuk pelat, lembaran, strip, batang kecil dan profil, dari karet divulkanisasi selain karet keras. | Plates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber. |  |  |  |  |
+| **40.08** | **Bentuk pelat, lembaran, strip, batang kecil dan profil, dari karet divulkanisasi selain karet keras.** | **Plates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber.** |  |  |  |  |
 |  | - Dari karet seluler : | - Of cellular rubber : |  |  |  |  |
 | 4008.11 | - - Pelat, lembaran dan strip : | - - Plates, sheets and strip : |  |  |  |  |
 | 4008.11.10 | - - - Dengan ketebalan melebihi 5 mm, dilapisi dengan garis dari bahan tekstil pada satu sisinya | - - - Exceeding 5 mm in thickness, lined with textile fabric on one side | 5 | - | 11 | - |
@@ -158,7 +158,7 @@ lang:
 | 4008.21.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 4008.29.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.09 | Pembuluh, pipa dan selang dari karet divulkanisasi selain karet keras, dengan atau tanpa alat kelengkapannya (misalnya, penghubung, siku, flensa). | Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges). |  |  |  |  |
+| **40.09** | **Pembuluh, pipa dan selang dari karet divulkanisasi selain karet keras, dengan atau tanpa alat kelengkapannya (misalnya, penghubung, siku, flensa).** | **Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges).** |  |  |  |  |
 |  | - Tidak diperkuat atau dikombinasi secara lain dengan bahan lain : | - Not reinforced or otherwise combined with other materials : |  |  |  |  |
 | 4009.11.00 | - - Tanpa alat kelengkapan | - - Without fittings | 5 | - | 11 | - |
 | 4009.12 | - - Dengan alat kelengkapan : | - - With fittings : |  |  |  |  |
@@ -189,7 +189,7 @@ lang:
 | 4009.42.20 | - - - Selang karet dari jenis yang digunakan untuk kompor gas | - - - Rubber hose of a kind used for gas stove | 5 | - | 11 | - |
 | 4009.42.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.10 | Ban atau belting pengangkut atau penggerak dari karet divulkanisasi. | Conveyor or transmission belts or belting, of vulcanised rubber. |  |  |  |  |
+| **40.10** | **Ban atau belting pengangkut atau penggerak dari karet divulkanisasi.** | **Conveyor or transmission belts or belting, of vulcanised rubber.** |  |  |  |  |
 |  | - Ban atau belting pengangkut : | - Conveyor belts or belting : |  |  |  |  |
 | 4010.11.00 | - - Diperkuat hanya dengan logam | - - Reinforced only with metal | 5 | - | 11 | - |
 | 4010.12.00 | - - Diperkuat hanya dengan bahan tekstil | - - Reinforced only with textile materials | 5 | - | 11 | - |
@@ -203,7 +203,7 @@ lang:
 | 4010.36.00 | - - Ban synchronous tanpa ujung, dengan keliling lingkaran luar melebihi 150 cm tetapi tidak melebihi 198 cm | - - Endless synchronous belts, of an outside circumference exceeding 150 cm but not exceeding 198 cm | 5 | - | 11 | - |
 | 4010.39.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.11 | Ban bertekanan, baru, dari karet. | New pneumatic tyres, of rubber. |  |  |  |  |
+| **40.11** | **Ban bertekanan, baru, dari karet.** | **New pneumatic tyres, of rubber.** |  |  |  |  |
 | 4011.10.00 | - Dari jenis yang digunakan pada kendaraan bermotor (termasuk station wagon dan mobil balap) | - Of a kind used on motor cars (including station wagons and racing cars) | 15 | - | 11 | - |
 | 4011.20 | - Dari jenis yang digunakan pada bus atau lori : | - Of a kind used on buses or lorries : |  |  |  |  |
 |  | - - Dengan lebar tidak melebihi 450 mm : | - - Of a width not exceeding 450 mm : |  |  |  |  |
@@ -229,7 +229,7 @@ lang:
 | 4011.90.20 | - - Dari jenis yang digunakan pada mesin dari pos 84.29 atau 84.30 | - - Of a kind used on machinery of heading 84.29 or 84.30 | 15 | - | 11 | - |
 | 4011.90.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.12 | Ban bertekanan, bekas atau ditelapaki ulang, dari karet; ban padat atau bantalan, telapak ban dan penutup ban dari karet. | Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber. |  |  |  |  |
+| **40.12** | **Ban bertekanan, bekas atau ditelapaki ulang, dari karet; ban padat atau bantalan, telapak ban dan penutup ban dari karet.** | **Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber.** |  |  |  |  |
 |  | - Ban ditelapaki ulang : | - Retreaded tyres : |  |  |  |  |
 | 4012.11.00 | - - Dari jenis yang digunakan pada kendaraan bermotor (termasuk station wagon dan mobil balap) | - - Of a kind used on motor cars (including station wagons and racing cars) | 15 | - | 11 | - |
 | 4012.12 | - - Dari jenis yang digunakan pada bus atau lori : | - - Of a kind used on buses or lorries : |  |  |  |  |
@@ -273,7 +273,7 @@ lang:
 | 4012.90.80 | - - Penutup ban | - - Tyre flaps | 15 | - | 11 | - |
 | 4012.90.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.13 | Ban dalam, dari karet. | Inner tubes, of rubber. |  |  |  |  |
+| **40.13** | **Ban dalam, dari karet.** | **Inner tubes, of rubber.** |  |  |  |  |
 | 4013.10 | - Dari jenis yang digunakan pada kendaraan bermotor (termasuk station wagon dan mobil balap), bus atau lori : | - Of a kind used on motor cars (including station wagons and racing cars), buses or lorries : |  |  |  |  |
 |  | - - Dari jenis yang digunakan pada kendaraan bermotor (termasuk station wagon dan mobil balap) : | - - Of a kind used on motor cars (including station wagons and racing cars) : |  |  |  |  |
 | 4013.10.11 | - - - Cocok dipasang pada ban dengan lebar tidak melebihi 450 mm | - - - Suitable for fitting to tyres of a width not exceeding 450 mm | 15 | - | 11 | - |
@@ -295,7 +295,7 @@ lang:
 | 4013.90.91 | - - - Cocok dipasang pada ban dengan lebar tidak melebihi 450 mm | - - - Suitable for fitting to tyres of a width not exceeding 450 mm | 15 | - | 11 | - |
 | 4013.90.99 | - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm | - - - Suitable for fitting to tyres of a width exceeding 450 mm | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.14 | Barang higienis atau farmasi (termasuk dot), dari karet divulkanisasi selain karet keras, dengan atau tanpa alat kelengkapan dari karet keras. | Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber. |  |  |  |  |
+| **40.14** | **Barang higienis atau farmasi (termasuk dot), dari karet divulkanisasi selain karet keras, dengan atau tanpa alat kelengkapan dari karet keras.** | **Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber.** |  |  |  |  |
 | 4014.10.00 | - Kondom | - Sheath contraceptives | 10 | - | 11 | - |
 | 4014.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 4014.90.10 | - - Dot untuk botol minuman dan semacamnya | - - Teats for feeding bottles and similar articles | 10 | - | 11 | - |
@@ -303,7 +303,7 @@ lang:
 | 4014.90.50 | - - Finger stalls | - - Finger stalls | 10 | - | 11 | - |
 | 4014.90.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.15 | Pakaian dan aksesori pakaian (termasuk sarung tangan, mitten dan mitt), untuk segala keperluan, dari karet divulkanisasi selain karet keras. | Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber. |  |  |  |  |
+| **40.15** | **Pakaian dan aksesori pakaian (termasuk sarung tangan, mitten dan mitt), untuk segala keperluan, dari karet divulkanisasi selain karet keras.** | **Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber.** |  |  |  |  |
 |  | - Sarung tangan, mitten dan mitt : | - Gloves, mittens and mitts : |  |  |  |  |
 | 4015.12 | - - Dari jenis yang digunakan untuk tujuan medis, bedah, kedokteran gigi atau kedokteran hewan : | - - Of a kind used for medical, surgical, dental or veterinary purposes : |  |  |  |  |
 | 4015.12.10 | - - - Dari karet alam divulkanisasi | - - - Of vulcanised natural rubber | 10 | - | 11 | - |
@@ -316,7 +316,7 @@ lang:
 | 4015.90.20 | - - Pakaian selam (wet suit) | - - Divers' suits (wet suits) | 10 | - | 11 | - |
 | 4015.90.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.16 | Barang lain dari karet divulkanisasi selain karet keras. | Other articles of vulcanised rubber other than hard rubber. |  |  |  |  |
+| **40.16** | **Barang lain dari karet divulkanisasi selain karet keras.** | **Other articles of vulcanised rubber other than hard rubber.** |  |  |  |  |
 | 4016.10 | - Dari karet seluler : | - Of cellular rubber : |  |  |  |  |
 | 4016.10.10 | - - Lapisan untuk pakaian atau aksesoris pakaian | - - Padding for articles of apparel or clothing accessories | 15 | - | 11 | - |
 | 4016.10.20 | - - Ubin lantai dan ubin dinding | - - Floor tiles and wall tiles | 15 | - | 11 | - |
@@ -360,7 +360,7 @@ lang:
 | 4016.99.91 | - - - - Penutup meja | - - - - Table coverings | 10 | - | 11 | - |
 | 4016.99.99 | - - - - Lain-lain | - - - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 40.17 | Karet keras (misalnya, ebonit) dalam segala bentuk, termasuk sisa dan skrap; barang dari karet keras. | Hard rubber (for example, ebonite) in all forms, including waste and scrap; articles of hard rubber. |  |  |  |  |
+| **40.17** | **Karet keras (misalnya, ebonit) dalam segala bentuk, termasuk sisa dan skrap; barang dari karet keras.** | **Hard rubber (for example, ebonite) in all forms, including waste and scrap; articles of hard rubber.** |  |  |  |  |
 | 4017.00.10 | - Ubin lantai dan ubin dinding | - Floor tiles and wall tiles | 10 | - | 11 | - |
 | 4017.00.20 | - Barang lainnya dari karet keras | - Other articles of hard rubber | 10 | - | 11 | - |
 | 4017.00.90 | - Lain-lain | - Other | 10 | - | 11 | - |

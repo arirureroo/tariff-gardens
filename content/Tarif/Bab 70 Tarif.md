@@ -34,7 +34,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 7001.00.00 | Pecahan dan sisa serta skrap lainnya dari kaca, kecuali kaca dari tabung sinar katoda atau kaca aktif lainnya dari pos 85.49; kaca dalam bentuk butiran. | Cullet and other waste and scrap of glass, excluding glass from cathode-ray tubes or other activated glass of heading 85.49; glass in the mass. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.02 | Kaca dalam bentuk bola (selain microspheres dari pos 70.18), batang kecil atau tabung, tidak dikerjakan. | Glass in balls (other than microspheres of heading 70.18), rods or tubes, unworked. |  |  |  |  |
+| **70.02** | **Kaca dalam bentuk bola (selain microspheres dari pos 70.18), batang kecil atau tabung, tidak dikerjakan.** | **Glass in balls (other than microspheres of heading 70.18), rods or tubes, unworked.** |  |  |  |  |
 | 7002.10.00 | - Bola | - Balls | 5 | - | 11 | - |
 | 7002.20.00 | - Batang kecil | - Rods | 5 | - | 11 | - |
 |  | - Tabung : | - Tubes : |  |  |  |  |
@@ -51,7 +51,7 @@ lang:
 | 7002.39.20 | - - - Lain-lain, dari kaca jernih borosilikat netral, dengan diameter 3 mm atau lebih tetapi tidak melebihi 22 mm | - - - Other, of clear neutral borosilicate glass, with a diameter of 3 mm or more but not more than 22 mm | 5 | - | 11 | - |
 | 7002.39.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.03 | Kaca tuang dan rolled glass, dalam lembaran atau profil, mempunyai lapisan penyerap, pemantul atau bukan pemantul maupun tidak, tetapi tidak dikerjakan secara lain. | Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked. |  |  |  |  |
+| **70.03** | **Kaca tuang dan rolled glass, dalam lembaran atau profil, mempunyai lapisan penyerap, pemantul atau bukan pemantul maupun tidak, tetapi tidak dikerjakan secara lain.** | **Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked.** |  |  |  |  |
 |  | - Lembaran tidak berkawat : | - Non-wired sheets : |  |  |  |  |
 | 7003.12 | - - Diwarnai keseluruhannya (body tinted), diburamkan, dikilaukan atau mempunyai lapisan penyerap, pemantul atau bukan pemantul : | - - Coloured throughout the mass (body tinted), opacified, flashed or having an absorbent, reflecting or non- reflecting layer : |  |  |  |  |
 | 7003.12.10 | - - - Kaca optik, tidak dikerjakan secara optik | - - - Optical glass, not optically worked | 5 | - | 11 | - |
@@ -68,7 +68,7 @@ lang:
 | 7003.30.10 | - - Dalam bentuk bujur sangkar atau empat persegi panjang, satu atau lebih sudutnya telah terpotong maupun tidak | - - In squares or rectangular shape, whether or not one or more corners have been cut | 5 | - | 11 | - |
 | 7003.30.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.04 | Kaca tarik dan kaca tiup, dalam lembaran, mempunyai lapisan penyerap, pemantul atau bukan pemantul maupun tidak, tetapi tidak dikerjakan secara lain. | Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked. |  |  |  |  |
+| **70.04** | **Kaca tarik dan kaca tiup, dalam lembaran, mempunyai lapisan penyerap, pemantul atau bukan pemantul maupun tidak, tetapi tidak dikerjakan secara lain.** | **Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked.** |  |  |  |  |
 | 7004.20 | - Kaca, diwarnai keseluruhannya (body tinted), diburamkan, dikilaukan atau mempunyai lapisan penyerap, pemantul atau bukan pemantul : | - Glass, coloured throughout the mass (body tinted), opacified, flashed or having an absorbent, reflecting or non-reflecting layer : |  |  |  |  |
 | 7004.20.10 | - - Kaca optik, tidak dikerjakan secara optik | - - Optical glass, not optically worked | 5 | - | 11 | - |
 | 7004.20.20 | - - Lain-lain, dalam bentuk bujur sangkar atau empat persegi panjang, satu atau lebih sudutnya telah terpotong maupun tidak | - - Other, in squares or rectangular shape, whether or not one or more corners have been cut | 5 | - | 11 | - |
@@ -78,7 +78,7 @@ lang:
 | 7004.90.20 | - - Lain-lain, dalam bentuk bujur sangkar atau empat persegi panjang, satu atau lebih sudutnya telah terpotong maupun tidak | - - Other, in squares or rectangular shape, whether or not one or more corners have been cut | 5 | - | 11 | - |
 | 7004.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.05 | Kaca apung dan kaca yang permukaannya digosok atau dipoles, dalam lembaran, mempunyai lapisan penyerap, pemantul atau bukan pemantul maupun tidak, tetapi tidak dikerjakan secara lain. | Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked. |  |  |  |  |
+| **70.05** | **Kaca apung dan kaca yang permukaannya digosok atau dipoles, dalam lembaran, mempunyai lapisan penyerap, pemantul atau bukan pemantul maupun tidak, tetapi tidak dikerjakan secara lain.** | **Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked.** |  |  |  |  |
 | 7005.10 | - Kaca tidak berkawat, mempunyai lapisan penyerap, pemantul atau bukan pemantul : | - Non-wired glass, having an absorbent, reflecting or non- reflecting layer : |  |  |  |  |
 | 7005.10.10 | - - Kaca optik, tidak dikerjakan secara optik | - - Optical glass, not optically worked | 15 | - | 11 | - |
 | 7005.10.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
@@ -95,11 +95,11 @@ lang:
 | 7005.30.10 | - - Dalam bentuk bujur sangkar atau empat persegi panjang, satu atau lebih sudutnya telah terpotong maupun tidak | - - In squares or rectangular shape, whether or not one or more corners have been cut | 15 | - | 11 | - |
 | 7005.30.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.06 | Kaca dari pos 70.03, 70.04 atau 70.05, dibengkokkan, tepinya dikerjakan, diukir, dibor, dilapisi atau dikerjakan secara lain, tetapi tidak dibingkai atau dipasang dengan barang lain. | Glass of heading 70.03, 70.04 or 70.05, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials. |  |  |  |  |
+| **70.06** | **Kaca dari pos 70.03, 70.04 atau 70.05, dibengkokkan, tepinya dikerjakan, diukir, dibor, dilapisi atau dikerjakan secara lain, tetapi tidak dibingkai atau dipasang dengan barang lain.** | **Glass of heading 70.03, 70.04 or 70.05, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials.** |  |  |  |  |
 | 7006.00.10 | - Kaca optik, tidak dikerjakan secara optik | - Optical glass, not optically worked | 5 | - | 11 | - |
 | 7006.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.07 | Kaca pengaman, terdiri dari kaca dikeraskan (tempered) atau dilaminasi. | Safety glass, consisting of toughened (tempered) or laminated glass. |  |  |  |  |
+| **70.07** | **Kaca pengaman, terdiri dari kaca dikeraskan (tempered) atau dilaminasi.** | **Safety glass, consisting of toughened (tempered) or laminated glass.** |  |  |  |  |
 |  | - Kaca pengaman dikeraskan (tempered) : | - Toughened (tempered) safety glass : |  |  |  |  |
 | 7007.11 | - - Dengan ukuran dan bentuk yang cocok untuk dipasang pada kendaraan, kendaraan udara, kendaraan luar angkasa atau kendaraan air : | - - Of size and shape suitable for incorporation in vehicles, aircraft, spacecraft or vessels : |  |  |  |  |
 | 7007.11.10 | - - - Cocok untuk kendaraan dari Bab 87 | - - - Suitable for vehicles of Chapter 87 | 5 | - | 11 | - |
@@ -119,13 +119,13 @@ lang:
 |  |  |  |  |  |  |  |
 | 7008.00.00 | Kaca dinding isolasi berlapis dari kaca. | Multiple-walled insulating units of glass. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.09 | Cermin kaca, dibingkai maupun tidak, termasuk kaca spion. | Glass mirrors, whether or not framed, including rear-view mirrors. |  |  |  |  |
+| **70.09** | **Cermin kaca, dibingkai maupun tidak, termasuk kaca spion.** | **Glass mirrors, whether or not framed, including rear-view mirrors.** |  |  |  |  |
 | 7009.10.00 | - Kaca spion untuk kendaraan | - Rear-view mirrors for vehicles | 5 | - | 11 | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
 | 7009.91.00 | - - Tidak dibingkai | - - Unframed | 5 | - | 11 | - |
 | 7009.92.00 | - - Dibingkai | - - Framed | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.10 | Carboy, botol, termos, kendi, teko, vial, ampul dan kemasan lainnya dari kaca, dari jenis yang digunakan untuk pengangkutan atau pengemasan barang; kendi kaca pengawet; sumbat, tutup dan penutup lainnya, dari kaca. | Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass. |  |  |  |  |
+| **70.10** | **Carboy, botol, termos, kendi, teko, vial, ampul dan kemasan lainnya dari kaca, dari jenis yang digunakan untuk pengangkutan atau pengemasan barang; kendi kaca pengawet; sumbat, tutup dan penutup lainnya, dari kaca.** | **Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass.** |  |  |  |  |
 | 7010.10.00 | - Ampul | - Ampoules | 5 | - | 11 | - |
 | 7010.20.00 | - Sumbat, tutup dan penutup lainnya | - Stoppers, lids and other closures | 5 | - | 11 | - |
 | 7010.90 | - Lain-lain : | - Other : |  |  |  |  |
@@ -135,14 +135,14 @@ lang:
 | 7010.90.91 | - - - Dengan kapasitas melebihi 1 l | - - - Of a capacity exceeding 1 l | 5 | - | 11 | - |
 | 7010.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.11 | Sungkup kaca (termasuk bulb dan tabung), terbuka, dan bagiannya dari kaca, tanpa alat kelengkapan, untuk lampu listrik dan sumber cahaya, tabung sinar katoda atau sejenisnya. | Glass envelopes (including bulbs and tubes), open, and glass parts thereof, without fittings, for electric lamps and light sources, cathode-ray tubes or the like. |  |  |  |  |
+| **70.11** | **Sungkup kaca (termasuk bulb dan tabung), terbuka, dan bagiannya dari kaca, tanpa alat kelengkapan, untuk lampu listrik dan sumber cahaya, tabung sinar katoda atau sejenisnya.** | **Glass envelopes (including bulbs and tubes), open, and glass parts thereof, without fittings, for electric lamps and light sources, cathode-ray tubes or the like.** |  |  |  |  |
 | 7011.10 | - Untuk penerangan listrik : | - For electric lighting : |  |  |  |  |
 | 7011.10.10 | - - Stem | - - Stems | 5 | - | 11 | - |
 | 7011.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 7011.20.00 | - Untuk tabung sinar katoda | - For cathode-ray tubes | 5 | - | 11 | - |
 | 7011.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.13 | Barang kaca dari jenis yang digunakan untuk meja, dapur, toilet, kantor, dekorasi dalam ruangan atau keperluan semacam itu (selain yang disebut dalam pos 70.10 atau 70.18). | Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 70.10 or 70.18). |  |  |  |  |
+| **70.13** | **Barang kaca dari jenis yang digunakan untuk meja, dapur, toilet, kantor, dekorasi dalam ruangan atau keperluan semacam itu (selain yang disebut dalam pos 70.10 atau 70.18).** | **Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 70.10 or 70.18).** |  |  |  |  |
 | 7013.10.00 | - Dari keramik kaca | - Of glass-ceramics | 10 | - | 11 | - |
 |  | - Gelas minum stemware, selain keramik kaca : | - Stemware drinking glasses, other than of glass-ceramics : |  |  |  |  |
 | 7013.22.00 | - - Dari kristal timbal | - - Of lead crystal | 10 | - | 11 | - |
@@ -158,28 +158,28 @@ lang:
 | 7013.91.00 | - - Dari kristal timbal | - - Of lead crystal | 10 | - | 11 | - |
 | 7013.99.00 | - - Lain-lain | - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.14 | Barang kaca pemberi sinyal dan elemen optik dari kaca (selain yang dimaksud dalam pos 70.15), tidak dikerjakan secara optik. | Signalling glassware and optical elements of glass (other than those of heading 70.15), not optically worked. |  |  |  |  |
+| **70.14** | **Barang kaca pemberi sinyal dan elemen optik dari kaca (selain yang dimaksud dalam pos 70.15), tidak dikerjakan secara optik.** | **Signalling glassware and optical elements of glass (other than those of heading 70.15), not optically worked.** |  |  |  |  |
 | 7014.00.10 | - Dari jenis yang cocok digunakan pada kendaraan bermotor | - Of a kind suitable for use in motor vehicles | 5 | - | 11 | - |
 | 7014.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.15 | Kaca jam atau kaca arloji dan kaca semacam itu, kaca untuk kacamata korektif atau non-korektif, bergelombang, bengkok, berongga atau sejenisnya, tidak dikerjakan secara optik; bola kaca berongga dan bagiannya, untuk pembuatan barang kaca tersebut di atas. | Clock or watch glasses and similar glasses, glasses for non-corrective or corrective spectacles, curved, bent, hollowed or the like, not optically worked; hollow glass spheres and their segments, for the manufacture of such glasses. |  |  |  |  |
+| **70.15** | **Kaca jam atau kaca arloji dan kaca semacam itu, kaca untuk kacamata korektif atau non-korektif, bergelombang, bengkok, berongga atau sejenisnya, tidak dikerjakan secara optik; bola kaca berongga dan bagiannya, untuk pembuatan barang kaca tersebut di atas.** | **Clock or watch glasses and similar glasses, glasses for non-corrective or corrective spectacles, curved, bent, hollowed or the like, not optically worked; hollow glass spheres and their segments, for the manufacture of such glasses.** |  |  |  |  |
 | 7015.10.00 | - Kaca untuk kacamata korektif | - Glasses for corrective spectacles | 5 | - | 11 | - |
 | 7015.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 7015.90.10 | - - Kaca jam atau kaca arloji | - - Clock or watch glasses | 5 | - | 11 | - |
 | 7015.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.16 | Paving blok, lembaran tebal, batu bata, bujur sangkar, ubin dan barang lainnya dari kaca padat atau kaca tuang, dipasang kawat maupun tidak, dari jenis yang digunakan untuk keperluan bangunan atau konstruksi; kaca kubus dan barang kaca kecil lainnya, dengan alas maupun tidak, untuk mosaik atau keperluan dekorasi semacam itu; kaca lapis timbal dan sejenisnya; kaca multi seluler atau kaca busa dalam bentuk blok, panel, pelat, selongsong atau bentuk semacam itu. | Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms. |  |  |  |  |
+| **70.16** | **Paving blok, lembaran tebal, batu bata, bujur sangkar, ubin dan barang lainnya dari kaca padat atau kaca tuang, dipasang kawat maupun tidak, dari jenis yang digunakan untuk keperluan bangunan atau konstruksi; kaca kubus dan barang kaca kecil lainnya, dengan alas maupun tidak, untuk mosaik atau keperluan dekorasi semacam itu; kaca lapis timbal dan sejenisnya; kaca multi seluler atau kaca busa dalam bentuk blok, panel, pelat, selongsong atau bentuk semacam itu.** | **Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms.** |  |  |  |  |
 | 7016.10.00 | - Kubus kaca dan barang kaca kecil lainnya, dengan alas maupun tidak, untuk mosaik atau keperluan dekorasi semacam itu | - Glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes | 5 | - | 11 | - |
 | 7016.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.17 | Barang kaca untuk keperluan laboratorium, hegienis atau farmasi, dengan tanda skala atau takaran maupun tidak. | Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated. |  |  |  |  |
+| **70.17** | **Barang kaca untuk keperluan laboratorium, hegienis atau farmasi, dengan tanda skala atau takaran maupun tidak.** | **Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated.** |  |  |  |  |
 | 7017.10 | - Dari leburan kuarsa atau leburan silika : | - Of fused quartz or other fused silica : |  |  |  |  |
 | 7017.10.10 | - - Tabung reaktor kuarsa dan kemasan yang dirancang untuk dimasukkan ke dalam tanur difusi dan oksidasi dalam pembuatan wafer semikonduktor | - - Quartz reactor tubes and holders designed for insertion into diffusion and oxidation furnaces for production of semiconductor wafers | 5 | - | 11 | - |
 | 7017.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 7017.20.00 | - Dari kaca lainnya yang mempunyai koefisien linier perluasan tidak melebihi 5 x 10-6 per Kelvin dalam suhu antara 0 oC sampai 300 oC | - Of other glass having a linear coefficient of expansion not exceeding 5 x 10-6 per Kelvin within a temperature range of 0 oC to 300 oC | 5 | - | 11 | - |
 | 7017.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.18 | Manik-manik, mutiara imitasi, batu mulia imitasi atau batu semi mulia imitasi dan barang kecil semacam itu dari kaca, dan barang daripadanya selain perhiasan imitasi; mata kaca selain mata pengganti untuk manusia; patung dan ornamen lainnya dari kaca tiup, selain perhiasan imitasi; kaca microsphere dengan diameter tidak melebihi 1 mm. | Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares, and articles thereof other than imitation jewellery; glass eyes other than prosthetic articles; statuettes and other ornaments of lamp-worked glass, other than imitation jewellery; glass microspheres not exceeding 1 mm in diameter. |  |  |  |  |
+| **70.18** | **Manik-manik, mutiara imitasi, batu mulia imitasi atau batu semi mulia imitasi dan barang kecil semacam itu dari kaca, dan barang daripadanya selain perhiasan imitasi; mata kaca selain mata pengganti untuk manusia; patung dan ornamen lainnya dari kaca tiup, selain perhiasan imitasi; kaca microsphere dengan diameter tidak melebihi 1 mm.** | **Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares, and articles thereof other than imitation jewellery; glass eyes other than prosthetic articles; statuettes and other ornaments of lamp-worked glass, other than imitation jewellery; glass microspheres not exceeding 1 mm in diameter.** |  |  |  |  |
 | 7018.10 | - Manik-manik kaca, mutiara imitasi, batu mulia imitasi atau batu semi mulia dan barang kaca kecil semacam itu : | - Glass beads, imitation pearls, imitation precious or semi precious stones and similar glass smallwares : |  |  |  |  |
 | 7018.10.10 | - - Manik-manik kaca | - - Glass beads | 10 | - | 11 | - |
 | 7018.10.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -188,7 +188,7 @@ lang:
 | 7018.90.10 | - - Mata kaca | - - Glass eyes | 5 | - | 11 | - |
 | 7018.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.19 | Serat kaca (termasuk wol kaca) dan barang dari padanya (misalnya, benang, roving, kain tenunan). | Glass fibres (including glass wool) and articles thereof (for example, yarn, rovings, woven fabrics). |  |  |  |  |
+| **70.19** | **Serat kaca (termasuk wol kaca) dan barang dari padanya (misalnya, benang, roving, kain tenunan).** | **Glass fibres (including glass wool) and articles thereof (for example, yarn, rovings, woven fabrics).** |  |  |  |  |
 |  | - Sliver, roving, benang dan chopped strand dan mat daripadanya : | - Slivers, rovings, yarn and chopped strands and mats thereof : |  |  |  |  |
 | 7019.11.00 | - - Chopped strands, dengan panjang tidak lebih dari 50 mm | - - Chopped strands, of a length of not more than 50 mm | 5 | - | 11 | - |
 | 7019.12.00 | - - Roving | - - Rovings | 5 | - | 11 | - |
@@ -218,7 +218,7 @@ lang:
 | 7019.90.50 | - - Kain tenunan dari roving | - - Woven fabrics of rovings | 5 | - | 11 | - |
 | 7019.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 70.20 | Barang lainnya dari kaca. | Other articles of glass. |  |  |  |  |
+| **70.20** | **Barang lainnya dari kaca.** | **Other articles of glass.** |  |  |  |  |
 |  | - Cetakan kaca : | - Glass moulds : |  |  |  |  |
 | 7020.00.11 | - - Dari jenis yang digunakan untuk pembuatan barang akrilik | - - Of a kind used for the manufacture of acrylic goods | 5 | - | 11 | - |
 | 7020.00.19 | - - Lain-lain | - - Other | 5 | - | 11 | - |

@@ -36,29 +36,29 @@ lang:
 |  |  |  |  |  |  |  |
 | 6901.00.00 | Batu bata, blok, ubin dan barang keramik lainnya dari tanah diatomea (misalnya, kieselguhr, tripolite atau diatomite) atau dari tanah mengandung silika semacam itu. | Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (for example, kieselguhr, tripolite or diatomite) or of similar siliceous earths. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 69.02 | Batu bata, blok, ubin dan keramik tahan panas untuk barang keperluan konstruksi, selain dari tanah diatomea atau dari tanah mengandung silika semacam itu. | Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods, other than those of siliceous fossil meals or similar siliceous earths. |  |  |  |  |
+| **69.02** | **Batu bata, blok, ubin dan keramik tahan panas untuk barang keperluan konstruksi, selain dari tanah diatomea atau dari tanah mengandung silika semacam itu.** | **Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods, other than those of siliceous fossil meals or similar siliceous earths.** |  |  |  |  |
 | 6902.10.00 | - Mengandung unsur Mg, Ca atau Cr, sendiri atau bersama-sama, lebih dari 50 % menurut beratnya, dinyatakan sebagai MgO, CaO atau Cr2O3 | - Containing by weight, singly or together, more than 50 % of the elements Mg, Ca or Cr, expressed as MgO, CaO or Cr2O3 | 5 | - | 11 | - |
 | 6902.20.00 | - Mengandung aluminium oksida (Al2O3), silika (SiO2) atau campuran atau persenyawaan dari produk ini, lebih dari 50 % menurut beratnya | - Containing by weight more than 50 % of alumina (AI2O3), of silica (SiO2) or of a mixture or compound of these products | 5 | - | 11 | - |
 | 6902.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 69.03 | Barang keramik tahan panas lainnya (misalnya, retor, cawan lebur, mofel, mulut pipa, sumbat, penopang, cangkir lebur, pembuluh, pipa, sarung, batang kecil dan gerbang geser), selain barang dari tanah diatomea atau tanah mengandung silika semacam itu. | Other refractory ceramic goods (for example, retorts, crucibles, muffles, nozzles, plugs, supports, cupels, tubes, pipes, sheaths, rods and slide gates), other than those of siliceous fossil meals or of similar siliceous earths. |  |  |  |  |
+| **69.03** | **Barang keramik tahan panas lainnya (misalnya, retor, cawan lebur, mofel, mulut pipa, sumbat, penopang, cangkir lebur, pembuluh, pipa, sarung, batang kecil dan gerbang geser), selain barang dari tanah diatomea atau tanah mengandung silika semacam itu.** | **Other refractory ceramic goods (for example, retorts, crucibles, muffles, nozzles, plugs, supports, cupels, tubes, pipes, sheaths, rods and slide gates), other than those of siliceous fossil meals or of similar siliceous earths.** |  |  |  |  |
 | 6903.10.00 | - Mengandung karbon bebas, lebih dari 50 % menurut beratnya | - Containing by weight more than 50 % of free carbon | 5 | - | 11 | - |
 | 6903.20.00 | - Mengandung aluminium oksida (Al2O3) atau dari campuran atau persenyawaan aluminium oksida dan dari silika (SiO2), lebih dari 50 % menurut beratnya | - Containing by weight more than 50 % of alumina (AI2O3) or of a mixture or compound of alumina and of silica (SiO2) | 5 | - | 11 | - |
 | 6903.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB II PRODUK KERAMIK LAINNYA | SUB-CHAPTER II OTHER CERAMIC PRODUCTS |  |  |  |  |
 |  |  |  |  |  |  |  |
-| 69.04 | Batu bata bangunan, blok lantai, ubin penopang atau pengisi dan sejenisnya dari keramik. | Ceramic building bricks, flooring blocks, support or filler tiles and the like. |  |  |  |  |
+| **69.04** | **Batu bata bangunan, blok lantai, ubin penopang atau pengisi dan sejenisnya dari keramik.** | **Ceramic building bricks, flooring blocks, support or filler tiles and the like.** |  |  |  |  |
 | 6904.10.00 | - Batu bata bangunan | - Building bricks | 5 | - | 11 | - |
 | 6904.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 69.05 | Ubin atap, cerobong berbentuk kap, tutup cerobong, lapisan cerobong, ornamen arsitektur dan barang keramik lainnya untuk konstruksi. | Roofing tiles, chimney-pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods. |  |  |  |  |
+| **69.05** | **Ubin atap, cerobong berbentuk kap, tutup cerobong, lapisan cerobong, ornamen arsitektur dan barang keramik lainnya untuk konstruksi.** | **Roofing tiles, chimney-pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods.** |  |  |  |  |
 | 6905.10.00 | - Ubin atap | - Roofing tiles | 5 | - | 11 | - |
 | 6905.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 | 6906.00.00 | Pipa, saluran, talang dan alat kelengkapan pipa dari keramik. | Ceramic pipes, conduits, guttering and pipe fittings. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 69.07 | Ubin dan paving, ubin perapian dan ubin dinding dari keramik; kubus mozaik dari keramik dan sejenisnya, dengan alas maupun tidak; keramik untuk finishing. | Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics. |  |  |  |  |
+| **69.07** | **Ubin dan paving, ubin perapian dan ubin dinding dari keramik; kubus mozaik dari keramik dan sejenisnya, dengan alas maupun tidak; keramik untuk finishing.** | **Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics.** |  |  |  |  |
 |  | - Ubin dan paving, ubin perapian dan ubin dinding, selain barang dari subpos 6907.30 dan 6907.40 : | - Flags and paving, hearth or wall tiles, other than those of subheadings 6907.30 and 6907.40 : |  |  |  |  |
 | 6907.21 | - - Dengan koefisien penyerapan air tidak melebihi 0,5 % menurut beratnya : | - - Of a water absorption coefficient by weight not exceeding 0.5 % : |  |  |  |  |
 | 6907.21.10 | - - - Ubin dari jenis yang digunakan untuk melapisi penggilingan, tidak diglasir | - - - Lining tiles of a kind used for grinding mills, unglazed | 5 | - | 11 | - |
@@ -110,24 +110,24 @@ lang:
 | 6907.40.91 | - - - Tidak diglasir | - - - Unglazed | 20 | - | 11 | - |
 | 6907.40.92 | - - - Diglasir | - - - Glazed | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 69.09 | Barang keramik untuk laboratorium, kimia atau penggunaan teknik lainnya; palung keramik, pasu dan wadah semacam itu dari jenis yang digunakan dalam pertanian; pot keramik, tempayan dan barang semacam itu dari jenis digunakan untuk mengangkut atau mengepak barang. | Ceramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in agriculture; ceramic pots, jars and similar articles of a kind used for the conveyance or packing of goods. |  |  |  |  |
+| **69.09** | **Barang keramik untuk laboratorium, kimia atau penggunaan teknik lainnya; palung keramik, pasu dan wadah semacam itu dari jenis yang digunakan dalam pertanian; pot keramik, tempayan dan barang semacam itu dari jenis digunakan untuk mengangkut atau mengepak barang.** | **Ceramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in agriculture; ceramic pots, jars and similar articles of a kind used for the conveyance or packing of goods.** |  |  |  |  |
 |  | - Barang keramik untuk laboratorium, kimia atau penggunaan teknik lainnya : | - Ceramic wares for laboratory, chemical or other technical uses : |  |  |  |  |
 | 6909.11.00 | - - Dari porselin atau keramik cina | - - Of porcelain or china | 5 | - | 11 | - |
 | 6909.12.00 | - - Barang yang mempunyai kekerasan ekuivalen dengan 9 atau lebih pada skala Mohs | - - Articles having a hardness equivalent to 9 or more on the Mohs scale | 5 | - | 11 | - |
 | 6909.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 6909.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 69.10 | Bak cuci, wastafel, alas baskom cuci, bak mandi, bidet, bejana kloset, tangki air pembilasan, tempat kencing, dan perlengkapan saniter semacam itu dari keramik. | Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures. |  |  |  |  |
+| **69.10** | **Bak cuci, wastafel, alas baskom cuci, bak mandi, bidet, bejana kloset, tangki air pembilasan, tempat kencing, dan perlengkapan saniter semacam itu dari keramik.** | **Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures.** |  |  |  |  |
 | 6910.10.00 | - Dari porselin atau keramik cina | - Of porcelain or china | 20 | - | 11 | - |
 | 6910.90.00 | - Lain-lain | - Other | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 69.11 | Perangkat makan, perangkat dapur, peralatan rumah tangga lainnya dan peralatan toilet, dari porselin atau keramik cina. | Tableware, kitchenware, other household articles and toilet articles, of porcelain or china. |  |  |  |  |
+| **69.11** | **Perangkat makan, perangkat dapur, peralatan rumah tangga lainnya dan peralatan toilet, dari porselin atau keramik cina.** | **Tableware, kitchenware, other household articles and toilet articles, of porcelain or china.** |  |  |  |  |
 | 6911.10.00 | - Perangkat makan dan perangkat dapur | - Tableware and kitchenware | 30 | - | 11 | - |
 | 6911.90.00 | - Lain-lain | - Other | 30 | - | 11 | - |
 |  |  |  |  |  |  |  |
 | 6912.00.00 | Perangkat makan, perangkat dapur, peralatan rumah tangga lainnya dan peralatan toilet dari keramik, selain dari porselin atau keramik cina. | Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china. | 30 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 69.13 | Patung dan barang keramik ornamental lainnya. | Statuettes and other ornamental ceramic articles. |  |  |  |  |
+| **69.13** | **Patung dan barang keramik ornamental lainnya.** | **Statuettes and other ornamental ceramic articles.** |  |  |  |  |
 | 6913.10 | - Dari porselin atau keramik cina : | - Of porcelain or china : |  |  |  |  |
 | 6913.10.10 | - - Kotak sigaret ornamental dan asbak | - - Ornamental cigarette boxes and ashtrays | 30 | - | 11 | - |
 | 6913.10.90 | - - Lain-lain | - - Other | 30 | - | 11 | - |
@@ -135,6 +135,6 @@ lang:
 | 6913.90.10 | - - Kotak sigaret ornamental dan asbak | - - Ornamental cigarette boxes and ashtrays | 30 | - | 11 | - |
 | 6913.90.90 | - - Lain-lain | - - Other | 30 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 69.14 | Barang keramik lainnya. | Other ceramic articles. |  |  |  |  |
+| **69.14** | **Barang keramik lainnya.** | **Other ceramic articles.** |  |  |  |  |
 | 6914.10.00 | - Dari porselin atau keramik cina | - Of porcelain or china | 30 | - | 11 | - |
 | 6914.90.00 | - Lain-lain | - Other | 30 | - | 11 | - |

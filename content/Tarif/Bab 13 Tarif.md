@@ -30,7 +30,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 13.01 | Lak; getah alam, damar, getah-damar dan oleoresins (misalnya, getah balsem). | Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams). |  |  |  |  |
+| **13.01** | **Lak; getah alam, damar, getah-damar dan oleoresins (misalnya, getah balsem).** | **Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams).** |  |  |  |  |
 |  |  |  |  |  |  |  |
 | 1301.20.00 | - Getah Arab | - Gum Arabic | 5 | - | 11 | - |
 | 1301.90 | - Lain-lain : | - Other : |  |  |  |  |
@@ -38,7 +38,7 @@ lang:
 | 1301.90.40 | - - Lak | - - Lac | 5 | - | 11 | - |
 | 1301.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 13.02 | Sap dan ekstrak nabati; zat pektik, pektinat dan pektat; Agar-agar dan lendir serta bahan pengental lainnya, dimodifikasi maupun tidak, berasal dari produk nabati. | Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products. |  |  |  |  |
+| **13.02** | **Sap dan ekstrak nabati; zat pektik, pektinat dan pektat; Agar-agar dan lendir serta bahan pengental lainnya, dimodifikasi maupun tidak, berasal dari produk nabati.** | **Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products.** |  |  |  |  |
 |  | - Sap dan ekstrak nabati : | - Vegetable saps and extracts : |  |  |  |  |
 | 1302.11 | - - Opium : | - - Opium : |  |  |  |  |
 | 1302.11.10 | - - - Pulvis opii | - - - Pulvis opii | 0 | - | 11 | - |

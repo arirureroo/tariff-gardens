@@ -33,7 +33,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 85.01 | Motor dan generator listrik (tidak termasuk perangkat pembangkit tenaga listrik). | Electric motors and generators (excluding generating sets). |  |  |  |  |
+| **85.01** | **Motor dan generator listrik (tidak termasuk perangkat pembangkit tenaga listrik).** | **Electric motors and generators (excluding generating sets).** |  |  |  |  |
 | 8501.10 | - Motor dengan keluaran tidak melebihi 37,5 W : | - Motors of an output not exceeding 37.5 W : |  |  |  |  |
 |  | - - Motor DC : | - - DC motors : |  |  |  |  |
 |  | - - - Motor stepper : | - - - Stepper motors : |  |  |  |  |
@@ -128,7 +128,7 @@ lang:
 | 8501.80.30 | - - Dengan keluaran melebihi 375 kVA tetapi tidak melebihi 750 kVA | - - Of an output exceeding 375 kVA but not exceeding 750 kVA | 10 | - | 11 | - |
 | 8501.80.40 | - - Dengan keluaran melebihi 750 kVA | - - Of an output exceeding 750 kVA | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.02 | Perangkat pembangkit tenaga listrik dan konverter berputar. | Electric generating sets and rotary converters. |  |  |  |  |
+| **85.02** | **Perangkat pembangkit tenaga listrik dan konverter berputar.** | **Electric generating sets and rotary converters.** |  |  |  |  |
 |  | - Perangkat pembangkit tenaga listrik dengan mesin piston pembakaran dalam nyala kompresi (mesin diesel atau mesin semi diesel) : | - Generating sets with compression-ignition internal combustion piston engines (diesel or semi-diesel engines) : |  |  |  |  |
 | 8502.11.00 | - - Dengan keluaran tidak melebihi 75 kVA | - - Of an output not exceeding 75 kVA | 10 | - | 11 | - |
 | 8502.12 | - - Dengan keluaran melebihi 75 kVA tetapi tidak melebihi 375 kVA : | - - Of an output exceeding 75 kVA but not exceeding 375 kVA : |  |  |  |  |
@@ -156,11 +156,11 @@ lang:
 | 8502.39.39 | - - - - Lain-lain | - - - - Other | 5 | - | 11 | - |
 | 8502.40.00 | - Konverter listrik berputar | - Electric rotary converters | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.03 | Bagian yang cocok untuk digunakan semata-mata atau terutama dengan mesin dari pos 85.01 atau 85.02. | Parts suitable for use solely or principally with the machines of heading 85.01 or 85.02. |  |  |  |  |
+| **85.03** | **Bagian yang cocok untuk digunakan semata-mata atau terutama dengan mesin dari pos 85.01 atau 85.02.** | **Parts suitable for use solely or principally with the machines of heading 85.01 or 85.02.** |  |  |  |  |
 | 8503.00.20 | - Bagian dari generator (termasuk generator set) dari pos 85.01 atau 85.02, dengan keluaran 12.500 kVA atau lebih | - Parts of generators (including generating sets) of heading 85.01 or 85.02, of an output of 12,500 kVA or more | 5 | - | 11 | - |
 | 8503.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.04 | Transformator elektrik, konverter statis (misalnya, rectifier) dan induktor. | Electrical transformers, static converters (for example, rectifiers) and inductors. |  |  |  |  |
+| **85.04** | **Transformator elektrik, konverter statis (misalnya, rectifier) dan induktor.** | **Electrical transformers, static converters (for example, rectifiers) and inductors.** |  |  |  |  |
 | 8504.10.00 | - Ballast untuk lampu lucutan atau tabung lucutan | - Ballasts for discharge lamps or tubes | 10 | - | 11 | - |
 |  | - Transformator dielektrik cair : | - Liquid dielectric transformers : |  |  |  |  |
 | 8504.21 | - - Mempunyai kapasitas pengatur daya tidak melebihi 650 kVA : | - - Having a power handling capacity not exceeding 650 kVA : |  |  |  |  |
@@ -270,7 +270,7 @@ lang:
 | 8504.90.49 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 8504.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.05 | Elektro magnet; magnet permanen dan barang untuk dijadikan magnet permanen setelah diberi gaya magnet; chuck, klem dan peralatan pemegang semacam yang bekerja secara elektro magnetis atau magnet permanen; penyambung, kopling dan rem elektro magnetis; kepala pengangkat elektro magnetis. | Electro-magnets; permanent magnets and articles intended to become permanent magnets after magnetisation; electro-magnetic or permanent magnet chucks, clamps and similar holding devices; electro-magnetic couplings, clutches and brakes; electro-magnetic lifting heads. |  |  |  |  |
+| **85.05** | **Elektro magnet; magnet permanen dan barang untuk dijadikan magnet permanen setelah diberi gaya magnet; chuck, klem dan peralatan pemegang semacam yang bekerja secara elektro magnetis atau magnet permanen; penyambung, kopling dan rem elektro magnetis; kepala pengangkat elektro magnetis.** | **Electro-magnets; permanent magnets and articles intended to become permanent magnets after magnetisation; electro-magnetic or permanent magnet chucks, clamps and similar holding devices; electro-magnetic couplings, clutches and brakes; electro-magnetic lifting heads.** |  |  |  |  |
 |  | - Magnet permanen dan barang untuk dijadikan magnet permanen setelah diberi gaya magnet : | - Permanent magnets and articles intended to become permanent magnets after magnetisation : |  |  |  |  |
 | 8505.11.00 | - - Dari logam | - - Of metal | 0 | - | 11 | - |
 | 8505.19.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -280,7 +280,7 @@ lang:
 | 8505.90.20 | - - Kepala pengangkat elektro magnetis | - - Electro-magnetic lifting heads | 5 | - | 11 | - |
 | 8505.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.06 | Sel primer dan baterai primer. | Primary cells and primary batteries. |  |  |  |  |
+| **85.06** | **Sel primer dan baterai primer.** | **Primary cells and primary batteries.** |  |  |  |  |
 | 8506.10 | - Mangan dioksida : | - Manganese dioxide : |  |  |  |  |
 |  | - - Mempunyai volume bagian luar tidak melebihi 300 cm3 : | - - Having an external volume not exceeding 300 cm3 : |  |  |  |  |
 | 8506.10.11 | - - - Zinc-carbon | - - - Zinc-carbon | 15 | - | 11 | - |
@@ -300,7 +300,7 @@ lang:
 | 8506.80.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
 | 8506.90.00 | - Bagian | - Parts | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.07 | Akumulator listrik, termasuk separatornya, empat persegi panjang (termasuk bujur sangkar) maupun tidak. | Electric accumulators, including separators therefor, whether or not rectangular (including square). |  |  |  |  |
+| **85.07** | **Akumulator listrik, termasuk separatornya, empat persegi panjang (termasuk bujur sangkar) maupun tidak.** | **Electric accumulators, including separators therefor, whether or not rectangular (including square).** |  |  |  |  |
 | 8507.10 | - Asam-timbal, dari jenis yang digunakan untuk menghidupkan mesin piston : | - Lead-acid, of a kind used for starting piston engines : |  |  |  |  |
 | 8507.10.10 | - - Dari jenis yang digunakan untuk kendaraan udara | - - Of a kind used for aircraft | 0 | - | 11 | - |
 |  | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -356,7 +356,7 @@ lang:
 | 8507.90.93 | - - - Lain-lain, dari barang pada subpos 8507.10.92, 8507.10.95, 8507.10.96, 8507.10.97, 8507.10.98 atau 8507.10.99 | - - - Other, of goods of subheading 8507.10.92, 8507.10.95, 8507.10.96, 8507.10.97, 8507.10.98 or 8507.10.99 | 10 | - | 11 | - |
 | 8507.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.08 | Vacuum cleaner. | Vacuum cleaners. |  |  |  |  |
+| **85.08** | **Vacuum cleaner.** | **Vacuum cleaners.** |  |  |  |  |
 |  | - Dengan motor listrik terpasang : | - With self-contained electric motor : |  |  |  |  |
 | 8508.11.00 | - - Dengan kekuatan tidak melebihi 1.500 W dan memiliki kantung debu atau penampung lainnya dengan kapasitas tidak melebihi 20 l | - - Of a power not exceeding 1,500 W and having a dust bag or other receptacle capacity not exceeding 20 l | 10 | - | 11 | - |
 | 8508.19 | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -367,7 +367,7 @@ lang:
 | 8508.70.10 | - - Dari vacuum cleaner pada subpos 8508.11.00 atau 8508.19.10 | - - Of vacuum cleaners of subheading 8508.11.00 or 8508.19.10 | 5 | - | 11 | - |
 | 8508.70.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.09 | Peralatan rumah tangga mekanik elektrik dengan motor listrik terpasang, selain vacuum cleaner dari pos 85.08. | Electro-mechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 85.08. |  |  |  |  |
+| **85.09** | **Peralatan rumah tangga mekanik elektrik dengan motor listrik terpasang, selain vacuum cleaner dari pos 85.08.** | **Electro-mechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 85.08.** |  |  |  |  |
 | 8509.40.00 | - Penggiling dan pencampur makanan; pengekstrak jus buah atau sayur | - Food grinders and mixers; fruit or vegetable juice extractors | 15 | - | 11 | - |
 | 8509.80 | - Peralatan lainnya : | - Other appliances : |  |  |  |  |
 | 8509.80.10 | - - Pemoles lantai | - - Floor polishers | 10 | - | 11 | - |
@@ -377,13 +377,13 @@ lang:
 | 8509.90.10 | - - Dari barang pada subpos 8509.80.10 | - - Of goods of subheading 8509.80.10 | 5 | - | 11 | - |
 | 8509.90.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.10 | Alat cukur, alat pangkas rambut dan peralatan penghilang rambut, dengan motor listrik terpasang. | Shavers, hair clippers and hair-removing appliances, with self-contained electric motor. |  |  |  |  |
+| **85.10** | **Alat cukur, alat pangkas rambut dan peralatan penghilang rambut, dengan motor listrik terpasang.** | **Shavers, hair clippers and hair-removing appliances, with self-contained electric motor.** |  |  |  |  |
 | 8510.10.00 | - Alat cukur | - Shavers | 10 | - | 11 | - |
 | 8510.20.00 | - Alat pangkas rambut | - Hair clippers | 15 | - | 11 | - |
 | 8510.30.00 | - Peralatan penghilang rambut | - Hair-removing appliances | 10 | - | 11 | - |
 | 8510.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.11 | Alat penyala atau penghidup elektrik dari jenis yang digunakan untuk mesin pembakaran dalam cetus api atau nyala kompresi (misalnya, magnet penyala, magnet-dinamo, koil penyala, busi pencetus dan busi pijar, starter motor); generator (misalnya, dinamo, alternator) dan sakelar dari jenis yang digunakan dengan mesin tersebut. | Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition magnetos, magneto-dynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cut-outs of a kind used in conjunction with such engines. |  |  |  |  |
+| **85.11** | **Alat penyala atau penghidup elektrik dari jenis yang digunakan untuk mesin pembakaran dalam cetus api atau nyala kompresi (misalnya, magnet penyala, magnet-dinamo, koil penyala, busi pencetus dan busi pijar, starter motor); generator (misalnya, dinamo, alternator) dan sakelar dari jenis yang digunakan dengan mesin tersebut.** | **Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition magnetos, magneto-dynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cut-outs of a kind used in conjunction with such engines.** |  |  |  |  |
 | 8511.10 | - Busi pencetus : | - Sparking plugs : |  |  |  |  |
 | 8511.10.10 | - - Dari jenis yang cocok untuk mesin kendaraan udara | - - Of a kind suitable for aircraft engines | 0 | - | 11 | - |
 | 8511.10.20 | - - Dari jenis yang cocok untuk mesin kendaraan bermotor | - - Of a kind suitable for motor vehicle engines | 10 | - | 11 | - |
@@ -437,7 +437,7 @@ lang:
 | 8511.90.20 | - - Dari jenis yang cocok untuk mesin kendaraan bermotor | - - Of a kind suitable for motor vehicle engines | 0 | - | 11 | - |
 | 8511.90.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.12 | Perlengkapan penerangan atau perlengkapan pemberi isyarat elektrik (tidak termasuk barang dari pos 85.39), penghapus kaca, pencair es dan penghilang kabut, dari jenis yang digunakan untuk sepeda atau kendaraan bermotor. | Electrical lighting or signalling equipment (excluding articles of heading 85.39), windscreen wipers, defrosters and demisters, of a kind used for cycles or motor vehicles. |  |  |  |  |
+| **85.12** | **Perlengkapan penerangan atau perlengkapan pemberi isyarat elektrik (tidak termasuk barang dari pos 85.39), penghapus kaca, pencair es dan penghilang kabut, dari jenis yang digunakan untuk sepeda atau kendaraan bermotor.** | **Electrical lighting or signalling equipment (excluding articles of heading 85.39), windscreen wipers, defrosters and demisters, of a kind used for cycles or motor vehicles.** |  |  |  |  |
 | 8512.10.00 | - Perlengkapan penerangan atau perlengkapan pemberi isyarat visual dari jenis yang digunakan untuk sepeda roda dua | - Lighting or visual signalling equipment of a kind used on bicycles | 5 | - | 11 | - |
 | 8512.20 | - Perlengkapan penerangan atau perlengkapan pemberi isyarat visual lainnya : | - Other lighting or visual signalling equipment : |  |  |  |  |
 | 8512.20.20 | - - Perlengkapan penerangan atau perlengkapan pemberi isyarat visual, tidak dirakit | - - Unassembled lighting or visual signalling equipment | 5 | - | 11 | - |
@@ -455,7 +455,7 @@ lang:
 | 8512.90.10 | - - Dari barang pada subpos 8512.10 | - - Of goods of subheading 8512.10 | 5 | - | 11 | - |
 | 8512.90.20 | - - Dari barang pada subpos 8512.20, 8512.30 atau 8512.40 | - - Of goods of subheading 8512.20, 8512.30 or 8512.40 | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.13 | Lampu listrik portabel yang dirancang untuk berfungsi dengan sumber energinya sendiri (misalnya, baterai kering, akumulator, magnet), selain perlengkapan penerangan dari pos 85.12. | Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment of heading 85.12. |  |  |  |  |
+| **85.13** | **Lampu listrik portabel yang dirancang untuk berfungsi dengan sumber energinya sendiri (misalnya, baterai kering, akumulator, magnet), selain perlengkapan penerangan dari pos 85.12.** | **Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment of heading 85.12.** |  |  |  |  |
 | 8513.10 | - Lampu : | - Lamps : |  |  |  |  |
 | 8513.10.30 | - - Lampu helm penambang dan lampu penggali | - - Miners’ helmet lamps and quarrymen’s lamps | 5 | - | 11 | - |
 | 8513.10.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -464,7 +464,7 @@ lang:
 | 8513.90.30 | - - Reflektor lampu senter; sakelar geser lampu senter dari plastik | - - Flashlight reflectors; flashlight switch slides of plastics | 5 | - | 11 | - |
 | 8513.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.14 | Tanur dan oven listrik industri atau laboratorium (termasuk yang difungsikan dengan induksi atau dielectric loss); perlengkapan industri atau laboratorium lainnya untuk pengolahan panas bahan dengan induksi atau dielectric loss. | Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss. |  |  |  |  |
+| **85.14** | **Tanur dan oven listrik industri atau laboratorium (termasuk yang difungsikan dengan induksi atau dielectric loss); perlengkapan industri atau laboratorium lainnya untuk pengolahan panas bahan dengan induksi atau dielectric loss.** | **Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss.** |  |  |  |  |
 |  | - Tanur dan oven dipanaskan secara resistensi : | - Resistance heated furnaces and ovens : |  |  |  |  |
 | 8514.11.00 | - - Pengepres isostatik panas | - - Hot isostatic presses | 5 | - | 11 | - |
 | 8514.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -486,7 +486,7 @@ lang:
 | 8514.90.20 | - - Bagian dari tanur atau oven listrik industri atau laboratorium untuk pembuatan printed circuit board/printed wiring board atau printed circuit assembly | - - Parts of industrial or laboratory electric furnaces or ovens for the manufacture of printed circuit boards/printed wiring boards or printed circuit assemblies | 5 | - | 11 | - |
 | 8514.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.15 | Mesin dan aparatus penyolder, pematri atau pengelas listrik (termasuk gas dipanaskan secara elektrik), sinar laser atau sinar lainnya atau sinar foton, ultrasonik, sinar elektron, pulsa magnetis atau busur plasma, dapat memotong maupun tidak; mesin dan aparatus listrik untuk penyemprotan panas logam atau sermet. | Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets. |  |  |  |  |
+| **85.15** | **Mesin dan aparatus penyolder, pematri atau pengelas listrik (termasuk gas dipanaskan secara elektrik), sinar laser atau sinar lainnya atau sinar foton, ultrasonik, sinar elektron, pulsa magnetis atau busur plasma, dapat memotong maupun tidak; mesin dan aparatus listrik untuk penyemprotan panas logam atau sermet.** | **Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets.** |  |  |  |  |
 |  | - Mesin dan aparatus pemateri atau penyolder : | - Brazing or soldering machines and apparatus : |  |  |  |  |
 | 8515.11.00 | - - Besi dan pistol penyolder | - - Soldering irons and guns | 5 | - | 11 | - |
 | 8515.19 | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -512,7 +512,7 @@ lang:
 | 8515.90.29 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 8515.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.16 | Pemanas air instan atau pemanas air dengan tempat penyimpanan dan pemanas celup, listrik; aparatus pemanas ruangan dan pemanas tanah, listrik; aparatus penata rambut elektro-termal (misalnya, pengering rambut, pengeriting rambut, pemanas jepit untuk mengeriting rambut) dan pengering tangan; setrika listrik; peralatan elektro-termal lainnya dari jenis yang digunakan untuk keperluan rumah tangga; resistor panas listrik, selain yang dimaksud dari pos 85.45. | Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electro-thermic hair-dressing apparatus (for example, hair dryers, hair curlers, curling tong heaters) and hand dryers; electric smoothing irons; other electro-thermic appliances of a kind used for domestic purposes; electric heating resistors, other than those of heading 85.45. |  |  |  |  |
+| **85.16** | **Pemanas air instan atau pemanas air dengan tempat penyimpanan dan pemanas celup, listrik; aparatus pemanas ruangan dan pemanas tanah, listrik; aparatus penata rambut elektro-termal (misalnya, pengering rambut, pengeriting rambut, pemanas jepit untuk mengeriting rambut) dan pengering tangan; setrika listrik; peralatan elektro-termal lainnya dari jenis yang digunakan untuk keperluan rumah tangga; resistor panas listrik, selain yang dimaksud dari pos 85.45.** | **Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electro-thermic hair-dressing apparatus (for example, hair dryers, hair curlers, curling tong heaters) and hand dryers; electric smoothing irons; other electro-thermic appliances of a kind used for domestic purposes; electric heating resistors, other than those of heading 85.45.** |  |  |  |  |
 | 8516.10 | - Pemanas air instan atau pemanas air dengan tempat penyimpanan dan pemanas celup, listrik : | - Electric instantaneous or storage water heaters and immersion heaters : |  |  |  |  |
 |  | - - Pemanas air instan atau pemanas air dengan tempat penyimpanan : | - - Instantaneous or storage water heaters : |  |  |  |  |
 | 8516.10.11 | - - - Dispenser air yang hanya dilengkapi dengan pemanas air, untuk keperluan rumah tangga | - - - Water dispenser fitted only with water heater, for domestic use | 15 | - | 11 | - |
@@ -550,7 +550,7 @@ lang:
 | 8516.90.40 | - - Resistor pemanas listrik untuk mesin type-founding atau type-setting | - - Of electric heating resistors for type-founding or type-setting machines | 0 | - | 11 | - |
 | 8516.90.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.17 | Perangkat telepon, termasuk smartphone dan telepon lainnya untuk jaringan seluler atau untuk jaringan tanpa kabel lainnya; aparatus lainnya untuk mengirimkan atau menerima suara, gambar, atau data lainnya termasuk aparatus untuk komunikasi dalam jaringan kabel atau tanpa kabel (seperti local atau wide area network), selain dari aparat transmisi atau penerima dari pos 84.43, 85.25, 85.27 atau 85.28. | Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 84.43, 85.25, 85.27 or 85.28. |  |  |  |  |
+| **85.17** | **Perangkat telepon, termasuk smartphone dan telepon lainnya untuk jaringan seluler atau untuk jaringan tanpa kabel lainnya; aparatus lainnya untuk mengirimkan atau menerima suara, gambar, atau data lainnya termasuk aparatus untuk komunikasi dalam jaringan kabel atau tanpa kabel (seperti local atau wide area network), selain dari aparat transmisi atau penerima dari pos 84.43, 85.25, 85.27 atau 85.28.** | **Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 84.43, 85.25, 85.27 or 85.28.** |  |  |  |  |
 |  | - Perangkat telepon, termasuk smartphone dan telepon lainnya untuk jaringan seluler atau untuk jaringan tanpa kabel lainnya : | - Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks : |  |  |  |  |
 | 8517.11.00 | - - Perangkat telepon dengan gagang set tanpa kabel | - - Line telephone sets with cordless handsets | 0 | - | 11 | - |
 | 8517.13.00 | - - Smartphone | - - Smartphones | 0 | - | 11 | - |
@@ -595,7 +595,7 @@ lang:
 | 8517.79.92 | - - - - Dari barang untuk saluran radio-telefoni atau radio-telegrafi | - - - - Of goods for radio-telephony or radio-telegraphy | 0 | - | 11 | - |
 | 8517.79.99 | - - - - Lain-lain | - - - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.18 | Mikrofon dan penyangganya; pengeras suara, dipasang pada rumahnya maupun tidak; headphone dan earphone, dikombinasikan dengan mikrofon maupun tidak dan set yang terdiri dari satu mikrofon dan satu atau lebih pengeras suara; amplifier listrik audio-frequency; set amplifier suara listrik. | Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets. |  |  |  |  |
+| **85.18** | **Mikrofon dan penyangganya; pengeras suara, dipasang pada rumahnya maupun tidak; headphone dan earphone, dikombinasikan dengan mikrofon maupun tidak dan set yang terdiri dari satu mikrofon dan satu atau lebih pengeras suara; amplifier listrik audio-frequency; set amplifier suara listrik.** | **Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets.** |  |  |  |  |
 | 8518.10 | - Mikrofon dan penyangganya : | - Microphones and stands therefor : |  |  |  |  |
 |  | - - Mikrofon : | - - Microphones : |  |  |  |  |
 | 8518.10.11 | - - - Mikrofon mempunyai rentang frekuensi dari 300 Hz sampai dengan 3.400 Hz, dengan diameter tidak melebihi 10 mm dan tingginya tidak melebihi 3 mm, untuk keperluan telekomunikasi | - - - Microphones having a frequency range of 300 Hz to 3,400 Hz, with a diameter not exceeding 10 mm and a height not exceeding 3 mm, for telecommunication use | 0 | - | 11 | - |
@@ -635,7 +635,7 @@ lang:
 | 8518.90.40 | - - Dari barang pada subpos 8518.29.90 | - - Of goods of subheading 8518.29.90 | 0 | - | 11 | - |
 | 8518.90.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.19 | Aparatus untuk perekam atau reproduksi suara. | Sound recording or reproducing apparatus. |  |  |  |  |
+| **85.19** | **Aparatus untuk perekam atau reproduksi suara.** | **Sound recording or reproducing apparatus.** |  |  |  |  |
 | 8519.20 | - Aparatus yang dioperasikan dengan koin, uang kertas, kartu bank, token atau dengan alat pembayaran lainnya : | - Apparatus operated by coins, banknotes, bank cards, tokens or by other means of payment : |  |  |  |  |
 | 8519.20.10 | - - Record player dioperasikan dengan koin, token atau cakram | - - Coins, tokens or disc operated record players | 10 | - | 11 | - |
 | 8519.20.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -666,7 +666,7 @@ lang:
 | 8519.89.40 | - - - Aparatus reproduksi suara lainnya | - - - Other sound reproducing apparatus | 10 | - | 11 | - |
 | 8519.89.90 | - - - Lain-lain | - - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.21 | Aparatus perekam atau pereproduksi video, digabung dengan video tuner maupun tidak. | Video recording or reproducing apparatus, whether or not incorporating a video tuner. |  |  |  |  |
+| **85.21** | **Aparatus perekam atau pereproduksi video, digabung dengan video tuner maupun tidak.** | **Video recording or reproducing apparatus, whether or not incorporating a video tuner.** |  |  |  |  |
 | 8521.10 | - Tipe pita magnetik : | - Magnetic tape-type : |  |  |  |  |
 | 8521.10.10 | - - Dari jenis yang digunakan dalam sinematografi atau penyiaran televisi | - - Of a kind used in cinematography or television broadcasting | 10 | - | 11 | - |
 | 8521.10.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -678,7 +678,7 @@ lang:
 | 8521.90.91 | - - - Dari jenis yang digunakan dalam sinematografi atau penyiaran televisi | - - - Of a kind used in cinematography or television broadcasting | 10 | - | 11 | - |
 | 8521.90.99 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.22 | Bagian dan aksesori yang cocok untuk digunakan semata-mata atau terutama dengan aparatus dari pos 85.19 sampai dengan 85.21. | Parts and accessories suitable for use solely or principally with the apparatus of heading 85.19 or 85.21. |  |  |  |  |
+| **85.22** | **Bagian dan aksesori yang cocok untuk digunakan semata-mata atau terutama dengan aparatus dari pos 85.19 sampai dengan 85.21.** | **Parts and accessories suitable for use solely or principally with the apparatus of heading 85.19 or 85.21.** |  |  |  |  |
 | 8522.10.00 | - Pick-up catridge | - Pick-up cartridges | 5 | - | 11 | - |
 | 8522.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 8522.90.20 | - - Printed circuit board assembly untuk mesin penjawab telepon | - - Printed circuit board assemblies for telephone answering machines | 5 | - | 11 | - |
@@ -691,7 +691,7 @@ lang:
 | 8522.90.93 | - - - Bagian dan aksesori lainnya untuk barang dari subpos 8519.81 atau pos 85.21 | - - - Other parts and accessories for goods of subheading 8519.81 or heading 85.21 | 0 | - | 11 | - |
 | 8522.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.23 | Cakram, pita, media penyimpan non-volatile berbentuk padat, "smart card" dan media lain untuk merekam suara atau fenomena lain, baik direkam maupun tidak, termasuk matrice dan master untuk produksi cakram, tetapi selain produk dari Bab 37. | Discs, tapes, solid-state non-volatile storage devices, “smart cards” and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37. |  |  |  |  |
+| **85.23** | **Cakram, pita, media penyimpan non-volatile berbentuk padat, "smart card" dan media lain untuk merekam suara atau fenomena lain, baik direkam maupun tidak, termasuk matrice dan master untuk produksi cakram, tetapi selain produk dari Bab 37.** | **Discs, tapes, solid-state non-volatile storage devices, “smart cards” and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37.** |  |  |  |  |
 |  | - Media magnetik : | - Magnetic media : |  |  |  |  |
 | 8523.21 | - - Kartu yang dilengkapi jalur magnetik : | - - Cards incorporating a magnetic stripe : |  |  |  |  |
 | 8523.21.10 | - - - Tidak terekam | - - - Unrecorded | 5 | - | 11 | - |
@@ -799,7 +799,7 @@ lang:
 | 8523.80.92 | - - - Lain-lain, dari jenis yang digunakan untuk mereproduksi bentuk, data, suara dan gambar, direkam dalam bentuk biner yang dibaca oleh mesin, dan dapat dimanipulasi atau memberikan interaktivitas terhadap pemakai, dengan menggunakan mesin pengolah data otomatis; media penyimpanan format proprietary (terekam) | - - - Other, of a kind used for reproducing representations of instructions, data, sound and image, recorded in a machine readable binary form, and capable of being manipulated or providing interactivity to a user, by means of an automatic data processing machine; proprietary format storage (recorded) media | 0 | - | 11 | - |
 | 8523.80.99 | - - - Lain-lain | - - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.24 | Modul panel layar datar, dilengkapi dengan layar peka sentuh maupun tidak. | Flat panel display modules, whether or not incorporating touch-sensitive screens. |  |  |  |  |
+| **85.24** | **Modul panel layar datar, dilengkapi dengan layar peka sentuh maupun tidak.** | **Flat panel display modules, whether or not incorporating touch-sensitive screens.** |  |  |  |  |
 |  | - Tanpa driver atau sirkuit pengendali : | - Without drivers or control circuits : |  |  |  |  |
 | 8524.11.00 | - - Dari kristal cair | - - Of liquid crystals | 5 | - | 11 | - |
 | 8524.12.00 | - - Dari organic light-emitting diode (OLED) | - - Of organic light-emitting diodes (OLED) | 0 | - | 11 | - |
@@ -809,7 +809,7 @@ lang:
 | 8524.92.00 | - - Dari organic light-emitting diode (OLED) | - - Of organic light-emitting diodes (OLED) | 0 | - | 11 | - |
 | 8524.99.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.25 | Aparatus transmisi untuk penyiaran radio atau televisi digabung dengan aparatus penerima atau dengan aparatus perekam suara maupun tidak; kamera televisi, kamera digital dan kamera perekam video. | Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders. |  |  |  |  |
+| **85.25** | **Aparatus transmisi untuk penyiaran radio atau televisi digabung dengan aparatus penerima atau dengan aparatus perekam suara maupun tidak; kamera televisi, kamera digital dan kamera perekam video.** | **Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders.** |  |  |  |  |
 | 8525.50.00 | - Aparatus transmisi | - Transmission apparatus | 10 | - | 11 | - |
 | 8525.60.00 | - Aparatus transmisi dipasang pada aparatus penerima | - Transmission apparatus incorporating reception apparatus | 0 | - | 11 | - |
 |  | - Kamera televisi, kamera digital dan kamera perekam video : | - Television cameras, digital cameras and video camera recorders : |  |  |  |  |
@@ -831,7 +831,7 @@ lang:
 | 8525.89.30 | - - - Kamera web | - - - Web cameras | 5 | - | 11 | - |
 | 8525.89.90 | - - - Lain-lain | - - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.26 | Aparatus radar, aparatus pembantu radio navigasi dan aparatus radio kendali jarak jauh. | Radar apparatus, radio navigational aid apparatus and radio remote control apparatus. |  |  |  |  |
+| **85.26** | **Aparatus radar, aparatus pembantu radio navigasi dan aparatus radio kendali jarak jauh.** | **Radar apparatus, radio navigational aid apparatus and radio remote control apparatus.** |  |  |  |  |
 | 8526.10 | - Aparatus radar : | - Radar apparatus : |  |  |  |  |
 | 8526.10.10 | - - Aparatus radar, dibangun di darat, atau dari jenis untuk dipasang pada pesawat penumpang, atau dari jenis yang digunakan semata-mata pada kapal laut | - - Radar apparatus, ground based, or of a kind for use in civil aircraft, or of a kind used solely on sea-going vessels | 0 | - | 11 | - |
 | 8526.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -841,7 +841,7 @@ lang:
 | 8526.91.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 8526.92.00 | - - Aparatus radio kendali jarak jauh | - - Radio remote control apparatus | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.27 | Aparatus penerima untuk penyiaran radio, dikombinasi maupun tidak, dalam rumah yang sama, dengan aparatus perekam atau pereproduksi suara atau penunjuk waktu. | Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock. |  |  |  |  |
+| **85.27** | **Aparatus penerima untuk penyiaran radio, dikombinasi maupun tidak, dalam rumah yang sama, dengan aparatus perekam atau pereproduksi suara atau penunjuk waktu.** | **Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock.** |  |  |  |  |
 |  | - Penerima siaran radio dapat dioperasikan tanpa sumber tenaga dari luar : | - Radio-broadcast receivers capable of operating without an external source of power : |  |  |  |  |
 | 8527.12.00 | - - Radio-cassette player ukuran saku | - - Pocket-size radio cassette-players | 10 | - | 11 | - |
 | 8527.13 | - - Aparatus lainnya dikombinasikan dengan aparatus perekam atau pereproduksi suara : | - - Other apparatus combined with sound recording or reproducing apparatus : |  |  |  |  |
@@ -866,7 +866,7 @@ lang:
 | 8527.99.20 | - - - Dioperasikan dengan tenaga listrik | - - - Mains operated | 15 | - | 11 | - |
 | 8527.99.90 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.28 | Monitor dan proyektor, tidak digabung dengan aparatus penerima televisi; aparatus penerima untuk televisi, digabung dengan penerima siaran radio atau aparatus perekam atau pereproduksi suara atau video, maupun tidak. | Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus. |  |  |  |  |
+| **85.28** | **Monitor dan proyektor, tidak digabung dengan aparatus penerima televisi; aparatus penerima untuk televisi, digabung dengan penerima siaran radio atau aparatus perekam atau pereproduksi suara atau video, maupun tidak.** | **Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus.** |  |  |  |  |
 |  | - Monitor tabung sinar katoda : | - Cathode-ray tube monitors : |  |  |  |  |
 | 8528.42.00 | - - Dapat secara langsung dihubungkan ke dan dirancang untuk digunakan dengan mesin pengolah data otomatis dari pos 84.71 | - - Capable of directly connecting to and designed for use with an automatic data processing machine of heading 84.71 | 0 | - | 11 | - |
 | 8528.49 | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -898,7 +898,7 @@ lang:
 | 8528.72.99 | - - - - Lain-lain | - - - - Other | 15 | - | 11 | - |
 | 8528.73.00 | - - Lain-lain, monokrom | - - Other, monochrome | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.29 | Bagian yang cocok untuk digunakan semata-mata atau terutama dengan aparatus dari pos 85.24 sampai dengan 85.28. | Parts suitable for use solely or principally with the apparatus of headings 85.24 to 85.28. |  |  |  |  |
+| **85.29** | **Bagian yang cocok untuk digunakan semata-mata atau terutama dengan aparatus dari pos 85.24 sampai dengan 85.28.** | **Parts suitable for use solely or principally with the apparatus of headings 85.24 to 85.28.** |  |  |  |  |
 | 8529.10 | - Antena dan reflektor antena dari segala jenis; bagian yang cocok untuk digunakan padanya : | - Aerials and aerial reflectors of all kinds; parts suitable for use therewith : |  |  |  |  |
 |  | - - Piringan reflektor antena parabola untuk sistem multi-media penyiaran langsung dan bagiannya : | - - Parabolic aerial reflector dishes for direct broadcast multi-media systems and parts thereof : |  |  |  |  |
 | 8529.10.21 | - - - Untuk penerima televisi | - - - For television reception | 5 | - | 11 | - |
@@ -926,12 +926,12 @@ lang:
 | 8529.90.94 | - - - Lain-lain, untuk panel layar datar | - - - Other, for flat panel displays | 0 | - | 11 | - |
 | 8529.90.99 | - - - Lain-lain | - - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.30 | Perlengkapan isyarat, pengontrol keselamatan atau lalu lintas elektrik untuk rel kereta api, trem, jalan, lalu lintas air, fasilitas parkir, instalasi pelabuhan atau lapangan udara (selain yang dimaksud dari pos 86.08). | Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields (other than those of heading 86.08). |  |  |  |  |
+| **85.30** | **Perlengkapan isyarat, pengontrol keselamatan atau lalu lintas elektrik untuk rel kereta api, trem, jalan, lalu lintas air, fasilitas parkir, instalasi pelabuhan atau lapangan udara (selain yang dimaksud dari pos 86.08).** | **Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields (other than those of heading 86.08).** |  |  |  |  |
 | 8530.10.00 | - Perlengkapan untuk rel kereta api atau trem | - Equipment for railways or tramways | 5 | - | 11 | - |
 | 8530.80.00 | - Perlengkapan lainnya | - Other equipment | 5 | - | 11 | - |
 | 8530.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.31 | Aparatus isyarat suara atau visual elektrik (misalnya, bel, sirene, panel indikator, alarm pencuri atau kebakaran), selain yang dimaksud dari pos 85.12 atau 85.30. | Electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 85.12 or 85.30. |  |  |  |  |
+| **85.31** | **Aparatus isyarat suara atau visual elektrik (misalnya, bel, sirene, panel indikator, alarm pencuri atau kebakaran), selain yang dimaksud dari pos 85.12 atau 85.30.** | **Electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 85.12 or 85.30.** |  |  |  |  |
 | 8531.10 | - Alarm pencuri atau kebakaran dan aparatus semacam itu : | - Burglar or fire alarms and similar apparatus : |  |  |  |  |
 | 8531.10.10 | - - Alarm pencuri | - - Burglar alarms | 5 | - | 11 | - |
 | 8531.10.20 | - - Alarm kebakaran | - - Fire alarms | 5 | - | 11 | - |
@@ -952,7 +952,7 @@ lang:
 | 8531.90.30 | - - Dari bel atau aparatus isyarat suara lainnya | - - Of other bells or sound signalling apparatus | 5 | - | 11 | - |
 | 8531.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.32 | Kapasitor listrik, tetap, variabel atau dapat disesuaikan (pre-set). | Electrical capacitors, fixed, variable or adjustable (pre-set). |  |  |  |  |
+| **85.32** | **Kapasitor listrik, tetap, variabel atau dapat disesuaikan (pre-set).** | **Electrical capacitors, fixed, variable or adjustable (pre-set).** |  |  |  |  |
 | 8532.10.00 | - Kapasitor tetap dirancang untuk digunakan dalam sirkuit 50/60 Hz dan mempunyai kapasitas pemindah daya reaktif tidak kurang dari 0,5 kvar (kapasitor daya) | - Fixed capacitors designed for use in 50/60 Hz circuits and having a reactive power handling capacity of not less than 0.5 kvar (power capacitors) | 0 | - | 11 | - |
 |  | - Kapasitor tetap lainnya : | - Other fixed capacitors : |  |  |  |  |
 | 8532.21.00 | - - Tantalum | - - Tantalum | 0 | - | 11 | - |
@@ -964,7 +964,7 @@ lang:
 | 8532.30.00 | - Kapasitor variabel atau dapat disesuaikan (pre-set) | - Variable or adjustable (pre-set) capacitors | 0 | - | 11 | - |
 | 8532.90.00 | - Bagian | - Parts | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.33 | Resistor listrik (termasuk reostat dan potensiometer), selain resistor panas. | Electrical resistors (including rheostats and potentiometers), other than heating resistors. |  |  |  |  |
+| **85.33** | **Resistor listrik (termasuk reostat dan potensiometer), selain resistor panas.** | **Electrical resistors (including rheostats and potentiometers), other than heating resistors.** |  |  |  |  |
 | 8533.10 | - Resistor karbon tetap, tipe komposisi atau film : | - Fixed carbon resistors, composition or film type : |  |  |  |  |
 | 8533.10.10 | - - Dipasang pada permukaan | - - Surface mounted | 0 | - | 11 | - |
 | 8533.10.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -977,13 +977,13 @@ lang:
 | 8533.40.00 | - Resistor variabel lainnya, termasuk reostat dan potensiometer | - Other variable resistors, including rheostats and potentiometers | 0 | - | 11 | - |
 | 8533.90.00 | - Bagian | - Parts | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.34 | Printed circuit. | Printed circuits. |  |  |  |  |
+| **85.34** | **Printed circuit.** | **Printed circuits.** |  |  |  |  |
 | 8534.00.10 | - Single-sided | - Single-sided | 0 | - | 11 | - |
 | 8534.00.20 | - Double-sided | - Double-sided | 0 | - | 11 | - |
 | 8534.00.30 | - Multi-layer | - Multi-layer | 0 | - | 11 | - |
 | 8534.00.90 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.35 | Aparatus listrik untuk memindahkan atau melindungi sirkuit listrik, atau untuk membuat koneksi ke atau pada sirkuit listrik (misalnya, sakelar, sekering, penangkal petir, pembatas voltase, penekan kenaikan tegangan, steker dan konektor lainnya, kotak penyambung), untuk voltase melebihi 1.000 volt. | Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes), for a voltage exceeding 1,000 volts. |  |  |  |  |
+| **85.35** | **Aparatus listrik untuk memindahkan atau melindungi sirkuit listrik, atau untuk membuat koneksi ke atau pada sirkuit listrik (misalnya, sakelar, sekering, penangkal petir, pembatas voltase, penekan kenaikan tegangan, steker dan konektor lainnya, kotak penyambung), untuk voltase melebihi 1.000 volt.** | **Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes), for a voltage exceeding 1,000 volts.** |  |  |  |  |
 | 8535.10.00 | - Sekering | - Fuses | 5 | - | 11 | - |
 |  | - Pemutus sirkuit otomatis : | - Automatic circuit breakers : |  |  |  |  |
 | 8535.21 | - - Untuk voltase kurang dari 72,5 kV : | - - For a voltage of less than 72.5 kV : |  |  |  |  |
@@ -1005,7 +1005,7 @@ lang:
 | 8535.90.20 | - - Sakelar pemindah dari jenis yang digunakan untuk menghidupkan motor listrik | - - Change-over switches of a kind used for starting electric motors | 5 | - | 11 | - |
 | 8535.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.36 | Aparatus listrik untuk memindahkan atau melindungi sirkuit listrik, atau untuk membuat koneksi ke atau pada sirkuit listrik (misalnya, sakelar, relai, sekering, penekan kenaikan tegangan, steker, soket, gagang lampu dan konektor lainnya, kotak penyambung), untuk voltase tidak melebihi 1.000 volt; konektor untuk serat optik, bundel atau kabel serat optik. | Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 volts; connectors for optical fibres, optical fibre bundles or cables. |  |  |  |  |
+| **85.36** | **Aparatus listrik untuk memindahkan atau melindungi sirkuit listrik, atau untuk membuat koneksi ke atau pada sirkuit listrik (misalnya, sakelar, relai, sekering, penekan kenaikan tegangan, steker, soket, gagang lampu dan konektor lainnya, kotak penyambung), untuk voltase tidak melebihi 1.000 volt; konektor untuk serat optik, bundel atau kabel serat optik.** | **Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 volts; connectors for optical fibres, optical fibre bundles or cables.** |  |  |  |  |
 | 8536.10 | - Sekering : | - Fuses : |  |  |  |  |
 |  | - - Sekering termal; sekering tipe kaca : | - - Thermal fuses; glass type fuses : |  |  |  |  |
 | 8536.10.11 | - - - Cocok untuk penggunaan pada kipas listrik | - - - Suitable for use in electric fans | 0 | - | 11 | - |
@@ -1101,7 +1101,7 @@ lang:
 | 8536.90.94 | - - - - Lain-lain | - - - - Other | 0 | - | 11 | - |
 | 8536.90.99 | - - - Lain-lain | - - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.37 | Papan, panel, konsol, meja, kabinet dan landasan lainnya, dilengkapi dengan dua atau lebih aparatus dari pos 85.35 atau 85.36, untuk pengontrol listrik atau pendistribusi listrik, termasuk yang dilengkapi dengan instrumen atau aparatus dari Bab 90, dan aparatus pengontrol numerik, selain aparatus sakelar dari pos 85.17. | Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 85.35 or 85.36, for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control apparatus, other than switching apparatus of heading 85.17. |  |  |  |  |
+| **85.37** | **Papan, panel, konsol, meja, kabinet dan landasan lainnya, dilengkapi dengan dua atau lebih aparatus dari pos 85.35 atau 85.36, untuk pengontrol listrik atau pendistribusi listrik, termasuk yang dilengkapi dengan instrumen atau aparatus dari Bab 90, dan aparatus pengontrol numerik, selain aparatus sakelar dari pos 85.17.** | **Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 85.35 or 85.36, for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control apparatus, other than switching apparatus of heading 85.17.** |  |  |  |  |
 | 8537.10 | - Untuk voltase tidak melebihi 1.000 volt : | - For a voltage not exceeding 1,000 V : |  |  |  |  |
 |  | - - Papan sakelar dan panel kontrol : | - - Switchboards and control panels : |  |  |  |  |
 | 8537.10.11 | - - - Panel kontrol dari jenis yang cocok untuk penggunaan dalam sistem kendali distribusi | - - - Control panels of a kind suitable for use in distributed control systems | 5 | - | 11 | - |
@@ -1124,7 +1124,7 @@ lang:
 | 8537.20.29 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 8537.20.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.38 | Bagian yang cocok untuk digunakan semata-mata atau terutama dengan aparatus dari pos 85.35, 85.36 atau 85.37. | Parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or 85.37. |  |  |  |  |
+| **85.38** | **Bagian yang cocok untuk digunakan semata-mata atau terutama dengan aparatus dari pos 85.35, 85.36 atau 85.37.** | **Parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or 85.37.** |  |  |  |  |
 | 8538.10 | - Papan, panel, konsol, meja, kabinet dan landasan lainnya untuk barang dari pos 85.37, tidak dilengkapi dengan aparatusnya : | - Boards, panels, consoles, desks, cabinets and other bases for the goods of heading 85.37, not equipped with their apparatus : |  |  |  |  |
 |  | - - Untuk voltase tidak melebihi 1.000 volt : | - - For a voltage not exceeding 1,000 V : |  |  |  |  |
 | 8538.10.11 | - - - Bagian dari pengontrol logic yang dapat diprogram untuk mesin otomatis untuk pengangkutan, penanganan dan penyimpanan die untuk peralatan semikonduktor | - - - Parts of programmable logic controllers for automated machines for transport, handling and storage of dies for semiconductor devices | 5 | - | 11 | - |
@@ -1142,7 +1142,7 @@ lang:
 | 8538.90.19 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 8538.90.20 | - - Untuk voltase melebihi 1.000 volt | - - For a voltage exceeding 1,000 V | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.39 | Lampu filamen atau lampu discharge listrik, termasuk unit lampu sealed beam dan lampu ultra violet atau infra merah; lampu busur; sumber cahaya light-emitting diode (LED). | Electric filament or discharge lamps, including sealed beam lamp units and ultra-violet or infra-red lamps; arc-lamps; light-emitting diode (LED) light sources. |  |  |  |  |
+| **85.39** | **Lampu filamen atau lampu discharge listrik, termasuk unit lampu sealed beam dan lampu ultra violet atau infra merah; lampu busur; sumber cahaya light-emitting diode (LED).** | **Electric filament or discharge lamps, including sealed beam lamp units and ultra-violet or infra-red lamps; arc-lamps; light-emitting diode (LED) light sources.** |  |  |  |  |
 | 8539.10 | - Unit lampu sealed beam : | - Sealed beam lamp units : |  |  |  |  |
 | 8539.10.10 | - - Untuk kendaraan bermotor dari Bab 87 | - - For motor vehicles of Chapter 87 | 5 | - | 11 | - |
 | 8539.10.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -1199,7 +1199,7 @@ lang:
 | 8539.90.30 | - - Lain-lain, dari subpos 8539.51.00 | - - Other, of subheading 8539.51.00 | 5 | - | 11 | - |
 | 8539.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.40 | Katup dan tabung termionik, katoda dingin atau katup dan tabung katoda foto (misalnya, katup dan tabung hampa atau berisi uap atau gas, katup dan tabung busur air raksa pengubah arus, tabung sinar katoda, tabung kamera televisi). | Thermionic, cold cathode or photo-cathode valves and tubes (for example, vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and tubes, cathode-ray tubes, television camera tubes). |  |  |  |  |
+| **85.40** | **Katup dan tabung termionik, katoda dingin atau katup dan tabung katoda foto (misalnya, katup dan tabung hampa atau berisi uap atau gas, katup dan tabung busur air raksa pengubah arus, tabung sinar katoda, tabung kamera televisi).** | **Thermionic, cold cathode or photo-cathode valves and tubes (for example, vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and tubes, cathode-ray tubes, television camera tubes).** |  |  |  |  |
 |  | - Tabung gambar televisi sinar katoda, termasuk tabung sinar katoda untuk video monitor : | - Cathode-ray television picture tubes, including video monitor cathode-ray tubes : |  |  |  |  |
 | 8540.11.00 | - - Berwarna | - - Colour | 0 | - | 11 | - |
 | 8540.12.00 | - - Monokrom | - - Monochrome | 5 | - | 11 | - |
@@ -1218,7 +1218,7 @@ lang:
 | 8540.91.00 | - - Dari tabung sinar katoda | - - Of cathode-ray tubes | 0 | - | 11 | - |
 | 8540.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.41 | Peralatan semi konduktor (sebagai contoh, dioda, transistor, transduser berbasis semi konduktor); peralatan semi konduktor peka cahaya, termasuk sel fotovoltaik dirakit menjadi modul atau dibuat menjadi panel maupun tidak; light-emitting diode (LED), dirakit dengan light-emitting diode (LED) lainnya maupun tidak; kristal piezoelektrik terpasang. | Semiconductor devices (for example, diodes, transistors, semiconductor-based transducers); photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED), whether or not assembled with other light-emitting diodes (LED); mounted piezo-electric crystals. |  |  |  |  |
+| **85.41** | **Peralatan semi konduktor (sebagai contoh, dioda, transistor, transduser berbasis semi konduktor); peralatan semi konduktor peka cahaya, termasuk sel fotovoltaik dirakit menjadi modul atau dibuat menjadi panel maupun tidak; light-emitting diode (LED), dirakit dengan light-emitting diode (LED) lainnya maupun tidak; kristal piezoelektrik terpasang.** | **Semiconductor devices (for example, diodes, transistors, semiconductor-based transducers); photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED), whether or not assembled with other light-emitting diodes (LED); mounted piezo-electric crystals.** |  |  |  |  |
 | 8541.10.00 | - Dioda, selain dioda peka cahaya atau light-emitting diode (LED) | - Diodes, other than photosensitive or light-emitting diodes (LED) | 0 | - | 11 | - |
 |  | - Transistor, selain transistor peka cahaya : | - Transistors, other than photosensitive transistors : |  |  |  |  |
 | 8541.21.00 | - - Dengan tingkat disipasi kurang dari 1 W | - - With a dissipation rate of less than 1 W | 0 | - | 11 | - |
@@ -1235,7 +1235,7 @@ lang:
 | 8541.60.00 | - Kristal piezoelektrik terpasang | - Mounted piezo-electric crystals | 0 | - | 11 | - |
 | 8541.90.00 | - Bagian | - Parts | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.42 | Sirkuit elektronik terpadu. | Electronic integrated circuits. |  |  |  |  |
+| **85.42** | **Sirkuit elektronik terpadu.** | **Electronic integrated circuits.** |  |  |  |  |
 |  | - Sirkuit elektronik terpadu : | - Electronic integrated circuits : |  |  |  |  |
 | 8542.31.00 | - - Prosesor dan alat kontrol, digabung atau tidak dengan memori, konverter, logic circuit, amplifier, sirkuit jam dan waktu atau sirkuit lainnya | - - Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits | 0 | - | 11 | - |
 | 8542.32.00 | - - Memori | - - Memories | 0 | - | 11 | - |
@@ -1243,7 +1243,7 @@ lang:
 | 8542.39.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 | 8542.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.43 | Mesin dan aparatus elektrik, mempunyai fungsi tersendiri, tidak dirinci atau termasuk pada pos lainnya dalam Bab ini. | Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this Chapter. |  |  |  |  |
+| **85.43** | **Mesin dan aparatus elektrik, mempunyai fungsi tersendiri, tidak dirinci atau termasuk pada pos lainnya dalam Bab ini.** | **Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this Chapter.** |  |  |  |  |
 | 8543.10.00 | - Akselerator partikel | - Particle accelerators | 5 | - | 11 | - |
 | 8543.20.00 | - Generator sinyal | - Signal generators | 5 | - | 11 | - |
 | 8543.30 | - Mesin dan aparatus untuk penyepuhan dengan listrik, elektrolisis atau elektroforesis : | - Machines and apparatus for electroplating, electrolysis or electrophoresis : |  |  |  |  |
@@ -1269,7 +1269,7 @@ lang:
 | 8543.90.40 | - - Dari barang pada subpos 8543.70.40 | - - Of goods of subheading 8543.70.40 | 5 | - | 11 | - |
 | 8543.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.44 | Kawat diisolasi (termasuk dienamel atau dianodisasi), kabel (termasuk kabel koaksial) dan konduktor listrik diisolasi lainnya, dilengkapi dengan konektor maupun tidak; kabel serat optik, dibuat dari serat berselubung tersendiri, dirakit dengan konduktor listrik atau dilengkapi dengan konektor maupun tidak. | Insulated (including enamelled or anodised) wire, cable (including co-axial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors. |  |  |  |  |
+| **85.44** | **Kawat diisolasi (termasuk dienamel atau dianodisasi), kabel (termasuk kabel koaksial) dan konduktor listrik diisolasi lainnya, dilengkapi dengan konektor maupun tidak; kabel serat optik, dibuat dari serat berselubung tersendiri, dirakit dengan konduktor listrik atau dilengkapi dengan konektor maupun tidak.** | **Insulated (including enamelled or anodised) wire, cable (including co-axial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors.** |  |  |  |  |
 |  | - Kawat gulung : | - Winding wire : |  |  |  |  |
 | 8544.11 | - - Dari tembaga : | - - Of copper : |  |  |  |  |
 | 8544.11.20 | - - - Dengan lapisan terluar atau dibungkus dengan kertas, tekstil atau poli(vinil klorida) | - - - With an outer coating or covering of paper, textiles or poly(vinyl chloride) | 12,5 | - | 11 | - |
@@ -1363,21 +1363,21 @@ lang:
 | 8544.70.10 | - - Kabel telepon bawah air; kabel telegrap bawah air; kabel relai radio bawah air | - - Submarine telephone cables; submarine telegraph cables; submarine radio relay cables | 0 | - | 11 | - |
 | 8544.70.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.45 | Elektroda karbon, sikat karbon, karbon lampu, karbon baterai dan barang lainnya dari grafit atau karbon lainnya, dengan atau tanpa logam, jenis yang digunakan untuk keperluan elektrik. | Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes. |  |  |  |  |
+| **85.45** | **Elektroda karbon, sikat karbon, karbon lampu, karbon baterai dan barang lainnya dari grafit atau karbon lainnya, dengan atau tanpa logam, jenis yang digunakan untuk keperluan elektrik.** | **Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes.** |  |  |  |  |
 |  | - Elektroda : | - Electrodes : |  |  |  |  |
 | 8545.11.00 | - - Dari jenis yang digunakan untuk tanur | - - Of a kind used for furnaces | 5 | - | 11 | - |
 | 8545.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 8545.20.00 | - Sikat | - Brushes | 5 | - | 11 | - |
 | 8545.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.46 | Isolator listrik dari berbagai bahan. | Electrical insulators of any material. |  |  |  |  |
+| **85.46** | **Isolator listrik dari berbagai bahan.** | **Electrical insulators of any material.** |  |  |  |  |
 | 8546.10.00 | - Dari kaca | - Of glass | 10 | - | 11 | - |
 | 8546.20 | - Dari keramik : | - Of ceramics : |  |  |  |  |
 | 8546.20.10 | - - Bushing transformator dan isolator pemutus sirkuit | - - Transformer bushings and circuit breaker insulators | 5 | - | 11 | - |
 | 8546.20.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 8546.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.47 | Alat kelengkapan pengisolasi untuk mesin, peralatan atau perlengkapan elektrik, yang seluruhnya merupakan bahan isolasi yang terpisah dari sejumlah kecil komponen logam (misalnya, soket berulir) yang semata-mata dipasang selama pencetakan untuk keperluan perakitan, selain isolator yang dimaksud dari pos 85.46; pipa saluran listrik beserta sambungannya dari logam tidak mulia dilapisi bahan pengisolasi. | Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal (for example, threaded sockets) incorporated during moulding solely for purposes of assembly, other than insulators of heading 85.46; electrical conduit tubing and joints therefor, of base metal lined with insulating material. |  |  |  |  |
+| **85.47** | **Alat kelengkapan pengisolasi untuk mesin, peralatan atau perlengkapan elektrik, yang seluruhnya merupakan bahan isolasi yang terpisah dari sejumlah kecil komponen logam (misalnya, soket berulir) yang semata-mata dipasang selama pencetakan untuk keperluan perakitan, selain isolator yang dimaksud dari pos 85.46; pipa saluran listrik beserta sambungannya dari logam tidak mulia dilapisi bahan pengisolasi.** | **Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal (for example, threaded sockets) incorporated during moulding solely for purposes of assembly, other than insulators of heading 85.46; electrical conduit tubing and joints therefor, of base metal lined with insulating material.** |  |  |  |  |
 | 8547.10.00 | - Alat kelengkapan pengisolasi dari keramik | - Insulating fittings of ceramics | 5 | - | 11 | - |
 | 8547.20.00 | - Alat kelengkapan pengisolasi dari plastik | - Insulating fittings of plastics | 5 | - | 11 | - |
 | 8547.90 | - Lain-lain : | - Other : |  |  |  |  |
@@ -1386,7 +1386,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 8548.00.00 | Bagian elektrik dari mesin atau aparatus, tidak dirinci atau termasuk pada pos lainnya dalam Bab ini. | Electrical parts of machinery or apparatus, not specified or included elsewhere in this Chapter. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 85.49 | Sisa dan skrap elektrik dan elektronik. | Electrical and electronic waste and scrap. |  |  |  |  |
+| **85.49** | **Sisa dan skrap elektrik dan elektronik.** | **Electrical and electronic waste and scrap.** |  |  |  |  |
 |  | - Sisa dan skrap dari sel primer, baterai primer dan akumulator listrik; sel primer bekas pakai, baterai primer bekas pakai dan akumulator listrik bekas pakai : | - Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators : |  |  |  |  |
 | 8549.11 | - - Sisa dan skrap dari akumulator asam timbal; akumulator asam timbal bekas pakai : | - - Waste and scrap of lead-acid accumulators; spent lead-acid accumulators : |  |  |  |  |
 |  | - - - Skrap asam timbal dari baterai penyimpanan, dikeringkan atau tidak : | - - - Lead-acid scrap storage batteries, drained or undrained : |  |  |  |  |

@@ -40,7 +40,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 5006.00.00 | Benang sutra dan benang pintal dari sisa sutra, disiapkan untuk penjualan eceran; benang ulat sutra. | Silk yarn and yarn spun from silk waste, put up for retail sale; silk-worm gut. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 50.07 | Kain tenunan dari sutra atau sisa sutra. | Woven fabrics of silk or of silk waste. |  |  |  |  |
+| **50.07** | **Kain tenunan dari sutra atau sisa sutra.** | **Woven fabrics of silk or of silk waste.** |  |  |  |  |
 | 5007.10 | - Kain dari sutra noil : | - Fabrics of noil silk : |  |  |  |  |
 | 5007.10.20 | - - Tidak dikelantang atau dikelantang | - - Unbleached or bleached | 5 | - | 11 | - |
 | 5007.10.30 | - - Dicetak dengan proses batik tradisional | - - Printed by the traditional batik process | 10 | - | 11 | - |

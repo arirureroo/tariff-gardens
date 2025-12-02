@@ -31,7 +31,7 @@ lang:
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB I HIDROKARBON DAN TURUNAN HALOGENASI, SULFONASI, NITRASI ATAU NITROSASINYA | SUB-CHAPTER I HYDROCARBONS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES |  |  |  |  |
-| 29.01 | Hidrokarbon asiklik. | Acyclic hydrocarbons. |  |  |  |  |
+| **29.01** | **Hidrokarbon asiklik.** | **Acyclic hydrocarbons.** |  |  |  |  |
 | 2901.10.00 | - Jenuh | - Saturated | 0 | - | 11 | - |
 |  | - Tidak jenuh : | - Unsaturated : |  |  |  |  |
 | 2901.21.00 | - - Etilena | - - Ethylene | 0 | - | 11 | - |
@@ -43,7 +43,7 @@ lang:
 | 2901.29.20 | - - - Heksena dan isomernya | - - - Hexene and isomers thereof | 0 | - | 11 | - |
 | 2901.29.90 | - - - Lain-lain | - - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.02 | Hidrokarbon siklik. | Cyclic hydrocarbons. |  |  |  |  |
+| **29.02** | **Hidrokarbon siklik.** | **Cyclic hydrocarbons.** |  |  |  |  |
 |  | - Siklana, siklena dan sikloterpena : | - Cyclanes, cyclenes and cycloterpenes : |  |  |  |  |
 | 2902.11.00 | - - Sikloheksana | - - Cyclohexane | 5 | - | 11 | - |
 | 2902.19.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -62,7 +62,7 @@ lang:
 | 2902.90.20 | - - Alkilbenzena lainnya | - - Other alkylbenzenes | 5 | - | 11 | - |
 | 2902.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.03 | Turunan halogenasi dari hidrokarbon. | Halogenated derivatives of hydrocarbons. |  |  |  |  |
+| **29.03** | **Turunan halogenasi dari hidrokarbon.** | **Halogenated derivatives of hydrocarbons.** |  |  |  |  |
 |  | - Turunan klorinasi dari hidrokarbon asiklik jenuh : | - Saturated chlorinated derivatives of acyclic hydrocarbons : |  |  |  |  |
 | 2903.11 | - - Klorometana (metil klorida) dan kloroetana (etil klorida) : | - - Chloromethane (methyl chloride) and chloroethane (ethyl chloride) : |  |  |  |  |
 | 2903.11.10 | - - - Klorometana (metil klorida) | - - - Chloromethane (methyl chloride) | 5 | - | 11 | - |
@@ -118,7 +118,7 @@ lang:
 | 2903.94.00 | - - Heksabromobifenil | - - Hexabromobiphenyls | 5 | - | 11 | - |
 | 2903.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.04 | Turunan sulfonasi, nitrasi atau nitrosasi dari hidrokarbon, dihalogenasi maupun tidak. | Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated. |  |  |  |  |
+| **29.04** | **Turunan sulfonasi, nitrasi atau nitrosasi dari hidrokarbon, dihalogenasi maupun tidak.** | **Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated.** |  |  |  |  |
 | 2904.10.00 | - Turunan hanya mengandung gugus sulfo, garam dan etil esternya | - Derivatives containing only sulpho groups, their salts and ethyl esters | 5 | - | 11 | - |
 | 2904.20 | - Turunan hanya mengandung gugus nitro atau hanya kelompok nitroso : | - Derivatives containing only nitro or only nitroso groups : |  |  |  |  |
 | 2904.20.10 | - - Trinitrotoluena | - - Trinitrotoluene | 5 | - | 11 | - |
@@ -135,7 +135,7 @@ lang:
 | 2904.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB II ALKOHOL DAN TURUNAN HALOGENASI, SULFONASI, NITRASI ATAU NITROSASINYA | SUB-CHAPTER II ALCOHOLS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES |  |  |  |  |
-| 29.05 | Alkohol asiklik dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.05** | **Alkohol asiklik dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 |  | - Alkohol monohidrat jenuh : | - Saturated monohydric alcohols : |  |  |  |  |
 | 2905.11.00 | - - Metanol (metil alkohol) | - - Methanol (methyl alcohol) | 5 | - | 11 | - |
 | 2905.12.00 | - - Propan-1-ol (propil alkohol) dan propan-2-ol (isopropil alkohol) | - - Propan-1-ol (propyl alcohol) and propan-2-ol (isopropyl alcohol) | 0 | - | 11 | - |
@@ -162,7 +162,7 @@ lang:
 | 2905.51.00 | - - Etklorvinol (INN) | - - Ethchlorvynol (INN) | 5 | - | 11 | - |
 | 2905.59.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.06 | Alkohol siklik dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.06** | **Alkohol siklik dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 |  | - Siklanik, siklenik atau sikloterpenik : | - Cyclanic, cyclenic or cycloterpenic : |  |  |  |  |
 | 2906.11.00 | - - Mentol | - - Menthol | 0 | - | 11 | - |
 | 2906.12.00 | - - Sikloheksanol, metilsikloheksanol dan dimetilsikloheksanol | - - Cyclohexanol, methylcyclohexanols and dimethylcyclohexanols | 5 | - | 11 | - |
@@ -173,7 +173,7 @@ lang:
 | 2906.29.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB III FENOL, FENOL-ALKOHOL, DAN TURUNAN HALOGENASI, SULFONASI, NITRASI ATAU NITROSASINYA | SUB-CHAPTER III PHENOLS, PHENOL-ALCOHOLS, AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES |  |  |  |  |
-| 29.07 | Fenol; fenol-alkohol. | Phenols; phenol-alcohols. |  |  |  |  |
+| **29.07** | **Fenol; fenol-alkohol.** | **Phenols; phenol-alcohols.** |  |  |  |  |
 |  | - Monofenol : | - Monophenols : |  |  |  |  |
 | 2907.11.00 | - - Fenol (hidroksibenzena) dan garamnya | - - Phenol (hydroxybenzene) and its salts | 5 | - | 11 | - |
 | 2907.12.00 | - - Kresol dan garamnya | - - Cresols and their salts | 5 | - | 11 | - |
@@ -188,7 +188,7 @@ lang:
 | 2907.29.10 | - - - Fenol-alkohol | - - - Phenol-alcohols | 5 | - | 11 | - |
 | 2907.29.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.08 | Turunan halogenasi, sulfonasi, nitrasi atau nitrosasi dari fenol atau fenol-alkohol. | Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols or phenol-alcohols. |  |  |  |  |
+| **29.08** | **Turunan halogenasi, sulfonasi, nitrasi atau nitrosasi dari fenol atau fenol-alkohol.** | **Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols or phenol-alcohols.** |  |  |  |  |
 |  | - Turunan hanya mengandung pengganti halogen dan garamnya : | - Derivatives containing only halogen substituents and their salts : |  |  |  |  |
 | 2908.11.00 | - - Pentaklorofenol (ISO) | - - Pentachlorophenol (ISO) | 5 | - | 11 | - |
 | 2908.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -198,7 +198,7 @@ lang:
 | 2908.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB IVETER, ALKOHOL PEROKSIDA, ETER PEROKSIDA, ASETAL DAN HEMIASETAL PEROKSIDA, KETON PEROKSIDA, EPOKSIDA DENGAN TIGA CINCIN, ASETAL DAN HEMIASETAL, SERTA TURUNAN HALOGENASI, SULFONASI, NITRASI ATAU NITROSASINYA | SUB-CHAPTER IV ETHERS, ALCOHOL PEROXIDES, ETHER PEROXIDES, ACETAL AND HEMIACETAL PEROXIDES, KETONE PEROXIDES, EPOXIDES WITH A THREE-MEMBERED RING, ACETALS AND HEMIACETALS, AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES |  |  |  |  |
-| 29.09 | Eter, eter-alkohol, eter-fenol, eter-alkohol-fenol, alkohol peroksida, eter peroksida, asetal dan hemiasetal peroksida, keton peroksida (mempunyai rumus kimia tertentu maupun tidak), dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol peroxides, ether peroxides, acetal and hemiacetal peroxides, ketone peroxides (whether or not chemically defined), and their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.09** | **Eter, eter-alkohol, eter-fenol, eter-alkohol-fenol, alkohol peroksida, eter peroksida, asetal dan hemiasetal peroksida, keton peroksida (mempunyai rumus kimia tertentu maupun tidak), dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol peroxides, ether peroxides, acetal and hemiacetal peroxides, ketone peroxides (whether or not chemically defined), and their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 |  | - Eter asiklik dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya : | - Acyclic ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives : |  |  |  |  |
 | 2909.11.00 | - - Dietil eter | - - Diethyl ether | 5 | - | 11 | - |
 | 2909.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -212,7 +212,7 @@ lang:
 | 2909.50.00 | - Eter-fenol, eter-alkohol-fenol dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya | - Ether-phenols, ether-alcohol-phenols and their halogenated, sulphonated, nitrated or nitrosated derivatives | 5 | - | 11 | - |
 | 2909.60.00 | - Alkohol peroksida, eter peroksida, asetal dan hemiasetal peroksida, keton peroksida dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya | - Alcohol peroxides, ether peroxides, acetal and hemiacetal peroxides, ketone peroxides and their halogenated, sulphonated, nitrated or nitrosated derivatives | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.10 | Epoksida, epoksi alkohol, epoksi fenol dan epoksi eter, dengan tiga cincin, dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a three-membered ring, and their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.10** | **Epoksida, epoksi alkohol, epoksi fenol dan epoksi eter, dengan tiga cincin, dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a three-membered ring, and their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 | 2910.10.00 | - Oksiran (etilena oksida) | - Oxirane (ethylene oxide) | 5 | - | 11 | - |
 | 2910.20.00 | - Metiloksiran (propilena oksida) | - Methyloxirane (propylene oxide) | 0 | - | 11 | - |
 | 2910.30.00 | - 1-Kloro-2,3-epoksipropana (epiklorohidrin) | - 1-Chloro-2,3-epoxypropane (epichlorohydrin) | 0 | - | 11 | - |
@@ -223,7 +223,7 @@ lang:
 | 2911.00.00 | Asetal dan hemiasetal, dengan fungsi oksigen lainnya maupun tidak, dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB VSENYAWA BERFUNGSI ALDEHIDA | SUB-CHAPTER V ALDEHYDE-FUNCTION COMPOUNDS |  |  |  |  |
-| 29.12 | Aldehida, dengan fungsi oksigen lainnya maupun tidak; polimer siklik dari aldehida; paraformaldehida. | Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; paraformaldehyde. |  |  |  |  |
+| **29.12** | **Aldehida, dengan fungsi oksigen lainnya maupun tidak; polimer siklik dari aldehida; paraformaldehida.** | **Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; paraformaldehyde.** |  |  |  |  |
 |  | - Aldehida asiklik tanpa fungsi oksigen lainnya : | - Acyclic aldehydes without other oxygen function : |  |  |  |  |
 | 2912.11.00 | - - Metanal (formaldehida) | - - Methanal (formaldehyde) | 5 | - | 11 | - |
 | 2912.12.00 | - - Etanal (asetaldehida) | - - Ethanal (acetaldehyde) | 5 | - | 11 | - |
@@ -243,7 +243,7 @@ lang:
 | 2913.00.00 | Turunan halogenasi, sulfonasi, nitrasi atau nitrosasi produk dari pos 29.12. | Halogenated, sulphonated, nitrated or nitrosated derivatives of products of heading 29.12. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB VISENYAWA BERFUNGSI KETON DAN SENYAWA BERFUNGSI KINON | SUB-CHAPTER VI KETONE-FUNCTION COMPOUNDS AND QUINONE-FUNCTION COMPOUNDS |  |  |  |  |
-| 29.14 | Keton dan kinon, dengan fungsi oksigen lainnya maupun tidak, dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.14** | **Keton dan kinon, dengan fungsi oksigen lainnya maupun tidak, dan turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 |  | - Keton asiklik tanpa fungsi oksigen lainnya : | - Acyclic ketones without other oxygen function : |  |  |  |  |
 | 2914.11.00 | - - Aseton | - - Acetone | 5 | - | 11 | - |
 | 2914.12.00 | - - Butanon (metil etil keton) | - - Butanone (methyl ethyl ketone) | 5 | - | 11 | - |
@@ -269,7 +269,7 @@ lang:
 | 2914.79.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB VII ASAM KARBOKSILAT DAN ANHIDRIDA, HALIDA, PEROKSIDA DAN ASAM PEROKSINYA SERTA TURUNAN HALOGENASI, SULFONASI, NITRASI ATAU NITROSASINYA | SUB-CHAPTER VII CARBOXYLIC ACIDS AND THEIR ANHYDRIDES, HALIDES, PEROXIDES AND PEROXYACIDS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES |  |  |  |  |
-| 29.15 | Asam monokarboksilat asiklik jenuh dan anhidrida, halida, peroksida dan asam peroksinya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.15** | **Asam monokarboksilat asiklik jenuh dan anhidrida, halida, peroksida dan asam peroksinya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 |  | - Asam formiat, garam dan esternya : | - Formic acid, its salts and esters : |  |  |  |  |
 | 2915.11.00 | - - Asam formiat | - - Formic acid | 5 | - | 11 | - |
 | 2915.12.00 | - - Garam dari asam formiat | - - Salts of formic acid | 5 | - | 11 | - |
@@ -302,7 +302,7 @@ lang:
 | 2915.90.40 | - - Asam kaprat, garam dan esternya | - - Capric acid, its salts and esters | 5 | - | 11 | - |
 | 2915.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.16 | Asam monokarboksilat asiklik tidak jenuh, asam monokarboksilat siklik, anhidrida, halida, peroksida dan asam peroksinya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.16** | **Asam monokarboksilat asiklik tidak jenuh, asam monokarboksilat siklik, anhidrida, halida, peroksida dan asam peroksinya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 |  | - Asam monokarboksilat asiklik tidak jenuh, anhidrida, halida, peroksida, asam peroksinya dan turunannya : | - Unsaturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives : |  |  |  |  |
 | 2916.11.00 | - - Asam akrilik dan garamnya | - - Acrylic acid and its salts | 5 | - | 11 | - |
 | 2916.12.00 | - - Ester dari asam akrilik | - - Esters of acrylic acid | 5 | - | 11 | - |
@@ -325,7 +325,7 @@ lang:
 | 2916.39.20 | - - - Ester dari asam fenilasetat | - - - Esters of phenylacetic acid | 5 | - | 11 | - |
 | 2916.39.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.17 | Asam polikarboksilat, anhidrida, halida, peroksida dan asam peroksinya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Polycarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.17** | **Asam polikarboksilat, anhidrida, halida, peroksida dan asam peroksinya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Polycarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 |  | - Asam polikarboksilat asiklik, anhidrida, halida, peroksida, asam peroksinya dan turunannya : | - Acyclic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives : |  |  |  |  |
 | 2917.11.00 | - - Asam oksalat, garam dan esternya | - - Oxalic acid, its salts and esters | 0 | - | 11 | - |
 | 2917.12 | - - Asam adipat, garam dan esternya : | - - Adipic acid, its salts and esters : |  |  |  |  |
@@ -349,7 +349,7 @@ lang:
 | 2917.39.20 | - - - Senyawa ftalat lainnya dari jenis yang digunakan sebagai peliat dan ester dari ftalat anhidrida | - - - Other phthalic compounds of a kind used as plasticisers and esters of phthalic anhydride | 0 | - | 11 | - |
 | 2917.39.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.18 | Asam karboksilat dengan fungsi oksigen tambahan dan anhidrida, halida, peroksida dan asam peroksinya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.18** | **Asam karboksilat dengan fungsi oksigen tambahan dan anhidrida, halida, peroksida dan asam peroksinya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 |  | - Asam karboksilat dengan fungsi alkohol tetapi tanpa fungsi oksigen lainnya, anhidrida, halida, peroksida, asam peroksinya dan turunannya : | - Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives : |  |  |  |  |
 | 2918.11.00 | - - Asam laktat, garam dan esternya | - - Lactic acid, its salts and esters | 5 | - | 11 | - |
 | 2918.12.00 | - - Asam tartrat | - - Tartaric acid | 5 | - | 11 | - |
@@ -375,11 +375,11 @@ lang:
 | 2918.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB VIII ESTER DARI ASAM ANORGANIK BUKAN LOGAM DAN GARAMNYA, SERTA TURUNAN HALOGENASI, SULFONASI, NITRASI ATAU NITROSASINYA | SUB-CHAPTER VIII ESTERS OF INORGANIC ACIDS OF NON-METALS AND THEIR SALTS, AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES |  |  |  |  |
-| 29.19 | Ester fosfat dan garamnya, termasuk laktofosfat; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Phosphoric esters and their salts, including lactophosphates; their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.19** | **Ester fosfat dan garamnya, termasuk laktofosfat; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Phosphoric esters and their salts, including lactophosphates; their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 | 2919.10.00 | - Tris(2,3-dibromopropil) fosfat | - Tris(2,3-dibromopropyl) phosphate | 5 | - | 11 | - |
 | 2919.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.20 | Ester dari asam anorganik bukan logam lainnya (tidak termasuk ester dari hidrogen halida) dan garamnya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya. | Esters of other inorganic acids of non-metals (excluding esters of hydrogen halides) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives. |  |  |  |  |
+| **29.20** | **Ester dari asam anorganik bukan logam lainnya (tidak termasuk ester dari hidrogen halida) dan garamnya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya.** | **Esters of other inorganic acids of non-metals (excluding esters of hydrogen halides) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives.** |  |  |  |  |
 |  | - Ester tiofosfat (fosforotioat) dan garamnya; turunan halogenasi, sulfonasi, nitrasi atau nitrosasinya : | - Thiophosphoric esters (phosphorothioates) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives : |  |  |  |  |
 | 2920.11.00 | - - Paration (ISO) dan paration-metil (ISO) (metil-paration) | - - Parathion (ISO) and parathion-methyl (ISO) (methyl-parathion) | 5 | - | 11 | - |
 | 2920.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -393,7 +393,7 @@ lang:
 | 2920.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB IXSENYAWA BERFUNGSI NITROGEN | SUB-CHAPTER IX NITROGEN-FUNCTION COMPOUNDS |  |  |  |  |
-| 29.21 | Senyawa berfungsi amina. | Amine-function compounds. |  |  |  |  |
+| **29.21** | **Senyawa berfungsi amina.** | **Amine-function compounds.** |  |  |  |  |
 |  | - Monoamina asiklik dan turunannya; garamnya : | - Acyclic monoamines and their derivatives; salts thereof : |  |  |  |  |
 | 2921.11.00 | - - Metilamina, di- atau trimetilamina dan garamnya | - - Methylamine, di- or trimethylamine and their salts | 5 | - | 11 | - |
 | 2921.12.00 | - - 2-(N,N-Dimetilamino)etilklorida hidroklorida | - - 2-(N,N-Dimethylamino)ethylchloride hydrochloride | 5 | - | 11 | - |
@@ -417,7 +417,7 @@ lang:
 | 2921.51.00 | - - o-, m-, p-Fenilenadiamina, diaminotoluena dan turunannya; garamnya | - - o-, m-, p-Phenylenediamine, diaminotoluenes and their derivatives; salts thereof | 5 | - | 11 | - |
 | 2921.59.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.22 | Senyawa amino berfungsi oksigen. | Oxygen-function amino-compounds. |  |  |  |  |
+| **29.22** | **Senyawa amino berfungsi oksigen.** | **Oxygen-function amino-compounds.** |  |  |  |  |
 |  | - Amino-alkohol, selain yang mengandung lebih dari satu jenis fungsi oksigen, eter dan esternya; garamnya : | - Amino-alcohols, other than those containing more than one kind of oxygen function, their ethers and esters; salts thereof : |  |  |  |  |
 | 2922.11.00 | - - Monoetanolamina dan garamnya | - - Monoethanolamine and its salts | 5 | - | 11 | - |
 | 2922.12.00 | - - Dietanolamina dan garamnya | - - Diethanolamine and its salts | 5 | - | 11 | - |
@@ -449,7 +449,7 @@ lang:
 | 2922.50.10 | - - Asam p-Aminosalisilat dan garam, ester dan turunan lainnya | - - p-Aminosalicylic acid and its salts, esters and other derivatives | 0 | - | 11 | - |
 | 2922.50.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.23 | Garam dan hidroksida amonium kuarterner; lesitin dan fosfoaminolipid lainnya, mempunyai rumus kimia tertentu maupun tidak. | Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined. |  |  |  |  |
+| **29.23** | **Garam dan hidroksida amonium kuarterner; lesitin dan fosfoaminolipid lainnya, mempunyai rumus kimia tertentu maupun tidak.** | **Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined.** |  |  |  |  |
 | 2923.10.00 | - Kolina dan garamnya | - Choline and its salts | 0 | - | 11 | - |
 | 2923.20 | - Lesitin dan fosfoaminolipid lainnya : | - Lecithins and other phosphoaminolipids : |  |  |  |  |
 |  | - - Lesitin : | - - Lecithins : |  |  |  |  |
@@ -460,7 +460,7 @@ lang:
 | 2923.40.00 | - Didesildimetilammonium perfluorooktan sulfonat | - Didecyldimethylammonium perfluorooctane sulphonate | 5 | - | 11 | - |
 | 2923.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.24 | Senyawa berfungsi karboksiamida; senyawa berfungsi amida dari asam karbonat. | Carboxyamide-function compounds; amide-function compounds of carbonic acid. |  |  |  |  |
+| **29.24** | **Senyawa berfungsi karboksiamida; senyawa berfungsi amida dari asam karbonat.** | **Carboxyamide-function compounds; amide-function compounds of carbonic acid.** |  |  |  |  |
 |  | - Amida asiklik (termasuk karbamat asiklik) dan turunannya; garamnya : | - Acyclic amides (including acyclic carbamates) and their derivatives; salts thereof : |  |  |  |  |
 | 2924.11.00 | - - Meprobamat (INN) | - - Meprobamate (INN) | 5 | - | 11 | - |
 | 2924.12 | - - Fluoroasetamida (ISO), monokrotofos (ISO) dan fosfamidon (ISO) : | - - Fluoroacetamide (ISO), monocrotophos (ISO) and phosphamidon (ISO) : |  |  |  |  |
@@ -483,7 +483,7 @@ lang:
 | 2924.29.30 | - - - Asetaminofen (parasetamol); salisilamida; etoksibenzamida | - - - Acetaminophen (paracetamol); salicylamide; ethoxybenzamide | 10 | - | 11 | - |
 | 2924.29.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.25 | Senyawa berfungsi karboksiimida (termasuk sakarin dan garamnya) dan senyawa berfungsi imina. | Carboxyimide-function compounds (including saccharin and its salts) and imine-function compounds. |  |  |  |  |
+| **29.25** | **Senyawa berfungsi karboksiimida (termasuk sakarin dan garamnya) dan senyawa berfungsi imina.** | **Carboxyimide-function compounds (including saccharin and its salts) and imine-function compounds.** |  |  |  |  |
 |  | - Imida dan turunannya; garamnya : | - Imides and their derivatives; salts thereof : |  |  |  |  |
 | 2925.11.00 | - - Sakarin dan garamnya | - - Saccharin and its salts | 10 | - | 11 | - |
 | 2925.12.00 | - - Glutetimida (INN) | - - Glutethimide (INN) | 5 | - | 11 | - |
@@ -492,22 +492,22 @@ lang:
 | 2925.21.00 | - - Klordimeform (ISO) | - - Chlordimeform (ISO) | 5 | - | 11 | - |
 | 2925.29.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.26 | Senyawa berfungsi nitril. | Nitrile-function compounds. |  |  |  |  |
+| **29.26** | **Senyawa berfungsi nitril.** | **Nitrile-function compounds.** |  |  |  |  |
 | 2926.10.00 | - Akrilonitril | - Acrylonitrile | 5 | - | 11 | - |
 | 2926.20.00 | - 1-Sianoguanidin (disiandiamida) | - 1-Cyanoguanidine (dicyandiamide) | 5 | - | 11 | - |
 | 2926.30.00 | - Fenproporex (INN) dan garamnya; metadona (INN) intermediat (4-siano-2-dimetilamino-4,4-difenilbutana) | - Fenproporex (INN) and its salts; methadone (INN) intermediate (4-cyano-2-dimethylamino-4,4-diphenylbutane) | 5 | - | 11 | - |
 | 2926.40.00 | - alfa-Fenilasetoasetonitril | - alpha-Phenylacetoacetonitrile | 5 | - | 11 | - |
 | 2926.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.27 | Senyawa diazo-, azo- atau azoksi. | Diazo-, azo- or azoxy-compounds. |  |  |  |  |
+| **29.27** | **Senyawa diazo-, azo- atau azoksi.** | **Diazo-, azo- or azoxy-compounds.** |  |  |  |  |
 | 2927.00.10 | - Azodikarbonamida | - Azodicarbonamide | 10 | - | 11 | - |
 | 2927.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.28 | Turunan organik dari hidrazin atau dari hidroksilamina. | Organic derivatives of hydrazine or of hydroxylamine. |  |  |  |  |
+| **29.28** | **Turunan organik dari hidrazin atau dari hidroksilamina.** | **Organic derivatives of hydrazine or of hydroxylamine.** |  |  |  |  |
 | 2928.00.10 | - Linuron | - Linuron | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 | 2928.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
-| 29.29 | Senyawa dengan fungsi nitrogen lainnya. | Compounds with other nitrogen function. |  |  |  |  |
+| **29.29** | **Senyawa dengan fungsi nitrogen lainnya.** | **Compounds with other nitrogen function.** |  |  |  |  |
 | 2929.10 | - Isosianat : | - Isocyanates : |  |  |  |  |
 | 2929.10.10 | - - Difenilmetana diisosianat (MDI) | - - Diphenylmethane diisocyanate (MDI) | 0 | - | 11 | - |
 | 2929.10.20 | - - Toluena diisosianat | - - Toluene diisocyanate | 0 | - | 11 | - |
@@ -518,7 +518,7 @@ lang:
 | 2929.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB X SENYAWA ORGANO-ANORGANIK, SENYAWA HETEROSIKLIK, ASAM NUKLEAT DAN GARAMNYA, SERTA SULFONAMIDA | SUB-CHAPTER X ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC COMPOUNDS, NUCLEIC ACIDS AND THEIR SALTS, AND SULPHONAMIDES |  |  |  |  |
-| 29.30 | Senyawa organo-belerang. | Organo-sulphur compounds. |  |  |  |  |
+| **29.30** | **Senyawa organo-belerang.** | **Organo-sulphur compounds.** |  |  |  |  |
 | 2930.10.00 | - 2-(N,N-Dimetilamino)etanatiol | - 2-(N,N-Dimethylamino)ethanethiol | 5 | - | 11 | - |
 | 2930.20.00 | - Tiokarbamat dan ditiokarbamat | - Thiocarbamates and dithiocarbamates | 5 | - | 11 | - |
 | 2930.30.00 | - Tiuram mono-, di- atau tetrasulfida | - Thiuram mono-, di- or tetrasulphides | 5 | - | 11 | - |
@@ -530,7 +530,7 @@ lang:
 | 2930.90.10 | - - Ditiokarbonat | - - Dithiocarbonates | 5 | - | 11 | - |
 | 2930.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.31 | Senyawa organo-anorganik lainnya. | Other organo-inorganic compounds. |  |  |  |  |
+| **29.31** | **Senyawa organo-anorganik lainnya.** | **Other organo-inorganic compounds.** |  |  |  |  |
 | 2931.10 | - Timbal tetrametil dan timbal tetraetil : | - Tetramethyl lead and tetraethyl lead : |  |  |  |  |
 | 2931.10.10 | - - Timbal tetrametil | - - Tetramethyl lead | 5 | - | 11 | - |
 | 2931.10.20 | - - Timbal tetraetil | - - Tetraethyl lead | 5 | - | 11 | - |
@@ -563,7 +563,7 @@ lang:
 | 2931.90.50 | - - Dimetiltin diklorida | - - Dimethyltin dichloride | 0 | - | 11 | - |
 | 2931.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.32 | Senyawa heterosiklik hanya dengan hetero atom oksigen. | Heterocyclic compounds with oxygen hetero-atom(s) only. |  |  |  |  |
+| **29.32** | **Senyawa heterosiklik hanya dengan hetero atom oksigen.** | **Heterocyclic compounds with oxygen hetero-atom(s) only.** |  |  |  |  |
 |  | - Senyawa mengandung cincin furan tidak menyatu (dihidrogenasi maupun tidak) dalam struktur : | - Compounds containing an unfused furan ring (whether or not hydrogenated) in the structure : |  |  |  |  |
 | 2932.11.00 | - - Tetrahidrofuran | - - Tetrahydrofuran | 5 | - | 11 | - |
 | 2932.12.00 | - - 2-Furaldehida (furfuraldehida) | - - 2-Furaldehyde (furfuraldehyde) | 5 | - | 11 | - |
@@ -582,7 +582,7 @@ lang:
 | 2932.96.00 | - - Karbofuran (ISO) | - - Carbofuran (ISO) | 0 | - | 11 | - |
 | 2932.99.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.33 | Senyawa heterosiklik hanya dengan hetero atom nitrogen. | Heterocyclic compounds with nitrogen hetero-atom(s) only. |  |  |  |  |
+| **29.33** | **Senyawa heterosiklik hanya dengan hetero atom nitrogen.** | **Heterocyclic compounds with nitrogen hetero-atom(s) only.** |  |  |  |  |
 |  | - Senyawa mengandung cincin pirazola tidak menyatu (dihidrogenasi maupun tidak) dalam struktur : | - Compounds containing an unfused pyrazole ring (whether or not hydrogenated) in the structure : |  |  |  |  |
 | 2933.11.00 | - - Fenazon (antipirin) dan turunannya | - - Phenazone (antipyrin) and its derivatives | 5 | - | 11 | - |
 | 2933.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -628,7 +628,7 @@ lang:
 | 2933.99.10 | - - - Mebendazol dan parbendazol | - - - Mebendazole and parbendazole | 0 | - | 11 | - |
 | 2933.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.34 | Asam nukleat dan garamnya, mempunyai rumus kimia tertentu maupun tidak; senyawa heterosiklik lainnya. | Nucleic acids and their salts, whether or not chemically defined; other heterocyclic compounds. |  |  |  |  |
+| **29.34** | **Asam nukleat dan garamnya, mempunyai rumus kimia tertentu maupun tidak; senyawa heterosiklik lainnya.** | **Nucleic acids and their salts, whether or not chemically defined; other heterocyclic compounds.** |  |  |  |  |
 | 2934.10.00 | - Senyawa mengandung cincin tiazol tidak disatukan (dihidrogenasi maupun tidak) dalam struktur | - Compounds containing an unfused thiazole ring (whether or not hydrogenated) in the structure | 5 | - | 11 | - |
 | 2934.20.00 | - Senyawa dalam strukturnya mengandung sistem-cincin benzotiazol (dihidrogenasi maupun tidak), tidak disatukan lebih lanjut | - Compounds containing in the structure a benzothiazole ring-system (whether or not hydrogenated), not further fused | 5 | - | 11 | - |
 | 2934.30.00 | - Senyawa dalam strukturnya mengandung sistem-cincin fenotiazin (dihidrogenasi maupun tidak), tidak disatukan lebih lanjut | - Compounds containing in the structure a phenothiazine ring-system (whether or not hydrogenated), not further fused | 0 | - | 11 | - |
@@ -643,7 +643,7 @@ lang:
 | 2934.99.50 | - - - Oxadiazon, dengan kemurnian 94 % atau lebih | - - - Oxadiazon, with a purity of 94 % or more | 5 | - | 11 | - |
 | 2934.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.35 | Sulfonamida. | Sulphonamides. |  |  |  |  |
+| **29.35** | **Sulfonamida.** | **Sulphonamides.** |  |  |  |  |
 | 2935.10.00 | - N-Metilperfluorooktana sulfonamida | - N-Methylperfluorooctane sulphonamide | 0 | - | 11 | - |
 | 2935.20.00 | - N-Etilperfluorooktana sulfonamida | - N-Ethylperfluorooctane sulphonamide | 0 | - | 11 | - |
 | 2935.30.00 | - N-Etil-N-(2-hidroksietil) perfluorooktana sulfonamida | - N-Ethyl-N-(2-hydroxyethyl) perfluorooctane sulphonamide | 0 | - | 11 | - |
@@ -652,7 +652,7 @@ lang:
 | 2935.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB XI PROVITAMIN, VITAMIN DAN HORMON | SUB-CHAPTER XI PROVITAMINS, VITAMINS AND HORMONES |  |  |  |  |
-| 29.36 | Provitamin dan vitamin, alami atau direproduksi secara sintesis (termasuk konsentrat alami), turunannya terutama digunakan sebagai vitamin, dan campuran dari bahan yang telah disebutkan, didalam pelarut apapun maupun tidak. | Provitamins and vitamins, natural or reproduced by synthesis (including natural concentrates), derivatives thereof used primarily as vitamins, and intermixtures of the foregoing, whether or not in any solvent. |  |  |  |  |
+| **29.36** | **Provitamin dan vitamin, alami atau direproduksi secara sintesis (termasuk konsentrat alami), turunannya terutama digunakan sebagai vitamin, dan campuran dari bahan yang telah disebutkan, didalam pelarut apapun maupun tidak.** | **Provitamins and vitamins, natural or reproduced by synthesis (including natural concentrates), derivatives thereof used primarily as vitamins, and intermixtures of the foregoing, whether or not in any solvent.** |  |  |  |  |
 |  | - Vitamin dan turunannya, tidak dicampur : | - Vitamins and their derivatives, unmixed : |  |  |  |  |
 | 2936.21.00 | - - Vitamin A dan turunannya | - - Vitamin A and their derivatives | 0 | - | 11 | - |
 | 2936.22.00 | - - Vitamin B1 dan turunannya | - - Vitamin B1 and its derivatives | 0 | - | 11 | - |
@@ -665,7 +665,7 @@ lang:
 | 2936.29.00 | - - Vitamin lainnya dan turunannya | - - Other vitamins and their derivatives | 0 | - | 11 | - |
 | 2936.90.00 | - Lain-lain, termasuk konsentrat alami | - Other, including natural concentrates | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.37 | Hormon, prostaglandin, tromboksan dan leukotrien, alami atau direproduksi secara sintesis; turunan dan analog strukturnya, termasuk rantai polipeptida yang dimodifikasi, digunakan terutama sebagai hormon. | Hormones, prostaglandins, thromboxanes and leukotrienes, natural or reproduced by synthesis; derivatives and structural analogues thereof, including chain modified polypeptides, used primarily as hormones. |  |  |  |  |
+| **29.37** | **Hormon, prostaglandin, tromboksan dan leukotrien, alami atau direproduksi secara sintesis; turunan dan analog strukturnya, termasuk rantai polipeptida yang dimodifikasi, digunakan terutama sebagai hormon.** | **Hormones, prostaglandins, thromboxanes and leukotrienes, natural or reproduced by synthesis; derivatives and structural analogues thereof, including chain modified polypeptides, used primarily as hormones.** |  |  |  |  |
 |  | - Hormon polipeptida, hormon protein dan hormon glikoprotein, turunan dan analog strukturnya : | - Polypeptide hormones, protein hormones and glycoprotein hormones, their derivatives and structural analogues : |  |  |  |  |
 | 2937.11.00 | - - Somatotropin, turunan dan analog strukturnya | - - Somatotropin, its derivatives and structural analogues | 0 | - | 11 | - |
 | 2937.12.00 | - - Insulin dan garamnya | - - Insulin and its salts | 0 | - | 11 | - |
@@ -682,11 +682,11 @@ lang:
 | 2937.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB XII GLIKOSIDA DAN ALKALOID, ALAMI ATAU DIREPRODUKSI SECARA SINTETIS, DAN GARAM, ETER, ESTER SERTA TURUNAN LAINNYA | SUB-CHAPTER XII GLYCOSIDES AND ALKALOIDS, NATURAL OR REPRODUCED BY SYNTHESIS, AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES |  |  |  |  |
-| 29.38 | Glikosida, alami atau direproduksi secara sintesis, dan garam, eter, ester serta turunan lainnya. | Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives. |  |  |  |  |
+| **29.38** | **Glikosida, alami atau direproduksi secara sintesis, dan garam, eter, ester serta turunan lainnya.** | **Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives.** |  |  |  |  |
 | 2938.10.00 | - Rutosida (rutin) dan turunannya | - Rutoside (rutin) and its derivatives | 0 | - | 11 | - |
 | 2938.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.39 | Alkaloid, alami atau direproduksi secara sintesis, dan garam, eter, ester serta turunan lainnya. | Alkaloids, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives. |  |  |  |  |
+| **29.39** | **Alkaloid, alami atau direproduksi secara sintesis, dan garam, eter, ester serta turunan lainnya.** | **Alkaloids, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives.** |  |  |  |  |
 |  | - Alkaloid dari opium dan turunannya; garamnya : | - Alkaloids of opium and their derivatives; salts thereof : |  |  |  |  |
 | 2939.11 | - - Konsentrat jerami poppy; buprenorfin (INN), kodein, dihidrokodein (INN), etilmorfin, etorfin (INN), heroin, hidrokodon (INN), hidromorfon (INN), morfin, nikomorfin (INN), oksikodon (INN), oksimorfon (INN), folkodin (INN), tebakon (INN) dan tebain; garamnya : | - - Concentrates of poppy straw; buprenorphine (INN), codeine, dihydrocodeine (INN), ethylmorphine, etorphine (INN), heroin, hydrocodone (INN), hydromorphone (INN), morphine, nicomorphine (INN), oxycodone (INN), oxymorphone (INN), pholcodine (INN), thebacon (INN) and thebaine; salts thereof : |  |  |  |  |
 | 2939.11.10 | - - - Konsentrat jerami poppy dan garamnya | - - - Concentrates of poppy straw and salts thereof | 5 | - | 11 | - |
@@ -719,7 +719,7 @@ lang:
 |  | SUB-BAB XIII SENYAWA ORGANIK LAINNYA | SUB-CHAPTER XIII OTHER ORGANIC COMPOUNDS |  |  |  |  |
 | 2940.00.00 | Gula, murni secara kimia, selain sukrosa, laktosa, maltosa, glukosa dan fruktosa; gula eter, gula asetal dan gula ester, serta garamnya, selain produk dari pos 29.37, 29.38 atau 29.39. | Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar ethers, sugar acetals and sugar esters, and their salts, other than products of heading 29.37, 29.38 or 29.39. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 29.41 | Antibiotik. | Antibiotics. |  |  |  |  |
+| **29.41** | **Antibiotik.** | **Antibiotics.** |  |  |  |  |
 | 2941.10 | - Penisilin dan turunannya dengan struktur asam penisilanat; garamnya : | - Penicillins and their derivatives with a penicillanic acid structure; salts thereof : |  |  |  |  |
 |  | - - Amoksisilin dan garamnya : | - - Amoxicillin and its salts : |  |  |  |  |
 | 2941.10.11 | - - - Non-steril | - - - Non-sterile | 7,5 | - | 11 | - |

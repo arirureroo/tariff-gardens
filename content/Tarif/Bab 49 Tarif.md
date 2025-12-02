@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 49.01 | Buku cetakan, brosur, selebaran dan barang cetakan semacam itu, dalam lembaran tunggal maupun tidak. | Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets. |  |  |  |  |
+| **49.01** | **Buku cetakan, brosur, selebaran dan barang cetakan semacam itu, dalam lembaran tunggal maupun tidak.** | **Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets.** |  |  |  |  |
 | 4901.10.00 | - Dalam lembaran tunggal, dilipat maupun tidak | - In single sheets, whether or not folded | 0 | - | 11 | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
 | 4901.91.00 | - - Kamus dan ensiklopedia, serta serialnya | - - Dictionaries and encyclopaedias, and serial instalments thereof | 0 | - | - | - |
@@ -40,7 +40,7 @@ lang:
 | 4901.99.10 | - - - Buku pendidikan, teknik, ilmu pengetahuan, sejarah atau budaya | - - - Educational, technical, scientific, historical or cultural books | 0 | - | - | - |
 | 4901.99.90 | - - - Lain-lain | - - - Other | 0 | - | - | - |
 |  |  |  |  |  |  |  |
-| 49.02 | Koran, jurnal dan majalah berkala, bergambar atau berisi iklan maupun tidak. | Newspapers, journals and periodicals, whether or not illustrated or containing advertising material. |  |  |  |  |
+| **49.02** | **Koran, jurnal dan majalah berkala, bergambar atau berisi iklan maupun tidak.** | **Newspapers, journals and periodicals, whether or not illustrated or containing advertising material.** |  |  |  |  |
 | 4902.10.00 | - Terbit sekurang-kurangnya empat kali seminggu | - Appearing at least four times a week | 0 | - | 11*) | - |
 | 4902.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 4902.90.10 | - - Jurnal dan majalah berkala pendidikan, teknik, ilmu pengetahuan atau kebudayaan | - - Educational, technical, scientific, historical or cultural journals and periodicals | 0 | - | - | - |
@@ -50,13 +50,13 @@ lang:
 |  |  |  |  |  |  |  |
 | 4904.00.00 | Buku musik, dicetak atau dalam bentuk manuskrip, dijilid atau bergambar maupun tidak. | Music, printed or in manuscript, whether or not bound or illustrated. | 0 | - | - | - |
 |  |  |  |  |  |  |  |
-| 49.05 | Peta dan peta hidrografi atau peta semacam itu dari segala jenis, termasuk atlas, peta dinding, peta topografi serta bola dunia, dicetak. | Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed. |  |  |  |  |
+| **49.05** | **Peta dan peta hidrografi atau peta semacam itu dari segala jenis, termasuk atlas, peta dinding, peta topografi serta bola dunia, dicetak.** | **Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed.** |  |  |  |  |
 | 4905.20.00 | - Dalam bentuk buku | - In book form | 0 | - | - | - |
 | 4905.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
 | 4906.00.00 | Rancangan dan gambar untuk arsitektur, permesinan, industri, perdagangan, topografi atau keperluan semacam itu, asli buatan tangan; teks tulisan tangan; reproduksi fotografi di atas kertas peka cahaya dan carbon copy dari barang-barang tersebut. | Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; hand-written texts; photographic reproductions on sensitised paper and carbon copies of the foregoing. | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 49.07 | Perangko, meterai atau perangko semacam itu belum digunakan, yang berlaku atau baru diterbitkan oleh negara, yang mempunyai atau akan mempunyai harga yang nilainya diakui; kertas meterai; uang kertas; formulir cek; sertifikat saham, andil atau obligasi dan dokumen kepemilikan semacam itu. | Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; banknotes; cheque forms; stock, share or bond certificates and similar documents of title. |  |  |  |  |
+| **49.07** | **Perangko, meterai atau perangko semacam itu belum digunakan, yang berlaku atau baru diterbitkan oleh negara, yang mempunyai atau akan mempunyai harga yang nilainya diakui; kertas meterai; uang kertas; formulir cek; sertifikat saham, andil atau obligasi dan dokumen kepemilikan semacam itu.** | **Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; banknotes; cheque forms; stock, share or bond certificates and similar documents of title.** |  |  |  |  |
 | 4907.00.10 | - Uang kertas, sebagai alat pembayaran sah | - Banknotes, being legal tender | 0 | - | 11*) | - |
 |  | - Perangko belum dipakai, meterai atau perangko semacam itu : | - Unused postage, revenue or similar stamps : |  |  |  |  |
 | 4907.00.21 | - - Perangko | - - Postage stamps | 0 | - | 11 | - |
@@ -65,7 +65,7 @@ lang:
 | 4907.00.60 | - Sertifikat saham, andil atau obligasi dan dokumen kepemilikan semacam itu | - Stock, share or bond certificates and similar documents of title | 0 | - | 11*) | - |
 | 4907.00.90 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 49.08 | Gambar tempel (decalcomania). | Transfers (decalcomanias). |  |  |  |  |
+| **49.08** | **Gambar tempel (decalcomania).** | **Transfers (decalcomanias).** |  |  |  |  |
 | 4908.10.00 | - Gambar tempel (decalcomania), dapat divitrifikasi | - Transfers (decalcomanias), vitrifiable | 5 | - | 11 | - |
 | 4908.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
@@ -73,7 +73,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 4910.00.00 | Berbagai jenis kalender, dicetak, termasuk blok kalender. | Calendars of any kind, printed, including calendar blocks. | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 49.11 | Barang cetakan lainnya, termasuk gambar dan foto cetakan. | Other printed matter, including printed pictures and photographs. |  |  |  |  |
+| **49.11** | **Barang cetakan lainnya, termasuk gambar dan foto cetakan.** | **Other printed matter, including printed pictures and photographs.** |  |  |  |  |
 | 4911.10 | - Bahan iklan dagang, katalog komersial dan sejenisnya : | - Trade advertising material, commercial catalogues and the like : |  |  |  |  |
 | 4911.10.10 | - - Daftar katalog berupa pendidikan, teknik, ilmu pengetahuan, sejarah atau buku-buku kebudayaan dan publikasi | - - Catalogues listing only educational, technical, scientific, historical or cultural books and publications | 10 | - | 11 | - |
 | 4911.10.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |

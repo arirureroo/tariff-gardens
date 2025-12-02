@@ -28,7 +28,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 99.01 | Peranti lunak dan barang digital lainnya yang ditransmisikan secara elektronik. | Software and other digital product transmitted electronically. |  |  |  |  |
+| **99.01** | **Peranti lunak dan barang digital lainnya yang ditransmisikan secara elektronik.** | **Software and other digital product transmitted electronically.** |  |  |  |  |
 | 9901.10.00 | - Peranti lunak sistem operasi | - Operating system software | 0 | - | 11 | - |
 | 9901.20.00 | - Peranti lunak aplikasi | - Application software | 0 | - | 11 | - |
 | 9901.30.00 | - Multimedia (audio, video atau audio visual) | - Multimedia (audio, video or audio visual) | 0 | - | 11 | - |

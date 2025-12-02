@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 07.01 | Kentang, segar atau dingin. | Potatoes, fresh or chilled. |  |  |  |  |
+| **07.01** | **Kentang, segar atau dingin.** | **Potatoes, fresh or chilled.** |  |  |  |  |
 | 0701.10.00 | - Bibit | - Seed | 0 | - | - | - |
 | 0701.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 0701.90.10 | - - Kentang untuk membuat potato chips | - - Chipping potatoes | 20 | - | - | - |
@@ -40,7 +40,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 0702.00.00 | Tomat, segar atau dingin. | Tomatoes, fresh or chilled. | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 07.03 | Bawang bombay, bawang merah, bawang putih, bawang bakung/perai dan sayuran sejenis lainnya, segar atau dingin. | Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled. |  |  |  |  |
+| **07.03** | **Bawang bombay, bawang merah, bawang putih, bawang bakung/perai dan sayuran sejenis lainnya, segar atau dingin.** | **Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.** |  |  |  |  |
 | 0703.10 | - Bawang bombay dan bawang merah : | - Onions and shallots : |  |  |  |  |
 |  | - - Bawang bombay : | - - Onions : |  |  |  |  |
 | 0703.10.11 | - - - Umbi untuk dibudidayakan | - - - Bulbs for propagation | 0 | - | - | - |
@@ -55,7 +55,7 @@ lang:
 | 0703.90.10 | - - Umbi untuk dibudidayakan | - - Bulbs for propagation | 0 | - | - | - |
 | 0703.90.90 | - - Lain-lain | - - Other | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 07.04 | Kubis, bunga kol, kohlrabi, kale dan brassica sejenis yang dapat dimakan, segar atau dingin. | Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled. |  |  |  |  |
+| **07.04** | **Kubis, bunga kol, kohlrabi, kale dan brassica sejenis yang dapat dimakan, segar atau dingin.** | **Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.** |  |  |  |  |
 | 0704.10 | - Bunga kol dan brokoli : | - Cauliflowers and broccoli : |  |  |  |  |
 | 0704.10.10 | - - Bunga kol | - - Cauliflowers | 5 | - | - | - |
 | 0704.10.20 | - - Brokoli bongkolan | - - Headed broccoli | 5 | - | - | - |
@@ -67,7 +67,7 @@ lang:
 | 0704.90.30 | - - Kubis lainnya | - - Other cabbages | 5 | - | - | - |
 | 0704.90.90 | - - Lain-lain | - - Other | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 07.05 | Selada (Lactuca sativa) dan chicory (Cichorium spp.), segar atau dingin. | Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled. |  |  |  |  |
+| **07.05** | **Selada (Lactuca sativa) dan chicory (Cichorium spp.), segar atau dingin.** | **Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.** |  |  |  |  |
 |  | - Selada : | - Lettuce : |  |  |  |  |
 | 0705.11.00 | - - Selada kubis (selada bongkolan) | - - Cabbage lettuce (head lettuce) | 5 | - | - | - |
 | 0705.19.00 | - - Lain-lain | - - Other | 5 | - | - | - |
@@ -75,7 +75,7 @@ lang:
 | 0705.21.00 | - - Witloof chicory (Cichorium intybus var. foliosum) | - - Witloof chicory (Cichorium intybus var. foliosum) | 5 | - | - | - |
 | 0705.29.00 | - - Lain-lain | - - Other | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 07.06 | Wortel, lobak cina, akar bit untuk salad, salsify, celeriac, lobak dan akar sejenis yang dapat dimakan, segar atau dingin. | Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled. |  |  |  |  |
+| **07.06** | **Wortel, lobak cina, akar bit untuk salad, salsify, celeriac, lobak dan akar sejenis yang dapat dimakan, segar atau dingin.** | **Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.** |  |  |  |  |
 | 0706.10 | - Wortel dan lobak cina : | - Carrots and turnips : |  |  |  |  |
 | 0706.10.10 | - - Wortel | - - Carrots | 20 | - | - | - |
 | 0706.10.20 | - - Lobak cina | - - Turnips | 5 | - | - | - |
@@ -83,7 +83,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 0707.00.00 | Ketimun dan ketimun acar, segar atau dingin. | Cucumbers and gherkins, fresh or chilled. | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 07.08 | Sayuran polongan, dikupas atau tidak, segar atau dingin. | Leguminous vegetables, shelled or unshelled, fresh or chilled. |  |  |  |  |
+| **07.08** | **Sayuran polongan, dikupas atau tidak, segar atau dingin.** | **Leguminous vegetables, shelled or unshelled, fresh or chilled.** |  |  |  |  |
 | 0708.10.00 | - Kacang kapri (Pisum sativum) | - Peas (Pisum sativum) | 5 | - | - | - |
 | 0708.20 | - Kacang (Vigna spp., Phaseolus spp.) : | - Beans (Vigna spp., Phaseolus spp.) : |  |  |  |  |
 | 0708.20.10 | - - Kacang perancis | - - French beans | 5 | - | - | - |
@@ -91,7 +91,7 @@ lang:
 | 0708.20.90 | - - Lain-lain | - - Other | 5 | - | - | - |
 | 0708.90.00 | - Sayuran polongan lainnya | - Other leguminous vegetables | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 07.09 | Sayuran lainnya, segar atau dingin. | Other vegetables, fresh or chilled. |  |  |  |  |
+| **07.09** | **Sayuran lainnya, segar atau dingin.** | **Other vegetables, fresh or chilled.** |  |  |  |  |
 | 0709.20.00 | - Asparagus | - Asparagus | 5 | - | - | - |
 | 0709.30.00 | - Terung | - Aubergines (egg-plants) | 5 | - | - | - |
 | 0709.40.00 | - Seledri selain celeriac | - Celery other than celeriac | 5 | - | - | - |
@@ -118,7 +118,7 @@ lang:
 | 0709.99.20 | - - - Lady's finger (Okra) | - - - Lady's finger (Okra) | 5 | - | - | - |
 | 0709.99.90 | - - - Lain-lain | - - - Other | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 07.10 | Sayuran (tidak dimasak atau dimasak dengan dikukus atau direbus), beku. | Vegetables (uncooked or cooked by steaming or boiling in water), frozen. |  |  |  |  |
+| **07.10** | **Sayuran (tidak dimasak atau dimasak dengan dikukus atau direbus), beku.** | **Vegetables (uncooked or cooked by steaming or boiling in water), frozen.** |  |  |  |  |
 | 0710.10.00 | - Kentang | - Potatoes | 5 | - | 11*) | - |
 |  | - Sayuran polongan, dikupas atau tidak : | - Leguminous vegetables, shelled or unshelled : |  |  |  |  |
 | 0710.21.00 | - - Kacang kapri (Pisum sativum) | - - Peas (Pisum sativum) | 5 | - | 11*) | - |
@@ -129,7 +129,7 @@ lang:
 | 0710.80.00 | - Sayuran lainnya | - Other vegetables | 5 | - | 11*) | - |
 | 0710.90.00 | - Campuran sayuran | - Mixtures of vegetables | 5 | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 07.11 | Sayuran yang diawetkan sementara, tetapi tidak cocok untuk konsumsi langsung. | Vegetables provisionally preserved, but unsuitable in that state for immediate consumption. |  |  |  |  |
+| **07.11** | **Sayuran yang diawetkan sementara, tetapi tidak cocok untuk konsumsi langsung.** | **Vegetables provisionally preserved, but unsuitable in that state for immediate consumption.** |  |  |  |  |
 | 0711.20 | - Buah zaitun : | - Olives : |  |  |  |  |
 | 0711.20.10 | - - Diawetkan dengan gas belerang dioksida | - - Preserved by sulphur dioxide gas | 5 | - | 11 | - |
 | 0711.20.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -152,7 +152,7 @@ lang:
 | 0711.90.60 | - - Lain-lain, diawetkan dengan gas belerang dioksida | - - Other, preserved by sulphur dioxide gas | 5 | - | 11 | - |
 | 0711.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 07.12 | Sayuran dikeringkan, utuh, potongan, irisan, patahan atau dalam bentuk bubuk, tetapi tidak diolah lebih lanjut. | Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared. |  |  |  |  |
+| **07.12** | **Sayuran dikeringkan, utuh, potongan, irisan, patahan atau dalam bentuk bubuk, tetapi tidak diolah lebih lanjut.** | **Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.** |  |  |  |  |
 | 0712.20.00 | - Bawang bombay | - Onions | 5 | - | 11 | - |
 |  | - Jamur, jamur kuping (Auricularia spp.), jamur jeli (Tremella spp.) dan cendawan tanah : | - Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles : |  |  |  |  |
 | 0712.31.00 | - - Jamur dari genus Agaricus | - - Mushrooms of the genus Agaricus | 5 | - | 11 | - |
@@ -167,7 +167,7 @@ lang:
 | 0712.90.20 | - - Jagung manis | - - Sweet corn | 5 | - | 11 | - |
 | 0712.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 07.13 | Sayuran polongan dikeringkan, dikupas, dikuliti atau dibelah maupun tidak. | Dried leguminous vegetables, shelled, whether or not skinned or split. |  |  |  |  |
+| **07.13** | **Sayuran polongan dikeringkan, dikupas, dikuliti atau dibelah maupun tidak.** | **Dried leguminous vegetables, shelled, whether or not skinned or split.** |  |  |  |  |
 | 0713.10 | - Kacang kapri (Pisum sativum) : | - Peas (Pisum sativum) : |  |  |  |  |
 | 0713.10.10 | - - Cocok untuk disemai | - - Suitable for sowing | 0 | - | - | - |
 | 0713.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -206,7 +206,7 @@ lang:
 | 0713.90.10 | - - Cocok untuk disemai | - - Suitable for sowing | 0 | - | - | - |
 | 0713.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 07.14 | Ubi kayu, arrowroot, salep, Jerusalem artichokes, ubi jalar serta akar-akaran dan bonggol-bonggolan semacam itu yang mengandung banyak pati atau inulin, segar, dingin, beku atau dikeringkan, dalam bentuk irisan maupun tidak atau dalam bentuk pelet; empulur sagu. | Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith. |  |  |  |  |
+| **07.14** | **Ubi kayu, arrowroot, salep, Jerusalem artichokes, ubi jalar serta akar-akaran dan bonggol-bonggolan semacam itu yang mengandung banyak pati atau inulin, segar, dingin, beku atau dikeringkan, dalam bentuk irisan maupun tidak atau dalam bentuk pelet; empulur sagu.** | **Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.** |  |  |  |  |
 | 0714.10 | - Ubi kayu (cassava) : | - Manioc (cassava) : |  |  |  |  |
 |  | - - Irisan atau dalam bentuk pelet : | - - Sliced or in the form of pellets : |  |  |  |  |
 | 0714.10.11 | - - - Kepingan dikeringkan | - - - Dried chips | 5 | - | 11 | - |

@@ -31,7 +31,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 37.01 | Pelat dan film fotografi berbentuk lembaran, peka cahaya, tidak disinari, dari bahan apapun selain kertas, kertas karton atau tekstil; film cetak instan berbentuk lembaran, peka cahaya, tidak disinari, dalam kemasan maupun tidak. | Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs. |  |  |  |  |
+| **37.01** | **Pelat dan film fotografi berbentuk lembaran, peka cahaya, tidak disinari, dari bahan apapun selain kertas, kertas karton atau tekstil; film cetak instan berbentuk lembaran, peka cahaya, tidak disinari, dalam kemasan maupun tidak.** | **Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs.** |  |  |  |  |
 | 3701.10.00 | - Untuk sinar X | - For X-ray | 5 | - | 11 | - |
 | 3701.20.00 | - Film cetak instan | - Instant print film | 5 | - | 11 | - |
 | 3701.30.00 | - Pelat dan film lainnya, dengan sisi manapun melebihi 255 mm | - Other plates and film, with any side exceeding 255 mm | 5 | - | 11 | - |
@@ -43,7 +43,7 @@ lang:
 | 3701.99.10 | - - - Dari jenis yang cocok digunakan dalam industri percetakan | - - - Of a kind suitable for use in the printing industry | 5 | - | 11 | - |
 | 3701.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 37.02 | Film fotografi dalam gulungan, peka cahaya, tidak disinari, dari bahan apapun selain kertas, kertas karton atau tekstil; film cetak instan dalam gulungan, peka cahaya, tidak disinari. | Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed. |  |  |  |  |
+| **37.02** | **Film fotografi dalam gulungan, peka cahaya, tidak disinari, dari bahan apapun selain kertas, kertas karton atau tekstil; film cetak instan dalam gulungan, peka cahaya, tidak disinari.** | **Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed.** |  |  |  |  |
 | 3702.10.00 | - Untuk sinar X | - For X-ray | 5 | - | 11 | - |
 |  | - Film lainnya, tanpa perforasi, dengan lebar tidak melebihi 105 mm : | - Other film, without perforations, of a width not exceeding 105 mm : |  |  |  |  |
 | 3702.31.00 | - - Untuk fotografi berwarna (polikrom) | - - For colour photography (polychrome) | 5 | - | 11 | - |
@@ -83,24 +83,24 @@ lang:
 | 3702.98.30 | - - - Lain-lain, dengan panjang 120 m atau lebih | - - - Other, of a length of 120 m or more | 5 | - | 11 | - |
 | 3702.98.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 37.03 | Kertas, kertas karton dan tekstil fotografi, peka cahaya, tidak disinari. | Photographic paper, paperboard and textiles, sensitised, unexposed. |  |  |  |  |
+| **37.03** | **Kertas, kertas karton dan tekstil fotografi, peka cahaya, tidak disinari.** | **Photographic paper, paperboard and textiles, sensitised, unexposed.** |  |  |  |  |
 | 3703.10 | - Dalam gulungan dengan lebar melebihi 610 mm : | - In rolls of a width exceeding 610 mm : |  |  |  |  |
 | 3703.10.10 | - - Dengan lebar tidak melebihi 1.000 mm | - - Of a width not exceeding 1,000 mm | 0 | - | 11 | - |
 | 3703.10.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 | 3703.20.00 | - Lain-lain, untuk fotografi berwarna (polikrom) | - Other, for colour photography (polychrome) | 5 | - | 11 | - |
 | 3703.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 37.04 | Pelat, film, kertas, kertas karton dan tekstil fotografi, disinari tetapi tidak dicuci. | Photographic plates, film, paper, paperboard and textiles, exposed but not developed. |  |  |  |  |
+| **37.04** | **Pelat, film, kertas, kertas karton dan tekstil fotografi, disinari tetapi tidak dicuci.** | **Photographic plates, film, paper, paperboard and textiles, exposed but not developed.** |  |  |  |  |
 | 3704.00.10 | - Pelat atau film untuk sinar- X | - X-ray plates or film | 5 | - | 11 | - |
 | 3704.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 37.05 | Pelat dan film fotografi, disinari dan dicuci, selain film sinematografi. | Photographic plates and film, exposed and developed, other than cinematographic film. |  |  |  |  |
+| **37.05** | **Pelat dan film fotografi, disinari dan dicuci, selain film sinematografi.** | **Photographic plates and film, exposed and developed, other than cinematographic film.** |  |  |  |  |
 | 3705.00.10 | - Sinar-X | - X-ray | 5 | - | 11 | - |
 | 3705.00.20 | - Mikrofilm | - Microfilm | 5 | - | 11 | - |
 | 3705.00.30 | - Untuk reproduksi offset | - For offset reproduction | 5 | - | 11 | - |
 | 3705.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 37.06 | Film sinematografi, disinari dan dicuci, digabung dengan trek suara maupun tidak atau hanya terdiri dari trek suara. | Cinematographic film, exposed and developed, whether or not incorporating sound track or consisting only of sound track. |  |  |  |  |
+| **37.06** | **Film sinematografi, disinari dan dicuci, digabung dengan trek suara maupun tidak atau hanya terdiri dari trek suara.** | **Cinematographic film, exposed and developed, whether or not incorporating sound track or consisting only of sound track.** |  |  |  |  |
 | 3706.10 | - Dengan lebar 35 mm atau lebih : | - Of a width of 35 mm or more : |  |  |  |  |
 | 3706.10.10 | - - Film berita, film perjalanan, film teknis dan film ilmu pengetahuan | - - Newsreels, travelogues, technical and scientific films | 10 | - | 11 | - |
 | 3706.10.30 | - - Film dokumenter lainnya | - - Other documentary films | 10 | - | 11 | - |
@@ -112,7 +112,7 @@ lang:
 | 3706.90.40 | - - Lain-lain, hanya terdiri dari trek suara | - - Other, consisting only of sound track | 10 | - | 11 | - |
 | 3706.90.90 | - - Lain-lain | - - Other | 21.450,-/menit | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 37.07 | Preparat kimia digunakan untuk fotografi (selain pernis, lem, perekat dan preparat semacam itu); produk tidak dicampur digunakan untuk fotografi, disiapkan dalam ukuran tertentu atau disiapkan untuk penjualan eceran dalam bentuk siap pakai. | Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for use. |  |  |  |  |
+| **37.07** | **Preparat kimia digunakan untuk fotografi (selain pernis, lem, perekat dan preparat semacam itu); produk tidak dicampur digunakan untuk fotografi, disiapkan dalam ukuran tertentu atau disiapkan untuk penjualan eceran dalam bentuk siap pakai.** | **Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for use.** |  |  |  |  |
 | 3707.10.00 | - Emulsi peka cahaya | - Sensitising emulsions | 5 | - | 11 | - |
 | 3707.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 3707.90.10 | - - Bahan untuk lampu kilat | - - Flashlight materials | 5 | - | 11 | - |

@@ -30,13 +30,13 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 18.01 | Biji kakao, utuh atau pecah, mentah atau digongseng. | Cocoa beans, whole or broken, raw or roasted. |  |  |  |  |
+| **18.01** | **Biji kakao, utuh atau pecah, mentah atau digongseng.** | **Cocoa beans, whole or broken, raw or roasted.** |  |  |  |  |
 | 1801.00.10 | - Difermentasi | - Fermented | 5 | *) | 11 | - |
 | 1801.00.90 | - Lain-lain | - Other | 5 | *) | 11 | - |
 |  |  |  |  |  |  |  |
 | 1802.00.00 | Kulit, sekam, selaput dan sisa kakao lainnya. | Cocoa shells, husks, skins and other cocoa waste. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 18.03 | Pasta kakao, dihilangkan lemaknya maupun tidak. | Cocoa paste, whether or not defatted. |  |  |  |  |
+| **18.03** | **Pasta kakao, dihilangkan lemaknya maupun tidak.** | **Cocoa paste, whether or not defatted.** |  |  |  |  |
 | 1803.10.00 | - Tidak dihilangkan lemaknya | - Not defatted | 10 | - | 11 | - |
 | 1803.20.00 | - Dihilangkan lemaknya sebagian atau seluruhnya | - Wholly or partly defatted | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
@@ -44,7 +44,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 1805.00.00 | Bubuk kakao, tidak mengandung tambahan gula atau bahan pemanis lainnya. | Cocoa powder, not containing added sugar or other sweetening matter. | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 18.06 | Coklat dan olahan makanan lainnya mengandung kakao. | Chocolate and other food preparations containing cocoa. |  |  |  |  |
+| **18.06** | **Coklat dan olahan makanan lainnya mengandung kakao.** | **Chocolate and other food preparations containing cocoa.** |  |  |  |  |
 | 1806.10.00 | - Bubuk kakao, mengandung tambahan gula atau bahan pemanis lainnya | - Cocoa powder, containing added sugar or other sweetening matter | 15 | - | 11 | - |
 | 1806.20 | - Olahan lainnya dalam bentuk balok, lempeng atau batang dengan berat lebih dari 2 kg atau dalam bentuk cair, pasta, bubuk, butiran atau bentuk curah lainnya dalam kemasan atau bungkusan langsung, dengan isi melebihi 2 kg : | - Other preparations in blocks, slabs or bars weighing more than 2 kg or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, of a content exceeding 2 kg : |  |  |  |  |
 | 1806.20.10 | - - Kembang gula coklat berbentuk balok, lempeng atau batang | - - Chocolate confectionery in blocks, slabs or bars | 15 | - | 11 | - |

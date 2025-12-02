@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 62.01 | Mantel panjang, car-coat, jubah bertopi, cloak, anorak (termasuk jaket-ski), wind-cheater, wind-jacket dan barang semacam itu, untuk pria atau anak laki-laki, selain yang dimaksud dalam pos 62.03. | Men’s or boys’ overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03. |  |  |  |  |
+| **62.01** | **Mantel panjang, car-coat, jubah bertopi, cloak, anorak (termasuk jaket-ski), wind-cheater, wind-jacket dan barang semacam itu, untuk pria atau anak laki-laki, selain yang dimaksud dalam pos 62.03.** | **Men’s or boys’ overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03.** |  |  |  |  |
 | 6201.20 | - Dari wol atau bulu hewan halus : | - Of wool or fine animal hair : |  |  |  |  |
 | 6201.20.10 | - - Mantel panjang, mantel hujan, car-coat, cloak, jubah bertopi, poncho, mantel three-quarter, greatcoat, hooded cape, mantel duffel, trench coat, gabardine dan padded waistcoat | - - Overcoats, raincoats, car-coats, cloaks, capes, ponchos, three-quarter coats, greatcoats, hooded capes, duffel coats, trench coats, gabardines and padded waistcoats | 20 | - | 11 | - |
 | 6201.20.90 | - - Lain-lain | - - Other | 20 | - | 11 | - |
@@ -51,7 +51,7 @@ lang:
 | 6201.90.29 | - - - Lain-lain | - - - Other | 20 | - | 11 | - |
 | 6201.90.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.02 | Mantel panjang, car-coat, jubah bertopi, cloak, anorak (termasuk jaket-ski), wind-cheater, wind-jacket dan barang semacam itu, untuk wanita atau anak perempuan, selain yang dimaksud dalam pos 62.04. | Women’s or girls’ overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.04. |  |  |  |  |
+| **62.02** | **Mantel panjang, car-coat, jubah bertopi, cloak, anorak (termasuk jaket-ski), wind-cheater, wind-jacket dan barang semacam itu, untuk wanita atau anak perempuan, selain yang dimaksud dalam pos 62.04.** | **Women’s or girls’ overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.04.** |  |  |  |  |
 | 6202.20 | - Dari wol atau bulu hewan halus : | - Of wool or fine animal hair : |  |  |  |  |
 | 6202.20.10 | - - Mantel panjang, mantel hujan, car-coat, cloak, jubah bertopi, poncho, mantel three-quarter, greatcoat, hooded cape, mantel duffel, trench coat, gabardine dan padded waistcoat | - - Overcoats, raincoats, car-coats, cloaks, capes, ponchos, three-quarter coats, greatcoats, hooded capes, duffel coats, trench coats, gabardines and padded waistcoats | 20 | - | 11 | - |
 | 6202.20.90 | - - Lain-lain | - - Other | 20 | - | 11 | - |
@@ -66,7 +66,7 @@ lang:
 | 6202.90.20 | - - Dari rami | - - Of ramie | 20 | - | 11 | - |
 | 6202.90.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.03 | Setelan, ensemble, jas, blazer, celana panjang, pakaian terusan berpenutup di depan dan bertali, celana panjang sampai lutut dan celana pendek (selain pakaian renang), untuk pria atau anak laki-laki. | Men’s or boys’ suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear). |  |  |  |  |
+| **62.03** | **Setelan, ensemble, jas, blazer, celana panjang, pakaian terusan berpenutup di depan dan bertali, celana panjang sampai lutut dan celana pendek (selain pakaian renang), untuk pria atau anak laki-laki.** | **Men’s or boys’ suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear).** |  |  |  |  |
 |  | - Setelan : | - Suits : |  |  |  |  |
 | 6203.11.00 | - - Dari wol atau bulu hewan halus | - - Of wool or fine animal hair | 20 | - | 11 | - |
 | 6203.12.00 | - - Dari serat sintetik | - - Of synthetic fibres | 25 | - | 11 | - |
@@ -103,7 +103,7 @@ lang:
 | 6203.49.10 | - - - Dari sutra | - - - Of silk | 22.5 | - | 11 | - |
 | 6203.49.90 | - - - Lain-lain | - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.04 | Setelan, ensemble, jas, blazer, gaun, rok, rok terpisah, celana panjang, pakaian terusan berpenutup di depan dan bertali, celana panjang sampai lutut dan celana pendek (selain pakaian renang), untuk wanita atau anak perempuan. | Women’s or girls’ suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear). |  |  |  |  |
+| **62.04** | **Setelan, ensemble, jas, blazer, gaun, rok, rok terpisah, celana panjang, pakaian terusan berpenutup di depan dan bertali, celana panjang sampai lutut dan celana pendek (selain pakaian renang), untuk wanita atau anak perempuan.** | **Women’s or girls’ suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear).** |  |  |  |  |
 |  | - Setelan : | - Suits : |  |  |  |  |
 | 6204.11.00 | - - Dari wol dari atau bulu hewan halus | - - Of wool or fine animal hair | 20 | - | 11 | - |
 | 6204.12 | - - Dari kapas : | - - Of cotton : |  |  |  |  |
@@ -160,7 +160,7 @@ lang:
 | 6204.63.00 | - - Dari serat sintetik | - - Of synthetic fibres | 25 | - | 11 | - |
 | 6204.69.00 | - - Dari bahan tekstil lainnya | - - Of other textile materials | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.05 | Kemeja pria atau anak laki-laki. | Men’s or boys’ shirts. |  |  |  |  |
+| **62.05** | **Kemeja pria atau anak laki-laki.** | **Men’s or boys’ shirts.** |  |  |  |  |
 | 6205.20 | - Dari kapas : | - Of cotton : |  |  |  |  |
 | 6205.20.10 | - - Dicetak dengan proses batik tradisional | - - Printed by traditional batik process | 22.5 | - | 11 | - |
 | 6205.20.20 | - - Barong Tagalog | - - Barong Tagalog | 25 | - | 11 | - |
@@ -175,7 +175,7 @@ lang:
 | 6205.90.92 | - - - Barong Tagalog | - - - Barong Tagalog | 25 | - | 11 | - |
 | 6205.90.99 | - - - Lain-lain | - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.06 | Blus, kemeja dan blus kemeja, untuk wanita atau anak perempuan. | Women’s or girls’ blouses, shirts and shirt-blouses. |  |  |  |  |
+| **62.06** | **Blus, kemeja dan blus kemeja, untuk wanita atau anak perempuan.** | **Women’s or girls’ blouses, shirts and shirt-blouses.** |  |  |  |  |
 | 6206.10 | - Dari sutra atau sisa sutra : | - Of silk or silk waste : |  |  |  |  |
 | 6206.10.10 | - - Dicetak dengan proses batik tradisional | - - Printed by traditional batik process | 22.5 | - | 11 | - |
 | 6206.10.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
@@ -186,7 +186,7 @@ lang:
 | 6206.40.00 | - Dari serat buatan | - Of man-made fibres | 25 | - | 11 | - |
 | 6206.90.00 | - Dari bahan tekstil lainnya | - Of other textile materials | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.07 | Singlet dan kaus kutang lainnya, celana kolor, celana dalam, pakaian tidur, piyama, pakaian mandi, dressing gown dan barang semacam itu, untuk pria atau anak laki-laki. | Men’s or boys’ singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles. |  |  |  |  |
+| **62.07** | **Singlet dan kaus kutang lainnya, celana kolor, celana dalam, pakaian tidur, piyama, pakaian mandi, dressing gown dan barang semacam itu, untuk pria atau anak laki-laki.** | **Men’s or boys’ singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles.** |  |  |  |  |
 |  | - Celana kolor dan celana dalam : | - Underpants and briefs : |  |  |  |  |
 | 6207.11.00 | - - Dari kapas | - - Of cotton | 25 | - | 11 | - |
 | 6207.19.00 | - - Dari bahan tekstil lainnya | - - Of other textile materials | 25 | - | 11 | - |
@@ -204,7 +204,7 @@ lang:
 | 6207.99.10 | - - - Dari serat buatan | - - - Of man-made fibres | 25 | - | 11 | - |
 | 6207.99.90 | - - - Lain-lain | - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.08 | Singlet dan kaus kutang lainnya, pakaian dalam kombinasi, petticoat, celana dalam, panty, gaun malam, piyama, negligee, pakaian mandi, dressing gown dan barang semacam itu, untuk wanita atau anak perempuan. | Women’s or girls’ singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing gowns and similar articles. |  |  |  |  |
+| **62.08** | **Singlet dan kaus kutang lainnya, pakaian dalam kombinasi, petticoat, celana dalam, panty, gaun malam, piyama, negligee, pakaian mandi, dressing gown dan barang semacam itu, untuk wanita atau anak perempuan.** | **Women’s or girls’ singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing gowns and similar articles.** |  |  |  |  |
 |  | - Pakaian dalam kombinasi dan petticoat : | - Slips and petticoats : |  |  |  |  |
 | 6208.11.00 | - - Dari serat buatan | - - Of man-made fibres | 25 | - | 11 | - |
 | 6208.19.00 | - - Dari bahan tekstil lainnya | - - Of other textile materials | 25 | - | 11 | - |
@@ -227,7 +227,7 @@ lang:
 | 6208.99.10 | - - - Dari wol atau bulu hewan halus | - - - Of wool or fine animal hair | 20 | - | 11 | - |
 | 6208.99.90 | - - - Lain-lain | - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.09 | Garmen dan aksesori pakaian bayi. | Babies’ garments and clothing accessories. |  |  |  |  |
+| **62.09** | **Garmen dan aksesori pakaian bayi.** | **Babies’ garments and clothing accessories.** |  |  |  |  |
 | 6209.20 | - Dari kapas : | - Of cotton : |  |  |  |  |
 | 6209.20.30 | - - T-shirt, kemeja, piyama dan barang semacam itu | - - T-shirts, shirts, pyjamas and similar articles | 25 | - | 11 | - |
 | 6209.20.40 | - - Setelan, celana dan barang semacam itu | - - Suits, pants and similar articles | 22.5 | - | 11 | - |
@@ -239,7 +239,7 @@ lang:
 | 6209.30.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
 | 6209.90.00 | - Dari bahan tekstil lainnya | - Of other textile materials | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.10 | Garmen, dibuat dari kain dari pos 56.02, 56.03, 59.03, 59.06, atau 59.07. | Garments, made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07. |  |  |  |  |
+| **62.10** | **Garmen, dibuat dari kain dari pos 56.02, 56.03, 59.03, 59.06, atau 59.07.** | **Garments, made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07.** |  |  |  |  |
 | 6210.10 | - Dari kain dari pos 56.02 atau 56.03 : | - Of fabrics of heading 56.02 or 56.03 : |  |  |  |  |
 |  | - - Pakaian pelindung kerja : | - - Protective work garments : |  |  |  |  |
 | 6210.10.11 | - - - Pakaian yang digunakan untuk pelindung dari bahan kimia, radiasi atau api | - - - Garments used for protection from chemical substances, radiation or fire | 20 | - | 11 | - |
@@ -264,7 +264,7 @@ lang:
 | 6210.50.20 | - - Pakaian yang digunakan untuk pelindung dari bahan kimia atau radiasi | - - Garments used for protection from chemical substances or radiation | 17.5 | - | 11 | - |
 | 6210.50.90 | - - Lain-lain | - - Other | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.11 | Track suit, ski suit dan pakaian renang; garmen lainnya. | Track suits, ski suits and swimwear; other garments. |  |  |  |  |
+| **62.11** | **Track suit, ski suit dan pakaian renang; garmen lainnya.** | **Track suits, ski suits and swimwear; other garments.** |  |  |  |  |
 |  | - Pakaian renang : | - Swimwear : |  |  |  |  |
 | 6211.11.00 | - - Untuk pria atau anak laki-laki | - - Men’s or boys’ | 25 | - | 11 | - |
 | 6211.12.00 | - - Untuk wanita atau anak perempuan | - - Women’s or girls’ | 25 | - | 11 | - |
@@ -311,7 +311,7 @@ lang:
 | 6211.49.60 | - - - Lain-lain, dari wol atau bulu hewan halus | - - - Other, of wool or fine animal hair | 20 | - | 11 | - |
 | 6211.49.90 | - - - Lain-lain | - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.12 | Brassiere, girdle, korset, brace, suspender, garter dan barang semacam itu serta bagiannya, rajutan atau kaitan maupun tidak. | Brassieres, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, whether or not knitted or crocheted. |  |  |  |  |
+| **62.12** | **Brassiere, girdle, korset, brace, suspender, garter dan barang semacam itu serta bagiannya, rajutan atau kaitan maupun tidak.** | **Brassieres, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, whether or not knitted or crocheted.** |  |  |  |  |
 | 6212.10 | - Brassiere : | - Brassieres : |  |  |  |  |
 |  | - - Dari kapas : | - - Of cotton : |  |  |  |  |
 | 6212.10.11 | - - - Bra mastektomi (bra setelah operasi payudara) | - - - Mastectomy bra (post breast surgery bra) | 25 | - | 11 | - |
@@ -335,7 +335,7 @@ lang:
 | 6212.90.92 | - - - Perlengkapan atletik | - - - Athletic supporters | 22.5 | - | 11 | - |
 | 6212.90.99 | - - - Lain-lain | - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.13 | Saputangan. | Handkerchiefs. |  |  |  |  |
+| **62.13** | **Saputangan.** | **Handkerchiefs.** |  |  |  |  |
 | 6213.20 | - Dari kapas : | - Of cotton : |  |  |  |  |
 | 6213.20.10 | - - Dicetak dengan proses batik tradisional | - - Printed by the traditional batik process | 22.5 | - | 11 | - |
 | 6213.20.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
@@ -347,7 +347,7 @@ lang:
 | 6213.90.91 | - - - Dicetak dengan proses batik tradisional | - - - Printed by the traditional batik process | 22.5 | - | 11 | - |
 | 6213.90.99 | - - - Lain-lain | - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.14 | Syal, scarf, muffler, mantilla, veil dan sejenisnya. | Shawls, scarves, mufflers, mantillas, veils and the like. |  |  |  |  |
+| **62.14** | **Syal, scarf, muffler, mantilla, veil dan sejenisnya.** | **Shawls, scarves, mufflers, mantillas, veils and the like.** |  |  |  |  |
 | 6214.10 | - Dari sutra atau sisa sutra : | - Of silk or silk waste : |  |  |  |  |
 | 6214.10.10 | - - Dicetak dengan proses batik tradisional | - - Printed by the traditional batik process | 22.5 | - | 11 | - |
 | 6214.10.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
@@ -362,7 +362,7 @@ lang:
 | 6214.90.10 | - - Dicetak dengan proses batik tradisional | - - Printed by the traditional batik process | 22.5 | - | 11 | - |
 | 6214.90.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.15 | Dasi, dasi kupu- kupu dan cravat. | Ties, bow ties and cravats. |  |  |  |  |
+| **62.15** | **Dasi, dasi kupu- kupu dan cravat.** | **Ties, bow ties and cravats.** |  |  |  |  |
 | 6215.10 | - Dari sutra atau sisa sutra : | - Of silk or silk waste : |  |  |  |  |
 | 6215.10.10 | - - Dicetak dengan proses batik tradisional | - - Printed by the traditional batik process | 22.5 | - | 11 | - |
 | 6215.10.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
@@ -373,14 +373,14 @@ lang:
 | 6215.90.10 | - - Dicetak dengan proses batik tradisional | - - Printed by the traditional batik process | 22.5 | - | 11 | - |
 | 6215.90.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.16 | Sarung tangan, mitten dan mitt. | Gloves, mittens and mitts. |  |  |  |  |
+| **62.16** | **Sarung tangan, mitten dan mitt.** | **Gloves, mittens and mitts.** |  |  |  |  |
 | 6216.00.10 | - Sarung tangan, mitten dan mitt pelindung kerja | - Protective work gloves, mittens and mitts | 25 | - | 11 | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
 | 6216.00.91 | - - Dari wol atau bulu hewan halus | - - Of wool or fine animal hair | 20 | - | 11 | - |
 | 6216.00.92 | - - Dari kapas | - - Of cotton | 25 | - | 11 | - |
 | 6216.00.99 | - - Lain-lain | - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 62.17 | Aksesori pakaian jadi lainnya; bagian dari garmen atau dari aksesori pakaian, selain yang dimaksud dalam pos 62.12. | Other made up clothing accessories; parts of garments or of clothing accessories, other than those of heading 62.12. |  |  |  |  |
+| **62.17** | **Aksesori pakaian jadi lainnya; bagian dari garmen atau dari aksesori pakaian, selain yang dimaksud dalam pos 62.12.** | **Other made up clothing accessories; parts of garments or of clothing accessories, other than those of heading 62.12.** |  |  |  |  |
 | 6217.10 | - Aksesori : | - Accessories : |  |  |  |  |
 | 6217.10.10 | - - Sabuk judo | - - Judo belts | 22.5 | - | 11 | - |
 | 6217.10.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |

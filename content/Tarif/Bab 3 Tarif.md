@@ -31,7 +31,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 03.01 | Ikan hidup. | Live fish. |  |  |  |  |
+| **03.01** | **Ikan hidup.** | **Live fish.** |  |  |  |  |
 |  | - Ikan hias : | - Ornamental fish : |  |  |  |  |
 | 0301.11 | - - Air tawar : | - - Freshwater : |  |  |  |  |
 | 0301.11.10 | - - - Benih ikan | - - - Fry | 0 | - | - | - |
@@ -81,7 +81,7 @@ lang:
 | 0301.99.50 | - - - Lain-lain, ikan air laut | - - - Other, marine fish | 5 | - | - | - |
 | 0301.99.90 | - - - Lain-lain | - - - Other | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 03.02 | Ikan, segar atau dingin, tidak termasuk potongan ikan tanpa tulang dan daging ikan lainnya dari pos 03.04. | Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. |  |  |  |  |
+| **03.02** | **Ikan, segar atau dingin, tidak termasuk potongan ikan tanpa tulang dan daging ikan lainnya dari pos 03.04.** | **Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04.** |  |  |  |  |
 |  | - Salmon (Salmonidae), tidak termasuk sisa ikan yang dapat dimakan dari subpos 0302.91 sampai dengan 0302.99 : | - Salmonidae, excluding edible fish offal of subheadings 0302.91 to 0302.99 : |  |  |  |  |
 | 0302.11.00 | - - Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhyncus apache dan Oncorhynchus chrysogaster) | - - Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster) | 5 | - | - | - |
 | 0302.13.00 | - - Salmon Pasifik (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou dan Oncorhynchus rhodurus) | - - Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus) | 5 | - | - | - |
@@ -154,7 +154,7 @@ lang:
 | 0302.92.00 | - - Sirip hiu | - - Shark fins | 5 | - | - | - |
 | 0302.99.00 | - - Lain-lain | - - Other | 10 | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 03.03 | Ikan, beku, tidak termasuk potongan ikan tanpa tulang dan daging ikan lainnya dari pos 03.04. | Fish, frozen, excluding fish fillets and other fish meat of heading 03.04. |  |  |  |  |
+| **03.03** | **Ikan, beku, tidak termasuk potongan ikan tanpa tulang dan daging ikan lainnya dari pos 03.04.** | **Fish, frozen, excluding fish fillets and other fish meat of heading 03.04.** |  |  |  |  |
 |  | - Salmon (Salmonidae), tidak termasuk sisa ikan yang dapat dimakan dari subpos 0303.91 sampai dengan 0303.99 : | - Salmonidae, excluding edible fish offal of subheadings 0303.91 to 0303.99 : |  |  |  |  |
 | 0303.11.00 | - - Salmon sockeye (salmon merah) (Oncorhynchus nerka) | - - Sockeye salmon (red salmon) (Oncorhynchus nerka) | 5 | - | - | - |
 | 0303.12.00 | - - Salmon Pasifik lainnya (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou dan Oncorhynchus rhodurus) | - - Other Pacific salmon (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus) | 5 | - | - | - |
@@ -232,7 +232,7 @@ lang:
 | 0303.91.00 | - - Hati, telur dan sperma | - - Livers, roes and milt | 5 | - | 11*) | - |
 | 0303.92.00 | - - Sirip hiu | - - Shark fins | 5 | - | - | - |
 | 0303.99.00 | - - Lain-lain | - - Other | 10 | - | 11*) | - |
-| 03.04 | Fillet dan daging ikan lainnya (dicincang maupun tidak), segar, dingin atau beku. | Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen. |  |  |  |  |
+| **03.04** | **Fillet dan daging ikan lainnya (dicincang maupun tidak), segar, dingin atau beku.** | **Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.** |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  | - Fillet segar atau dingin dari tilapia (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), ikan mas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), sidat (Anguilla spp.), Nile perch (Lates niloticus) dan gabus (Channa spp.) : | - Fresh or chilled fillets of tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.) : |  |  |  |  |
 | 0304.31.00 | - - Tilapia (Oreochromis spp.) | - - Tilapias (Oreochromis spp.) | 10 | - | - | - |
@@ -294,7 +294,7 @@ lang:
 | 0304.99.10 | - - - Surimi (daging ikan cincang) | - - - Surimi (minced fish meat) | 10 | - | - | - |
 | 0304.99.90 | - - - Lain-lain | - - - Other | 10 | - | - | - |
 |  |  |  |  |  |  |  |
-| 03.05 | Ikan, dikeringkan, diasinkan atau dalam air garam; ikan diasapi, dimasak maupun tidak sebelum atau selama proses pengasapan. | Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process. |  |  |  |  |
+| **03.05** | **Ikan, dikeringkan, diasinkan atau dalam air garam; ikan diasapi, dimasak maupun tidak sebelum atau selama proses pengasapan.** | **Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process.** |  |  |  |  |
 | 0305.20 | - Hati , telur dan sperma dari ikan, dikeringkan, diasapi, diasinkan atau dalam air garam : | - Livers, roes and milt of fish, dried, smoked, salted or in brine : |  |  |  |  |
 | 0305.20.10 | - - Dari ikan air tawar, dikeringkan, diasinkan atau dalam air garam | - - Of freshwater fish, dried, salted or in brine | 5 | - | 11*) | - |
 | 0305.20.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -349,7 +349,7 @@ lang:
 | 0305.79.10 | - - - Cod | - - - Of cod | 5 | - | 11*) | - |
 | 0305.79.90 | - - - Lain-lain | - - - Other | 5 | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 03.06 | Krustasea, bercangkang maupun tidak, hidup, segar, dingin, beku, dikeringkan, diasinkan atau dalam air garam; krustasea diasapi, dimasak maupun tidak sebelum atau selama proses pengasapan; krustasea, bercangkang, dikukus atau direbus, dingin, beku, dikeringkan, diasinkan atau dalam air garam maupun tidak. | Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine. |  |  |  |  |
+| **03.06** | **Krustasea, bercangkang maupun tidak, hidup, segar, dingin, beku, dikeringkan, diasinkan atau dalam air garam; krustasea diasapi, dimasak maupun tidak sebelum atau selama proses pengasapan; krustasea, bercangkang, dikukus atau direbus, dingin, beku, dikeringkan, diasinkan atau dalam air garam maupun tidak.** | **Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine.** |  |  |  |  |
 |  | - Beku : | - Frozen : |  |  |  |  |
 | 0306.11 | - - Lobster karang dan udang laut besar lainnya (Palinurus spp., Panulirus spp., Jasus spp.) : | - - Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.) : |  |  |  |  |
 | 0306.11.10 | - - - Diasapi | - - - Smoked | 5 | - | 11 | - |
@@ -461,7 +461,7 @@ lang:
 | 0306.99.31 | - - - - Diasapi | - - - - Smoked | 5 | - | 11 | - |
 | 0306.99.39 | - - - - Lain-lain | - - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 03.07 | Moluska, bercangkang maupun tidak, hidup, segar, dingin, beku, dikeringkan, diasinkan atau dalam air garam; moluska diasapi, bercangkang maupun tidak, dimasak maupun tidak sebelum atau selama proses pengasapan. | Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process. |  |  |  |  |
+| **03.07** | **Moluska, bercangkang maupun tidak, hidup, segar, dingin, beku, dikeringkan, diasinkan atau dalam air garam; moluska diasapi, bercangkang maupun tidak, dimasak maupun tidak sebelum atau selama proses pengasapan.** | **Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process.** |  |  |  |  |
 |  | - Tiram : | - Oysters : |  |  |  |  |
 | 0307.11 | - - Hidup, segar atau dingin : | - - Live, fresh or chilled : |  |  |  |  |
 | 0307.11.10 | - - - Hidup | - - - Live | 5 | - | - | - |
@@ -549,7 +549,7 @@ lang:
 | 0307.99.30 | - - - Dikeringkan, diasinkan atau dalam air garam | - - - Dried, salted or in brine | 5 | - | 11 | - |
 | 0307.99.40 | - - - Diasapi | - - - Smoked | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 03.08 | Invertebrata air selain krustasea dan moluska, hidup, segar, dingin, beku, dikeringkan, diasinkan atau dalam air garam; Invertebrata air selain krustasea dan moluska diasapi, dimasak maupun tidak sebelum atau selama proses pengasapan. | Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process. |  |  |  |  |
+| **03.08** | **Invertebrata air selain krustasea dan moluska, hidup, segar, dingin, beku, dikeringkan, diasinkan atau dalam air garam; Invertebrata air selain krustasea dan moluska diasapi, dimasak maupun tidak sebelum atau selama proses pengasapan.** | **Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process.** |  |  |  |  |
 |  | - Teripang (Stichopus japonicus, Holothurioidea) : | - Sea cucumbers (Stichopus japonicus, Holothuroidea) : |  |  |  |  |
 | 0308.11 | - - Hidup, segar atau dingin : | - - Live, fresh or chilled : |  |  |  |  |
 | 0308.11.10 | - - - Hidup | - - - Live | 5 | - | 11 | - |
@@ -579,7 +579,7 @@ lang:
 | 0308.90.40 | - - Dikeringkan, diasinkan atau dalam air garam | - - Dried, salted or in brine | 5 | - | 11 | - |
 | 0308.90.50 | - - Diasapi | - - Smoked | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 03.09 | Tepung, tepung kasar dan pellet dari ikan atau krustasea, moluska atau invertebrata air lainnya, layak untuk dikonsumsi manusia. | Flours, meals and pellets of fish, crustaceans, molluscs and other aquatic invertebrates, fit for human consumption. |  |  |  |  |
+| **03.09** | **Tepung, tepung kasar dan pellet dari ikan atau krustasea, moluska atau invertebrata air lainnya, layak untuk dikonsumsi manusia.** | **Flours, meals and pellets of fish, crustaceans, molluscs and other aquatic invertebrates, fit for human consumption.** |  |  |  |  |
 | 0309.10.00 | - Dari ikan | - Of fish | 5 | - | 11 | - |
 | 0309.90 | - Lain-lain : | - Other : |  |  |  |  |
 |  | - - Dari krustasea : | - - Of crustaceans : |  |  |  |  |

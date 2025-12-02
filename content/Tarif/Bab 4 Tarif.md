@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 04.01 | Susu dan kepala susu, tidak dipekatkan maupun tidak mengandung tambahan gula atau bahan pemanis lainnya. | Milk and cream, not concentrated nor containing added sugar or other sweetening matter. |  |  |  |  |
+| **04.01** | **Susu dan kepala susu, tidak dipekatkan maupun tidak mengandung tambahan gula atau bahan pemanis lainnya.** | **Milk and cream, not concentrated nor containing added sugar or other sweetening matter.** |  |  |  |  |
 | 0401.10 | - Dengan kandungan lemak tidak melebihi 1 % menurut beratnya : | - Of a fat content, by weight, not exceeding 1 % : |  |  |  |  |
 | 0401.10.10 | - - Dalam bentuk cairan | - - In liquid form | 5 | - | 11*) | - |
 | 0401.10.90 | - - Lain-lain | - - Other | 5 | - | 11*) | - |
@@ -47,7 +47,7 @@ lang:
 | 0401.50.10 | - - Dalam bentuk cairan | - - In liquid form | 5 | - | 11*) | - |
 | 0401.50.90 | - - Lain-lain | - - Other | 5 | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 04.02 | Susu dan kepala susu, dipekatkan atau mengandung tambahan gula atau bahan pemanis lainnya. | Milk and cream, concentrated or containing added sugar or other sweetening matter. |  |  |  |  |
+| **04.02** | **Susu dan kepala susu, dipekatkan atau mengandung tambahan gula atau bahan pemanis lainnya.** | **Milk and cream, concentrated or containing added sugar or other sweetening matter.** |  |  |  |  |
 | 0402.10 | - Dalam bentuk bubuk, butiran atau bentuk padat lainnya, dengan kandungan lemak tidak melebihi 1,5 % menurut beratnya : | - In powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 % : |  |  |  |  |
 |  | - - Tidak mengandung tambahan gula atau bahan pemanis lainnya : | - - Not containing added sugar or other sweetening matter : |  |  |  |  |
 | 0402.10.41 | - - - Dalam kemasan dengan berat bersih 20 kg atau lebih | - - - In containers of a net weight of 20 kg or more | 5 | - | 11 | - |
@@ -70,7 +70,7 @@ lang:
 | 0402.91.00 | - - Tidak mengandung tambahan gula atau bahan pemanis lainnya | - - Not containing added sugar or other sweetening matter | 5 | - | 11 | - |
 | 0402.99.00 | - - Lain-lain | - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 04.03 | Yoghurt; susu mentega, susu dan kepala susu dikentalkan, kefir dan susu dan krim difermentasi atau diasamkan lainnya, dipekatkan atau mengandung tambahan gula atau bahan pemanis lainnya atau diberi rasa atau mengandung tambahan buah-buahan, kacang-kacangan atau kakao maupun tidak. | Yogurt; buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa. |  |  |  |  |
+| **04.03** | **Yoghurt; susu mentega, susu dan kepala susu dikentalkan, kefir dan susu dan krim difermentasi atau diasamkan lainnya, dipekatkan atau mengandung tambahan gula atau bahan pemanis lainnya atau diberi rasa atau mengandung tambahan buah-buahan, kacang-kacangan atau kakao maupun tidak.** | **Yogurt; buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa.** |  |  |  |  |
 | 0403.20 | - Yoghurt : | - Yogurt : |  |  |  |  |
 |  | - - Dalam bentuk cair, dikentalkan maupun tidak : | - - In liquid form, whether or not condensed : |  |  |  |  |
 | 0403.20.11 | - - - Diberi rasa atau mengandung tambahan buah-buahan (termasuk pulp dan selai), kacang-kacangan atau kakao | - - - Flavoured or containing added fruits (including pulp and jams), nuts or cocoa | 10 | - | 11 | - |
@@ -82,7 +82,7 @@ lang:
 | 0403.90.10 | - - Susu mentega | - - Buttermilk | 5 | - | 11 | - |
 | 0403.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 04.04 | Whey, dipekatkan atau mengandung tambahan gula atau bahan pemanis lainnya maupun tidak; produk terdiri dari susu alam sebagai unsur utama, mengandung tambahan gula, bahan pemanis lainnya maupun tidak, tidak dirinci atau termasuk dalam pos lainnya. | Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included. |  |  |  |  |
+| **04.04** | **Whey, dipekatkan atau mengandung tambahan gula atau bahan pemanis lainnya maupun tidak; produk terdiri dari susu alam sebagai unsur utama, mengandung tambahan gula, bahan pemanis lainnya maupun tidak, tidak dirinci atau termasuk dalam pos lainnya.** | **Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included.** |  |  |  |  |
 | 0404.10 | - Whey dan Whey yang dimodifikasi, dipekatkan atau mengandung tambahan gula atau bahan pemanis lainnya maupun tidak : | - Whey and modified whey, whether or not concentrated or containing added sugar or other sweetening matter : |  |  |  |  |
 |  | - - Dalam bentuk bubuk : | - - In powder form : |  |  |  |  |
 | 0404.10.11 | - - - Whey, layak untuk dikonsumsi manusia | - - - Whey, fit for human consumption | 5 | - | 11 | - |
@@ -92,7 +92,7 @@ lang:
 | 0404.10.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 0404.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 04.05 | Mentega dan lemak serta minyak lainnya yang diperoleh dari susu; dairy spreads. | Butter and other fats and oils derived from milk; dairy spreads. |  |  |  |  |
+| **04.05** | **Mentega dan lemak serta minyak lainnya yang diperoleh dari susu; dairy spreads.** | **Butter and other fats and oils derived from milk; dairy spreads.** |  |  |  |  |
 | 0405.10.00 | - Mentega | - Butter | 5 | - | 11 | - |
 | 0405.20.00 | - Dairy spreads | - Dairy spreads | 5 | - | 11 | - |
 | 0405.90 | - Lain-lain : | - Other : |  |  |  |  |
@@ -101,7 +101,7 @@ lang:
 | 0405.90.30 | - - Ghee | - - Ghee | 5 | - | 11 | - |
 | 0405.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 04.06 | Keju dan dadih susu. | Cheese and curd. |  |  |  |  |
+| **04.06** | **Keju dan dadih susu.** | **Cheese and curd.** |  |  |  |  |
 | 0406.10 | - Keju segar (tidak dimasak atau tidak diawetkan) termasuk keju whey dan dadih susu : | - Fresh (unripened or uncured) cheese, including whey cheese, and curd : |  |  |  |  |
 | 0406.10.10 | - - Keju segar (tidak dimasak atau tidak diawetkan), termasuk keju whey | - - Fresh (unripened or uncured) cheese, including whey cheese | 5 | - | 11 | - |
 | 0406.10.20 | - - Dadih susu | - - Curd | 5 | - | 11 | - |
@@ -112,7 +112,7 @@ lang:
 | 0406.40.00 | - Keju blue-vein dan keju lainnya yang mengandung vein dibuat dengan Penicillium roqueforti | - Blue-veined cheese and other cheese containing veins produced by Penicillium roqueforti | 5 | - | 11 | - |
 | 0406.90.00 | - Keju lainnya | - Other cheese | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 04.07 | Telur unggas bercangkang, segar, diawetkan atau dimasak. | Birds’ eggs, in shell, fresh, preserved or cooked. |  |  |  |  |
+| **04.07** | **Telur unggas bercangkang, segar, diawetkan atau dimasak.** | **Birds’ eggs, in shell, fresh, preserved or cooked.** |  |  |  |  |
 |  | - Telur yang difertilasi untuk inkubasi : | - Fertilised eggs for incubation : |  |  |  |  |
 | 0407.11 | - - Dari ayam dari spesies Gallus domesticus : | - - Of fowls of the species Gallus domesticus : |  |  |  |  |
 | 0407.11.10 | - - - Untuk bibit | - - - For breeding | 5 | - | - | - |
@@ -134,7 +134,7 @@ lang:
 | 0407.90.20 | - - Dari bebek | - - Of ducks | 5 | - | 11*) | - |
 | 0407.90.90 | - - Lain-lain | - - Other | 5 | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 04.08 | Telur unggas, tanpa cangkang, dan kuning telur, segar, dikeringkan, dikukus atau direbus, dibentuk, beku atau diawetkan secara lain, mengandung tambahan gula atau bahan pemanis lainnya maupun tidak. | Birds’ eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter. |  |  |  |  |
+| **04.08** | **Telur unggas, tanpa cangkang, dan kuning telur, segar, dikeringkan, dikukus atau direbus, dibentuk, beku atau diawetkan secara lain, mengandung tambahan gula atau bahan pemanis lainnya maupun tidak.** | **Birds’ eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter.** |  |  |  |  |
 |  | - Kuning telur : | - Egg yolks : |  |  |  |  |
 | 0408.11.00 | - - Dikeringkan | - - Dried | 5 | - | 11 | - |
 | 0408.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -144,7 +144,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 0409.00.00 | Madu alam. | Natural honey. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 04.10 | Serangga dan produk lainnya yang dapat dimakan berasal dari hewan, tidak dirinci atau termasuk dalam pos lainnya. | Insects and other edible products of animal origin, not elsewhere specified or included. |  |  |  |  |
+| **04.10** | **Serangga dan produk lainnya yang dapat dimakan berasal dari hewan, tidak dirinci atau termasuk dalam pos lainnya.** | **Insects and other edible products of animal origin, not elsewhere specified or included.** |  |  |  |  |
 | 0410.10.00 | - Serangga | - Insects | 5 | - | 11 | - |
 | 0410.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 0410.90.10 | - - Sarang burung | - - Birds' nests | 5 | - | 11 | - |

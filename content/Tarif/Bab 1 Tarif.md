@@ -30,7 +30,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 01.01 | Kuda, keledai, bagal dan hinnie, hidup. | Live horses, asses, mules and hinnies. |  |  |  |  |
+| **01.01** | **Kuda, keledai, bagal dan hinnie, hidup.** | **Live horses, asses, mules and hinnies.** |  |  |  |  |
 |  | - Kuda : | - Horses : |  |  |  |  |
 | 0101.21.00 | - - Bibit | - - Pure-bred breeding animals | 0 | - | - | - |
 | 0101.29.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -39,7 +39,7 @@ lang:
 | 0101.30.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 0101.90.00 | - Lain-lain | - Other | 5 | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 01.02 | Binatang hidup jenis lembu. | Live bovine animals. |  |  |  |  |
+| **01.02** | **Binatang hidup jenis lembu.** | **Live bovine animals.** |  |  |  |  |
 |  | - Sapi : | - Cattle : |  |  |  |  |
 | 0102.21.00 | - - Bibit | - - Pure-bred breeding animals | 0 | - | - | - |
 | 0102.29 | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -54,13 +54,13 @@ lang:
 | 0102.90.10 | - - Bibit | - - Pure-bred breeding animals | 0 | - | - | - |
 | 0102.90.90 | - - Lain-lain | - - Other | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 01.03 | Babi hidup. | Live swine. |  |  |  |  |
+| **01.03** | **Babi hidup.** | **Live swine.** |  |  |  |  |
 | 0103.10.00 | - Bibit | - Pure-bred breeding animals | 0 | - | - | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
 | 0103.91.00 | - - Berat kurang dari 50 kg | - - Weighing less than 50 kg | 5 | - | - | - |
 | 0103.92.00 | - - Berat 50 kg atau lebih | - - Weighing 50 kg or more | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 01.04 | Biri-biri dan kambing, hidup. | Live sheep and goats. |  |  |  |  |
+| **01.04** | **Biri-biri dan kambing, hidup.** | **Live sheep and goats.** |  |  |  |  |
 | 0104.10 | - Biri-biri : | - Sheep : |  |  |  |  |
 | 0104.10.10 | - - Bibit | - - Pure-bred breeding animals | 0 | - | - | - |
 | 0104.10.90 | - - Lain-lain | - - Other | 5 | - | - | - |
@@ -68,7 +68,7 @@ lang:
 | 0104.20.10 | - - Bibit | - - Pure-bred breeding animals | 0 | - | - | - |
 | 0104.20.90 | - - Lain-lain | - - Other | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 01.05 | Unggas hidup, yaitu ayam dari spesies Gallus domesticus, bebek, angsa, kalkun dan ayam guinea. | Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls. |  |  |  |  |
+| **01.05** | **Unggas hidup, yaitu ayam dari spesies Gallus domesticus, bebek, angsa, kalkun dan ayam guinea.** | **Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls.** |  |  |  |  |
 |  | - Berat tidak lebih dari 185 g : | - Weighing not more than 185 g : |  |  |  |  |
 | 0105.11 | - - Ayam dari spesies Gallus domesticus : | - - Fowls of the species Gallus domesticus : |  |  |  |  |
 | 0105.11.10 | - - - Ayam bibit | - - - Breeding fowls | 0 | - | - | - |
@@ -100,7 +100,7 @@ lang:
 | 0105.99.30 | - - - Angsa, kalkun dan ayam guinea, bibit | - - - Breeding geese, turkeys and guinea fowls | 0 | - | - | - |
 | 0105.99.40 | - - - Angsa, kalkun dan ayam guinea lainnya | - - - Other geese, turkeys and guinea fowls | 5 | - | - | - |
 |  |  |  |  |  |  |  |
-| 01.06 | Binatang hidup lainnya. | Other live animals. |  |  |  |  |
+| **01.06** | **Binatang hidup lainnya.** | **Other live animals.** |  |  |  |  |
 |  | - Binatang menyusui : | - Mammals : |  |  |  |  |
 | 0106.11.00 | - - Primata | - - Primates | 5 | - | 11 | - |
 | 0106.12 | - - Paus, lumba-lumba dan porpoise (binatang menyusui dari ordo Cetacea); manate dan dugong (binatang menyusui dari ordo Sirenia); anjing laut, singa laut dan beruang laut (mamalia dari sub ordo Pinnipedia) : | - - Whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals of the order Sirenia); seals, sea lions and walruses (mammals of the suborder Pinnipedia) : |  |  |  |  |

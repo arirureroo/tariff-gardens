@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 54.01 | Benang jahit dari filamen buatan, disiapkan untuk penjualan eceran maupun tidak. | Sewing thread of man-made filaments, whether or not put up for retail sale. |  |  |  |  |
+| **54.01** | **Benang jahit dari filamen buatan, disiapkan untuk penjualan eceran maupun tidak.** | **Sewing thread of man-made filaments, whether or not put up for retail sale.** |  |  |  |  |
 | 5401.10 | - Dari filamen sintetik : | - Of synthetic filaments : |  |  |  |  |
 | 5401.10.10 | - - Disiapkan untuk penjualan eceran | - - Put up for retail sale | 5 | - | 11 | - |
 | 5401.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -40,7 +40,7 @@ lang:
 | 5401.20.10 | - - Disiapkan untuk penjualan eceran | - - Put up for retail sale | 5 | - | 11 | - |
 | 5401.20.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 54.02 | Benang filamen sintetik (selain benang jahit), tidak disiapkan untuk penjualan eceran, termasuk monofilamen sintetik yang kurang dari 67 desiteks. | Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex. |  |  |  |  |
+| **54.02** | **Benang filamen sintetik (selain benang jahit), tidak disiapkan untuk penjualan eceran, termasuk monofilamen sintetik yang kurang dari 67 desiteks.** | **Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex.** |  |  |  |  |
 |  | - Benang kekuatan tinggi dari nilon atau poliamida lainnya, tekstur maupun tidak : | - High tenacity yarn of nylon or other polyamides, whether or not textured : |  |  |  |  |
 | 5402.11.00 | - - Dari aramid | - - Of aramids | 5 | - | 11 | - |
 | 5402.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -78,7 +78,7 @@ lang:
 | 5402.63.00 | - - Dari polipropilena | - - Of polypropylene | 5 | - | 11 | - |
 | 5402.69.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 54.03 | Benang filamen artifisial (selain benang jahit), tidak disiapkan untuk penjualan eceran, termasuk monofilamen artifisial yang kurang dari 67 desiteks. | Artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex. |  |  |  |  |
+| **54.03** | **Benang filamen artifisial (selain benang jahit), tidak disiapkan untuk penjualan eceran, termasuk monofilamen artifisial yang kurang dari 67 desiteks.** | **Artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex.** |  |  |  |  |
 | 5403.10.00 | - Benang kekuatan tinggi dari rayon viskose | - High tenacity yarn of viscose rayon | 5 | - | 11 | - |
 |  | - Benang lainnya, tunggal : | - Other yarn, single : |  |  |  |  |
 | 5403.31 | - - Dari rayon viskose, tanpa antihan, atau dengan antihan tidak melebihi 120 putaran tiap meter : | - - Of viscose rayon, untwisted or with a twist not exceeding 120 turns per metre : |  |  |  |  |
@@ -100,7 +100,7 @@ lang:
 | 5403.42.00 | - - Dari selulosa asetat | - - Of cellulose acetate | 5 | - | 11 | - |
 | 5403.49.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 54.04 | Monofilamen sintetik dengan ukuran 67 desiteks atau lebih dan yang ukuran penampang silangnya tidak ada yang lebih dari 1 mm; strip dan sejenisnya (misalnya, jerami artifisial) dari bahan tekstil sintetik yang mempunyai lebar tidak melebihi 5 mm. | Synthetic monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of synthetic textile materials of an apparent width not exceeding 5 mm. |  |  |  |  |
+| **54.04** | **Monofilamen sintetik dengan ukuran 67 desiteks atau lebih dan yang ukuran penampang silangnya tidak ada yang lebih dari 1 mm; strip dan sejenisnya (misalnya, jerami artifisial) dari bahan tekstil sintetik yang mempunyai lebar tidak melebihi 5 mm.** | **Synthetic monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of synthetic textile materials of an apparent width not exceeding 5 mm.** |  |  |  |  |
 |  | - Monofilamen : | - Monofilament : |  |  |  |  |
 | 5404.11.00 | - - Elastomer | - - Elastomeric | 5 | - | 11 | - |
 | 5404.12.00 | - - Lain-lain, dari polipropilena | - - Other, of polypropylene | 5 | - | 11 | - |
@@ -111,7 +111,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 5406.00.00 | Benang filamen buatan (selain benang jahit), disiapkan untuk penjualan eceran. | Man-made filament yarn (other than sewing thread), put up for retail sale. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 54.07 | Kain tenunan dari benang filamen sintetik, termasuk kain tenunan yang diperoleh dari bahan dari pos 54.04. | Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading 54.04. |  |  |  |  |
+| **54.07** | **Kain tenunan dari benang filamen sintetik, termasuk kain tenunan yang diperoleh dari bahan dari pos 54.04.** | **Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading 54.04.** |  |  |  |  |
 | 5407.10 | - Kain tenunan diperoleh dari benang kekuatan tinggi dari nilon atau poliamida lainnya atau dari poliester : | - Woven fabrics obtained from high tenacity yarn of nylon or other polyamides or of polyesters : |  |  |  |  |
 | 5407.10.20 | - - Kain tenunan untuk ban; conveyor duck | - - Tyre fabrics; conveyor duck | 10 | - | 11 | - |
 |  | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -154,7 +154,7 @@ lang:
 | 5407.93.00 | - - Dari benang aneka warna | - - Of yarns of different colours | 15 | - | 11 | - |
 | 5407.94.00 | - - Dicetak | - - Printed | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 54.08 | Kain tenunan dari benang filamen artifisial, termasuk kain tenunan yang diperoleh dari bahan dari pos 54.05. | Woven fabrics of artificial filament yarn, including woven fabrics obtained from materials of heading 54.05. |  |  |  |  |
+| **54.08** | **Kain tenunan dari benang filamen artifisial, termasuk kain tenunan yang diperoleh dari bahan dari pos 54.05.** | **Woven fabrics of artificial filament yarn, including woven fabrics obtained from materials of heading 54.05.** |  |  |  |  |
 | 5408.10 | - Kain tenunan yang diperoleh dari benang kekuatan tinggi dari rayon viskose : | - Woven fabrics obtained from high tenacity yarn of viscose rayon : |  |  |  |  |
 | 5408.10.10 | - - Tidak dikelantang | - - Unbleached | 10 | - | 11 | - |
 | 5408.10.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |

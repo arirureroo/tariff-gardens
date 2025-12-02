@@ -32,7 +32,7 @@ lang:
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB I BENTUK ASAL | SUB-CHAPTER I PRIMARY FORMS |  |  |  |  |
-| 39.01 | Polimer dari etilena, dalam bentuk asal. | Polymers of ethylene, in primary forms. |  |  |  |  |
+| **39.01** | **Polimer dari etilena, dalam bentuk asal.** | **Polymers of ethylene, in primary forms.** |  |  |  |  |
 | 3901.10 | - Polietilena dengan berat jenis kurang dari 0,94 : | - Polyethylene having a specific gravity of less than 0.94 : |  |  |  |  |
 |  | - - Dalam bentuk cair atau pasta : | - - In the form of liquids or pastes : |  |  |  |  |
 | 3901.10.12 | - - - Polietilena mengandung monomer alfa-olefin 5 % atau kurang | - - - Polyethylene containing 5 % or less alpha-olefin monomers | 10 | - | 11 | - |
@@ -47,7 +47,7 @@ lang:
 | 3901.90.40 | - - Dalam bentuk dispersi | - - In dispersion | 5 | - | 11 | - |
 | 3901.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.02 | Polimer dari propilena atau dari olefin lainnya, dalam bentuk asal. | Polymers of propylene or of other olefins, in primary forms. |  |  |  |  |
+| **39.02** | **Polimer dari propilena atau dari olefin lainnya, dalam bentuk asal.** | **Polymers of propylene or of other olefins, in primary forms.** |  |  |  |  |
 | 3902.10 | - Polipropilena : | - Polypropylene : |  |  |  |  |
 | 3902.10.30 | - - Dalam bentuk dispersi | - - In dispersion | 10 | - | 11 | - |
 | 3902.10.40 | - - Butiran, pelet, manik-manik, serpih, chip dan bentuk semacam itu | - - Granules, pellets, beads, flakes, chips and similar forms | 10 | - | 11 | - |
@@ -60,7 +60,7 @@ lang:
 | 3902.90.10 | - - Polypropilena diklorinasi dari jenis yang cocok untuk digunakan dalam formulasi tinta cetak | - - Chlorinated polypropylene of a kind suitable for use in printing ink formulation | 5 | - | 11 | - |
 | 3902.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.03 | Polimer dari stirena, dalam bentuk asal. | Polymers of styrene, in primary forms. |  |  |  |  |
+| **39.03** | **Polimer dari stirena, dalam bentuk asal.** | **Polymers of styrene, in primary forms.** |  |  |  |  |
 |  | - Polistirena : | - Polystyrene : |  |  |  |  |
 | 3903.11 | - - Dapat dikembangkan : | - - Expansible : |  |  |  |  |
 | 3903.11.10 | - - - Dalam bentuk butiran | - - - In the form of granules | 10 | - | 11 | - |
@@ -84,7 +84,7 @@ lang:
 | 3903.90.91 | - - - Polimer tahan impak dari stirena, memiliki notched izod impact kurang dari 80 J/m pada 23 °C | - - - Impact resistant polymers of styrene, having notched izod impact at 23 oC less than 80 J/m | 5 | - | 11 | - |
 | 3903.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.04 | Polimer dari vinil klorida atau dari halogenasi olefin lainnya, dalam bentuk asal. | Polymers of vinyl chloride or of other halogenated olefins, in primary forms. |  |  |  |  |
+| **39.04** | **Polimer dari vinil klorida atau dari halogenasi olefin lainnya, dalam bentuk asal.** | **Polymers of vinyl chloride or of other halogenated olefins, in primary forms.** |  |  |  |  |
 | 3904.10 | - Poli(vinil klorida), tidak dicampur dengan zat lainnya : | - Poly(vinyl chloride), not mixed with any other substances : |  |  |  |  |
 | 3904.10.10 | - - Homopolimer, tipe suspensi | - - Homopolymers, suspension type | 10 | - | 11 | - |
 |  | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -130,7 +130,7 @@ lang:
 | 3904.90.50 | - - Dalam bentuk bubuk | - - In the form of powder | 5 | - | 11 | - |
 | 3904.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.05 | Polimer dari vinil asetat atau dari vinil ester lainnya, dalam bentuk asal; polimer vinil lainnya dalam bentuk asal. | Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms. |  |  |  |  |
+| **39.05** | **Polimer dari vinil asetat atau dari vinil ester lainnya, dalam bentuk asal; polimer vinil lainnya dalam bentuk asal.** | **Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms.** |  |  |  |  |
 |  | - Poli(vinil asetat) : | - Poly(vinyl acetate) : |  |  |  |  |
 | 3905.12.00 | - - Dalam dispersi mengandung air | - - In aqueous dispersion | 10 | - | 11 | - |
 | 3905.19 | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -151,7 +151,7 @@ lang:
 | 3905.99.20 | - - - Dalam dispersi tidak mengandung air | - - - In non-aqueous dispersion | 5 | - | 11 | - |
 | 3905.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.06 | Polimer akrilik dalam bentuk asal. | Acrylic polymers in primary forms. |  |  |  |  |
+| **39.06** | **Polimer akrilik dalam bentuk asal.** | **Acrylic polymers in primary forms.** |  |  |  |  |
 | 3906.10 | - Poli(metil metakrilat) : | - Poly(methyl methacrylate) : |  |  |  |  |
 | 3906.10.10 | - - Dalam dispersi | - - In dispersion | 10 | - | 11 | - |
 | 3906.10.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -161,7 +161,7 @@ lang:
 | 3906.90.92 | - - - Sodium poliakrilat | - - - Sodium polyacrylate | 5 | - | 11 | - |
 | 3906.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.07 | Poliasetal, polieter lainnya dan resin epoksida, dalam bentuk asal; polikarbonat, resinalkid, polialil ester dan poliester lainnya, dalam bentuk asal. | Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms. |  |  |  |  |
+| **39.07** | **Poliasetal, polieter lainnya dan resin epoksida, dalam bentuk asal; polikarbonat, resinalkid, polialil ester dan poliester lainnya, dalam bentuk asal.** | **Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms.** |  |  |  |  |
 | 3907.10.00 | - Poliasetal | - Polyacetals | 0 | - | 11 | - |
 |  | - Polieter lainnya : | - Other polyethers : |  |  |  |  |
 | 3907.21.00 | - - Bis(polioksietilena) metilfosfonat | - - Bis(polyoxyethylene) methylphosphonate | 5 | - | 11 | - |
@@ -193,13 +193,13 @@ lang:
 | 3907.99.60 | - - - Polibutilena suksinat (PBS) | - - - Polybutylene succinate (PBS) | 5 | - | 11 | - |
 | 3907.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.08 | Poliamida dalam bentuk asal. | Polyamides in primary forms. |  |  |  |  |
+| **39.08** | **Poliamida dalam bentuk asal.** | **Polyamides in primary forms.** |  |  |  |  |
 | 3908.10 | - Poliamid-6, -11, -12, -6,6, -6,9, -6,10 atau -6,12 : | - Polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12 : |  |  |  |  |
 | 3908.10.10 | - - Poliamida-6 | - - Polyamide-6 | 0 | - | 11 | - |
 | 3908.10.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 | 3908.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.09 | Amino-resin, resin fenolik dan poliuretan, dalam bentuk asal. | Amino-resins, phenolic resins and polyurethanes, in primary forms. |  |  |  |  |
+| **39.09** | **Amino-resin, resin fenolik dan poliuretan, dalam bentuk asal.** | **Amino-resins, phenolic resins and polyurethanes, in primary forms.** |  |  |  |  |
 | 3909.10 | - Resin urea; resin tiourea : | - Urea resins; thiourea resins : |  |  |  |  |
 | 3909.10.10 | - - Kompon untuk dicetak | - - Moulding compounds | 5 | - | 11 | - |
 | 3909.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -220,16 +220,16 @@ lang:
 | 3909.40.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 3909.50.00 | - Poliuretan | - Polyurethanes | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.10 | Silikon dalam bentuk asal. | Silicones in primary forms. |  |  |  |  |
+| **39.10** | **Silikon dalam bentuk asal.** | **Silicones in primary forms.** |  |  |  |  |
 | 3910.00.20 | - Dalam dispersi dan larutan | - In dispersion and in solutions | 5 | - | 11 | - |
 | 3910.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.11 | Resin petroleum, resin kumaron-indena, politerpena, polisulfida, polisulfon dan produk lain dirinci dalam Catatan 3 pada Bab ini, tidak dirinci atau termasuk dalam pos lainnya, dalam bentuk asal. | Petroleum resins, coumarone-indene resins, polyterpenes, polysulphides, polysulphones and other products specified in Note 3 to this Chapter, not elsewhere specified or included, in primary forms. |  |  |  |  |
+| **39.11** | **Resin petroleum, resin kumaron-indena, politerpena, polisulfida, polisulfon dan produk lain dirinci dalam Catatan 3 pada Bab ini, tidak dirinci atau termasuk dalam pos lainnya, dalam bentuk asal.** | **Petroleum resins, coumarone-indene resins, polyterpenes, polysulphides, polysulphones and other products specified in Note 3 to this Chapter, not elsewhere specified or included, in primary forms.** |  |  |  |  |
 | 3911.10.00 | - Resin petroleum, resin kumaron, resin indena atau resin kumaron-indena, dan politerpena | - Petroleum resins, coumarone, indene or coumarone-indene resins and polyterpenes | 5 | - | 11 | - |
 | 3911.20.00 | - Poli(1,3-fenilena metilfosfonat) | - Poly(1,3-phenylene methylphosphonate) | 5 | - | 11 | - |
 | 3911.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.12 | Selulosa dan turunan kimianya, tidak dirinci atau termasuk dalam pos lainnya, dalam bentuk asal. | Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms. |  |  |  |  |
+| **39.12** | **Selulosa dan turunan kimianya, tidak dirinci atau termasuk dalam pos lainnya, dalam bentuk asal.** | **Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms.** |  |  |  |  |
 |  | - Selulosa asetat : | - Cellulose acetates : |  |  |  |  |
 | 3912.11.00 | - - Tidak diplastisasi | - - Non-plasticised | 5 | - | 11 | - |
 | 3912.12.00 | - - Diplastisasi | - - Plasticised | 5 | - | 11 | - |
@@ -246,7 +246,7 @@ lang:
 | 3912.90.20 | - - Dalam bentuk butiran | - - In the form of granules | 5 | - | 11 | - |
 | 3912.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.13 | Polimer alam (misalnya, asam alginat) dan polimer alam yang dimodifikasi (misalnya protein dikeraskan, turunan kimia dari karet alam), tidak dirinci atau termasuk dalam pos manapun, dalam bentuk asal. | Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural rubber), not elsewhere specified or included, in primary forms. |  |  |  |  |
+| **39.13** | **Polimer alam (misalnya, asam alginat) dan polimer alam yang dimodifikasi (misalnya protein dikeraskan, turunan kimia dari karet alam), tidak dirinci atau termasuk dalam pos manapun, dalam bentuk asal.** | **Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural rubber), not elsewhere specified or included, in primary forms.** |  |  |  |  |
 | 3913.10.00 | - Asam alginat, garam dan esternya | - Alginic acid, its salts and esters | 5 | - | 11 | - |
 | 3913.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 3913.90.10 | - - Protein dikeraskan | - - Hardened proteins | 5 | - | 11 | - |
@@ -257,7 +257,7 @@ lang:
 | 3914.00.00 | Penukar ion dibuat dari polimer pos 39.01 sampai dengan 39.13, dalam bentuk asal. | Ion-exchangers based on polymers of headings 39.01 to 39.13, in primary forms. | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
 |  | SUB-BAB IISISA, REJA DAN SKRAP; SEMI-MANUFAKTUR; BARANG | SUB-CHAPTER II WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES |  |  |  |  |
-| 39.15 | Sisa, reja dan skrap, dari plastik. | Waste, parings and scrap, of plastics. |  |  |  |  |
+| **39.15** | **Sisa, reja dan skrap, dari plastik.** | **Waste, parings and scrap, of plastics.** |  |  |  |  |
 | 3915.10 | - Dari polimer etilena : | - Of polymers of ethylene : |  |  |  |  |
 | 3915.10.10 | - - Dari produk seluler yang tidak kaku | - - Of non-rigid cellular products | 5 | - | 11 | - |
 | 3915.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -275,7 +275,7 @@ lang:
 | 3915.90.50 | - - Dari resin fenolik; dari amino resin; dari protein dikeraskan; dari turunan kimia karet alam | - - Of phenolic resins; of amino resins; of hardened proteins; of chemical derivatives of natural rubber | 5 | - | 11 | - |
 | 3915.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.16 | Monofilamen yang ukuran setiap penampang silangnya melebihi 1 mm, berbentuk batang kecil, stik dan profil, yang permukaannya dikerjakan maupun tidak tetapi tidak dikerjakan secara lain, dari plastik. | Monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked, of plastics. |  |  |  |  |
+| **39.16** | **Monofilamen yang ukuran setiap penampang silangnya melebihi 1 mm, berbentuk batang kecil, stik dan profil, yang permukaannya dikerjakan maupun tidak tetapi tidak dikerjakan secara lain, dari plastik.** | **Monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks and profile shapes, whether or not surface-worked but not otherwise worked, of plastics.** |  |  |  |  |
 | 3916.10 | - Dari polimer etilena : | - Of polymers of ethylene : |  |  |  |  |
 | 3916.10.10 | - - Monofilamen | - - Monofilament | 5 | - | 11 | - |
 | 3916.10.20 | - - Berbentuk batang kecil, stik dan profil | - - Rods, sticks and profile shapes | 5 | - | 11 | - |
@@ -299,7 +299,7 @@ lang:
 | 3916.90.91 | - - - Monofilamen | - - - Monofilament | 5 | - | 11 | - |
 | 3916.90.92 | - - - Berbentuk batang kecil, stik dan profil | - - - Rods, sticks and profile shapes | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.17 | Pembuluh, pipa dan selang, serta alat kelengkapan dari padanya (misalnya, penyambung pipa, elbow, flensa), dari plastik. | Tubes, pipes and hoses, and fittings therefor (for example, joints, elbows, flanges), of plastics. |  |  |  |  |
+| **39.17** | **Pembuluh, pipa dan selang, serta alat kelengkapan dari padanya (misalnya, penyambung pipa, elbow, flensa), dari plastik.** | **Tubes, pipes and hoses, and fittings therefor (for example, joints, elbows, flanges), of plastics.** |  |  |  |  |
 | 3917.10 | - Usus artifisial (selubung sosis) dari protein dikeraskan atau dari bahan selulosa : | - Artificial guts (sausage casings) of hardened protein or of cellulosic materials : |  |  |  |  |
 | 3917.10.10 | - - Dari protein dikeraskan | - - Of hardened protein | 5 | - | 11 | - |
 | 3917.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -358,7 +358,7 @@ lang:
 | 3917.39.99 | - - - - Lain-lain | - - - - Other | 10 | - | 11 | - |
 | 3917.40.00 | - Alat kelengkapan | - Fittings | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.18 | Penutup lantai dari plastik, dengan perekat maupun tidak, dalam gulungan atau dalam bentuk ubin; penutup dinding atau langit-langit dari plastik, sebagaimana dinyatakan dalam Catatan 9 pada Bab ini. | Floor coverings of plastics, whether or not self-adhesive, in rolls or in the form of tiles; wall or ceiling coverings of plastics, as defined in Note 9 to this Chapter. |  |  |  |  |
+| **39.18** | **Penutup lantai dari plastik, dengan perekat maupun tidak, dalam gulungan atau dalam bentuk ubin; penutup dinding atau langit-langit dari plastik, sebagaimana dinyatakan dalam Catatan 9 pada Bab ini.** | **Floor coverings of plastics, whether or not self-adhesive, in rolls or in the form of tiles; wall or ceiling coverings of plastics, as defined in Note 9 to this Chapter.** |  |  |  |  |
 | 3918.10 | - Dari polimer vinil klorida : | - Of polymers of vinyl chloride : |  |  |  |  |
 |  | - - Penutup lantai : | - - Floor coverings : |  |  |  |  |
 | 3918.10.11 | - - - Ubin | - - - Tiles | 15 | - | 11 | - |
@@ -379,7 +379,7 @@ lang:
 | 3918.90.94 | - - - Dari serat divulkanisasi | - - - Of vulcanised fibre | 10 | - | 11 | - |
 | 3918.90.99 | - - - Lain-lain | - - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.19 | Pelat, lembaran, film, foil, pita, strip dan bentuk pipih lainnya berperekat, dari plastik, dalam gulungan maupun tidak. | Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls. |  |  |  |  |
+| **39.19** | **Pelat, lembaran, film, foil, pita, strip dan bentuk pipih lainnya berperekat, dari plastik, dalam gulungan maupun tidak.** | **Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls.** |  |  |  |  |
 | 3919.10 | - Dalam gulungan dengan lebar tidak melebihi 20 cm : | - In rolls of a width not exceeding 20 cm : |  |  |  |  |
 | 3919.10.10 | - - Dari polimer vinil klorida | - - Of polymers of vinyl chloride | 5 | - | 11 | - |
 | 3919.10.20 | - - Dari polietilena | - - Of polyethylene | 5 | - | 11 | - |
@@ -395,7 +395,7 @@ lang:
 | 3919.90.92 | - - - Dari produk polimerisasi adisi; dari produk polimerisasi kondensasi atau penyusunan ulang; dari selulosa nitrat, selulosa asetat dan turunan kimia lainnya dari selulosa, diplastisasi | - - - Of addition polymerisation products; of condensation or rearrangement polymerisation products; of cellulose nitrate, cellulose acetates and other chemical derivatives of cellulose, plasticised | 10 | - | 11 | - |
 | 3919.90.99 | - - - Lain-lain | - - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.20 | Pelat, lembaran, film, foil dan strip lainnya, dari plastik, non seluler dan tidak diperkuat, tidak dilaminasi, tidak didukung atau tidak dikombinasi dengan cara semacam itu dengan bahan lain. | Other plates, sheets, film, foil and strip, of plastics, non-cellular and not reinforced, laminated, supported or similarly combined with other materials. |  |  |  |  |
+| **39.20** | **Pelat, lembaran, film, foil dan strip lainnya, dari plastik, non seluler dan tidak diperkuat, tidak dilaminasi, tidak didukung atau tidak dikombinasi dengan cara semacam itu dengan bahan lain.** | **Other plates, sheets, film, foil and strip, of plastics, non-cellular and not reinforced, laminated, supported or similarly combined with other materials.** |  |  |  |  |
 | 3920.10 | - Dari polimer etilena : | - Of polymers of ethylene : |  |  |  |  |
 |  | - - Pelat dan lembaran : | - - Plates and sheets : |  |  |  |  |
 | 3920.10.11 | - - - Kaku | - - - Rigid | 10 | - | 11 | - |
@@ -485,7 +485,7 @@ lang:
 | 3920.99.39 | - - - - Lain-lain | - - - - Other | 15 | - | 11 | - |
 | 3920.99.90 | - - - Lain-lain | - - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.21 | Pelat, lembaran, film, foil dan strip lainnya dari plastik. | Other plates, sheets, film, foil and strip, of plastics. |  |  |  |  |
+| **39.21** | **Pelat, lembaran, film, foil dan strip lainnya dari plastik.** | **Other plates, sheets, film, foil and strip, of plastics.** |  |  |  |  |
 |  | - Seluler : | - Cellular : |  |  |  |  |
 | 3921.11 | - - Dari polimer stirena : | - - Of polymers of styrene : |  |  |  |  |
 |  | - - - Kaku : | - - - Rigid : |  |  |  |  |
@@ -544,7 +544,7 @@ lang:
 | 3921.90.70 | - - Dari produk polimerisasi adisi | - - Of addition polymerisation products | 10 | - | 11 | - |
 | 3921.90.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.22 | Bak mandi, bak mandi dengan pancuran, bak cuci, wastafel, bidet, mangkuk, tempat duduk dan penutup kloset, tangki air penyiram dan perlengkapan saniter semacam itu, dari plastik. | Baths, shower-baths, sinks, wash-basins, bidets, lavatory pans, seats and covers, flushing cisterns and similar sanitary ware, of plastics. |  |  |  |  |
+| **39.22** | **Bak mandi, bak mandi dengan pancuran, bak cuci, wastafel, bidet, mangkuk, tempat duduk dan penutup kloset, tangki air penyiram dan perlengkapan saniter semacam itu, dari plastik.** | **Baths, shower-baths, sinks, wash-basins, bidets, lavatory pans, seats and covers, flushing cisterns and similar sanitary ware, of plastics.** |  |  |  |  |
 | 3922.10 | - Bak mandi, bak mandi dengan pancuran, bak cuci dan wastafel : | - Baths, shower-baths, sinks and wash-basins : |  |  |  |  |
 |  | - - Bak mandi : | - - Baths : |  |  |  |  |
 | 3922.10.11 | - - - Bathtubs mempunyai ruang interior kotak atau oblong | - - - Bathtubs having rectangular or oblong interior shape | 15 | - | 11 | - |
@@ -558,7 +558,7 @@ lang:
 | 3922.90.19 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 3922.90.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.23 | Wadah untuk mengangkut atau mengemas barang, dari plastik; sumbat, tutup, tutup botol dan penutup lainnya, dari plastik. | Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics. |  |  |  |  |
+| **39.23** | **Wadah untuk mengangkut atau mengemas barang, dari plastik; sumbat, tutup, tutup botol dan penutup lainnya, dari plastik.** | **Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics.** |  |  |  |  |
 | 3923.10 | - Kotak, peti, krat dan barang semacam itu : | - Boxes, cases, crates and similar articles : |  |  |  |  |
 | 3923.10.10 | - - Tempat untuk film, kaset dan cakram optik | - - Cases for film, tape and optical discs | 15 | - | 11 | - |
 | 3923.10.20 | - - Lain-lain, dibentuk atau dipasang khusus untuk mengangkut atau mengemas wafer, masker atau retikel semikonduktor | - - Other, specially shaped or fitted for the conveyance or packing of semiconductor wafers, masks, or reticles | 15 | - | 11 | - |
@@ -585,7 +585,7 @@ lang:
 | 3923.90.10 | - - Tabung untuk pasta gigi | - - Toothpaste tubes | 15 | - | 11 | - |
 | 3923.90.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.24 | Perangkat makan, perangkat dapur, peralatan rumah tangga lainnya dan peralatan toilet atau higienis, dari plastik. | Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics. |  |  |  |  |
+| **39.24** | **Perangkat makan, perangkat dapur, peralatan rumah tangga lainnya dan peralatan toilet atau higienis, dari plastik.** | **Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics.** |  |  |  |  |
 | 3924.10 | - Perangkat makan dan perangkat dapur : | - Tableware and kitchenware : |  |  |  |  |
 | 3924.10.10 | - - Dari melamin | - - Of melamine | 20 | - | 11 | - |
 |  | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -597,13 +597,13 @@ lang:
 | 3924.90.30 | - - Perangkat tambahan untuk menyusui bayi | - - Supplementary feeding system for babies | 20 | - | 11 | - |
 | 3924.90.90 | - - Lain-lain | - - Other | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.25 | Perangkat bangunan dari plastik, tidak dirinci atau termasuk dalam pos lainnya. | Builders’ ware of plastics, not elsewhere specified or included. |  |  |  |  |
+| **39.25** | **Perangkat bangunan dari plastik, tidak dirinci atau termasuk dalam pos lainnya.** | **Builders’ ware of plastics, not elsewhere specified or included.** |  |  |  |  |
 | 3925.10.00 | - Reservoir, tangki, tahang dan tempat simpan semacam itu, dengan kapasitas melebihi 300 l | - Reservoirs, tanks, vats and similar containers, of a capacity exceeding 300 l | 20 | - | 11 | - |
 | 3925.20.00 | - Daun pintu, daun jendela dan bingkainya serta ambang bawah pintu | - Doors, windows and their frames and thresholds for doors | 20 | - | 11 | - |
 | 3925.30.00 | - Penutup, kerai gulung (termasuk kerai gulung Venesia) dan barang semacam itu serta bagiannya | - Shutters, blinds (including Venetian blinds) and similar articles and parts thereof | 20 | - | 11 | - |
 | 3925.90.00 | - Lain-lain | - Other | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 39.26 | Barang lain dari plastik dan barang dari bahan lain yang dimaksud dalam pos 39.01 sampai dengan 39.14. | Other articles of plastics and articles of other materials of headings 39.01 to 39.14. |  |  |  |  |
+| **39.26** | **Barang lain dari plastik dan barang dari bahan lain yang dimaksud dalam pos 39.01 sampai dengan 39.14.** | **Other articles of plastics and articles of other materials of headings 39.01 to 39.14.** |  |  |  |  |
 | 3926.10.00 | - Perlengkapan kantor atau sekolah | - Office or school supplies | 15 | - | 11 | - |
 | 3926.20 | - Pakaian dan aksesori pakaian (termasuk sarung tangan, mitten dan mitt) : | - Articles of apparel and clothing accessories (including gloves, mittens and mitts) : |  |  |  |  |
 | 3926.20.10 | - - Sarung tangan; celemek; celemek dada bayi | - - Gloves; aprons; babies' bibs | 15 | - | 11 | - |

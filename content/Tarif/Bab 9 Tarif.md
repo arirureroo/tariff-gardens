@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 09.01 | Kopi, digongseng atau dihilangkan kafeinnya maupun tidak; sekam dan kulit kopi; pengganti kopi mengandung kopi dengan perbandingan berapapun. | Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion. |  |  |  |  |
+| **09.01** | **Kopi, digongseng atau dihilangkan kafeinnya maupun tidak; sekam dan kulit kopi; pengganti kopi mengandung kopi dengan perbandingan berapapun.** | **Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion.** |  |  |  |  |
 |  | - Kopi, tidak digongseng : | - Coffee, not roasted : |  |  |  |  |
 | 0901.11 | - - Tidak dihilangkan kafeinnya : | - - Not decaffeinated : |  |  |  |  |
 | 0901.11.20 | - - - Arabika | - - - Arabica | 5 | - | 11 | - |
@@ -55,7 +55,7 @@ lang:
 | 0901.90.10 | - - Sekam dan kulit kopi | - - Coffee husks and skins | 5 | - | 11 | - |
 | 0901.90.20 | - - Pengganti kopi mengandung kopi | - - Coffee substitutes containing coffee | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 09.02 | Teh, diberi rasa maupun tidak. | Tea, whether or not flavoured. |  |  |  |  |
+| **09.02** | **Teh, diberi rasa maupun tidak.** | **Tea, whether or not flavoured.** |  |  |  |  |
 | 0902.10 | - Teh hijau (tidak difermentasi) dikemas langsung dalam kemasan tidak melebihi 3 kg : | - Green tea (not fermented) in immediate packings of a content not exceeding 3 kg : |  |  |  |  |
 | 0902.10.10 | - - Daun | - - Leaves | 5 | - | 11 | - |
 | 0902.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -71,7 +71,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 0903.00.00 | Mate. | Maté. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 09.04 | Lada dari genus Piper; buah dari genus Capsicum atau dari genus Pimenta yang dikeringkan atau dihancurkan atau ditumbuk. | Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta. |  |  |  |  |
+| **09.04** | **Lada dari genus Piper; buah dari genus Capsicum atau dari genus Pimenta yang dikeringkan atau dihancurkan atau ditumbuk.** | **Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta.** |  |  |  |  |
 |  | - Lada : | - Pepper : |  |  |  |  |
 | 0904.11 | - - Tidak dihancurkan atau tidak ditumbuk : | - - Neither crushed nor ground : |  |  |  |  |
 | 0904.11.10 | - - - Putih | - - - White | 5 | - | 11 | - |
@@ -89,21 +89,21 @@ lang:
 | 0904.22.10 | - - - Cabai (buah dari genus Capsicum) | - - - Chillies (Fruits of the genus Capsicum) | 5 | - | 11 | - |
 | 0904.22.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 09.05 | Vanila. | Vanilla. |  |  |  |  |
+| **09.05** | **Vanila.** | **Vanilla.** |  |  |  |  |
 | 0905.10.00 | - Tidak dihancurkan atau tidak ditumbuk | - Neither crushed nor ground | 5 | - | 11 | - |
 | 0905.20.00 | - Dihancurkan atau ditumbuk | - Crushed or ground | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 09.06 | Kayu manis dan bunga kayu manis. | Cinnamon and cinnamon-tree flowers. |  |  |  |  |
+| **09.06** | **Kayu manis dan bunga kayu manis.** | **Cinnamon and cinnamon-tree flowers.** |  |  |  |  |
 |  | - Tidak dihancurkan atau tidak ditumbuk : | - Neither crushed nor ground : |  |  |  |  |
 | 0906.11.00 | - - Cinnamon (Cinnamomum zeylanicum Blume) | - - Cinnamon (Cinnamomum zeylanicum Blume) | 5 | - | 11 | - |
 | 0906.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 0906.20.00 | - Dihancurkan atau ditumbuk | - Crushed or ground | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 09.07 | Cengkeh (utuh, bunga dan tangkai). | Cloves (whole fruit, cloves and stems). |  |  |  |  |
+| **09.07** | **Cengkeh (utuh, bunga dan tangkai).** | **Cloves (whole fruit, cloves and stems).** |  |  |  |  |
 | 0907.10.00 | - Tidak dihancurkan atau tidak ditumbuk | - Neither crushed nor ground | 5 | - | 11 | - |
 | 0907.20.00 | - Dihancurkan atau ditumbuk | - Crushed or ground | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 09.08 | Biji pala, bunga pala dan kapulaga. | Nutmeg, mace and cardamoms. |  |  |  |  |
+| **09.08** | **Biji pala, bunga pala dan kapulaga.** | **Nutmeg, mace and cardamoms.** |  |  |  |  |
 |  | - Biji pala : | - Nutmeg : |  |  |  |  |
 | 0908.11.00 | - - Tidak dihancurkan atau tidak ditumbuk | - - Neither crushed nor ground | 5 | - | 11 | - |
 | 0908.12.00 | - - Dihancurkan atau ditumbuk | - - Crushed or ground | 5 | - | 11 | - |
@@ -114,7 +114,7 @@ lang:
 | 0908.31.00 | - - Tidak dihancurkan atau tidak ditumbuk | - - Neither crushed nor ground | 5 | - | 11 | - |
 | 0908.32.00 | - - Dihancurkan atau ditumbuk | - - Crushed or ground | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 09.09 | Biji adas manis, badian, adas pedas, ketumbar, jintan hitam atau jintan; buah juniper. | Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries. |  |  |  |  |
+| **09.09** | **Biji adas manis, badian, adas pedas, ketumbar, jintan hitam atau jintan; buah juniper.** | **Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries.** |  |  |  |  |
 |  | - Biji ketumbar : | - Seeds of coriander : |  |  |  |  |
 | 0909.21.00 | - - Tidak dihancurkan atau tidak ditumbuk | - - Neither crushed nor ground | 5 | - | 11 | - |
 | 0909.22.00 | - - Dihancurkan atau ditumbuk | - - Crushed or ground | 5 | - | 11 | - |
@@ -133,7 +133,7 @@ lang:
 | 0909.62.30 | - - - Dari jintan | - - - Of caraway | 5 | - | 11 | - |
 | 0909.62.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 09.10 | Jahe, saffron, turmeric (curcuma), thyme, daun salam, kari dan rempah-rempah lainnya. | Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices. |  |  |  |  |
+| **09.10** | **Jahe, saffron, turmeric (curcuma), thyme, daun salam, kari dan rempah-rempah lainnya.** | **Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices.** |  |  |  |  |
 |  | - Jahe : | - Ginger : |  |  |  |  |
 | 0910.11.00 | - - Tidak dihancurkan atau tidak ditumbuk | - - Neither crushed nor ground | 5 | - | 11 | - |
 | 0910.12.00 | - - Dihancurkan atau ditumbuk | - - Crushed or ground | 5 | - | 11 | - |

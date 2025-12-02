@@ -30,7 +30,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 48.01 | Kertas koran, dalam gulungan atau lembaran. | Newsprint, in rolls or sheets. |  |  |  |  |
+| **48.01** | **Kertas koran, dalam gulungan atau lembaran.** | **Newsprint, in rolls or sheets.** |  |  |  |  |
 |  | - Beratnya tidak lebih dari 55 g/m2 : | - Weighing not more than 55 g/m2 : |  |  |  |  |
 | 4801.00.11 | - - Dalam gulungan, dengan lebar melebihi 28 cm tetapi tidak melebihi 36 cm | - - In rolls, of a width exceeding 28 cm but not exceeding 36 cm | 5 | - | 11 | - |
 | 4801.00.12 | - - Dalam gulungan, lainnya | - - In rolls, other | 5 | - | 11 | - |
@@ -42,7 +42,7 @@ lang:
 | 4801.00.23 | - - Dalam lembaran, bujur sangkar atau empat persegi panjang, salah satu sisi melebihi 28 cm tetapi tidak melebihi 36 cm, dan sisi lainnya melebihi 15 cm dalam keadaan tidak dilipat | - - In sheets, square or rectangular, one side of which exceeds 28 cm but not exceeding 36 cm, and the other side exceeding 15 cm in the unfolded state | 5 | - | 11 | - |
 | 4801.00.24 | - - Dalam lembaran, bujur sangkar atau empat persegi panjang, salah satu sisi melebihi 36 cm, dan sisi lainnya melebihi 15 cm dalam keadaan tidak dilipat | - - In sheets, square or rectangular, one side of which exceeds 36 cm, and the other side exceeding 15 cm in the unfolded state | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.02 | Kertas dan kertas karton tidak dilapisi, dari jenis yang digunakan untuk penulisan, pencetakan atau keperluan grafik lainnya, serta kertas untuk punch card serta punch tape tidak dilubangi, dalam gulungan atau lembaran empat persegi panjang (termasuk bujur sangkar) dari berbagai ukuran, selain dari pos 48.01 atau 48.03; kertas dan kertas karton buatan tangan. | Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non perforated punch-cards and punch tape paper, in rolls or rectangular (including square) sheets, of any size, other than paper of heading 48.01 or 48.03; hand-made paper and paperboard. |  |  |  |  |
+| **48.02** | **Kertas dan kertas karton tidak dilapisi, dari jenis yang digunakan untuk penulisan, pencetakan atau keperluan grafik lainnya, serta kertas untuk punch card serta punch tape tidak dilubangi, dalam gulungan atau lembaran empat persegi panjang (termasuk bujur sangkar) dari berbagai ukuran, selain dari pos 48.01 atau 48.03; kertas dan kertas karton buatan tangan.** | **Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non perforated punch-cards and punch tape paper, in rolls or rectangular (including square) sheets, of any size, other than paper of heading 48.01 or 48.03; hand-made paper and paperboard.** |  |  |  |  |
 | 4802.10.00 | - Kertas dan kertas karton buatan tangan | - Hand-made paper and paperboard | 5 | - | 11 | - |
 | 4802.20 | - Kertas dan kertas karton dari jenis yang digunakan sebagai dasar untuk kertas atau kertas karton peka cahaya, peka panas atau peka listrik : | - Paper and paperboard of a kind used as a base for photo-sensitive, heat-sensitive or electro-sensitive paper or paperboard : |  |  |  |  |
 | 4802.20.10 | - - Dalam bentuk gulungan dengan lebar tidak lebih dari 15 cm atau lembaran empat persegi panjang (termasuk bujur sangkar) yang sisinya tidak ada yang melebihi 36 cm dalam keadaan tidak dilipat | - - In rolls of not more than 15 cm in width or in rectangular (including square) sheets of which no side exceeds 36 cm in the unfolded state | 5 | - | 11 | - |
@@ -134,11 +134,11 @@ lang:
 | 4802.69.91 | - - - - Beratnya lebih dari 150 g/m2 tetapi kurang dari 225 g/m2 | - - - - Weighing more than 150 g/m2 but less than 225 g/m2 | 5 | - | 11 | - |
 | 4802.69.99 | - - - - Lain-lain | - - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.03 | Kertas toilet atau kertas tisu untuk kulit muka, kertas handuk atau kertas serbet dan kertas semacam itu dari jenis yang digunakan untuk keperluan rumah tangga atau saniter, gumpalan selulosa dan web dari serat selulosa, dikisutkan, dikerutkan, diembos, dilubangi, diwarnai permukaannya, dihias atau dicetak permukaannya maupun tidak, dalam gulungan atau lembaran. | Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of cellulose fibres, whether or not creped, crinkled, embossed, perforated, surface-coloured, surface-decorated or printed, in rolls or sheets. |  |  |  |  |
+| **48.03** | **Kertas toilet atau kertas tisu untuk kulit muka, kertas handuk atau kertas serbet dan kertas semacam itu dari jenis yang digunakan untuk keperluan rumah tangga atau saniter, gumpalan selulosa dan web dari serat selulosa, dikisutkan, dikerutkan, diembos, dilubangi, diwarnai permukaannya, dihias atau dicetak permukaannya maupun tidak, dalam gulungan atau lembaran.** | **Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of cellulose fibres, whether or not creped, crinkled, embossed, perforated, surface-coloured, surface-decorated or printed, in rolls or sheets.** |  |  |  |  |
 | 4803.00.30 | - Gumpalan selulosa atau web dari serat selulosa | - Cellulose wadding or webs of cellulose fibres | 5 | - | 11 | - |
 | 4803.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.04 | Kertas kraft dan kertas karton tidak dilapisi, dalam gulungan atau lembaran, selain yang dimaksud dalam pos 48.02 atau 48.03. | Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 48.02 or 48.03. |  |  |  |  |
+| **48.04** | **Kertas kraft dan kertas karton tidak dilapisi, dalam gulungan atau lembaran, selain yang dimaksud dalam pos 48.02 atau 48.03.** | **Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 48.02 or 48.03.** |  |  |  |  |
 |  | - Kraftliner : | - Kraftliner : |  |  |  |  |
 | 4804.11.00 | - - Tidak dikelantang | - - Unbleached | 5 | - | 11 | - |
 | 4804.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -183,7 +183,7 @@ lang:
 | 4804.59.10 | - - - Kertas dan kertas karton dari jenis yang digunakan untuk pembuatan kemasan makanan | - - - Paper and paperboard of a kind used for making food packaging | 5 | - | 11 | - |
 | 4804.59.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.05 | Kertas dan kertas karton tidak dilapisi lainnya, dalam gulungan atau lembaran, tidak dikerjakan atau diproses lebih lanjut selain yang dirinci dalam Catatan 3 pada Bab ini. | Other uncoated paper and paperboard, in rolls or sheets, not further worked or processed than as specified in Note 3 to this Chapter. |  |  |  |  |
+| **48.05** | **Kertas dan kertas karton tidak dilapisi lainnya, dalam gulungan atau lembaran, tidak dikerjakan atau diproses lebih lanjut selain yang dirinci dalam Catatan 3 pada Bab ini.** | **Other uncoated paper and paperboard, in rolls or sheets, not further worked or processed than as specified in Note 3 to this Chapter.** |  |  |  |  |
 |  | - Kertas beralur : | - Fluting paper : |  |  |  |  |
 | 4805.11.00 | - - Kertas beralur semi kimia | - - Semi-chemical fluting paper | 5 | - | 11 | - |
 | 4805.12.00 | - - Kertas beralur jerami | - - Straw fluting paper | 5 | - | 11 | - |
@@ -213,25 +213,25 @@ lang:
 | 4805.93.20 | - - - Blotting paper | - - - Blotting paper | 5 | - | 11 | - |
 | 4805.93.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.06 | Perkamen nabati, kertas tahan lemak, kertas kalkir dan kertas glasin serta kertas transparan dikilapkan atau kertas bening lainnya, dalam gulungan atau lembaran. | Vegetable parchment, greaseproof papers, tracing papers and glassine and other glazed transparent or translucent papers, in rolls or sheets. |  |  |  |  |
+| **48.06** | **Perkamen nabati, kertas tahan lemak, kertas kalkir dan kertas glasin serta kertas transparan dikilapkan atau kertas bening lainnya, dalam gulungan atau lembaran.** | **Vegetable parchment, greaseproof papers, tracing papers and glassine and other glazed transparent or translucent papers, in rolls or sheets.** |  |  |  |  |
 | 4806.10.00 | - Perkamen nabati | - Vegetable parchment | 5 | - | 11 | - |
 | 4806.20.00 | - Kertas tahan lemak | - Greaseproof papers | 5 | - | 11 | - |
 | 4806.30.00 | - Kertas kalkir | - Tracing papers | 5 | - | 11 | - |
 | 4806.40.00 | - Kertas glasin dan kertas transparan dikilapkan atau kertas bening lainnya | - Glassine and other glazed transparent or translucent papers | 5 | - | 11 | - |
 | 4807.00.00 | Kertas komposit dan kertas karton komposit (dibuat dengan merekatkan beberapa lapisan datar kertas atau kertas karton dengan perekat), permukaannya tidak dilapisi atau diresapi , bagian dalamnya diperkuat maupun tidak, dalam gulungan atau lembaran. | Composite paper and paperboard (made by sticking flat layers of paper or paperboard together with an adhesive), not surface-coated or impregnated, whether or not internally reinforced, in rolls or sheets. | 5 | - | 11 | - |
-| 48.08 | Kertas dan kertas karton, bergelombang (dengan atau tanpa dilekati lembaran yang datar permukaannya), dikisutkan, dikerutkan, diembos atau dilubangi, dalam gulungan atau lembaran, selain kertas dari jenis yang diuraikan dalam pos 48.03. | Paper and paperboard, corrugated (with or without glued flat surface sheets), creped, crinkled, embossed or perforated, in rolls or sheets, other than paper of the kind described in heading 48.03. |  |  |  |  |
+| **48.08** | **Kertas dan kertas karton, bergelombang (dengan atau tanpa dilekati lembaran yang datar permukaannya), dikisutkan, dikerutkan, diembos atau dilubangi, dalam gulungan atau lembaran, selain kertas dari jenis yang diuraikan dalam pos 48.03.** | **Paper and paperboard, corrugated (with or without glued flat surface sheets), creped, crinkled, embossed or perforated, in rolls or sheets, other than paper of the kind described in heading 48.03.** |  |  |  |  |
 | 4808.10.00 | - Kertas dan kertas karton bergelombang, dilubangi maupun tidak | - Corrugated paper and paperboard, whether or not perforated | 5 | - | 11 | - |
 | 4808.40.00 | - Kertas kraft, dikisutkan atau dikerutkan, diembos atau dilubangi maupun tidak | - Kraft paper, creped or crinkled, whether or not embossed or perforated | 5 | - | 11 | - |
 | 4808.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 4808.90.20 | - - Dikisutkan atau dikerutkan | - - Creped or crinkled paper | 5 | - | 11 | - |
 | 4808.90.30 | - - Embossed paper | - - Embossed paper | 5 | - | 11 | - |
 | 4808.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
-| 48.09 | Kertas karbon, kertas self-copy dan kertas kopi atau kertas transfer lainnya (termasuk kertas dilapisi atau kertas diresapi untuk stensil duplikator atau pelat offset), dicetak maupun tidak, dalam gulungan atau lembaran. | Carbon paper, self-copy paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls or sheets. |  |  |  |  |
+| **48.09** | **Kertas karbon, kertas self-copy dan kertas kopi atau kertas transfer lainnya (termasuk kertas dilapisi atau kertas diresapi untuk stensil duplikator atau pelat offset), dicetak maupun tidak, dalam gulungan atau lembaran.** | **Carbon paper, self-copy paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls or sheets.** |  |  |  |  |
 | 4809.20.00 | - Kertas self-copy | - Self-copy paper | 5 | - | 11 | - |
 | 4809.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 4809.90.10 | - - Kertas karbon dan kertas kopi semacam itu | - - Carbon paper and similar copying papers | 5 | - | 11 | - |
 | 4809.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
-| 48.10 | Kertas dan kertas karton, dilapisi satu atau kedua sisinya dengan kaolin (tanah liat Cina) atau zat anorganik lainnya, dengan atau tanpa bahan pengikat, dan tanpa pelapis lainnya, diwarnai, dihias atau dicetak permukaannya maupun tidak, dalam gulungan atau lembaran empat persegi panjang (termasuk bujur sangkar) dari berbagai ukuran. | Paper and paperboard, coated on one or both sides with kaolin (China clay) or other inorganic substances, with or without a binder, and with no other coating, whether or not surface-coloured, surface-decorated or printed, in rolls or rectangular (including square) sheets, of any size. |  |  |  |  |
+| **48.10** | **Kertas dan kertas karton, dilapisi satu atau kedua sisinya dengan kaolin (tanah liat Cina) atau zat anorganik lainnya, dengan atau tanpa bahan pengikat, dan tanpa pelapis lainnya, diwarnai, dihias atau dicetak permukaannya maupun tidak, dalam gulungan atau lembaran empat persegi panjang (termasuk bujur sangkar) dari berbagai ukuran.** | **Paper and paperboard, coated on one or both sides with kaolin (China clay) or other inorganic substances, with or without a binder, and with no other coating, whether or not surface-coloured, surface-decorated or printed, in rolls or rectangular (including square) sheets, of any size.** |  |  |  |  |
 |  | - Kertas dan kertas karton dari jenis yang digunakan untuk menulis, mencetak atau keperluan grafik lainnya, tidak mengandung serat yang diperoleh melalui proses mekanik atau kimia mekanik mengandung serat tersebut tidak lebih dari 10 % menurut berat keseluruhan kandungan seratnya : | - Paper and paperboard of a kind used for writing, printing or other graphic purposes, not containing fibres obtained by a mechanical or chemi-mechanical process or of which not more than 10 % by weight of the total fibre content consists of such fibres : |  |  |  |  |
 | 4810.13 | - - Dalam gulungan : | - - In rolls : |  |  |  |  |
 | 4810.13.10 | - - - Dicetak, dari jenis yang digunakan untuk aparatus yang merekam sendiri, dengan lebar 150 mm atau kurang | - - - Printed, of a kind used for self-recording apparatus, of a width of 150 mm or less | 5 | - | 11 | - |
@@ -273,7 +273,7 @@ lang:
 | 4810.99.40 | - - - Dalam gulungan dengan lebar tidak melebihi 150 mm atau dalam lembaran yang sisinya tidak ada yang melebihi 360 mm dalam keadaan tidak dilipat | - - - In rolls of not more than 150 mm in width or sheets of which no side exceeds 360 mm in the unfolded state | 5 | - | 11 | - |
 | 4810.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.11 | Kertas, kertas karton, gumpalan selulosa dan web dari serat selulosa, dilapisi, diresapi, ditutupi, diwarnai permukaannya, dihias atau dicetak permukaannya, dalam gulungan atau lembaran empat persegi panjang (termasuk bujur sangkar), dari berbagai ukuran, selain barang dari jenis yang diuraikan dalam pos 48.03, 48.09 atau 48.10. | Paper, paperboard, cellulose wadding and webs of cellulose fibres, coated, impregnated, covered, surface-coloured, surface-decorated or printed, in rolls or rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03, 48.09 or 48.10. |  |  |  |  |
+| **48.11** | **Kertas, kertas karton, gumpalan selulosa dan web dari serat selulosa, dilapisi, diresapi, ditutupi, diwarnai permukaannya, dihias atau dicetak permukaannya, dalam gulungan atau lembaran empat persegi panjang (termasuk bujur sangkar), dari berbagai ukuran, selain barang dari jenis yang diuraikan dalam pos 48.03, 48.09 atau 48.10.** | **Paper, paperboard, cellulose wadding and webs of cellulose fibres, coated, impregnated, covered, surface-coloured, surface-decorated or printed, in rolls or rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03, 48.09 or 48.10.** |  |  |  |  |
 | 4811.10 | - Kertas dan kertas karton diberi ter, bitumen atau aspal : | - Tarred, bituminised or asphalted paper and paperboard : |  |  |  |  |
 | 4811.10.20 | - - Dalam gulungan dengan lebar tidak lebih dari 15 cm atau dalam lembaran empat persegi panjang (termasuk bujur sangkar) yang sisinya tidak ada yang melebihi 36 cm dalam keadaan tidak dilipat | - - In rolls of not more than 15 cm in width or in rectangular (including square) sheets of which no side exceeds 36 cm in the unfolded state | 5 | - | 11 | - |
 | 4811.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -316,7 +316,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 4812.00.00 | Blok, lempengan dan pelat saring, dari pulp kertas. | Filter blocks, slabs and plates, of paper pulp. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.13 | Kertas sigaret, dipotong menurut ukuran maupun tidak, baik dalam bentuk buklet atau tabung. | Cigarette paper, whether or not cut to size or in the form of booklets or tubes. |  |  |  |  |
+| **48.13** | **Kertas sigaret, dipotong menurut ukuran maupun tidak, baik dalam bentuk buklet atau tabung.** | **Cigarette paper, whether or not cut to size or in the form of booklets or tubes.** |  |  |  |  |
 | 4813.10.00 | - Dalam bentuk buklet atau tabung | - In the form of booklets or tubes | 5 | - | 11 | - |
 | 4813.20 | - Dalam gulungan dengan lebar tidak melebihi 5 cm : | - In rolls of a width not exceeding 5 cm : |  |  |  |  |
 | 4813.20.10 | - - Cigarette tipping paper | - - Cigarette tipping paper | 5 | - | 11 | - |
@@ -337,14 +337,14 @@ lang:
 |  | - - Lain-lain : | - - Other : |  |  |  |  |
 | 4813.90.91 | - - - Tobacco wrapping paper | - - - Tobacco wrapping paper | 5 | - | 11 | - |
 | 4813.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
-| 48.14 | Wallpaper dan penutup dinding semacam itu; kertas transparansi untuk jendela. | Wallpaper and similar wall coverings; window transparencies of paper. |  |  |  |  |
+| **48.14** | **Wallpaper dan penutup dinding semacam itu; kertas transparansi untuk jendela.** | **Wallpaper and similar wall coverings; window transparencies of paper.** |  |  |  |  |
 | 4814.20 | - Wallpaper dan penutup dinding semacam itu, terdiri dari kertas yang sisi mukanya dilapisi atau ditutupi lapisan plastik yang diberi hiasan berbentuk urat kayu, diembos, diwarnai, dicetak motif atau dihias dengan cara lain : | - Wallpaper and similar wall coverings, consisting of paper coated or covered, on the face side, with a grained, embossed, coloured, design-printed or otherwise decorated layer of plastics : |  |  |  |  |
 | 4814.20.10 | - - Dengan lebar tidak melebihi 60 cm | - - Of a width not exceeding 60 cm | 5 | - | 11 | - |
 |  | - - Lain-lain : | - - Other : |  |  |  |  |
 | 4814.20.91 | - - - Photo murals | - - - Photo murals | 5 | - | 11 | - |
 | 4814.20.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 4814.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
-| 48.16 | Kertas karbon, kertas self-copy dan kertas kopi atau kertas transfer lainnya (selain yang dimaksud dalam pos 48.09), stensil duplikator dan pelat offset, dari kertas, disiapkan dalam kotak maupun tidak. | Carbon paper, self-copy paper and other copying or transfer papers (other than those of heading 48.09), duplicator stencils and offset plates, of paper, whether or not put up in boxes. |  |  |  |  |
+| **48.16** | **Kertas karbon, kertas self-copy dan kertas kopi atau kertas transfer lainnya (selain yang dimaksud dalam pos 48.09), stensil duplikator dan pelat offset, dari kertas, disiapkan dalam kotak maupun tidak.** | **Carbon paper, self-copy paper and other copying or transfer papers (other than those of heading 48.09), duplicator stencils and offset plates, of paper, whether or not put up in boxes.** |  |  |  |  |
 | 4816.20 | - Kertas self-copy : | - Self-copy paper : |  |  |  |  |
 | 4816.20.10 | - - Dalam gulungan dengan lebar melebihi 15 cm tetapi tidak melebihi 36 cm | - - In rolls of a width exceeding 15 cm but not exceeding 36 cm | 5 | - | 11 | - |
 | 4816.20.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -356,12 +356,12 @@ lang:
 | 4816.90.50 | - - Lain-lain, dalam gulungan dengan lebar melebihi 15 cm tetapi tidak melebihi 36 cm | - - Other, in rolls of a width exceeding 15 cm but not exceeding 36 cm | 5 | - | 11 | - |
 | 4816.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.17 | Amplop, kartu surat, kartu pos polos dan kartu korespondensi, dari kertas atau kertas karton; kotak, kantong, dompet dan kompendium tulisan, dari kertas atau kertas karton, berisi bermacam-macam kertas surat. | Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard; boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery. |  |  |  |  |
+| **48.17** | **Amplop, kartu surat, kartu pos polos dan kartu korespondensi, dari kertas atau kertas karton; kotak, kantong, dompet dan kompendium tulisan, dari kertas atau kertas karton, berisi bermacam-macam kertas surat.** | **Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard; boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery.** |  |  |  |  |
 | 4817.10.00 | - Amplop | - Envelopes | 5 | - | 11 | - |
 | 4817.20.00 | - Kartu surat, kartu pos polos dan kartu korespondensi | - Letter cards, plain postcards and correspondence cards | 5 | - | 11 | - |
 | 4817.30.00 | - Kotak, kantong, dompet dan kompendium tulisan, dari kertas atau kertas karton, berisi bermacam-macam kertas surat | - Boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.18 | Kertas toilet dan kertas semacam itu, gumpalan selulosa atau web dari serat selulosa, dari jenis yang digunakan untuk keperluan rumah tangga atau saniter, dalam gulungan dengan lebar tidak melebihi 36 cm, atau dipotong menurut ukuran atau bentuk tertentu; saputangan, tisu pembersih, handuk, taplak meja, serbet, seprei dan keperluan rumah tangga semacam itu, barang keperluan saniter atau rumah sakit, pakaian dan aksesori pakaian, dari pulp kertas, kertas, gumpalan selulosa atau web serat selulosa. | Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used for household or sanitary purposes, in rolls of a width not exceeding 36 cm, or cut to size or shape; handkerchiefs, cleansing tissues, towels, tablecloths, serviettes, bed sheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, of paper pulp, paper, cellulose wadding or webs of cellulose fibres. |  |  |  |  |
+| **48.18** | **Kertas toilet dan kertas semacam itu, gumpalan selulosa atau web dari serat selulosa, dari jenis yang digunakan untuk keperluan rumah tangga atau saniter, dalam gulungan dengan lebar tidak melebihi 36 cm, atau dipotong menurut ukuran atau bentuk tertentu; saputangan, tisu pembersih, handuk, taplak meja, serbet, seprei dan keperluan rumah tangga semacam itu, barang keperluan saniter atau rumah sakit, pakaian dan aksesori pakaian, dari pulp kertas, kertas, gumpalan selulosa atau web serat selulosa.** | **Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used for household or sanitary purposes, in rolls of a width not exceeding 36 cm, or cut to size or shape; handkerchiefs, cleansing tissues, towels, tablecloths, serviettes, bed sheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, of paper pulp, paper, cellulose wadding or webs of cellulose fibres.** |  |  |  |  |
 | 4818.10.00 | - Kertas toilet | - Toilet paper | 5 | - | 11 | - |
 | 4818.20.00 | - Sapu tangan, tisu pembersih atau tisu dan handuk muka | - Handkerchiefs, cleansing or facial tissues and towels | 5 | - | 11 | - |
 | 4818.30 | - Taplak meja dan serbet : | - Tablecloths and serviettes : |  |  |  |  |
@@ -370,7 +370,7 @@ lang:
 | 4818.50.00 | - Pakaian dan aksesori pakaian | - Articles of apparel and clothing accessories | 5 | - | 11 | - |
 | 4818.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.19 | Kardus, kotak, peti, tas dan kemasan lainnya dari kertas, kertas karton, gumpalan selulosa atau web dari serat selulosa; kotak arsip, nampan surat dan barang semacam itu, dari kertas atau kertas karton, dari jenis yang digunakan di kantor, di toko atau sejenisnya. | Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding or webs of cellulose fibres; box files, letter trays, and similar articles, of paper or paperboard of a kind used in offices, shops or the like. |  |  |  |  |
+| **48.19** | **Kardus, kotak, peti, tas dan kemasan lainnya dari kertas, kertas karton, gumpalan selulosa atau web dari serat selulosa; kotak arsip, nampan surat dan barang semacam itu, dari kertas atau kertas karton, dari jenis yang digunakan di kantor, di toko atau sejenisnya.** | **Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding or webs of cellulose fibres; box files, letter trays, and similar articles, of paper or paperboard of a kind used in offices, shops or the like.** |  |  |  |  |
 | 4819.10.00 | - Kardus, kotak dan peti, dari kertas atau kertas karton bergelombang | - Cartons, boxes and cases, of corrugated paper or paperboard | 5 | - | 11 | - |
 | 4819.20.00 | - Kardus, kotak dan peti lipat, dari kertas atau kertas karton tidak bergelombang | - Folding cartons, boxes and cases, of non-corrugated paper or paperboard | 5 | - | 11 | - |
 | 4819.30.00 | - Kantong dan tas, mempunyai dasar dengan lebar 40 cm atau lebih | - Sacks and bags, having a base of a width of 40 cm or more | 5 | - | 11 | - |
@@ -378,7 +378,7 @@ lang:
 | 4819.50.00 | - Wadah pengemas lainnya, termasuk record sleeve | - Other packing containers, including record sleeves | 5 | - | 11 | - |
 | 4819.60.00 | - Kotak arsip, nampan surat, kotak penyimpanan dan barang semacam itu dari jenis yang digunakan di kantor, di toko atau sejenisnya | - Box files, letter trays, storage boxes and similar articles, of a kind used in offices, shops or the like | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.20 | Buku daftar, buku kas, buku catatan, buku pesanan, buku tanda terima, blok kertas surat, blok kertas memo, buku harian dan barang semacam itu, buku tulis, blok kertas isap, penjilid (lembaran lepas atau lain-lain), map, penyimpan berkas, formulir bermacam-macam bisnis, karbon set bersela lembaran kosong dan barang tulis-menulis lainnya, dari kertas atau kertas karton; album untuk contoh atau untuk koleksi dan sampul buku, dari kertas atau kertas karton. | Registers, account books, note books, order books, receipt books, letter pads, memorandum pads, diaries and similar articles, exercise books, blotting-pads, binders (loose-leaf or other), folders, file covers, manifold business forms, interleaved carbon sets and other articles of stationery, of paper or paperboard; albums for samples or for collections and book covers, of paper or paperboard. |  |  |  |  |
+| **48.20** | **Buku daftar, buku kas, buku catatan, buku pesanan, buku tanda terima, blok kertas surat, blok kertas memo, buku harian dan barang semacam itu, buku tulis, blok kertas isap, penjilid (lembaran lepas atau lain-lain), map, penyimpan berkas, formulir bermacam-macam bisnis, karbon set bersela lembaran kosong dan barang tulis-menulis lainnya, dari kertas atau kertas karton; album untuk contoh atau untuk koleksi dan sampul buku, dari kertas atau kertas karton.** | **Registers, account books, note books, order books, receipt books, letter pads, memorandum pads, diaries and similar articles, exercise books, blotting-pads, binders (loose-leaf or other), folders, file covers, manifold business forms, interleaved carbon sets and other articles of stationery, of paper or paperboard; albums for samples or for collections and book covers, of paper or paperboard.** |  |  |  |  |
 | 4820.10.00 | - Buku daftar, buku kas, buku catatan, buku pesanan, buku kuitansi, kertas surat, kertas memo, buku harian dan barang semacam itu | - Registers, account books, note books, order books, receipt books, letter pads, memorandum pads, diaries and similar articles | 5 | - | 11 | - |
 | 4820.20.00 | - Buku tulis | - Exercise books | 5 | - | 11 | - |
 | 4820.30.00 | - Penjilid (selain sampul buku), map dan penyimpan berkas | - Binders (other than book covers), folders and file covers | 5 | - | 11 | - |
@@ -386,7 +386,7 @@ lang:
 | 4820.50.00 | - Album untuk contoh atau untuk koleksi | - Albums for samples or for collections | 5 | - | 11 | - |
 | 4820.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.21 | Label kertas atau kertas karton dari segala jenis, dicetak maupun tidak. | Paper or paperboard labels of all kinds, whether or not printed. |  |  |  |  |
+| **48.21** | **Label kertas atau kertas karton dari segala jenis, dicetak maupun tidak.** | **Paper or paperboard labels of all kinds, whether or not printed.** |  |  |  |  |
 | 4821.10 | - Dicetak : | - Printed : |  |  |  |  |
 | 4821.10.10 | - - Label dari jenis yang digunakan untuk perhiasan, termasuk barang perhiasan pribadi atau barang keperluan pribadi yang biasa dibawa dalam saku, dalam tas tangan atau dipegang orang | - - Labels of a kind used for jewellery, including objects of personal adornment or articles of personal use normally carried in the pocket, in the handbag or on the person | 5 | - | 11 | - |
 | 4821.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -394,14 +394,14 @@ lang:
 | 4821.90.10 | - - Label dari jenis yang digunakan untuk perhiasan, termasuk barang perhiasan pribadi atau barang keperluan pribadi yang biasa dibawa dalam saku, dalam tas tangan atau dipegang orang | - - Labels of a kind used for jewellery, including objects of personal adornment or articles of personal use normally carried in the pocket, in the handbag or on the person | 5 | - | 11 | - |
 | 4821.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 48.22 | Bobbin, kelos, cop dan alat penunjang semacam itu dari pulp kertas, kertas atau kertas karton (dilubangi atau dikeraskan maupun tidak). | Bobbins, spools, cops and similar supports of paper pulp, paper or paperboard (whether or not perforated or hardened). |  |  |  |  |
+| **48.22** | **Bobbin, kelos, cop dan alat penunjang semacam itu dari pulp kertas, kertas atau kertas karton (dilubangi atau dikeraskan maupun tidak).** | **Bobbins, spools, cops and similar supports of paper pulp, paper or paperboard (whether or not perforated or hardened).** |  |  |  |  |
 | 4822.10 | - Dari jenis yang digunakan untuk menggulung benang tekstil : | - Of a kind used for winding textile yarn : |  |  |  |  |
 | 4822.10.10 | - - Cone | - - Cones | 0 | - | 11 | - |
 | 4822.10.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 | 4822.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 4822.90.10 | - - Cone | - - Cones | 5 | - | 11 | - |
 | 4822.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
-| 48.23 | Kertas, kertas karton, gumpalan selulosa dan web serat selulosa lainnya, dipotong menurut ukuran atau bentuk; barang lainnya dari pulp kertas, kertas, kertas karton, gumpalan selulosa atau web serat selulosa. | Other paper, paperboard, cellulose wadding and webs of cellulose fibres, cut to size or shape; other articles of paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres. |  |  |  |  |
+| **48.23** | **Kertas, kertas karton, gumpalan selulosa dan web serat selulosa lainnya, dipotong menurut ukuran atau bentuk; barang lainnya dari pulp kertas, kertas, kertas karton, gumpalan selulosa atau web serat selulosa.** | **Other paper, paperboard, cellulose wadding and webs of cellulose fibres, cut to size or shape; other articles of paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres.** |  |  |  |  |
 | 4823.20 | - Kertas dan kertas karton saring : | - Filter paper and paperboard : |  |  |  |  |
 | 4823.20.10 | - - Dalam potongan, gulungan atau lembaran | - - In strips, rolls or sheets | 5 | - | 11 | - |
 | 4823.20.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |

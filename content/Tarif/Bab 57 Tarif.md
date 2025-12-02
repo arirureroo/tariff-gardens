@@ -30,7 +30,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 57.01 | Karpet dan penutup lantai tekstil lainnya, disimpul, sudah jadi maupun belum. | Carpets and other textile floor coverings, knotted, whether or not made up. |  |  |  |  |
+| **57.01** | **Karpet dan penutup lantai tekstil lainnya, disimpul, sudah jadi maupun belum.** | **Carpets and other textile floor coverings, knotted, whether or not made up.** |  |  |  |  |
 | 5701.10 | - Dari wol atau bulu hewan halus : | - Of wool or fine animal hair : |  |  |  |  |
 | 5701.10.10 | - - Babut untuk sembahyang | - - Prayer rugs | 22,5 | - | 11 | - |
 | 5701.10.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
@@ -43,7 +43,7 @@ lang:
 | 5701.90.91 | - - - Babut untuk sembahyang | - - - Prayer rugs | 22,5 | - | 11 | - |
 | 5701.90.99 | - - - Lain-lain | - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 57.02 | Karpet dan penutup lantai tekstil lainnya, tenunan, tidak berumbai atau tidak dibentuk flock, sudah jadi maupun belum, termasuk "Kelem", "Schumacks", "Karamanie" dan babut tenunan tangan yang semacam itu. | Carpets and other textile floor coverings, woven, not tufted or flocked, whether or not made up, including “Kelem”, “Schumacks”, “Karamanie” and similar hand-woven rugs. |  |  |  |  |
+| **57.02** | **Karpet dan penutup lantai tekstil lainnya, tenunan, tidak berumbai atau tidak dibentuk flock, sudah jadi maupun belum, termasuk "Kelem", "Schumacks", "Karamanie" dan babut tenunan tangan yang semacam itu.** | **Carpets and other textile floor coverings, woven, not tufted or flocked, whether or not made up, including “Kelem”, “Schumacks”, “Karamanie” and similar hand-woven rugs.** |  |  |  |  |
 | 5702.10.00 | - "Kelem", "Schumacks", "Karamanie" dan babut tenunan tangan semacam itu | - “Kelem”, “Schumacks”, “Karamanie” and similar hand-woven rugs | 22,5 | - | 11 | - |
 | 5702.20.00 | - Penutup lantai dari serat kelapa (coir) | - Floor coverings of coconut fibres (coir) | 22,5 | - | 11 | - |
 |  | - Lainnya, dengan konstruksi bulu, belum jadi : | - Other, of pile construction, not made up : |  |  |  |  |
@@ -88,7 +88,7 @@ lang:
 | 5702.99.91 | - - - - Babut untuk sembahyang | - - - - Prayer rugs | 25 | - | 11 | - |
 | 5702.99.99 | - - - - Lain-lain | - - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 57.03 | Karpet dan penutup lantai tekstil lainnya (termasuk turf), berumbai, sudah jadi maupun belum. | Carpets and other textile floor coverings (including turf), tufted, whether or not made up. |  |  |  |  |
+| **57.03** | **Karpet dan penutup lantai tekstil lainnya (termasuk turf), berumbai, sudah jadi maupun belum.** | **Carpets and other textile floor coverings (including turf), tufted, whether or not made up.** |  |  |  |  |
 | 5703.10 | - Dari wol atau bulu hewan halus : | - Of wool or fine animal hair : |  |  |  |  |
 | 5703.10.10 | - - Keset lantai dari jenis yang digunakan untuk kendaraan bermotor pada pos 87.02, 87.03 atau 87.04 | - - Floor mats of a kind used for motor vehicles of headings 87.02, 87.03 or 87.04 | 22,5 | - | 11 | - |
 | 5703.10.20 | - - Babut untuk sembahyang | - - Prayer rugs | 22,5 | - | 11 | - |
@@ -118,12 +118,12 @@ lang:
 | 5703.90.93 | - - - Karpet penutup lantai dari jenis yang digunakan untuk kendaraan bermotor pada pos 87.02, 87.03 atau 87.04 | - - - Flooring carpets of a kind used for motor vehicles of headings 87.02, 87.03 or 87.04 | 25 | - | 11 | - |
 | 5703.90.99 | - - - Lain-lain | - - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 57.04 | Karpet dan penutup lantai tekstil lainnya, dari kain kempa, tidak berumbai atau tidak dibentuk flock, sudah jadi maupun belum. | Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or not made up. |  |  |  |  |
+| **57.04** | **Karpet dan penutup lantai tekstil lainnya, dari kain kempa, tidak berumbai atau tidak dibentuk flock, sudah jadi maupun belum.** | **Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or not made up.** |  |  |  |  |
 | 5704.10.00 | - Ubin, mempunyai luas permukaan maksimum 0,3 m2 | - Tiles, having a maximum surface area of 0.3 m2 | 22,5 | - | 11 |  |
 | 5704.20.00 | - Ubin, mempunyai luas permukaan maksimum lebih dari 0,3 m2 tetapi tidak melebihi 1 m2 | - Tiles, having a maximum surface area exceeding 0.3 m2 but not exceeding 1 m2 | 25 | - | 11 |  |
 | 5704.90.00 | - Lain-lain | - Other | 25 | - | 11 |  |
 |  |  |  |  |  |  |  |
-| 57.05 | Karpet dan penutup lantai tekstil lainnya, sudah jadi maupun belum. | Other carpets and other textile floor coverings, whether or not made up. |  |  |  |  |
+| **57.05** | **Karpet dan penutup lantai tekstil lainnya, sudah jadi maupun belum.** | **Other carpets and other textile floor coverings, whether or not made up.** |  |  |  |  |
 |  | - Dari kapas : | - Of cotton : |  |  |  |  |
 | 5705.00.11 | - - Babut untuk sembahyang | - - Prayer rugs | 22,5 | - | 11 | - |
 | 5705.00.19 | - - Lain-lain | - - Other | 25 | - | 11 | - |

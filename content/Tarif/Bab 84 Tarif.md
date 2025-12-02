@@ -32,13 +32,13 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 84.01 | Reaktor nuklir; elemen bahan bakar (cartridges), non radiasi, untuk reaktor nuklir; mesin dan aparatus untuk separasi isotopik. | Nuclear reactors; fuel elements (cartridges), non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation. |  |  |  |  |
+| **84.01** | **Reaktor nuklir; elemen bahan bakar (cartridges), non radiasi, untuk reaktor nuklir; mesin dan aparatus untuk separasi isotopik.** | **Nuclear reactors; fuel elements (cartridges), non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation.** |  |  |  |  |
 | 8401.10.00 | - Reaktor nuklir | - Nuclear reactors | 5 | - | 11 | - |
 | 8401.20.00 | - Mesin dan aparatus untuk separasi isotopik, dan bagiannya | - Machinery and apparatus for isotopic separation, and parts thereof | 5 | - | 11 | - |
 | 8401.30.00 | - Elemen bahan bakar (cartridges), non-radiasi | - Fuel elements (cartridges), non-irradiated | 5 | - | 11 | - |
 | 8401.40.00 | - Bagian dari reaktor nuklir | - Parts of nuclear reactors | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.02 | Ketel uap air atau ketel uap lainnya (selain ketel air panas untuk pemanasan sentral yang juga dapat menghasilkan uap air tekanan rendah); ketel air super-heated. | Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); super-heated water boilers. |  |  |  |  |
+| **84.02** | **Ketel uap air atau ketel uap lainnya (selain ketel air panas untuk pemanasan sentral yang juga dapat menghasilkan uap air tekanan rendah); ketel air super-heated.** | **Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); super-heated water boilers.** |  |  |  |  |
 |  | - Ketel uap air atau ketel uap lainnya : | - Steam or other vapour generating boilers : |  |  |  |  |
 | 8402.11 | - - Ketel tabung air yang menghasilkan uap air melebihi 45 t per jam : | - - Watertube boilers with a steam production exceeding 45 t per hour : |  |  |  |  |
 | 8402.11.10 | - - - Dioperasikan secara elektrik | - - - Electrically operated | 10 | - | 11 | - |
@@ -64,13 +64,13 @@ lang:
 | 8402.90.10 | - - Bodi, dinding, atau penutup ketel | - - Boiler bodies, shells or casings | 5 | - | 11 | - |
 | 8402.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.03 | Ketel pemanasan sentral selain yang dimaksud dari pos 84.02. | Central heating boilers other than those of heading 84.02. |  |  |  |  |
+| **84.03** | **Ketel pemanasan sentral selain yang dimaksud dari pos 84.02.** | **Central heating boilers other than those of heading 84.02.** |  |  |  |  |
 | 8403.10.00 | - Ketel | - Boilers | 10 | - | 11 | - |
 | 8403.90 | - Bagian : | - Parts : |  |  |  |  |
 | 8403.90.10 | - - Bodi, dinding, atau penutup ketel | - - Boiler bodies, shells or casings | 10 | - | 11 | - |
 | 8403.90.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.04 | Instalasi pembantu untuk digunakan dengan ketel yang dimaksud dari pos 84.02 atau 84.03 (misalnya, economiser, super-heater, soot remover, gas recoverer); kondensor untuk unit tenaga uap air atau unit tenaga uap lainnya. | Auxiliary plant for use with boilers of heading 84.02 or 84.03 (for example, economisers, super-heaters, soot removers, gas recoverers); condensers for steam or other vapour power units. |  |  |  |  |
+| **84.04** | **Instalasi pembantu untuk digunakan dengan ketel yang dimaksud dari pos 84.02 atau 84.03 (misalnya, economiser, super-heater, soot remover, gas recoverer); kondensor untuk unit tenaga uap air atau unit tenaga uap lainnya.** | **Auxiliary plant for use with boilers of heading 84.02 or 84.03 (for example, economisers, super-heaters, soot removers, gas recoverers); condensers for steam or other vapour power units.** |  |  |  |  |
 | 8404.10 | - Instalasi pembantu untuk digunakan dengan ketel yang dimaksud dari pos 84.02 atau 84.03 : | - Auxiliary plant for use with boilers of heading 84.02 or 84.03 : |  |  |  |  |
 |  | - - Untuk digunakan dengan ketel dari pos 84.02 : | - - For use with boilers of heading 84.02 : |  |  |  |  |
 | 8404.10.11 | - - - Soot remover (soot blower) | - - - Soot removers (soot blowers) | 5 | - | 11 | - |
@@ -86,11 +86,11 @@ lang:
 | 8404.90.29 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 8404.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.05 | Generator pemroduksi gas atau generator gas air, dengan atau tanpa alat pemurnian; generator gas asetilena dan generator gas dengan proses air semacam itu, dengan atau tanpa alat pemurnian. | Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers. |  |  |  |  |
+| **84.05** | **Generator pemroduksi gas atau generator gas air, dengan atau tanpa alat pemurnian; generator gas asetilena dan generator gas dengan proses air semacam itu, dengan atau tanpa alat pemurnian.** | **Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers.** |  |  |  |  |
 | 8405.10.00 | - Generator pemroduksi gas atau generator gas air, dengan atau tanpa alat pemurnian; generator gas asetilena dan generator gas dengan proses air semacam itu, dengan atau tanpa alat pemurnian | - Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers | 5 | - | 11 | - |
 | 8405.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.06 | Turbin uap air dan turbin uap lainnya. | Steam turbines and other vapour turbines. |  |  |  |  |
+| **84.06** | **Turbin uap air dan turbin uap lainnya.** | **Steam turbines and other vapour turbines.** |  |  |  |  |
 | 8406.10.00 | - Turbin untuk penggerak kendaraan air | - Turbines for marine propulsion | 0 | - | 11 | - |
 |  | - Turbin lainnya : | - Other turbines : |  |  |  |  |
 | 8406.81.00 | - - Dengan keluaran melebihi 40 MW | - - Of an output exceeding 40 MW | 0 | - | 11 | - |
@@ -99,7 +99,7 @@ lang:
 | 8406.82.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 8406.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.07 | Mesin piston pembakaran dalam cetus api bolak-balik atau berputar. | Spark-ignition reciprocating or rotary internal combustion piston engines. |  |  |  |  |
+| **84.07** | **Mesin piston pembakaran dalam cetus api bolak-balik atau berputar.** | **Spark-ignition reciprocating or rotary internal combustion piston engines.** |  |  |  |  |
 | 8407.10.00 | - Mesin kendaraan udara | - Aircraft engines | 0 | - | 11 | - |
 |  | - Mesin penggerak kendaraan air : | - Marine propulsion engines : |  |  |  |  |
 | 8407.21 | - - Motor tempel : | - - Outboard motors : |  |  |  |  |
@@ -144,7 +144,7 @@ lang:
 | 8407.90.20 | - - Dengan tenaga melebihi 18,65 kW tetapi tidak melebihi 22,38 kW | - - Of a power exceeding 18.65 kW but not exceeding 22.38 kW | 7,5 | - | 11 | - |
 | 8407.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.08 | Mesin piston pembakaran dalam nyala kompresi (mesin diesel atau semi diesel). | Compression-ignition internal combustion piston engines (diesel or semi-diesel engines). |  |  |  |  |
+| **84.08** | **Mesin piston pembakaran dalam nyala kompresi (mesin diesel atau semi diesel).** | **Compression-ignition internal combustion piston engines (diesel or semi-diesel engines).** |  |  |  |  |
 | 8408.10 | - Mesin penggerak kendaraan air : | - Marine propulsion engines : |  |  |  |  |
 | 8408.10.10 | - - Dengan tenaga tidak melebihi 22,38 kW | - - Of a power not exceeding 22.38 kW | 5 | - | 11 | - |
 | 8408.10.20 | - - Dengan tenaga melebihi 22,38 kW tetapi tidak melebihi 100 kW | - - Of a power exceeding 22.38 kW but not exceeding 100 kW | 5 | - | 11 | - |
@@ -174,7 +174,7 @@ lang:
 | 8408.90.92 | - - - Untuk lokomotif kereta api atau trem | - - - Of a kind used for railway locomotives or tramway vehicles | 5 | - | 11 | - |
 | 8408.90.99 | - - - Lain-lain | - - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.09 | Bagian yang cocok untuk digunakan semata-mata atau terutama dengan mesin dari pos 84.07 atau 84.08. | Parts suitable for use solely or principally with the engines of heading 84.07 or 84.08. |  |  |  |  |
+| **84.09** | **Bagian yang cocok untuk digunakan semata-mata atau terutama dengan mesin dari pos 84.07 atau 84.08.** | **Parts suitable for use solely or principally with the engines of heading 84.07 or 84.08.** |  |  |  |  |
 | 8409.10.00 | - Untuk mesin kendaraan udara | - For aircraft engines | 0 | - | 11 | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
 | 8409.91 | - - Cocok untuk digunakan semata-mata atau terutama dengan mesin piston pembakaran dalam cetus api : | - - Suitable for use solely or principally with spark-ignition internal combustion piston engines : |  |  |  |  |
@@ -301,14 +301,14 @@ lang:
 | 8409.99.78 | - - - - Ring piston dan gudgeon pin | - - - - Piston rings and gudgeon pins | 5 | - | 11 | - |
 | 8409.99.79 | - - - - Lain-lain | - - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.10 | Turbin hidrolik, kincir air, dan regulatornya. | Hydraulic turbines, water wheels, and regulators therefor. |  |  |  |  |
+| **84.10** | **Turbin hidrolik, kincir air, dan regulatornya.** | **Hydraulic turbines, water wheels, and regulators therefor.** |  |  |  |  |
 |  | - Turbin hidrolik dan kincir air : | - Hydraulic turbines and water wheels : |  |  |  |  |
 | 8410.11.00 | - - Dengan tenaga tidak melebihi 1.000 kW | - - Of a power not exceeding 1,000 kW | 10 | - | 11 | - |
 | 8410.12.00 | - - Dengan tenaga melebihi 1.000 kW tetapi tidak melebihi 10.000 kW | - - Of a power exceeding 1,000 kW but not exceeding 10,000 kW | 5 | - | 11 | - |
 | 8410.13.00 | - - Dengan tenaga melebihi 10.000 kW | - - Of a power exceeding 10,000 kW | 5 | - | 11 | - |
 | 8410.90.00 | - Bagian, termasuk regulator | - Parts, including regulators | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.11 | Turbo-jet, turbo-propeller dan turbin gas lainnya. | Turbo-jets, turbo-propellers and other gas turbines. |  |  |  |  |
+| **84.11** | **Turbo-jet, turbo-propeller dan turbin gas lainnya.** | **Turbo-jets, turbo-propellers and other gas turbines.** |  |  |  |  |
 |  | - Turbo-jet : | - Turbo-jets : |  |  |  |  |
 | 8411.11.00 | - - Dengan gaya dorong tidak melebihi 25 kN | - - Of a thrust not exceeding 25 kN | 0 | - | 11 | - |
 | 8411.12.00 | - - Dengan gaya dorong melebihi 25 kN | - - Of a thrust exceeding 25 kN | 0 | - | 11 | - |
@@ -322,7 +322,7 @@ lang:
 | 8411.91.00 | - - Dari turbo-jet atau turbo-propeller | - - Of turbo-jets or turbo-propellers | 0 | - | 11 | - |
 | 8411.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.12 | Mesin dan motor lainnya. | Other engines and motors. |  |  |  |  |
+| **84.12** | **Mesin dan motor lainnya.** | **Other engines and motors.** |  |  |  |  |
 | 8412.10.00 | - Mesin reaksi selain turbo-jet | - Reaction engines other than turbo-jets | 5 | - | 11 | - |
 |  | - Mesin dan motor tenaga hidrolik : | - Hydraulic power engines and motors : |  |  |  |  |
 | 8412.21.00 | - - Gerak linier (silinder) | - - Linear acting (cylinders) | 5 | - | 11 | - |
@@ -336,7 +336,7 @@ lang:
 | 8412.90.20 | - - Untuk unit tenaga uap air atau unit tenaga uap lainnya yang dilengkapi dengan ketel | - - For steam or other vapour power units incorporating boilers | 5 | - | 11 | - |
 | 8412.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.13 | Pompa untuk cairan, dilengkapi dengan alat ukur maupun tidak; elevator cairan. | Pumps for liquids, whether or not fitted with a measuring device; liquid elevators. |  |  |  |  |
+| **84.13** | **Pompa untuk cairan, dilengkapi dengan alat ukur maupun tidak; elevator cairan.** | **Pumps for liquids, whether or not fitted with a measuring device; liquid elevators.** |  |  |  |  |
 |  | - Pompa yang dilengkapi atau dirancang untuk dilengkapi dengan alat pengukur : | - Pumps fitted or designed to be fitted with a measuring device : |  |  |  |  |
 | 8413.11.00 | - - Pompa untuk pengisian bahan bakar atau pelumas, dari tipe yang digunakan di stasiun pengisian atau bengkel | - - Pumps for dispensing fuel or lubricants, of the type used in filling-stations or in garages | 5 | - | 11 | - |
 | 8413.19 | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -401,7 +401,7 @@ lang:
 | 8413.91.90 | - - - Dari Pompa lainnya | - - - Of other pumps | 5 | - | 11 | - |
 | 8413.92.00 | - - Dari elevator cairan | - - Of liquid elevators | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.14 | Pompa udara atau pompa vakum, kompresor udara atau kompresor gas lainnya dan kipas angin atau kipas gas lainnya; hood ventilasi atau hood daur ulang yang digabung dengan kipas, dilengkapi dengan saringan maupun tidak; kabinet pengaman biologis kedap gas, dilengkapi dengan saringan maupun tidak. | Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight biological safety cabinets, whether or not fitted with filters. |  |  |  |  |
+| **84.14** | **Pompa udara atau pompa vakum, kompresor udara atau kompresor gas lainnya dan kipas angin atau kipas gas lainnya; hood ventilasi atau hood daur ulang yang digabung dengan kipas, dilengkapi dengan saringan maupun tidak; kabinet pengaman biologis kedap gas, dilengkapi dengan saringan maupun tidak.** | **Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight biological safety cabinets, whether or not fitted with filters.** |  |  |  |  |
 | 8414.10.00 | - Pompa vakum | - Vacuum pumps | 5 | - | 11 | - |
 | 8414.20 | - Pompa udara yang dioperasikan dengan tangan atau kaki : | - Hand- or foot-operated air pumps : |  |  |  |  |
 | 8414.20.10 | - - Pompa sepeda roda dua | - - Bicycle pumps | 5 | - | 11 | - |
@@ -477,7 +477,7 @@ lang:
 | 8414.90.80 | - - Dari barang pada subpos 8414.70 | - - Of goods of subheading 8414.70 | 5 | - | 11 | - |
 | 8414.90.90 | - - Dari pompa atau kompresor lainnya | - - Of other pumps or compressors | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.15 | Mesin pengatur suhu udara, terdiri dari kipas yang digerakkan dengan motor dan elemen untuk mengubah suhu dan kelembaban udara, termasuk mesin tersebut yang tidak dapat mengatur kelembaban udara secara terpisah. | Air conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated. |  |  |  |  |
+| **84.15** | **Mesin pengatur suhu udara, terdiri dari kipas yang digerakkan dengan motor dan elemen untuk mengubah suhu dan kelembaban udara, termasuk mesin tersebut yang tidak dapat mengatur kelembaban udara secara terpisah.** | **Air conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated.** |  |  |  |  |
 | 8415.10 | - Tipe yang dirancang untuk dipasang pada jendela, dinding, langit-langit atau lantai, menyatu atau "sistem terpisah" : | - Of a kind designed to be fixed to a window, wall, ceiling or floor, self-contained or “split-system” : |  |  |  |  |
 | 8415.10.20 | - - Dengan kapasitas pendinginan tidak melebihi 21,10 kW | - - Of a cooling capacity not exceeding 21.10 kW | 15 | - | 11 | - |
 | 8415.10.30 | - - Dengan kapasitas pendinginan melebihi 21,10 kW tetapi tidak melebihi 26,38 kW | - - Of a cooling capacity exceeding 21.10 kW but not exceeding 26.38 kW | 15 | - | 11 | - |
@@ -558,13 +558,13 @@ lang:
 | 8415.90.46 | - - - - Untuk digunakan pada kendaraan udara atau kendaraan diatas rel | - - - - Of a kind used in aircraft or railway rolling stock | 5 | - | 11 | - |
 | 8415.90.49 | - - - - Lain-lain | - - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.16 | Tanur pembakar untuk bahan bakar cair, untuk bahan bakar padat yang dihancurkan atau untuk gas; penyala mekanis, termasuk penggarang mekanisnya, pembuang abu mekanisnya dan peralatan semacam itu. | Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, including their mechanical grates, mechanical ash dischargers and similar appliances. |  |  |  |  |
+| **84.16** | **Tanur pembakar untuk bahan bakar cair, untuk bahan bakar padat yang dihancurkan atau untuk gas; penyala mekanis, termasuk penggarang mekanisnya, pembuang abu mekanisnya dan peralatan semacam itu.** | **Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, including their mechanical grates, mechanical ash dischargers and similar appliances.** |  |  |  |  |
 | 8416.10.00 | - Tanur pembakar untuk bahan bakar cair | - Furnace burners for liquid fuel | 5 | - | 11 | - |
 | 8416.20.00 | - Tanur pembakar lainnya, termasuk pembakar kombinasi | - Other furnace burners, including combination burners | 5 | - | 11 | - |
 | 8416.30.00 | - Penyala mekanis termasuk penggarang mekanis, pembuang abu mekanis dan peralatan semacam itu | - Mechanical stokers, including their mechanical grates, mechanical ash dischargers and similar appliances | 5 | - | 11 | - |
 | 8416.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.17 | Tanur dan oven industri atau laboratorium, termasuk incinerator, bukan listrik. | Industrial or laboratory furnaces and ovens, including incinerators, non-electric. |  |  |  |  |
+| **84.17** | **Tanur dan oven industri atau laboratorium, termasuk incinerator, bukan listrik.** | **Industrial or laboratory furnaces and ovens, including incinerators, non-electric.** |  |  |  |  |
 | 8417.10.00 | - Tanur dan oven untuk memanggang, melelehkan atau pengolahan panas lainnya untuk bijih, pirit atau logam | - Furnaces and ovens for the roasting, melting or other heat-treatment of ores, pyrites or of metals | 5 | - | 11 | - |
 | 8417.20.00 | - Oven roti, termasuk oven biskuit | - Bakery ovens, including biscuit ovens | 5 | - | 11 | - |
 | 8417.80 | - Lain-lain : | - Other : |  |  |  |  |
@@ -572,7 +572,7 @@ lang:
 | 8417.80.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 8417.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.18 | Lemari pendingin, lemari pembeku dan perlengkapan pendingin atau pembeku lainnya, listrik atau lainnya; pompa panas selain mesin pengatur suhu udara dari pos 84.15. | Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading 84.15. |  |  |  |  |
+| **84.18** | **Lemari pendingin, lemari pembeku dan perlengkapan pendingin atau pembeku lainnya, listrik atau lainnya; pompa panas selain mesin pengatur suhu udara dari pos 84.15.** | **Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading 84.15.** |  |  |  |  |
 | 8418.10 | - Kombinasi lemari pendingin-pembeku, dilengkapi dengan pintu luar terpisah atau laci, atau kombinasinya : | - Combined refrigerator-freezers, fitted with separate external doors or drawers, or combinations thereof : |  |  |  |  |
 |  | - - Dilengkapi dengan hanya pintu luar terpisah : | - - Fitted with separate external doors only : |  |  |  |  |
 | 8418.10.31 | - - - Tipe rumah tangga, dengan kapasitas tidak melebihi 230 l | - - - Household type, of a capacity not exceeding 230 l | 15 | - | 11 | - |
@@ -617,7 +617,7 @@ lang:
 | 8418.99.40 | - - - Panel roll-bonded aluminium dari jenis yang digunakan untuk barang dari subpos 8418.10.31, 8418.10.32, 8418.21.10, 8418.21.90 atau 8418.29.00 | - - - Aluminium roll-bonded panels of a kind used for the goods of subheading 8418.10.31, 8418.10.32, 8418.21.10, 8418.21.90 or 8418.29.00 | 5 | - | 11 | - |
 | 8418.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.19 | Perlengkapan mesin, pabrik atau laboratorium, dipanaskan secara elektrik maupun tidak (tidak termasuk tanur, oven dan perlengkapan lain-nya dari pos 85.14), untuk mengolah bahan dengan proses yang memerlukan perubahan suhu seperti memanaskan, memasak, memanggang, menyuling, rektifikasi, mensterilkan, mempasteurisasi, menguapkan, mengeringkan, mengevaporasi, menguapkan, mengkondensasi atau mendinginkan, selain mesin atau instalasi dari jenis yang digunakan untuk keperluan rumah tangga; pemanas air instant atau pemanas air dengan tempat penyimpanan, bukan listrik. | Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 85.14), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilising, pasteurising, steaming, drying, evaporating, vaporising, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, non-electric. |  |  |  |  |
+| **84.19** | **Perlengkapan mesin, pabrik atau laboratorium, dipanaskan secara elektrik maupun tidak (tidak termasuk tanur, oven dan perlengkapan lain-nya dari pos 85.14), untuk mengolah bahan dengan proses yang memerlukan perubahan suhu seperti memanaskan, memasak, memanggang, menyuling, rektifikasi, mensterilkan, mempasteurisasi, menguapkan, mengeringkan, mengevaporasi, menguapkan, mengkondensasi atau mendinginkan, selain mesin atau instalasi dari jenis yang digunakan untuk keperluan rumah tangga; pemanas air instant atau pemanas air dengan tempat penyimpanan, bukan listrik.** | **Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 85.14), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilising, pasteurising, steaming, drying, evaporating, vaporising, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, non-electric.** |  |  |  |  |
 |  | - Pemanas air instant atau pemanas air dengan tempat penyimpanan, bukan listrik : | - Instantaneous or storage water heaters, non-electric : |  |  |  |  |
 | 8419.11 | - - Pemanas air instan dengan gas : | - - Instantaneous gas water heaters : |  |  |  |  |
 | 8419.11.10 | - - - Tipe rumah tangga | - - - Household type | 10 | - | 11 | - |
@@ -669,7 +669,7 @@ lang:
 | 8419.90.22 | - - - Dari pemanas air instan dengan gas, tipe rumah tangga | - - - Of instantaneous gas water heaters, household type | 5 | - | 11 | - |
 | 8419.90.29 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.20 | Mesin calender atau mesin giling lainnya, selain untuk logam atau kaca, dan silinder untuk mesin tersebut. | Calendering or other rolling machines, other than for metals or glass, and cylinders therefor. |  |  |  |  |
+| **84.20** | **Mesin calender atau mesin giling lainnya, selain untuk logam atau kaca, dan silinder untuk mesin tersebut.** | **Calendering or other rolling machines, other than for metals or glass, and cylinders therefor.** |  |  |  |  |
 | 8420.10 | - Mesin calender atau mesin giling lainnya : | - Calendering or other rolling machines : |  |  |  |  |
 | 8420.10.10 | - - Dari jenis yang digunakan semata-mata atau terutama untuk pembuatan substrat printed circuit atau printed circuit | - - Of a kind used solely or principally for the manufacture of printed circuit substrates or printed circuits | 5 | - | 11 | - |
 | 8420.10.20 | - - Untuk mesin penyetrika atau pemeras cocok untuk keperluan rumah tangga | - - Ironing machines or wringers suitable for domestic use | 12,5 | - | 11 | - |
@@ -682,7 +682,7 @@ lang:
 | 8420.99.10 | - - - Bagian dari barang pada subpos 8420.10.10 | - - - Of goods of subheading 8420.10.10 | 5 | - | 11 | - |
 | 8420.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.21 | Mesin sentrifugal, termasuk pengering sentrifugal; mesin dan aparatus penyaring atau pemurni, untuk cairan atau gas. | Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases. |  |  |  |  |
+| **84.21** | **Mesin sentrifugal, termasuk pengering sentrifugal; mesin dan aparatus penyaring atau pemurni, untuk cairan atau gas.** | **Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases.** |  |  |  |  |
 |  | - Mesin sentrifugal, termasuk pengering sentrifugal : | - Centrifuges, including centrifugal dryers : |  |  |  |  |
 | 8421.11.00 | - - Pemisah krim | - - Cream separators | 5 | - | 11 | - |
 | 8421.12.00 | - - Pengering pakaian | - - Clothes-dryers | 5 | - | 11 | - |
@@ -749,7 +749,7 @@ lang:
 | 8421.99.97 | - - - - Dari barang pada subpos 8421.23.19 atau 8421.23.99 | - - - - Of goods of subheading 8421.23.19 or 8421.23.99 | 5 | - | 11 | - |
 | 8421.99.99 | - - - - Lain-lain | - - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.22 | Mesin pencuci piring; mesin untuk membersihkan atau mengeringkan botol atau kemasan lainnya; mesin untuk mengisi, menutup, menyegel atau memasang label pada botol, kaleng, kotak, kantong atau kemasan lainnya; mesin untuk menutup dengan selaput pada botol, guci, tabung dan kemasan semacam itu; mesin pengepak atau pembungkus lainnya (termasuk mesin pembungkus heatshrink); mesin untuk mengaerasi minuman. | Dish washing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heat-shrink wrapping machinery); machinery for aerating beverages. |  |  |  |  |
+| **84.22** | **Mesin pencuci piring; mesin untuk membersihkan atau mengeringkan botol atau kemasan lainnya; mesin untuk mengisi, menutup, menyegel atau memasang label pada botol, kaleng, kotak, kantong atau kemasan lainnya; mesin untuk menutup dengan selaput pada botol, guci, tabung dan kemasan semacam itu; mesin pengepak atau pembungkus lainnya (termasuk mesin pembungkus heatshrink); mesin untuk mengaerasi minuman.** | **Dish washing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heat-shrink wrapping machinery); machinery for aerating beverages.** |  |  |  |  |
 |  | - Mesin pencuci piring : | - Dish washing machines : |  |  |  |  |
 | 8422.11.00 | - - Dari tipe rumah tangga | - - Of the household type | 10 | - | 11 | - |
 | 8422.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -760,7 +760,7 @@ lang:
 | 8422.90.10 | - - Dari barang pada subpos 8422.11 | - - Of machines of subheading 8422.11 | 5 | - | 11 | - |
 | 8422.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.23 | Mesin penimbang (tidak termasuk timbangan dengan kepekaan timbangan sebesar 5 cg atau lebih baik), termasuk mesin penghitung atau mesin pemeriksa yang dioperasikan dengan anak timbangan; anak timbangan dari segala jenis mesin timbang. | Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight operated counting or checking machines; weighing machine weights of all kinds. |  |  |  |  |
+| **84.23** | **Mesin penimbang (tidak termasuk timbangan dengan kepekaan timbangan sebesar 5 cg atau lebih baik), termasuk mesin penghitung atau mesin pemeriksa yang dioperasikan dengan anak timbangan; anak timbangan dari segala jenis mesin timbang.** | **Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight operated counting or checking machines; weighing machine weights of all kinds.** |  |  |  |  |
 | 8423.10 | - Mesin penimbang personal, termasuk timbangan bayi; timbangan rumah tangga : | - Personal weighing machines, including baby scales; household scales : |  |  |  |  |
 | 8423.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8423.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
@@ -791,7 +791,7 @@ lang:
 | 8423.90.30 | - - Bagian dari mesin penimbang yang menggunakan alat elektronik untuk mengukur berat, selain dari mesin untuk menimbang kendaraan bermotor | - - Parts of weighing machinery using electronic means for gauging weight, excluding of machines for weighing motor vehicles | 5 | - | 11 | - |
 | 8423.90.40 | - - Bagian dari mesin penimbang lainnya | - - Parts of other weighing machinery | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.24 | Peralatan mekanis (digerakkan dengan tangan maupun tidak) untuk melemparkan, menyebarkan atau menyemprotkan barang cairan atau bubuk; pemadam api, diisi maupun tidak; pistol semprot dan peralatan semacam itu; mesin penyembur uap air atau pasir dan mesin jet pelempar semacam itu. | Mechanical appliances (whether or not hand-operated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines. |  |  |  |  |
+| **84.24** | **Peralatan mekanis (digerakkan dengan tangan maupun tidak) untuk melemparkan, menyebarkan atau menyemprotkan barang cairan atau bubuk; pemadam api, diisi maupun tidak; pistol semprot dan peralatan semacam itu; mesin penyembur uap air atau pasir dan mesin jet pelempar semacam itu.** | **Mechanical appliances (whether or not hand-operated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines.** |  |  |  |  |
 | 8424.10 | - Pemadam api, diisi maupun tidak : | - Fire extinguishers, whether or not charged : |  |  |  |  |
 | 8424.10.10 | - - Dari jenis yang cocok untuk keperluan kendaraan udara | - - Of a kind suitable for aircraft use | 0 | - | 11 | - |
 | 8424.10.90 | - - Lain-lain | - - Other | 12,5 | - | 11 | - |
@@ -839,7 +839,7 @@ lang:
 | 8424.90.96 | - - - Dari barang pada subpos 8424.89.40 | - - - Of goods of subheading 8424.89.40 | 5 | - | 11 | - |
 | 8424.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.25 | Katrol dan kerekan, selain kerekan skip; derek dan kapstan; dongkrak. | Pulley tackle and hoists other than skip hoists; winches and capstans; jacks. |  |  |  |  |
+| **84.25** | **Katrol dan kerekan, selain kerekan skip; derek dan kapstan; dongkrak.** | **Pulley tackle and hoists other than skip hoists; winches and capstans; jacks.** |  |  |  |  |
 |  | - Katrol dan kerekan selain kerekan skip atau kerekan dari jenis yang digunakan untuk mengangkat kendaraan : | - Pulley tackle and hoists other than skip hoists or hoists of a kind used for raising vehicles : |  |  |  |  |
 | 8425.11.00 | - - Digerakkan dengan motor listrik | - - Powered by electric motor | 5 | - | 11 | - |
 | 8425.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -855,7 +855,7 @@ lang:
 | 8425.49.10 | - - - Dioperasikan secara elektrik | - - - Electrically operated | 5 | - | 11 | - |
 | 8425.49.20 | - - - Tidak dioperasikan secara elektrik | - - - Not electrically operated | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.26 | Derek kapal; crane, termasuk crane kabel; rangka pengangkat yang dapat berpindah, straddle carrier dan truk kerja yang dilengkapi crane. | Ships’ derricks; cranes, including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane. |  |  |  |  |
+| **84.26** | **Derek kapal; crane, termasuk crane kabel; rangka pengangkat yang dapat berpindah, straddle carrier dan truk kerja yang dilengkapi crane.** | **Ships’ derricks; cranes, including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane.** |  |  |  |  |
 |  | - Overhead traveling crane, transporter crane, gantry crane, bridge crane, rangka pengangkat yang dapat berpindah dan straddle carrier : | - Overhead travelling cranes, transporter cranes, gantry cranes, bridge cranes, mobile lifting frames and straddle carriers : |  |  |  |  |
 | 8426.11.00 | - - Overhead traveling crane berpendukung tetap | - - Overhead travelling cranes on fixed support | 5 | - | 11 | - |
 | 8426.12.00 | - - Rangka pengangkat yang dapat berpindah dengan roda dan straddle carrier | - - Mobile lifting frames on tyres and straddle carriers | 5 | - | 11 | - |
@@ -872,12 +872,12 @@ lang:
 | 8426.91.00 | - - Dirancang untuk dipasang pada kendaraan darat | - - Designed for mounting on road vehicles | 5 | - | 11 | - |
 | 8426.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.27 | Truk forklift; truk kerja lainnya yang dilengkapi dengan perlengkapan pengangkat atau penanganan. | Fork-lift trucks; other works trucks fitted with lifting or handling equipment. |  |  |  |  |
+| **84.27** | **Truk forklift; truk kerja lainnya yang dilengkapi dengan perlengkapan pengangkat atau penanganan.** | **Fork-lift trucks; other works trucks fitted with lifting or handling equipment.** |  |  |  |  |
 | 8427.10.00 | - Truk berdaya gerak sendiri yang digerakkan dengan motor listrik | - Self-propelled trucks powered by an electric motor | 15 | - | 11 | - |
 | 8427.20.00 | - Truk berdaya gerak sendiri lainnya | - Other self-propelled trucks | 15 | - | 11 | - |
 | 8427.90.00 | - Truk lainnya | - Other trucks | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.28 | Mesin pengangkat, penanganan, pemuat atau pembongkar lainnya (misalnya, lift, eskalator, konveyor, teleferic). | Other lifting, handling, loading or unloading machinery (for example, lifts, escalators, conveyors, teleferics). |  |  |  |  |
+| **84.28** | **Mesin pengangkat, penanganan, pemuat atau pembongkar lainnya (misalnya, lift, eskalator, konveyor, teleferic).** | **Other lifting, handling, loading or unloading machinery (for example, lifts, escalators, conveyors, teleferics).** |  |  |  |  |
 | 8428.10 | - Lift dan kerekan skip : | - Lifts and skip hoists : |  |  |  |  |
 |  | - - Lift : | - - Lifts : |  |  |  |  |
 | 8428.10.31 | - - - Untuk penumpang | - - - For passengers | 10 | - | 11 | - |
@@ -905,7 +905,7 @@ lang:
 | 8428.90.30 | - - Pendorong wagon pertambangan, pemutar lokomotif atau wagon, pengangkat wagon dan peralatan penanganan wagon rel semacam itu | - - Mine wagon pushers, locomotive or wagon traversers, wagon tippers and similar railway wagon handling equipment | 5 | - | 11 | - |
 | 8428.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.29 | Buldoser, angledoser, grader, mesin perata, mesin pengikis, shovel mekanik, ekskavator, shovel loader, mesin pemadat dan mesin gilas jalan, berdaya gerak sendiri. | Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers. |  |  |  |  |
+| **84.29** | **Buldoser, angledoser, grader, mesin perata, mesin pengikis, shovel mekanik, ekskavator, shovel loader, mesin pemadat dan mesin gilas jalan, berdaya gerak sendiri.** | **Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers.** |  |  |  |  |
 |  | - Buldoser dan angledoser : | - Bulldozers and angledozers : |  |  |  |  |
 | 8429.11.00 | - - Track laying | - - Track laying | 10 | - | 11 | - |
 | 8429.19.00 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -921,7 +921,7 @@ lang:
 | 8429.52.00 | - - Mesin yang berputar 360º diatas dasarnya | - - Machinery with a 360o revolving superstructure | 10 | - | 11 | - |
 | 8429.59.00 | - - Lain-lain | - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.30 | Mesin pengolah, grading, perata, pengikis, penggali, pemadat, perapi, pengaduk atau pengebor lainnya, untuk tanah, mineral atau bijih; pemancang tiang dan pemancang bor; bajak salju dan blower salju. | Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; pile-drivers and pile-extractors; snow-ploughs and snow-blowers. |  |  |  |  |
+| **84.30** | **Mesin pengolah, grading, perata, pengikis, penggali, pemadat, perapi, pengaduk atau pengebor lainnya, untuk tanah, mineral atau bijih; pemancang tiang dan pemancang bor; bajak salju dan blower salju.** | **Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; pile-drivers and pile-extractors; snow-ploughs and snow-blowers.** |  |  |  |  |
 | 8430.10.00 | - Pemancang tiang dan pemancang bor | - Pile-drivers and pile-extractors | 5 | - | 11 | - |
 | 8430.20.00 | - Bajak salju dan blower salju | - Snow-ploughs and snow-blowers | 5 | - | 11 | - |
 |  | - Pemotong batu bara atau batu dan mesin pembuat terowongan : | - Coal or rock cutters and tunnelling machinery : |  |  |  |  |
@@ -937,7 +937,7 @@ lang:
 | 8430.61.00 | - - Mesin pemadat atau perapi | - - Tamping or compacting machinery | 5 | - | 11 | - |
 | 8430.69.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.31 | Bagian yang cocok untuk digunakan semata-mata atau terutama dengan mesin dari pos 84.25 sampai dengan 84.30. | Parts suitable for use solely or principally with the machinery of headings 84.25 to 84.30. |  |  |  |  |
+| **84.31** | **Bagian yang cocok untuk digunakan semata-mata atau terutama dengan mesin dari pos 84.25 sampai dengan 84.30.** | **Parts suitable for use solely or principally with the machinery of headings 84.25 to 84.30.** |  |  |  |  |
 | 8431.10 | - Dari mesin pada pos 84.25 : | - Of machinery of heading 84.25 : |  |  |  |  |
 |  | - - Dari mesin yang dioperasikan secara elektrik : | - - Of electrically operated machines : |  |  |  |  |
 | 8431.10.13 | - - - Dari barang pada subpos 8425.11.00, 8425.31.00 atau 8425.49.10 | - - - Of goods of subheading 8425.11.00, 8425.31.00 or 8425.49.10 | 5 | - | 11 | - |
@@ -971,7 +971,7 @@ lang:
 | 8431.49.60 | - - - Dari barang pada subpos 8430.20.00 | - - - Of goods of subheading 8430.20.00 | 5 | - | 11 | - |
 | 8431.49.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.32 | Mesin pertanian, perkebunan atau kehutanan untuk penyiapan atau kultivasi tanah; mesin giling lapangan rumput atau lapangan olah raga. | Agricultural, horticultural or forestry machinery for soil preparation or cultivation; lawn or sports-ground rollers. |  |  |  |  |
+| **84.32** | **Mesin pertanian, perkebunan atau kehutanan untuk penyiapan atau kultivasi tanah; mesin giling lapangan rumput atau lapangan olah raga.** | **Agricultural, horticultural or forestry machinery for soil preparation or cultivation; lawn or sports-ground rollers.** |  |  |  |  |
 | 8432.10.00 | - Bajak | - Ploughs | 25 | - | 11 | - |
 |  | - Penggaru, penyisir, cultivator, penyiang rumput dan penyangkul rumput : | - Harrows, scarifiers, cultivators, weeders and hoes : |  |  |  |  |
 | 8432.21.00 | - - Cakram penggaruk | - - Disc harrows | 5 | - | 11 | - |
@@ -991,7 +991,7 @@ lang:
 | 8432.90.20 | - - Dari mesin giling lapangan rumput atau lapangan olah raga | - - Of lawn or sports-ground rollers | 5 | - | 11 | - |
 | 8432.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.33 | Mesin tuai atau mesin tebah, termasuk pengepak jerami atau rumput makanan ternak; mesin pemotong rumput atau rumput kering; mesin untuk membersihkan, menyortir atau memilih mutu telur, buah atau produk pertanian lainnya, selain mesin dari pos 84.37. | Harvesting or threshing machinery, including straw or fodder balers; grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce, other than machinery of heading 84.37. |  |  |  |  |
+| **84.33** | **Mesin tuai atau mesin tebah, termasuk pengepak jerami atau rumput makanan ternak; mesin pemotong rumput atau rumput kering; mesin untuk membersihkan, menyortir atau memilih mutu telur, buah atau produk pertanian lainnya, selain mesin dari pos 84.37.** | **Harvesting or threshing machinery, including straw or fodder balers; grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce, other than machinery of heading 84.37.** |  |  |  |  |
 |  | - Mesin pemotong untuk lapangan rumput, taman atau lapangan olah raga : | - Mowers for lawns, parks or sports-grounds : |  |  |  |  |
 | 8433.11.00 | - - Bertenaga, dengan alat potong berputar pada bidang horizontal | - - Powered, with the cutting device rotating in a horizontal plane | 15 | - | 11 | - |
 | 8433.19 | - - Lain-lain : | - - Other : |  |  |  |  |
@@ -1016,12 +1016,12 @@ lang:
 | 8433.90.30 | - - Lain-lain, dari barang pada subpos 8433.19.10 | - - Other, of goods of subheading 8433.19.10 | 5 | - | 11 | - |
 | 8433.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.34 | Mesin perah susu dan mesin produk susu. | Milking machines and dairy machinery. |  |  |  |  |
+| **84.34** | **Mesin perah susu dan mesin produk susu.** | **Milking machines and dairy machinery.** |  |  |  |  |
 | 8434.10.00 | - Mesin perah susu | - Milking machines | 5 | - | 11 | - |
 | 8434.20.00 | - Mesin produk susu | - Dairy machinery | 5 | - | 11 | - |
 | 8434.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.35 | Pengepres, penghancur dan mesin semacam itu yang digunakan dalam pembuatan wine, cider, jus buah atau minuman semacam itu. | Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices or similar beverages. |  |  |  |  |
+| **84.35** | **Pengepres, penghancur dan mesin semacam itu yang digunakan dalam pembuatan wine, cider, jus buah atau minuman semacam itu.** | **Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices or similar beverages.** |  |  |  |  |
 | 8435.10 | - Mesin : | - Machinery : |  |  |  |  |
 | 8435.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8435.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
@@ -1029,7 +1029,7 @@ lang:
 | 8435.90.10 | - - Dari mesin yang dioperasikan secara elektrik | - - Of electrically operated machines | 5 | - | 11 | - |
 | 8435.90.20 | - - Dari mesin yang tidak dioperasikan secara elektrik | - - Of non-electrically operated machines | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.36 | Mesin pertanian, perkebunan, kehutanan, mesin pemeliharaan unggas atau lebah lainnya, termasuk mesin tunas dilengkapi dengan perlengkapan mekanis atau termal; inkubator dan penetas untuk unggas. | Other agricultural, horticultural, forestry, poultry-keeping or bee-keeping machinery, including germination plant fitted with mechanical or thermal equipment; poultry incubators and brooders. |  |  |  |  |
+| **84.36** | **Mesin pertanian, perkebunan, kehutanan, mesin pemeliharaan unggas atau lebah lainnya, termasuk mesin tunas dilengkapi dengan perlengkapan mekanis atau termal; inkubator dan penetas untuk unggas.** | **Other agricultural, horticultural, forestry, poultry-keeping or bee-keeping machinery, including germination plant fitted with mechanical or thermal equipment; poultry incubators and brooders.** |  |  |  |  |
 | 8436.10 | - Mesin untuk menyiapkan bahan makanan binatang : | - Machinery for preparing animal feeding stuffs : |  |  |  |  |
 | 8436.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8436.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
@@ -1057,7 +1057,7 @@ lang:
 | 8436.99.21 | - - - - Pertanian atau perkebunan | - - - - Agricultural or horticultural | 5 | - | 11 | - |
 | 8436.99.29 | - - - - Lain-lain | - - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.37 | Mesin untuk membersihkan, menyortir atau memilih mutu biji, butir atau sayuran polongan kering; mesin yang digunakan dalam industri penggilingan atau untuk pembuatan serealia atau sayuran polongan kering, selain mesin tipe pertanian. | Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables; machinery used in the milling industry or for the working of cereals or dried leguminous vegetables, other than farm-type machinery. |  |  |  |  |
+| **84.37** | **Mesin untuk membersihkan, menyortir atau memilih mutu biji, butir atau sayuran polongan kering; mesin yang digunakan dalam industri penggilingan atau untuk pembuatan serealia atau sayuran polongan kering, selain mesin tipe pertanian.** | **Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables; machinery used in the milling industry or for the working of cereals or dried leguminous vegetables, other than farm-type machinery.** |  |  |  |  |
 | 8437.10 | - Mesin untuk membersihkan, menyortir atau memilih mutu biji, butir atau sayuran polongan kering : | - Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables : |  |  |  |  |
 | 8437.10.10 | - - Untuk butiran, dioperasikan secara elektrik; penampi dan mesin pembersih semacam itu, dioperasikan secara elektrik | - - For grains, electrically operated; winnowing and similar cleaning machines, electrically operated | 5 | - | 11 | - |
 | 8437.10.20 | - - Untuk butiran, tidak dioperasikan secara elektrik; penampi dan mesin pembersih semacam itu, tidak dioperasikan secara elektrik | - - For grains, not electrically operated; winnowing and similar cleaning machines, not electrically operated | 5 | - | 11 | - |
@@ -1082,7 +1082,7 @@ lang:
 | 8437.90.21 | - - - Dari mesin pada subpos 8437.10 | - - - Of machines of subheading 8437.10 | 5 | - | 11 | - |
 | 8437.90.29 | - - - Lain-lain | - - - Other | 7,5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.38 | Mesin, tidak dirinci atau termasuk dalam pos manapun pada Bab ini, untuk industri pengolahan atau pembuatan makanan atau minuman, selain mesin untuk ekstraksi atau pengolahan lemak atau minyak dari hewan, nabati tertentu atau mikroba. | Machinery, not specified or included elsewhere in this Chapter, for the industrial preparation or manufacture of food or drink, other than machinery for the extraction or preparation of animal or fixed vegetable or microbial fats or oils. |  |  |  |  |
+| **84.38** | **Mesin, tidak dirinci atau termasuk dalam pos manapun pada Bab ini, untuk industri pengolahan atau pembuatan makanan atau minuman, selain mesin untuk ekstraksi atau pengolahan lemak atau minyak dari hewan, nabati tertentu atau mikroba.** | **Machinery, not specified or included elsewhere in this Chapter, for the industrial preparation or manufacture of food or drink, other than machinery for the extraction or preparation of animal or fixed vegetable or microbial fats or oils.** |  |  |  |  |
 | 8438.10.00 | - Mesin pembuat roti dan mesin untuk pembuatan makaroni, spaghetti atau produk semacam itu | - Bakery machinery and machinery for the manufacture of macaroni, spaghetti or similar products | 5 | - | 11 | - |
 | 8438.20 | - Mesin untuk pembuatan kembang gula, kakao atau coklat : | - Machinery for the manufacture of confectionery, cocoa or chocolate : |  |  |  |  |
 | 8438.20.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 0 | - | 11 | - |
@@ -1113,7 +1113,7 @@ lang:
 | 8438.90.22 | - - - Dari mesin pembuat pulp kopi | - - - Of coffee pulpers | 5 | - | 11 | - |
 | 8438.90.29 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.39 | Mesin untuk membuat pulp dari bahan serat selulosa atau untuk membuat atau merampungkan kertas atau kertas karton. | Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard. |  |  |  |  |
+| **84.39** | **Mesin untuk membuat pulp dari bahan serat selulosa atau untuk membuat atau merampungkan kertas atau kertas karton.** | **Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard.** |  |  |  |  |
 | 8439.10.00 | - Mesin untuk membuat pulp dari bahan serat selulosa | - Machinery for making pulp of fibrous cellulosic material | 5 | - | 11 | - |
 | 8439.20.00 | - Mesin untuk membuat kertas atau kertas karton | - Machinery for making paper or paperboard | 5 | - | 11 | - |
 | 8439.30.00 | - Mesin untuk merampungkan kertas atau kertas karton | - Machinery for finishing paper or paperboard | 5 | - | 11 | - |
@@ -1121,13 +1121,13 @@ lang:
 | 8439.91.00 | - - Dari mesin untuk membuat pulp dari bahan serat selulosa | - - Of machinery for making pulp of fibrous cellulosic material | 5 | - | 11 | - |
 | 8439.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.40 | Mesin penjilid buku, termasuk mesin penjahit buku. | Book-binding machinery, including book-sewing machines. |  |  |  |  |
+| **84.40** | **Mesin penjilid buku, termasuk mesin penjahit buku.** | **Book-binding machinery, including book-sewing machines.** |  |  |  |  |
 | 8440.10 | - Mesin : | - Machinery : |  |  |  |  |
 | 8440.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 0 | - | 11 | - |
 | 8440.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 | 8440.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.41 | Mesin lainnya untuk membuat pulp kertas, kertas atau kertas karton, termasuk mesin pemotong dari semua jenis. | Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds. |  |  |  |  |
+| **84.41** | **Mesin lainnya untuk membuat pulp kertas, kertas atau kertas karton, termasuk mesin pemotong dari semua jenis.** | **Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds.** |  |  |  |  |
 | 8441.10 | - Mesin pemotong : | - Cutting machines : |  |  |  |  |
 | 8441.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 0 | - | 11 | - |
 | 8441.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
@@ -1139,12 +1139,12 @@ lang:
 | 8441.80.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 | 8441.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.42 | Mesin, aparatus dan perlengkapan (selain mesin yang dimaksud dari pos 84.56 sampai dengan 84.65) untuk menyiapkan atau membuat pelat, silinder cetak atau komponen cetak lainnya; pelat, silinder cetak dan komponen cetak lainnya; pelat, silinder dan batu litograf, disiapkan untuk keperluan pencetakan (misalnya, diratakan, dibuat tidak licin atau dipoles). | Machinery, apparatus and equipment (other than the machines of headings 84.56 to 84.65) for preparing or making plates, cylinders or other printing components; plates, cylinders and other printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished). |  |  |  |  |
+| **84.42** | **Mesin, aparatus dan perlengkapan (selain mesin yang dimaksud dari pos 84.56 sampai dengan 84.65) untuk menyiapkan atau membuat pelat, silinder cetak atau komponen cetak lainnya; pelat, silinder cetak dan komponen cetak lainnya; pelat, silinder dan batu litograf, disiapkan untuk keperluan pencetakan (misalnya, diratakan, dibuat tidak licin atau dipoles).** | **Machinery, apparatus and equipment (other than the machines of headings 84.56 to 84.65) for preparing or making plates, cylinders or other printing components; plates, cylinders and other printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished).** |  |  |  |  |
 | 8442.30.00 | - Mesin, aparatus dan perlengkapan | - Machinery, apparatus and equipment | 5 | - | 11 | - |
 | 8442.40.00 | - Bagian dari mesin, aparatus atau perlengkapan yang tersebut di atas | - Parts of the foregoing machinery, apparatus or equipment | 5 | - | 11 | - |
 | 8442.50.00 | - Pelat, silinder cetak dan komponen cetak lainnya; pelat, silinder dan batu litograf, disiapkan untuk keperluan percetakan (misalnya, diratakan, dibuat tidak licin atau dipoles) | - Plates, cylinders and other printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished) | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.43 | Mesin cetak digunakan untuk mencetak dengan memakai pelat, silinder dan komponen cetak lainnya dari pos 84.42; mesin cetak, mesin fotocopy dan mesin faksimili lainnya, dikombinasi atau tidak; bagian dan aksesori lainnya. | Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof. |  |  |  |  |
+| **84.43** | **Mesin cetak digunakan untuk mencetak dengan memakai pelat, silinder dan komponen cetak lainnya dari pos 84.42; mesin cetak, mesin fotocopy dan mesin faksimili lainnya, dikombinasi atau tidak; bagian dan aksesori lainnya.** | **Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof.** |  |  |  |  |
 |  | - Mesin cetak digunakan untuk mencetak dengan memakai pelat, silinder dan komponen cetak lainnya dari pos 84.42 : | - Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42 : |  |  |  |  |
 | 8443.11.00 | - - Mesin cetak offset, reel-fed | - - Offset printing machinery, reel-fed | 0 | - | 11 | - |
 | 8443.12.00 | - - Mesin cetak offset, sheet-fed, tipe kantor (menggunakan lembaran dengan satu sisinya tidak melebihi 22 cm dan sisi lainnya tidak melebihi 36 cm dalam keadaan tidak dilipat) | - - Offset printing machinery, sheet-fed, office type (using sheets with one side not exceeding 22 cm and the other side not exceeding 36 cm in the unfolded state) | 5 | - | 11 | - |
@@ -1196,11 +1196,11 @@ lang:
 | 8443.99.30 | - - - Pemasok kertas; penyortir kertas | - - - Paper feeders; paper sorters | 0 | - | 11 | - |
 | 8443.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.44 | Mesin untuk mengekstrusi, menarik, mentekstur atau memotong bahan tekstil buatan. | Machines for extruding, drawing, texturing or cutting man-made textile materials. |  |  |  |  |
+| **84.44** | **Mesin untuk mengekstrusi, menarik, mentekstur atau memotong bahan tekstil buatan.** | **Machines for extruding, drawing, texturing or cutting man-made textile materials.** |  |  |  |  |
 | 8444.00.10 | - Dioperasikan secara elektrik | - Electrically operated | 0 | - | 11 | - |
 | 8444.00.20 | - Tidak dioperasikan secara elektrik | - Not electrically operated | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.45 | Mesin untuk pengolahan serat tekstil; mesin pemintal, pengganda atau pemilin dan mesin lainnya untuk memproduksi benang tekstil; mesin pengikal atau penggulung tekstil (termasuk penggulung benang pakan) dan mesin untuk menyiapkan benang tekstil untuk digunakan pada mesin dari pos 84.46 atau 84.47. | Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns; textile reeling or winding (including weft-winding) machines and machines for preparing textile yarns for use on the machines of heading 84.46 or 84.47. |  |  |  |  |
+| **84.45** | **Mesin untuk pengolahan serat tekstil; mesin pemintal, pengganda atau pemilin dan mesin lainnya untuk memproduksi benang tekstil; mesin pengikal atau penggulung tekstil (termasuk penggulung benang pakan) dan mesin untuk menyiapkan benang tekstil untuk digunakan pada mesin dari pos 84.46 atau 84.47.** | **Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns; textile reeling or winding (including weft-winding) machines and machines for preparing textile yarns for use on the machines of heading 84.46 or 84.47.** |  |  |  |  |
 |  | - Mesin untuk pengolahan serat tekstil : | - Machines for preparing textile fibres : |  |  |  |  |
 | 8445.11 | - - Mesin penggaruk : | - - Carding machines : |  |  |  |  |
 | 8445.11.10 | - - - Dioperasikan secara elektrik | - - - Electrically operated | 0 | - | 11 | - |
@@ -1224,7 +1224,7 @@ lang:
 | 8445.90.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 0 | - | 11 | - |
 | 8445.90.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.46 | Mesin tenun (loom). | Weaving machines (looms). |  |  |  |  |
+| **84.46** | **Mesin tenun (loom).** | **Weaving machines (looms).** |  |  |  |  |
 | 8446.10 | - Untuk menenun kain dengan lebar tidak melebihi 30 cm : | - For weaving fabrics of a width not exceeding 30 cm : |  |  |  |  |
 | 8446.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 0 | - | 11 | - |
 | 8446.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 0 | - | 11 | - |
@@ -1233,7 +1233,7 @@ lang:
 | 8446.29.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 | 8446.30.00 | - Untuk menenun kain dengan lebar melebihi 30 cm, tipe tanpa puntalan | - For weaving fabrics of a width exceeding 30 cm, shuttleless type | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.47 | Mesin rajut, mesin stitch-bonding dan mesin untuk membuat benang berpalut, tulle, renda, bordir, perapih, jalinan atau jaring dan mesin pembuat rumbai. | Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting. |  |  |  |  |
+| **84.47** | **Mesin rajut, mesin stitch-bonding dan mesin untuk membuat benang berpalut, tulle, renda, bordir, perapih, jalinan atau jaring dan mesin pembuat rumbai.** | **Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting.** |  |  |  |  |
 |  | - Mesin rajut bundar : | - Circular knitting machines : |  |  |  |  |
 | 8447.11.00 | - - Dengan garis tengah silinder tidak melebihi 165 mm | - - With cylinder diameter not exceeding 165 mm | 0 | - | 11 | - |
 | 8447.12.00 | - - Dengan garis tengah silinder melebihi 165 mm | - - With cylinder diameter exceeding 165 mm | 0 | - | 11 | - |
@@ -1244,7 +1244,7 @@ lang:
 | 8447.90.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 0 | - | 11 | - |
 | 8447.90.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.48 | Mesin pembantu untuk digunakan dengan mesin dari pos 84.44, 84.45, 84.46 atau 84.47 (misalnya, dobi, Jacquard, penghenti gerak otomatis, mekanisme pengubah puntalan); bagian dan aksesori yang cocok digunakan semata-mata atau terutama dengan mesin dalam pos ini atau dari pos 84.44, 84.45, 84.46 atau 84.47 (misalnya, spindel dan spindel flyer, card clothing, sisir, extruding nipple, puntalan, heald dan heald-frame, jarum rajut). | Auxiliary machinery for use with machines of heading 84.44, 84.45, 84.46 or 84.47 (for example, dobbies, Jacquards, automatic stop motions, shuttle changing mechanisms); parts and accessories suitable for use solely or principally with the machines of this heading or of heading 84.44, 84.45, 84.46 or 84.47 (for example, spindles and spindle flyers, card clothing, combs, extruding nipples, shuttles, healds and heald-frames, hosiery needles). |  |  |  |  |
+| **84.48** | **Mesin pembantu untuk digunakan dengan mesin dari pos 84.44, 84.45, 84.46 atau 84.47 (misalnya, dobi, Jacquard, penghenti gerak otomatis, mekanisme pengubah puntalan); bagian dan aksesori yang cocok digunakan semata-mata atau terutama dengan mesin dalam pos ini atau dari pos 84.44, 84.45, 84.46 atau 84.47 (misalnya, spindel dan spindel flyer, card clothing, sisir, extruding nipple, puntalan, heald dan heald-frame, jarum rajut).** | **Auxiliary machinery for use with machines of heading 84.44, 84.45, 84.46 or 84.47 (for example, dobbies, Jacquards, automatic stop motions, shuttle changing mechanisms); parts and accessories suitable for use solely or principally with the machines of this heading or of heading 84.44, 84.45, 84.46 or 84.47 (for example, spindles and spindle flyers, card clothing, combs, extruding nipples, shuttles, healds and heald-frames, hosiery needles).** |  |  |  |  |
 |  | - Mesin pembantu untuk mesin dari pos 84.44, 84.45, 84.46 atau 84.47 : | - Auxiliary machinery for machines of heading 84.44, 84.45, 84.46 or 84.47 : |  |  |  |  |
 | 8448.11 | - - Dobi dan Jacquard; reduksi kartu, mesin pengganda, pelubang atau perakit mesin untuk digunakan sesuai dengan mesinnya : | - - Dobbies and Jacquards; card reducing, copying, punching or assembling machines for use therewith : |  |  |  |  |
 | 8448.11.10 | - - - Dioperasikan secara elektrik | - - - Electrically operated | 0 | - | 11 | - |
@@ -1271,7 +1271,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 8449.00.00 | Mesin untuk membuat atau merampungkan bulu kempa atau bukan tenunan dalam lembaran atau bentuk, termasuk mesin untuk membuat topi bulu kempa; blok untuk membuat topi. | Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, including machinery for making felt hats; blocks for making hats. | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.50 | Mesin cuci tipe rumah tangga atau binatu, termasuk mesin yang dapat digunakan untuk mencuci dan mengeringkan. | Household or laundry-type washing machines, including machines which both wash and dry. |  |  |  |  |
+| **84.50** | **Mesin cuci tipe rumah tangga atau binatu, termasuk mesin yang dapat digunakan untuk mencuci dan mengeringkan.** | **Household or laundry-type washing machines, including machines which both wash and dry.** |  |  |  |  |
 |  | - Mesin, yang mempunyai kapasitas linen kering tidak melebihi 10 kg : | - Machines, each of a dry linen capacity not exceeding 10 kg : |  |  |  |  |
 | 8450.11 | - - Mesin otomatis penuh : | - - Fully-automatic machines : |  |  |  |  |
 | 8450.11.10 | - - - Mempunyai kapasitas linen kering tidak melebihi 6 kg | - - - Each of a dry linen capacity not exceeding 6 kg | 15 | - | 11 | - |
@@ -1291,7 +1291,7 @@ lang:
 | 8450.90.10 | - - Dari barang pada subpos 8450.20.00 | - - Of machines of subheading 8450.20.00 | 0 | - | 11 | - |
 | 8450.90.20 | - - Dari barang pada subpos 8450.11, 8450.12 atau 8450.19 | - - Of machines of subheading 8450.11, 8450.12 or 8450.19 | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.51 | Mesin (selain mesin dari pos 84.50) untuk mencuci, membersihkan, memeras, mengeringkan, menyetrika, mengepres (termasuk pengepres fusi), mengelantang, mencelup, menata, merampungkan, melapisi atau meresapi benang tekstil, kain atau barang tekstil sudah jadi dan mesin untuk memberi pasta pada kain dasar atau kain dasar lainnya yang digunakan dalam pembuatan penutup lantai seperti linoleum; mesin untuk menggulung, melepas gulungan, melipat, memotong atau memotong bergerigi kain tekstil. | Machinery (other than machines of heading 84.50) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up textile articles and machines for applying the paste to the base fabric or other support used in the manufacture of floor coverings such as linoleum; machines for reeling, unreeling, folding, cutting or pinking textile fabrics. |  |  |  |  |
+| **84.51** | **Mesin (selain mesin dari pos 84.50) untuk mencuci, membersihkan, memeras, mengeringkan, menyetrika, mengepres (termasuk pengepres fusi), mengelantang, mencelup, menata, merampungkan, melapisi atau meresapi benang tekstil, kain atau barang tekstil sudah jadi dan mesin untuk memberi pasta pada kain dasar atau kain dasar lainnya yang digunakan dalam pembuatan penutup lantai seperti linoleum; mesin untuk menggulung, melepas gulungan, melipat, memotong atau memotong bergerigi kain tekstil.** | **Machinery (other than machines of heading 84.50) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up textile articles and machines for applying the paste to the base fabric or other support used in the manufacture of floor coverings such as linoleum; machines for reeling, unreeling, folding, cutting or pinking textile fabrics.** |  |  |  |  |
 | 8451.10.00 | - Mesin pembersih kering | - Dry-cleaning machines | 0 | - | 11 | - |
 |  | - Mesin pengering : | - Drying machines : |  |  |  |  |
 | 8451.21.00 | - - Dengan kapasitas linen kering tidak melebihi 10 kg | - - Each of a dry linen capacity not exceeding 10 kg | 10 | - | 11 | - |
@@ -1306,7 +1306,7 @@ lang:
 | 8451.90.10 | - - Dari mesin dengan kapasitas linen kering tidak melebihi 10 kg | - - Of machines of a dry linen capacity not exceeding 10 kg | 0 | - | 11 | - |
 | 8451.90.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.52 | Mesin jahit, selain dari mesin penjahit buku yang dimaksud dari pos 84.40; perabotan, dasar dan tutup dirancang secara khusus untuk mesin jahit; jarum mesin jahit. | Sewing machines, other than book-sewing machines of heading 84.40; furniture, bases and covers specially designed for sewing machines; sewing machine needles. |  |  |  |  |
+| **84.52** | **Mesin jahit, selain dari mesin penjahit buku yang dimaksud dari pos 84.40; perabotan, dasar dan tutup dirancang secara khusus untuk mesin jahit; jarum mesin jahit.** | **Sewing machines, other than book-sewing machines of heading 84.40; furniture, bases and covers specially designed for sewing machines; sewing machine needles.** |  |  |  |  |
 | 8452.10.00 | - Mesin jahit tipe rumah tangga | - Sewing machines of the household type | 10 | - | 11 | - |
 |  | - Mesin jahit lainya : | - Other sewing machines : |  |  |  |  |
 | 8452.21.00 | - - Unit otomatis | - - Automatic units | 0 | - | 11 | - |
@@ -1322,7 +1322,7 @@ lang:
 | 8452.90.92 | - - - Perabotan, dasar dan tutup mesin jahit serta bagiannya | - - - Furniture, bases and covers and parts thereof | 5 | - | 11 | - |
 | 8452.90.99 | - - - Lain-lain | - - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.53 | Mesin untuk mengolah, menyamak atau mengerjakan jangat, kulit atau kulit samak atau untuk membuat atau memperbaiki alas kaki atau barang lain dari jangat, kulit atau kulit samak, selain mesin jahit. | Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather, other than sewing machines. |  |  |  |  |
+| **84.53** | **Mesin untuk mengolah, menyamak atau mengerjakan jangat, kulit atau kulit samak atau untuk membuat atau memperbaiki alas kaki atau barang lain dari jangat, kulit atau kulit samak, selain mesin jahit.** | **Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather, other than sewing machines.** |  |  |  |  |
 | 8453.10 | - Mesin untuk mengolah, menyamak atau mengerjakan jangat, kulit atau kulit samak : | - Machinery for preparing, tanning or working hides, skins or leather : |  |  |  |  |
 | 8453.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 0 | - | 11 | - |
 | 8453.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
@@ -1333,13 +1333,13 @@ lang:
 | 8453.80.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 0 | - | 11 | - |
 | 8453.80.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 | 8453.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
-| 84.54 | Converter, ladle, mesin cetakan ingot dan mesin tuang, dari jenis yang digunakan dalam metalurgi atau dalam pengecoran logam. | Converters, ladles, ingot moulds and casting machines, of a kind used in metallurgy or in metal foundries. |  |  |  |  |
+| **84.54** | **Converter, ladle, mesin cetakan ingot dan mesin tuang, dari jenis yang digunakan dalam metalurgi atau dalam pengecoran logam.** | **Converters, ladles, ingot moulds and casting machines, of a kind used in metallurgy or in metal foundries.** |  |  |  |  |
 | 8454.10.00 | - Converter | - Converters | 5 | - | 11 | - |
 | 8454.20.00 | - Cetakan ingot dan ladle | - Ingot moulds and ladles | 5 | - | 11 | - |
 | 8454.30.00 | - Mesin tuang | - Casting machines | 5 | - | 11 | - |
 | 8454.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.55 | Kilang pencanai logam dan gilingannya. | Metal-rolling mills and rolls therefor. |  |  |  |  |
+| **84.55** | **Kilang pencanai logam dan gilingannya.** | **Metal-rolling mills and rolls therefor.** |  |  |  |  |
 | 8455.10.00 | - Kilang tabung | - Tube mills | 5 | - | 11 | - |
 |  | - Kilang pencanai lainnya : | - Other rolling mills : |  |  |  |  |
 | 8455.21.00 | - - Panas atau kombinasi panas dan dingin | - - Hot or combination hot and cold | 5 | - | 11 | - |
@@ -1347,7 +1347,7 @@ lang:
 | 8455.30.00 | - Gilingan untuk kilang pencanai | - Rolls for rolling mills | 5 | - | 11 | - |
 | 8455.90.00 | - Bagian lainnya | - Other parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.56 | Mesin perkakas untuk mengerjakan berbagai bahan dengan penghilangan bahan, melalui proses penyinaran laser atau sinar lainnya atau sinar foton, ultrasonik, pelucutan elektro, elektro kimia, sinar elektron, sinar ionik atau busur plasma; mesin pemotong water-jet. | Machine-tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes; water-jet cutting machines. |  |  |  |  |
+| **84.56** | **Mesin perkakas untuk mengerjakan berbagai bahan dengan penghilangan bahan, melalui proses penyinaran laser atau sinar lainnya atau sinar foton, ultrasonik, pelucutan elektro, elektro kimia, sinar elektron, sinar ionik atau busur plasma; mesin pemotong water-jet.** | **Machine-tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes; water-jet cutting machines.** |  |  |  |  |
 |  | - Dioperasikan dengan proses sinar laser atau sinar lainnya atau sinar foton : | - Operated by laser or other light or photon beam processes : |  |  |  |  |
 | 8456.11 | - - Dioperasikan dengan laser : | - - Operated by laser : |  |  |  |  |
 | 8456.11.10 | - - - Dari jenis yang digunakan semata-mata atau terutama untuk pembuatan printed circuit, printed circuit assembly, bagian dari pos 85.17, atau bagian dari mesin pengolah data otomatis | - - - Of a kind used solely or principally for the manufacture of printed circuits, printed circuit assemblies, parts of heading 85.17, or parts of automatic data processing machines | 5 | - | 11 | - |
@@ -1366,14 +1366,14 @@ lang:
 | 8456.90.20 | - - Perlengkapan pengolahan basah untuk aplikasi melalui pencelupan larutan elektrokimia, untuk keperluan penghilangan bahan pada lapisan dasar printed circuit board atau printed wiring board | - - Wet processing equipment for the application by immersion of electrochemical solutions, for the purpose of removing material on printed circuit boards or printed wiring boards | 5 | - | 11 | - |
 | 8456.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.57 | Machining center, mesin konstruksi unit (single station) dan mesin transfer multi-station, untuk mengerjakan logam. | Machining centres, unit construction machines (single station) and multi-station transfer machines, for working metal. |  |  |  |  |
+| **84.57** | **Machining center, mesin konstruksi unit (single station) dan mesin transfer multi-station, untuk mengerjakan logam.** | **Machining centres, unit construction machines (single station) and multi-station transfer machines, for working metal.** |  |  |  |  |
 | 8457.10 | - Machining center : | - Machining centres : |  |  |  |  |
 | 8457.10.10 | - - Dari spindle dengan daya tidak melebihi 4 kW | - - Of spindle power not exceeding 4 kW | 10 | - | 11 | - |
 | 8457.10.90 | - - Lain-lain | - - Other | 10 | - | 11 | - |
 | 8457.20.00 | - Mesin konstruksi unit (single-station) | - Unit construction machines (single station) | 5 | - | 11 | - |
 | 8457.30.00 | - Mesin transfer multi-station | - Multi-station transfer machines | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.58 | Mesin bubut (termasuk turning centre) untuk menghilangkan logam. | Lathes (including turning centres) for removing metal. |  |  |  |  |
+| **84.58** | **Mesin bubut (termasuk turning centre) untuk menghilangkan logam.** | **Lathes (including turning centres) for removing metal.** |  |  |  |  |
 |  | - Mesin bubut horizontal : | - Horizontal lathes : |  |  |  |  |
 | 8458.11 | - - Dikontrol secara numerik : | - - Numerically controlled : |  |  |  |  |
 | 8458.11.10 | - - - Dari spindle dengan daya tidak melebihi 4 kW | - - - Of spindle power not exceeding 4 kW | 10 | - | 11 | - |
@@ -1387,7 +1387,7 @@ lang:
 | 8458.99.10 | - - - Dengan jarak antara pusat spindle dan bed tidak melebihi 300 mm | - - - With the distance between the main spindle centre and the bed not exceeding 300 mm | 5 | - | 11 | - |
 | 8458.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.59 | Mesin perkakas (termasuk mesin way-type unit head) untuk mengebor, menggurdi, menggiling, membuat ulir atau alur dengan menghilangkan logam, selain mesin bubut (termasuk turning centre) dari pos 84.58. | Machine-tools (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes (including turning centres) of heading 84.58. |  |  |  |  |
+| **84.59** | **Mesin perkakas (termasuk mesin way-type unit head) untuk mengebor, menggurdi, menggiling, membuat ulir atau alur dengan menghilangkan logam, selain mesin bubut (termasuk turning centre) dari pos 84.58.** | **Machine-tools (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes (including turning centres) of heading 84.58.** |  |  |  |  |
 | 8459.10.00 | - Mesin way-type unit head | - Way-type unit head machines | 5 | - | 11 | - |
 |  | - Mesin penggurdi lainnya : | - Other drilling machines : |  |  |  |  |
 | 8459.21.00 | - - Dikontrol secara numerik | - - Numerically controlled | 5 | - | 11 | - |
@@ -1418,7 +1418,7 @@ lang:
 | 8459.70.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8459.70.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.60 | Mesin perkakas untuk menghaluskan, menajamkan, menggerinda, menggosok, mengasah, memoles atau merampungkan logam atau cermet secara lain dengan memakai batu gerinda, amplas atau produk pemoles, selain mesin pemotong gir, penggerinda gir atau mesin untuk merampungkan gir dari pos 84.61. | Machine-tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, other than gear cutting, gear grinding or gear finishing machines of heading 84.61. |  |  |  |  |
+| **84.60** | **Mesin perkakas untuk menghaluskan, menajamkan, menggerinda, menggosok, mengasah, memoles atau merampungkan logam atau cermet secara lain dengan memakai batu gerinda, amplas atau produk pemoles, selain mesin pemotong gir, penggerinda gir atau mesin untuk merampungkan gir dari pos 84.61.** | **Machine-tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, other than gear cutting, gear grinding or gear finishing machines of heading 84.61.** |  |  |  |  |
 |  | - Mesin penggerinda permukaan datar : | - Flat-surface grinding machines : |  |  |  |  |
 | 8460.12.00 | - - Dikontrol secara numerik | - - Numerically controlled | 5 | - | 11 | - |
 | 8460.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -1441,7 +1441,7 @@ lang:
 | 8460.90.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8460.90.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.61 | Mesin perkakas untuk mengetam, membentuk, menyerut, menggerek, memotong gir, menggerinda gir atau merampungkan gir, menggergaji, memotong dan mesin perkakas lainnya yang bekerja dengan menghilangkan logam atau sermet, tidak dirinci atau termasuk dalam pos lainnya. | Machine-tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine-tools working by removing metal or cermets, not elsewhere specified or included. |  |  |  |  |
+| **84.61** | **Mesin perkakas untuk mengetam, membentuk, menyerut, menggerek, memotong gir, menggerinda gir atau merampungkan gir, menggergaji, memotong dan mesin perkakas lainnya yang bekerja dengan menghilangkan logam atau sermet, tidak dirinci atau termasuk dalam pos lainnya.** | **Machine-tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine-tools working by removing metal or cermets, not elsewhere specified or included.** |  |  |  |  |
 | 8461.20.00 | - Mesin pembentuk atau penyerut | - Shaping or slotting machines | 5 | - | 11 | - |
 | 8461.30.00 | - Mesin penggerek | - Broaching machines | 5 | - | 11 | - |
 | 8461.40.00 | - Mesin pemotong gir, penggerinda gir atau perampung gir | - Gear cutting, gear grinding or gear finishing machines | 5 | - | 11 | - |
@@ -1450,7 +1450,7 @@ lang:
 | 8461.90.20 | - - Mesin pengetam | - - Planing machines | 5 | - | 11 | - |
 | 8461.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.62 | Mesin perkakas (termasuk pengepres) untuk mengerjakan logam dengan menempa, memalu atau menempa dengan cetakan (tidak termasuk rolling mill); mesin perkakas (termasuk pengepres, slitting line dan cut-to-length line) untuk mengerjakan logam dengan membengkokkan, melipat, meluruskan, memipihkan, menggunting, melubangi, menakik atau menggigit (tidak termasuk bangku tarik); pengepres untuk mengerjakan logam atau karbida logam, tidak dirinci di atas. | Machine-tools (including presses) for working metal by forging, hammering or die forging (excluding rolling mills); machine-tools (including presses, slitting lines and cut-to-length lines) for working metal by bending, folding, straightening, flattening, shearing, punching, notching or nibbling (excluding draw-benches); presses for working metal or metal carbides, not specified above. |  |  |  |  |
+| **84.62** | **Mesin perkakas (termasuk pengepres) untuk mengerjakan logam dengan menempa, memalu atau menempa dengan cetakan (tidak termasuk rolling mill); mesin perkakas (termasuk pengepres, slitting line dan cut-to-length line) untuk mengerjakan logam dengan membengkokkan, melipat, meluruskan, memipihkan, menggunting, melubangi, menakik atau menggigit (tidak termasuk bangku tarik); pengepres untuk mengerjakan logam atau karbida logam, tidak dirinci di atas.** | **Machine-tools (including presses) for working metal by forging, hammering or die forging (excluding rolling mills); machine-tools (including presses, slitting lines and cut-to-length lines) for working metal by bending, folding, straightening, flattening, shearing, punching, notching or nibbling (excluding draw-benches); presses for working metal or metal carbides, not specified above.** |  |  |  |  |
 |  | - Mesin pembentukan panas untuk menempa, menempa dengan cetakan (termasuk pengepres) dan mesin untuk memalu panas : | - Hot forming machines for forging, die forging (including presses) and hot hammers : |  |  |  |  |
 | 8462.11.00 | - - Mesin penempa dengan cetakan tertutup | - - Closed die forging machines | 5 | - | 11 | - |
 | 8462.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -1500,7 +1500,7 @@ lang:
 | 8462.90.10 | - - Mesin penempa atau pengecap dengan cetakan | - - Die forging or die stamping machines | 5 | - | 11 | - |
 | 8462.90.90 | - - Lain-lain | - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.63 | Mesin perkakas lainnya untuk mengerjakan logam atau sermet, tanpa menghilangkan bahannya. | Other machine-tools for working metal or cermets, without removing material. |  |  |  |  |
+| **84.63** | **Mesin perkakas lainnya untuk mengerjakan logam atau sermet, tanpa menghilangkan bahannya.** | **Other machine-tools for working metal or cermets, without removing material.** |  |  |  |  |
 | 8463.10 | - Draw-bench untuk batang, tabung, profil, kawat atau sejenisnya : | - Draw-benches for bars, tubes, profiles, wire or the like : |  |  |  |  |
 | 8463.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8463.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
@@ -1514,7 +1514,7 @@ lang:
 | 8463.90.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8463.90.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.64 | Mesin perkakas untuk mengerjakan batu, keramik, beton, asbes semen atau bahan mineral sejenisnya atau untuk mengerjakan kaca secara dingin. | Machine-tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold-working glass. |  |  |  |  |
+| **84.64** | **Mesin perkakas untuk mengerjakan batu, keramik, beton, asbes semen atau bahan mineral sejenisnya atau untuk mengerjakan kaca secara dingin.** | **Machine-tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold-working glass.** |  |  |  |  |
 | 8464.10 | - Mesin gergaji : | - Sawing machines : |  |  |  |  |
 | 8464.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8464.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
@@ -1525,7 +1525,7 @@ lang:
 | 8464.90.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8464.90.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.65 | Mesin perkakas (termasuk mesin untuk memaku, mengokot, merekati atau merakit secara lain) untuk mengerjakan kayu, gabus, tulang, karet keras, plastik keras atau bahan keras semacam itu. | Machine-tools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar hard materials. |  |  |  |  |
+| **84.65** | **Mesin perkakas (termasuk mesin untuk memaku, mengokot, merekati atau merakit secara lain) untuk mengerjakan kayu, gabus, tulang, karet keras, plastik keras atau bahan keras semacam itu.** | **Machine-tools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar hard materials.** |  |  |  |  |
 | 8465.10.00 | - Mesin yang dapat melakukan berbagai jenis pekerjaan yang berbeda tanpa menukar alat diantara beberapa pengerjaan | - Machines which can carry out different types of machining operations without tool change between such operations | 5 | - | 11 | - |
 | 8465.20.00 | - Machining center | - Machining centres | 5 | - | 11 | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |
@@ -1549,7 +1549,7 @@ lang:
 | 8465.99.60 | - - - Lain-lain, dioperasikan secara elektrik | - - - Other, electrically operated | 5 | - | 11 | - |
 | 8465.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.66 | Bagian dan aksesori yang cocok untuk digunakan semata-mata atau terutama dengan mesin dari pos 84.56 sampai dengan 84.65, termasuk pemegang barang yang dikerjakan atau pemegang perkakas, self-opening die head, dividing head dan kelengkapan khusus lain untuk mesin perkakas; pemegang perkakas untuk semua tipe perkakas tangan. | Parts and accessories suitable for use solely or principally with the machines of headings 84.56 to 84.65, including work or tool holders, self-opening dieheads, dividing heads and other special attachments for the machines; tool holders for any type of tool for working in the hand. |  |  |  |  |
+| **84.66** | **Bagian dan aksesori yang cocok untuk digunakan semata-mata atau terutama dengan mesin dari pos 84.56 sampai dengan 84.65, termasuk pemegang barang yang dikerjakan atau pemegang perkakas, self-opening die head, dividing head dan kelengkapan khusus lain untuk mesin perkakas; pemegang perkakas untuk semua tipe perkakas tangan.** | **Parts and accessories suitable for use solely or principally with the machines of headings 84.56 to 84.65, including work or tool holders, self-opening dieheads, dividing heads and other special attachments for the machines; tool holders for any type of tool for working in the hand.** |  |  |  |  |
 | 8466.10 | - Alat pemegang perkakas dan self-opening diehead : | - Tool holders and self-opening dieheads : |  |  |  |  |
 | 8466.10.10 | - - Untuk mesin dari subpos 8456.40.10, 8456.90.20, 8460.31.10, 8465.91.10, 8465.92.10, 8465.95.10 atau 8465.99.50 | - - For the machines of subheading 8456.40.10, 8456.90.20, 8460.31.10, 8465.91.10, 8465.92.10, 8465.95.10 or 8465.99.50 | 5 | - | 11 | - |
 | 8466.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -1566,7 +1566,7 @@ lang:
 | 8466.93.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 8466.94.00 | - - Untuk mesin dari pos 84.62 atau 84.63 | - - For machines of heading 84.62 or 84.63 | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.67 | Perkakas tangan, digerakkan secara pneumatik, hidraulik atau dengan motor listrik atau bukan listrik terpasang. | Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor. |  |  |  |  |
+| **84.67** | **Perkakas tangan, digerakkan secara pneumatik, hidraulik atau dengan motor listrik atau bukan listrik terpasang.** | **Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor.** |  |  |  |  |
 |  | - Pneumatik : | - Pneumatic : |  |  |  |  |
 | 8467.11.00 | - - Tipe berputar (termasuk kombinasi perkusi yang dapat berputar) | - - Rotary type (including combined rotary-percussion) | 5 | - | 11 | - |
 | 8467.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -1586,7 +1586,7 @@ lang:
 | 8467.99.10 | - - - Dari barang pada subpos 8467.21.00, 8467.22.00 atau 8467.29.00 | - - - Of goods of subheading 8467.21.00, 8467.22.00 or 8467.29.00 | 5 | - | 11 | - |
 | 8467.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.68 | Mesin dan aparatus untuk menyolder, mematri, mengelas, dapat memotong maupun tidak, selain yang dimaksud dari pos 85.15; mesin dan peralatan untuk mengeraskan permukaan yang digerakkan dengan gas. | Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting, other than those of heading 85.15; gas-operated surface tempering machines and appliances. |  |  |  |  |
+| **84.68** | **Mesin dan aparatus untuk menyolder, mematri, mengelas, dapat memotong maupun tidak, selain yang dimaksud dari pos 85.15; mesin dan peralatan untuk mengeraskan permukaan yang digerakkan dengan gas.** | **Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting, other than those of heading 85.15; gas-operated surface tempering machines and appliances.** |  |  |  |  |
 | 8468.10.00 | - Pipa tiup yang dipegang dengan tangan | - Hand-held blow pipes | 5 | - | 11 | - |
 | 8468.20 | - Mesin dan aparatus lainnya yang digerakkan dengan gas : | - Other gas-operated machinery and apparatus : |  |  |  |  |
 | 8468.20.10 | - - Peralatan mengelas atau mematri dengan gas untuk logam, yang dioperasikan dengan tangan (bukan dipegang dengan tangan) | - - Hand-operated (not hand-held) gas welding or brazing appliances for metal | 5 | - | 11 | - |
@@ -1596,7 +1596,7 @@ lang:
 | 8468.90.20 | - - Dari barang pada subpos 8468.20.10 | - - Of goods of subheading 8468.20.10 | 5 | - | 11 | - |
 | 8468.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.70 | Mesin hitung dan mesin perekam, pereproduksi dan penayang data ukuran saku dengan fungsi menghitung; mesin akunting, mesin cap pengganti perangko, mesin penerbit karcis dan mesin semacam itu, yang dilengkapi dengan alat hitung; register kas. | Calculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers. |  |  |  |  |
+| **84.70** | **Mesin hitung dan mesin perekam, pereproduksi dan penayang data ukuran saku dengan fungsi menghitung; mesin akunting, mesin cap pengganti perangko, mesin penerbit karcis dan mesin semacam itu, yang dilengkapi dengan alat hitung; register kas.** | **Calculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers.** |  |  |  |  |
 | 8470.10.00 | - Mesin hitung elektronik yang dapat dioperasikan tanpa sumber tenaga listrik dari luar dan mesin perekam, pereproduksi dan penayang data ukuran saku dengan fungsi menghitung | - Electronic calculators capable of operation without an external source of electric power and pocket-size data recording, reproducing and displaying machines with calculating functions | 0 | - | 11 | - |
 |  | - Mesin hitung elektronik lainnya : | - Other electronic calculating machines : |  |  |  |  |
 | 8470.21.00 | - - Dilengkapi dengan alat pencetak | - - Incorporating a printing device | 0 | - | 11 | - |
@@ -1607,7 +1607,7 @@ lang:
 | 8470.90.10 | - - Mesin cap pengganti perangko | - - Postage-franking machines | 0 | - | 11 | - |
 | 8470.90.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.71 | Mesin pengolah data otomatis dan unitnya; pembaca magnetik atau optik, mesin untuk menyalin data pada media data dalam bentuk kode dan mesin untuk mengolah data tersebut, tidak dirinci atau termasuk dalam pos lainnya. | Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included. |  |  |  |  |
+| **84.71** | **Mesin pengolah data otomatis dan unitnya; pembaca magnetik atau optik, mesin untuk menyalin data pada media data dalam bentuk kode dan mesin untuk mengolah data tersebut, tidak dirinci atau termasuk dalam pos lainnya.** | **Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included.** |  |  |  |  |
 | 8471.30 | - Mesin pengolah data otomatis digital portabel, dengan berat tidak lebih dari 10 kg, terdiri dari paling tidak satu unit pengolah pusat, keyboard dan display : | - Portable automatic data processing machines, weighing not more than 10 kg, consisting of at least a central processing unit, a keyboard and a display : |  |  |  |  |
 | 8471.30.20 | - - Laptop termasuk notebook dan subnotebook | - - Laptops including notebooks and subnotebooks | 0 | - | 11 | - |
 | 8471.30.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -1640,7 +1640,7 @@ lang:
 | 8471.90.40 | - - Pembaca karakter optik lainnya | - - Other optical character readers | 0 | - | 11 | - |
 | 8471.90.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.72 | Mesin kantor lainnya (misalnya, hektograf atau mesin duplikasi stensil, mesin pencetak alamat, mesin penyedia uang kertas otomatis, mesin penyortir koin, mesin penghitung atau pembungkus koin, mesin peruncing pensil, mesin pembuat lubang atau mesin kokot). | Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or wrapping machines, pencil-sharpening machines, perforating or stapling machines). |  |  |  |  |
+| **84.72** | **Mesin kantor lainnya (misalnya, hektograf atau mesin duplikasi stensil, mesin pencetak alamat, mesin penyedia uang kertas otomatis, mesin penyortir koin, mesin penghitung atau pembungkus koin, mesin peruncing pensil, mesin pembuat lubang atau mesin kokot).** | **Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or wrapping machines, pencil-sharpening machines, perforating or stapling machines).** |  |  |  |  |
 | 8472.10.00 | - Mesin duplikasi | - Duplicating machines | 10 | - | 11 | - |
 | 8472.30.00 | - Mesin untuk menyortir atau melipat surat atau untuk memasukkan surat ke dalam amplop atau band, mesin untuk membuka, menutup, menyegel surat dan mesin untuk melekatkan atau membatalkan perangko pos | - Machines for sorting or folding mail or for inserting mail in envelopes or bands, machines for opening, closing or sealing mail and machines for affixing or cancelling postage stamps | 5 | - | 11 | - |
 | 8472.90 | - Lain-lain : | - Other : |  |  |  |  |
@@ -1652,7 +1652,7 @@ lang:
 | 8472.90.60 | - - Lain-lain, dioperasikan secara elektrik | - - Other, electrically operated | 5 | - | 11 | - |
 | 8472.90.90 | - - Lain-lain, tidak dioperasikan secara elektrik | - - Other, not electrically operated | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.73 | Bagian dan aksesori (selain penutup, kotak pembawa dan sejenisnya) cocok untuk digunakan semata-mata atau terutama dengan mesin dari pos 84.70 sampai dengan 84.72. | Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 84.70 to 84.72. |  |  |  |  |
+| **84.73** | **Bagian dan aksesori (selain penutup, kotak pembawa dan sejenisnya) cocok untuk digunakan semata-mata atau terutama dengan mesin dari pos 84.70 sampai dengan 84.72.** | **Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 84.70 to 84.72.** |  |  |  |  |
 |  | - Bagian dan aksesori mesin dari pos 84.70 : | - Parts and accessories of the machines of heading 84.70 : |  |  |  |  |
 | 8473.21.00 | - - Dari mesin hitung elektronik pada subpos 8470.10.00, 8470.21.00 atau 8470.29.00 | - - Of the electronic calculating machines of subheading 8470.10.00, 8470.21.00 or 8470.29.00 | 0 | - | 11 | - |
 | 8473.29.00 | - - Lain-lain | - - Other | 0 | - | 11 | - |
@@ -1664,7 +1664,7 @@ lang:
 | 8473.50.10 | - - Cocok untuk digunakan dengan mesin dari pos 84.71 | - - Suitable for use with the machines of heading 84.71 | 0 | - | 11 | - |
 | 8473.50.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.74 | Mesin untuk menyortir, mengayak, memisahkan, mencuci, menghancurkan, menggerinda, mencampur atau mengaduk tanah, batu, bijih atau bahan mineral lainnya, dalam bentuk padat (termasuk bubuk atau pasta); mesin untuk aglomerasi, membentuk atau mencetak bahan bakar mineral padat, pasta keramik, semen yang tidak dikeraskan, bahan plesteran atau produk mineral lainnya dalam bentuk bubuk atau pasta; mesin untuk membentuk cetakan dari pasir. | Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form; machinery for agglomerating, shaping or moulding solid mineral fuels, ceramic paste, unhardened cements, plastering materials or other mineral products in powder or paste form; machines for forming foundry moulds of sand. |  |  |  |  |
+| **84.74** | **Mesin untuk menyortir, mengayak, memisahkan, mencuci, menghancurkan, menggerinda, mencampur atau mengaduk tanah, batu, bijih atau bahan mineral lainnya, dalam bentuk padat (termasuk bubuk atau pasta); mesin untuk aglomerasi, membentuk atau mencetak bahan bakar mineral padat, pasta keramik, semen yang tidak dikeraskan, bahan plesteran atau produk mineral lainnya dalam bentuk bubuk atau pasta; mesin untuk membentuk cetakan dari pasir.** | **Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form; machinery for agglomerating, shaping or moulding solid mineral fuels, ceramic paste, unhardened cements, plastering materials or other mineral products in powder or paste form; machines for forming foundry moulds of sand.** |  |  |  |  |
 | 8474.10 | - Mesin penyortir, pengayak, pemisah atau pencuci : | - Sorting, screening, separating or washing machines : |  |  |  |  |
 | 8474.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8474.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
@@ -1694,7 +1694,7 @@ lang:
 | 8474.80.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 | 8474.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.75 | Mesin untuk merakit lampu listrik atau elektronik, tabung atau katup atau bola lampu kilat, dalam glass envelope; mesin untuk membuat atau mengerjakan kaca atau barang dari kaca secara panas. | Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware. |  |  |  |  |
+| **84.75** | **Mesin untuk merakit lampu listrik atau elektronik, tabung atau katup atau bola lampu kilat, dalam glass envelope; mesin untuk membuat atau mengerjakan kaca atau barang dari kaca secara panas.** | **Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware.** |  |  |  |  |
 | 8475.10.00 | - Mesin untuk merakit lampu listrik atau elektronik, tabung atau katup atau bola lampu kilat, dalam glass envelopes | - Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes | 5 | - | 11 | - |
 |  | - Mesin untuk membuat atau mengerjakan kaca atau barang dari kaca secara panas : | - Machines for manufacturing or hot working glass or glassware : |  |  |  |  |
 | 8475.21.00 | - - Mesin untuk membuat serat optik dan bentuk awalnya | - - Machines for making optical fibres and preforms thereof | 5 | - | 11 | - |
@@ -1703,7 +1703,7 @@ lang:
 | 8475.90.30 | - - Dari mesin pada subpos 8475.21.00 | - - Of machines of subheading 8475.21.00 | 5 | - | 11 | - |
 | 8475.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.76 | Mesin penjual barang otomatis (misalnya, mesin perangko, rokok, makanan atau minuman), termasuk mesin penukar uang. | Automatic goods-vending machines (for example, postage stamp, cigarette, food or beverage machines), including money-changing machines. |  |  |  |  |
+| **84.76** | **Mesin penjual barang otomatis (misalnya, mesin perangko, rokok, makanan atau minuman), termasuk mesin penukar uang.** | **Automatic goods-vending machines (for example, postage stamp, cigarette, food or beverage machines), including money-changing machines.** |  |  |  |  |
 |  | - Mesin penjual minuman otomatis : | - Automatic beverage-vending machines : |  |  |  |  |
 | 8476.21.00 | - - Dilengkapi peralatan pemanas atau pendingin | - - Incorporating heating or refrigerating devices | 10 | - | 11 | - |
 | 8476.29.00 | - - Lain-lain | - - Other | 10 | - | 11 | - |
@@ -1716,7 +1716,7 @@ lang:
 | 8476.90.10 | - - Dari mesin penukar uang | - - Of money-changing machines | 5 | - | 11 | - |
 | 8476.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.77 | Mesin untuk mengerjakan karet atau plastik atau untuk pembuatan produk dari bahan tersebut, tidak dirinci atau termasuk dalam pos lainnya dalam Bab ini. | Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this Chapter. |  |  |  |  |
+| **84.77** | **Mesin untuk mengerjakan karet atau plastik atau untuk pembuatan produk dari bahan tersebut, tidak dirinci atau termasuk dalam pos lainnya dalam Bab ini.** | **Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this Chapter.** |  |  |  |  |
 | 8477.10 | - Mesin cetak injeksi : | - Injection-moulding machines : |  |  |  |  |
 | 8477.10.10 | - - Untuk mencetak karet | - - For moulding rubber | 0 | - | 11 | - |
 |  | - - Untuk mencetak plastik : | - - For moulding plastics : |  |  |  |  |
@@ -1749,13 +1749,13 @@ lang:
 | 8477.90.39 | - - - Lain-lain | - - - Other | 0 | - | 11 | - |
 | 8477.90.40 | - - Dari mesin yang tidak dioperasikan secara elektrik untuk mengerjakan plastik atau untuk pembuatan produk dari bahan plastik | - - Of non-electrically operated machines for working plastics or for the manufacture of products from plastic materials | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.78 | Mesin untuk mengolah atau membuat tembakau menjadi barang jadi, tidak dirinci atau termasuk dalam pos lainnya dalam Bab ini. | Machinery for preparing or making up tobacco, not specified or included elsewhere in this Chapter. |  |  |  |  |
+| **84.78** | **Mesin untuk mengolah atau membuat tembakau menjadi barang jadi, tidak dirinci atau termasuk dalam pos lainnya dalam Bab ini.** | **Machinery for preparing or making up tobacco, not specified or included elsewhere in this Chapter.** |  |  |  |  |
 | 8478.10 | - Mesin : | - Machinery : |  |  |  |  |
 | 8478.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8478.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
 | 8478.90.00 | - Bagian | - Parts | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.79 | Mesin dan peralatan mekanis, mempunyai fungsi tersendiri, tidak dirinci atau termasuk dalam pos lainnya dalam Bab ini. | Machines and mechanical appliances having individual functions, not specified or included elsewhere in this Chapter. |  |  |  |  |
+| **84.79** | **Mesin dan peralatan mekanis, mempunyai fungsi tersendiri, tidak dirinci atau termasuk dalam pos lainnya dalam Bab ini.** | **Machines and mechanical appliances having individual functions, not specified or included elsewhere in this Chapter.** |  |  |  |  |
 | 8479.10 | - Mesin untuk pekerjaan umum, bangunan atau sejenisnya : | - Machinery for public works, building or the like : |  |  |  |  |
 | 8479.10.10 | - - Dioperasikan secara elektrik | - - Electrically operated | 5 | - | 11 | - |
 | 8479.10.20 | - - Tidak dioperasikan secara elektrik | - - Not electrically operated | 5 | - | 11 | - |
@@ -1791,7 +1791,7 @@ lang:
 | 8479.90.50 | - - Dari barang pada subpos 8479.89.50 | - - Of goods of subheading 8479.89.50 | 5 | - | 11 | - |
 | 8479.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.80 | Kotak cetakan untuk pengecoran logam; dasar cetakan; pola cetakan; cetakan untuk logam (selain cetakan ingot), karbida logam, kaca, bahan mineral, karet atau plastik. | Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics. |  |  |  |  |
+| **84.80** | **Kotak cetakan untuk pengecoran logam; dasar cetakan; pola cetakan; cetakan untuk logam (selain cetakan ingot), karbida logam, kaca, bahan mineral, karet atau plastik.** | **Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics.** |  |  |  |  |
 | 8480.10.00 | - Kotak cetakan untuk pengecoran logam | - Moulding boxes for metal foundry | 5 | - | 11 | - |
 | 8480.20.00 | - Dasar cetakan | - Mould bases | 5 | - | 11 | - |
 | 8480.30 | - Pola cetakan : | - Moulding patterns : |  |  |  |  |
@@ -1810,7 +1810,7 @@ lang:
 | 8480.79.10 | - - - Cetakan untuk sol alas kaki | - - - Moulds for footwear soles | 5 | - | 11 | - |
 | 8480.79.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.81 | Keran, klep, katup dan peralatan semacam itu untuk pipa, dinding ketel uap, tangki, tong atau sejenisnya, termasuk katup pengurang tekanan dan katup yang dikendalikan secara termostatik. | Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves. |  |  |  |  |
+| **84.81** | **Keran, klep, katup dan peralatan semacam itu untuk pipa, dinding ketel uap, tangki, tong atau sejenisnya, termasuk katup pengurang tekanan dan katup yang dikendalikan secara termostatik.** | **Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves.** |  |  |  |  |
 | 8481.10 | - Katup pengurang tekanan : | - Pressure-reducing valves : |  |  |  |  |
 |  | - - Dari besi atau baja : | - - Of iron or steel : |  |  |  |  |
 | 8481.10.11 | - - - Katup pintu air atau katup pintu dioperasikan secara manual dengan diameter bagian dalam pemasukan atau pengeluaran melebihi 5 cm tetapi tidak melebihi 40 cm | - - - Manually operated sluice or gate valves with inlet or outlet of an internal diameter exceeding 5 cm but not exceeding 40 cm | 5 | - | 11 | - |
@@ -1904,7 +1904,7 @@ lang:
 | 8481.90.49 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 | 8481.90.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.82 | Bantalan peluru atau bantalan gulung. | Ball or roller bearings. |  |  |  |  |
+| **84.82** | **Bantalan peluru atau bantalan gulung.** | **Ball or roller bearings.** |  |  |  |  |
 | 8482.10.00 | - Bantalan peluru | - Ball bearings | 5 | - | 11 | - |
 | 8482.20.00 | - Bantalan gulung tapered, termasuk cone dan rakitan gulungan tapered | - Tapered roller bearings, including cone and tapered roller assemblies | 5 | - | 11 | - |
 | 8482.30.00 | - Bantalan gulung bundar | - Spherical roller bearings | 5 | - | 11 | - |
@@ -1915,7 +1915,7 @@ lang:
 | 8482.91.00 | - - Peluru, jarum dan gulung | - - Balls, needles and rollers | 0 | - | 11 | - |
 | 8482.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.83 | Poros transmisi (termasuk poros berputar dan poros engkol) dan engkol; rumah bantalan dan bantalan poros polos; gir dan gearing; ball screw atau roller screw; gear box dan pengubah kecepatan lainnya, termasuk torak konverter; roda gaya dan puli, termasuk blok puli; kopling dan poros penyambung (termasuk sambungan universal). | Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints). |  |  |  |  |
+| **84.83** | **Poros transmisi (termasuk poros berputar dan poros engkol) dan engkol; rumah bantalan dan bantalan poros polos; gir dan gearing; ball screw atau roller screw; gear box dan pengubah kecepatan lainnya, termasuk torak konverter; roda gaya dan puli, termasuk blok puli; kopling dan poros penyambung (termasuk sambungan universal).** | **Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints).** |  |  |  |  |
 | 8483.10 | - Poros transmisi (termasuk poros berputar dan poros engkol) dan engkol : | - Transmission shafts (including cam shafts and crank shafts) and cranks : |  |  |  |  |
 | 8483.10.10 | - - Untuk mesin dari pos 84.29 atau 84.30 | - - For machinery of heading 84.29 or 84.30 | 5 | - | 11 | - |
 |  | - - Poros berputar dan poros engkol untuk mesin kendaraan dari Bab 87 : | - - Cam shafts and crank shafts for engines of vehicles of Chapter 87 : |  |  |  |  |
@@ -1956,12 +1956,12 @@ lang:
 | 8483.90.95 | - - - Untuk barang lainnya dari Bab 87 | - - - For other goods of Chapter 87 | 0 | - | 11 | - |
 | 8483.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.84 | Gasket dan sambungan semacam itu dari lembaran logam yang dikombinasi dengan bahan lain atau dari dua atau lebih lapisan logam; set atau aneka gasket dan sambungan semacam itu, tidak sama komposisinya, disiapkan dalam kantong, amplop atau kemasan semacam itu; sil mekanis. | Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals. |  |  |  |  |
+| **84.84** | **Gasket dan sambungan semacam itu dari lembaran logam yang dikombinasi dengan bahan lain atau dari dua atau lebih lapisan logam; set atau aneka gasket dan sambungan semacam itu, tidak sama komposisinya, disiapkan dalam kantong, amplop atau kemasan semacam itu; sil mekanis.** | **Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals.** |  |  |  |  |
 | 8484.10.00 | - Gasket dan sambungan semacam itu dari lembaran logam yang dikombinasi dengan bahan lainnya atau dari dua atau lebih lapisan logam | - Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal | 5 | - | 11 | - |
 | 8484.20.00 | - Sil mekanis | - Mechanical seals | 5 | - | 11 | - |
 | 8484.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.85 | Mesin untuk additive manufacturing. | Machines for additive manufacturing. |  |  |  |  |
+| **84.85** | **Mesin untuk additive manufacturing.** | **Machines for additive manufacturing.** |  |  |  |  |
 | 8485.10.00 | - Dengan deposit logam | - By metal deposit | 5 | - | 11 | - |
 | 8485.20.00 | - Dengan deposit plastik atau karet | - By plastics or rubber deposit | 0 | - | 11 | - |
 | 8485.30 | - Dengan deposit plester, semen, keramik, atau kaca : | - By plaster, cement, ceramics or glass deposit : |  |  |  |  |
@@ -1972,7 +1972,7 @@ lang:
 | 8485.90.10 | - - Dari subpos 8485.20.00 | - - Of subheading 8485.20.00 | 0 | - | 11 | - |
 | 8485.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.86 | Mesin dan aparatus dari jenis yang semata-mata atau terutama untuk pembuatan boule atau wafer semikonduktor, peralatan semikonduktor, sirkuit elektronik terpadu atau panel layar datar; mesin dan aparatus yang dirinci pada Catatan 11 (C) Bab ini; bagian dan aksesori. | Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus specified in Note 11 (C) to this Chapter; parts and accessories. |  |  |  |  |
+| **84.86** | **Mesin dan aparatus dari jenis yang semata-mata atau terutama untuk pembuatan boule atau wafer semikonduktor, peralatan semikonduktor, sirkuit elektronik terpadu atau panel layar datar; mesin dan aparatus yang dirinci pada Catatan 11 (C) Bab ini; bagian dan aksesori.** | **Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus specified in Note 11 (C) to this Chapter; parts and accessories.** |  |  |  |  |
 | 8486.10 | - Mesin dan aparatus untuk pembuatan boule atau wafer : | - Machines and apparatus for the manufacture of boules or wafers : |  |  |  |  |
 | 8486.10.10 | - - Aparatus untuk pemanasan cepat wafer semikonduktor | - - Apparatus for rapid heating of semiconductor wafers | 5 | - | 11 | - |
 | 8486.10.20 | - - Pengering putar untuk proses wafer semikonduktor | - - Spin dryers for semiconductor wafer processing | 5 | - | 11 | - |
@@ -2064,6 +2064,6 @@ lang:
 | 8486.90.46 | - - - Dari aparatus penghasil pola dari jenis yang digunakan untuk memproduksi mask atau reticle dari substrat dilapisi photoresist, termasuk printed circuit assembly | - - - Of pattern generating apparatus of a kind used for producing masks or reticles from photoresist coated substrates, including printed circuit assemblies | 0 | - | 11 | - |
 | 8486.90.49 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 84.87 | Bagian mesin, tidak mengandung konektor elektrik, isolator, koil, kontak atau bagian elektrik lainnya, tidak dirinci atau termasuk pada pos lainnya dalam Bab ini. | Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this Chapter. |  |  |  |  |
+| **84.87** | **Bagian mesin, tidak mengandung konektor elektrik, isolator, koil, kontak atau bagian elektrik lainnya, tidak dirinci atau termasuk pada pos lainnya dalam Bab ini.** | **Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this Chapter.** |  |  |  |  |
 | 8487.10.00 | - Propeler dan bilahnya untuk kapal atau perahu | - Ships’ or boats’ propellers and blades therefor | 5 | - | 11 | - |
 | 8487.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |

@@ -31,7 +31,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 44.01 | Kayu bakar, berbentuk log, billet, ranting, ikatan cabang atau bentuk semacam itu; kayu dalam bentuk keping atau pecahan kayu; serbuk gergaji dan sisa serta skrap kayu, diaglomerasi berbentuk log, briket, pelet atau bentuk semacam itu maupun tidak diaglomerasi | Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms. |  |  |  |  |
+| **44.01** | **Kayu bakar, berbentuk log, billet, ranting, ikatan cabang atau bentuk semacam itu; kayu dalam bentuk keping atau pecahan kayu; serbuk gergaji dan sisa serta skrap kayu, diaglomerasi berbentuk log, briket, pelet atau bentuk semacam itu maupun tidak diaglomerasi** | **Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms.** |  |  |  |  |
 |  | - Kayu bakar, berbentuk log, billet, ranting, ikatan atau cabang atau dalam bentuk semacam itu : | - Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms : |  |  |  |  |
 | 4401.11.00 | - - Pohon jenis konifera | - - Coniferous | 0 | - | 11 | - |
 | 4401.12.00 | - - Pohon selain jenis konifera | - - Non-coniferous | 0 | - | 11 | - |
@@ -46,14 +46,14 @@ lang:
 | 4401.41.00 | - - Serbuk gergaji | - - Sawdust | 0 | - | 11 | - |
 | 4401.49.00 | - - Lain-lain | - - Other | 0 | *) | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.02 | Arang kayu (termasuk arang dari tempurung atau arang dari buah bertempurung), diaglomerasi maupun tidak. | Wood charcoal (including shell or nut charcoal), whether or not agglomerated. |  |  |  |  |
+| **44.02** | **Arang kayu (termasuk arang dari tempurung atau arang dari buah bertempurung), diaglomerasi maupun tidak.** | **Wood charcoal (including shell or nut charcoal), whether or not agglomerated.** |  |  |  |  |
 | 4402.10.00 | - Dari bambu | - Of bamboo | 0 | - | 11 | - |
 | 4402.20 | - Dari tempurung atau buah bertempurung : | - Of shell or nut : |  |  |  |  |
 | 4402.20.10 | - - Dari tempurung kelapa | - - Of coconut shell | 0 | - | 11 | - |
 | 4402.20.90 | - - Lain-lain | - - Other | 0 | - | 11 | - |
 | 4402.90.00 | - Lain-lain | - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.03 | Kayu kasar, dihilangkan kulit atau kayu gubalnya maupun tidak, atau dibentuk bujur sangkar secara kasar. | Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared. |  |  |  |  |
+| **44.03** | **Kayu kasar, dihilangkan kulit atau kayu gubalnya maupun tidak, atau dibentuk bujur sangkar secara kasar.** | **Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared.** |  |  |  |  |
 |  | - Diawetkan dengan cat, zat warna, kreosot atau bahan pengawet lainnya : | - Treated with paint, stains, creosote or other preservatives : |  |  |  |  |
 | 4403.11 | - - Pohon jenis konifera : | - - Coniferous : |  |  |  |  |
 | 4403.11.10 | - - - Baulk, sawlog dan veneer log | - - - Baulks, sawlogs and veneer logs | 0 | - | 11 | - |
@@ -116,17 +116,17 @@ lang:
 | 4403.99.10 | - - - Baulk, sawlog dan veneer log | - - - Baulks, sawlogs and veneer logs | 0 | - | 11 | - |
 | 4403.99.90 | - - - Lain-lain | - - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.04 | Kayu simpai; galah belahan; piles, tiang pancang dan tonggak dari kayu, runcing tetapi tidak digergaji memanjang; tongkat kayu, dipotong secara kasar tetapi tidak dibubut, dibengkokkan atau dikerjakan secara lain, cocok untuk pembuatan tongkat jalan, payung, gagang perkakas atau sejenisnya; kepingan kayu dan sejenisnya. | Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking-sticks, umbrellas, tool handles or the like; chipwood and the like. |  |  |  |  |
+| **44.04** | **Kayu simpai; galah belahan; piles, tiang pancang dan tonggak dari kayu, runcing tetapi tidak digergaji memanjang; tongkat kayu, dipotong secara kasar tetapi tidak dibubut, dibengkokkan atau dikerjakan secara lain, cocok untuk pembuatan tongkat jalan, payung, gagang perkakas atau sejenisnya; kepingan kayu dan sejenisnya.** | **Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking-sticks, umbrellas, tool handles or the like; chipwood and the like.** |  |  |  |  |
 | 4404.10.00 | - Pohon jenis konifera | - Coniferous | 0 | *) | 11 | - |
 | 4404.20 | - Pohon selain jenis konifera : | - Non-coniferous : |  |  |  |  |
 | 4404.20.10 | - - Kepingan kayu | - - Chipwood | 0 | *) | 11 | - |
 | 4404.20.90 | - - Lain-lain | - - Other | 0 | *) | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.05 | Wol kayu; tepung kayu. | Wood wool; wood flour. |  |  |  |  |
+| **44.05** | **Wol kayu; tepung kayu.** | **Wood wool; wood flour.** |  |  |  |  |
 | 4405.00.10 | - Wol kayu | - Wood wool | 5 | - | 11 | - |
 | 4405.00.20 | - Tepung kayu | - Wood flour | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.06 | Bantalan (cross-tie) rel kereta api atau trem dari kayu. | Railway or tramway sleepers (cross-ties) of wood. |  |  |  |  |
+| **44.06** | **Bantalan (cross-tie) rel kereta api atau trem dari kayu.** | **Railway or tramway sleepers (cross-ties) of wood.** |  |  |  |  |
 |  | - Tidak diresapi : | - Not impregnated : |  |  |  |  |
 | 4406.11.00 | - - Pohon jenis konifera | - - Coniferous | 5 | - | 11 | - |
 | 4406.12.00 | - - Pohon selain jenis konifera | - - Non-coniferous | 5 | - | 11 | - |
@@ -134,7 +134,7 @@ lang:
 | 4406.91.00 | - - Pohon jenis konifera | - - Coniferous | 5 | - | 11 | - |
 | 4406.92.00 | - - Pohon selain jenis konifera | - - Non-coniferous | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.07 | Kayu digergaji atau dibelah memanjang, diiris atau dikuliti, diketam, diampelas atau end-jointed maupun tidak, dengan ketebalan melebihi 6 mm. | Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm. |  |  |  |  |
+| **44.07** | **Kayu digergaji atau dibelah memanjang, diiris atau dikuliti, diketam, diampelas atau end-jointed maupun tidak, dengan ketebalan melebihi 6 mm.** | **Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm.** |  |  |  |  |
 |  | - Pohon jenis konifera : | - Coniferous : |  |  |  |  |
 | 4407.11 | - - Dari pinus (Pinus spp.) : | - - Of pine (Pinus spp.) : |  |  |  |  |
 | 4407.11.10 | - - - Digergaji memanjang, tidak dikerjakan lebih lanjut | - - - Sawn lengthwise, not further worked | 0 | *) | 11 | - |
@@ -239,7 +239,7 @@ lang:
 | 4407.99.10 | - - - Diketam, diampelas atau end-jointed | - - - Planed, sanded or end-jointed | 0 | *) | 11 | - |
 | 4407.99.90 | - - - Lain-lain | - - - Other | 0 | *) | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.08 | Lembaran untuk veneering (termasuk yang diperoleh dengan cara mengiris kayu yang dilaminasi), untuk kayu lapis atau kayu yang dilaminasi semacam itu dan kayu lainnya, digergaji memanjang, diiris atau dikuliti, diketam, diampelas, disambung atau end-jointed maupun tidak, dengan ketebalan tidak melebihi 6 mm. | Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm. |  |  |  |  |
+| **44.08** | **Lembaran untuk veneering (termasuk yang diperoleh dengan cara mengiris kayu yang dilaminasi), untuk kayu lapis atau kayu yang dilaminasi semacam itu dan kayu lainnya, digergaji memanjang, diiris atau dikuliti, diketam, diampelas, disambung atau end-jointed maupun tidak, dengan ketebalan tidak melebihi 6 mm.** | **Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm.** |  |  |  |  |
 | 4408.10 | - Pohon jenis konifera : | - Coniferous : |  |  |  |  |
 | 4408.10.10 | - - Slat kayu cedar untuk pensil; pohon pinus radiata dari jenis untuk pembuatan blockboard | - - Cedar wood pencil slats; Radiata pinewood of a kind used for blockboard manufacture | 0 | *) | 11 | - |
 | 4408.10.30 | - - Lembaran veneer bagian permukaan | - - Face veneer sheets | 0 | *) | 11 | - |
@@ -254,21 +254,21 @@ lang:
 | 4408.90.10 | - - Lembaran veneer bagian permukaan | - - Face veneer sheets | 0 | *) | 11 | - |
 | 4408.90.90 | - - Lain-lain | - - Other | 0 | *) | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.09 | Kayu (termasuk strip dan frieze untuk lantai papan, tidak dipasang) dibentuk tidak terputus (diberi lidah, diberi alur, tepinya dikorok, diberi lereng, V-jointed, beaded, diberi pola bentukan, dibundarkan atau sejenis itu), sepanjang tepi, ujung atau permukaannya, diketam, diampelas atau end-jointed maupun tidak. | Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, moulded, rounded or the like) along any of its edges, ends or faces, whether or not planed, sanded or end-jointed. |  |  |  |  |
+| **44.09** | **Kayu (termasuk strip dan frieze untuk lantai papan, tidak dipasang) dibentuk tidak terputus (diberi lidah, diberi alur, tepinya dikorok, diberi lereng, V-jointed, beaded, diberi pola bentukan, dibundarkan atau sejenis itu), sepanjang tepi, ujung atau permukaannya, diketam, diampelas atau end-jointed maupun tidak.** | **Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, moulded, rounded or the like) along any of its edges, ends or faces, whether or not planed, sanded or end-jointed.** |  |  |  |  |
 | 4409.10.00 | - Pohon jenis konifera | - Coniferous | 5 | - | 11 | - |
 |  | - Pohon selain jenis konifera : | - Non-coniferous : |  |  |  |  |
 | 4409.21.00 | - - Dari bambu | - - Of bamboo | 5 | - | 11 | - |
 | 4409.22.00 | - - Dari kayu tropis | - - Of tropical wood | 5 | - | 11 | - |
 | 4409.29.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.10 | Papan partikel, papan oriented strand (OSB) dan papan semacam itu (misalnya, papan wafer) dari kayu atau bahan mengandung lignin lainnya, diaglomerasi dengan resin atau dengan zat pengikat organik lainnya maupun tidak. | Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances. |  |  |  |  |
+| **44.10** | **Papan partikel, papan oriented strand (OSB) dan papan semacam itu (misalnya, papan wafer) dari kayu atau bahan mengandung lignin lainnya, diaglomerasi dengan resin atau dengan zat pengikat organik lainnya maupun tidak.** | **Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances.** |  |  |  |  |
 |  | - Dari kayu : | - Of wood : |  |  |  |  |
 | 4410.11.00 | - - Papan partikel | - - Particle board | 5 | - | 11 | - |
 | 4410.12.00 | - - Papan oriented strand (OSB) | - - Oriented strand board (OSB) | 5 | - | 11 | - |
 | 4410.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 | 4410.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.11 | Papan fiber dari kayu atau bahan mengandung lignin lainnya, direkatkan dengan resin atau zat organik lainnya maupun tidak. | Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances. |  |  |  |  |
+| **44.11** | **Papan fiber dari kayu atau bahan mengandung lignin lainnya, direkatkan dengan resin atau zat organik lainnya maupun tidak.** | **Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances.** |  |  |  |  |
 |  | - Papan fiber dengan kepadatan sedang (MDF) : | - Medium density fibreboard (MDF) : |  |  |  |  |
 | 4411.12.00 | - - Dengan ketebalan tidak melebihi 5 mm | - - Of a thickness not exceeding 5 mm | 5 | - | 11 | - |
 | 4411.13.00 | - - Dengan ketebalan melebihi 5 mm tetapi tidak melebihi 9 mm | - - Of a thickness exceeding 5 mm but not exceeding 9 mm | 5 | - | 11 | - |
@@ -278,7 +278,7 @@ lang:
 | 4411.93.00 | - - Dengan kepadatan melebihi 0,5 g/cm³ tetapi tidak melebihi 0,8 g/cm³ | - - Of a density exceeding 0.5 g/cm³ but not exceeding 0.8 g/cm³ | 5 | - | 11 | - |
 | 4411.94.00 | - - Dengan kepadatan tidak melebihi 0,5 g/cm³ | - - Of a density not exceeding 0.5 g/cm³ | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.12 | Kayu lapis, panel veneer dan kayu dilaminasi semacam itu. | Plywood, veneered panels and similar laminated wood. |  |  |  |  |
+| **44.12** | **Kayu lapis, panel veneer dan kayu dilaminasi semacam itu.** | **Plywood, veneered panels and similar laminated wood.** |  |  |  |  |
 | 4412.10.00 | - Dari bambu | - Of bamboo | 10 | - | 11 | - |
 |  | - Kayu lapis lainnya yang terdiri semata-mata dari lembaran kayu, (selain bambu) dengan ketebalan setiap lapisan tidak melebihi 6 mm : | - Other plywood, consisting solely of sheets of wood (other than bamboo), each ply not exceeding 6 mm thickness : |  |  |  |  |
 | 4412.31.00 | - - Dengan paling tidak satu lapisan luar dari kayu tropis | - - With at least one outer ply of tropical wood | 10 | - | 11 | - |
@@ -304,23 +304,23 @@ lang:
 |  |  |  |  |  |  |  |
 | 4413.00.00 | Kayu dipadatkan, berbentuk blok, pelat, strip atau profil. | Densified wood, in blocks, plates, strips or profile shapes. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.14 | Bingkai kayu untuk lukisan, foto, cermin atau benda semacam itu. | Wooden frames for paintings, photographs, mirrors or similar objects. |  |  |  |  |
+| **44.14** | **Bingkai kayu untuk lukisan, foto, cermin atau benda semacam itu.** | **Wooden frames for paintings, photographs, mirrors or similar objects.** |  |  |  |  |
 | 4414.10.00 | - Dari kayu tropis | - Of tropical wood | 20 | - | 11 | - |
 | 4414.90.00 | - Lain-lain | - Other | 20 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.15 | Peti, kotak, krat, drum dan pengemas semacam itu, dari kayu; gelendong kabel dari kayu; palet, palet kotak dan papan untuk muatan lainnya, dari kayu; kerah palet dari kayu. | Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums of wood; pallets, box pallets and other load boards, of wood; pallet collars of wood. |  |  |  |  |
+| **44.15** | **Peti, kotak, krat, drum dan pengemas semacam itu, dari kayu; gelendong kabel dari kayu; palet, palet kotak dan papan untuk muatan lainnya, dari kayu; kerah palet dari kayu.** | **Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums of wood; pallets, box pallets and other load boards, of wood; pallet collars of wood.** |  |  |  |  |
 | 4415.10.00 | - Peti, kotak, krat, drum dan pengemas yang semacam itu; gelendong kabel | - Cases, boxes, crates, drums and similar packings; cable- drums | 5 | - | 11 | - |
 | 4415.20.00 | - Palet, palet kotak dan papan untuk muatan lainnya; kerah palet | - Pallets, box pallets and other load boards; pallet collars | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.16 | Tahang, tong, bejana, pasu dan produk lainnya dari pembuat tong/pasu dan bagiannya, dari kayu, termasuk stave. | Casks, barrels, vats, tubs and other coopers’ products and parts thereof, of wood, including staves. |  |  |  |  |
+| **44.16** | **Tahang, tong, bejana, pasu dan produk lainnya dari pembuat tong/pasu dan bagiannya, dari kayu, termasuk stave.** | **Casks, barrels, vats, tubs and other coopers’ products and parts thereof, of wood, including staves.** |  |  |  |  |
 | 4416.00.10 | - Stave | - Staves | 5 | - | 11 | - |
 | 4416.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.17 | Perkakas, badan perkakas, gagang perkakas, badan dan gagang sapu atau sikat dan gagangnya dari kayu; kelebut bot atau sepatu dan boot tree atau shoe tree, dari kayu. | Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood. |  |  |  |  |
+| **44.17** | **Perkakas, badan perkakas, gagang perkakas, badan dan gagang sapu atau sikat dan gagangnya dari kayu; kelebut bot atau sepatu dan boot tree atau shoe tree, dari kayu.** | **Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood.** |  |  |  |  |
 | 4417.00.10 | - Kelebut bot atau sepatu | - Boot or shoe lasts | 5 | - | 11 | - |
 | 4417.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.18 | Produk pertukangan dan bahan bangunan rumah dari kayu, termasuk panel kayu seluler, rakitan panel penutup lantai, atap sirap dan shake. | Builders’ joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes. |  |  |  |  |
+| **44.18** | **Produk pertukangan dan bahan bangunan rumah dari kayu, termasuk panel kayu seluler, rakitan panel penutup lantai, atap sirap dan shake.** | **Builders’ joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes.** |  |  |  |  |
 |  | - Jendela, jendela Prancis dan kusennya : | - Windows, French-windows and their frames : |  |  |  |  |
 | 4418.11.00 | - - Dari kayu tropis | - - Of tropical wood | 5 | - | 11 | - |
 | 4418.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -350,7 +350,7 @@ lang:
 | 4418.92.00 | - - Panel kayu seluler | - - Cellular wood panels | 5 | - | 11 | - |
 | 4418.99.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.19 | Perangkat makan dan perangkat dapur, dari kayu. | Tableware and kitchenware, of wood. |  |  |  |  |
+| **44.19** | **Perangkat makan dan perangkat dapur, dari kayu.** | **Tableware and kitchenware, of wood.** |  |  |  |  |
 |  | - Dari bambu : | - Of bamboo : |  |  |  |  |
 | 4419.11.00 | - - Papan roti, talenan dan papan semacam itu | - - Bread boards, chopping boards and similar boards | 15 | - | 11 | - |
 | 4419.12.00 | - - Sumpit | - - Chopsticks | 15 | - | 11 | - |
@@ -358,7 +358,7 @@ lang:
 | 4419.20.00 | - Dari kayu tropis | - Of tropical wood | 15 | - | 11 | - |
 | 4419.90.00 | - Lain-lain | - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.20 | Tatakan kayu dan kayu bertatah; kotak dan peti untuk perhiasan atau peralatan makan dan barang semacam itu, dari kayu; patung kecil dan ornamen lainnya, dari kayu; perabotan dari kayu yang tidak termasuk Bab 94. | Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in Chapter 94. |  |  |  |  |
+| **44.20** | **Tatakan kayu dan kayu bertatah; kotak dan peti untuk perhiasan atau peralatan makan dan barang semacam itu, dari kayu; patung kecil dan ornamen lainnya, dari kayu; perabotan dari kayu yang tidak termasuk Bab 94.** | **Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in Chapter 94.** |  |  |  |  |
 |  | - Patung kecil dan ornamen lainnya : | - Statuettes and other ornaments : |  |  |  |  |
 | 4420.11.00 | - - Dari kayu tropis | - - Of tropical wood | 25 | - | 11 | - |
 | 4420.19.00 | - - Lain-lain | - - Other | 25 | - | 11 | - |
@@ -367,7 +367,7 @@ lang:
 | 4420.90.20 | - - Kotak dan kemasan kecil lainnya yang ditujukan/dirancang untuk dan cocok untuk dibawa dalam saku, dalam tas tangan atau dipegang orang | - - Boxes and other small containers intended for and suitable for carrying in the pocket, in the handbag or on the person | 25 | - | 11 | - |
 | 4420.90.90 | - - Lain-lain | - - Other | 25 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 44.21 | Barang lainnya dari kayu. | Other articles of wood. |  |  |  |  |
+| **44.21** | **Barang lainnya dari kayu.** | **Other articles of wood.** |  |  |  |  |
 | 4421.10.00 | - Gantungan pakaian | - Clothes hangers | 5 | - | 11 | - |
 | 4421.20.00 | - Peti mati | - Coffins | 5 | - | 11 | - |
 |  | - Lain-lain : | - Other : |  |  |  |  |

@@ -31,11 +31,11 @@ lang:
 |  |  |  |  |  |  |  |
 | 4701.00.00 | Pulp kayu mekanik. | Mechanical wood pulp. | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 47.02 | Pulp kayu kimia, dissolving grade. | Chemical wood pulp, dissolving grades. |  |  |  |  |
+| **47.02** | **Pulp kayu kimia, dissolving grade.** | **Chemical wood pulp, dissolving grades.** |  |  |  |  |
 | 4702.00.10 | - Pohon jenis konifera | - Coniferous | 0 | - | 11 | - |
 | 4702.00.20 | - Pohon selain jenis konifera | - Non-coniferous | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 47.03 | Pulp kayu kimia, soda atau sulfat, selain dissolving grade. | Chemical wood pulp, soda or sulphate, other than dissolving grades. |  |  |  |  |
+| **47.03** | **Pulp kayu kimia, soda atau sulfat, selain dissolving grade.** | **Chemical wood pulp, soda or sulphate, other than dissolving grades.** |  |  |  |  |
 |  | - Tidak dikelantang : | - Unbleached : |  |  |  |  |
 | 4703.11.00 | - - Pohon jenis konifera | - - Coniferous | 0 | - | 11 | - |
 | 4703.19.00 | - - Pohon selain jenis konifera | - - Non-coniferous | 0 | - | 11 | - |
@@ -43,7 +43,7 @@ lang:
 | 4703.21.00 | - - Pohon jenis konifera | - - Coniferous | 0 | - | 11 | - |
 | 4703.29.00 | - - Pohon selain jenis konifera | - - Non-coniferous | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 47.04 | Pulp kayu kimia, sulfit, selain dissolving grade. | Chemical wood pulp, sulphite, other than dissolving grades. |  |  |  |  |
+| **47.04** | **Pulp kayu kimia, sulfit, selain dissolving grade.** | **Chemical wood pulp, sulphite, other than dissolving grades.** |  |  |  |  |
 |  | - Tidak dikelantang : | - Unbleached : |  |  |  |  |
 | 4704.11.00 | - - Pohon jenis konifera | - - Coniferous | 0 | - | 11 | - |
 | 4704.19.00 | - - Pohon selain jenis konifera | - - Non-coniferous | 0 | - | 11 | - |
@@ -53,7 +53,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 4705.00.00 | Pulp kayu yang diperoleh melalui kombinasi proses pembuatan pulp secara mekanik dan kimia. | Wood pulp obtained by a combination of mechanical and chemical pulping processes. | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 47.06 | Pulp dari serat yang berasal dari kertas atau kertas karton yang dipulihkan (sisa dan skrap) atau dari bahan selulosa berserat lainnya. | Pulps of fibres derived from recovered (waste and scrap) paper or paperboard or of other fibrous cellulosic material. |  |  |  |  |
+| **47.06** | **Pulp dari serat yang berasal dari kertas atau kertas karton yang dipulihkan (sisa dan skrap) atau dari bahan selulosa berserat lainnya.** | **Pulps of fibres derived from recovered (waste and scrap) paper or paperboard or of other fibrous cellulosic material.** |  |  |  |  |
 | 4706.10.00 | - Pulp linter kapas | - Cotton linters pulp | 0 | - | 11 | - |
 | 4706.20.00 | - Pulp dari serat yang berasal dari kertas atau kertas karton yang dipulihkan (sisa dan skrap) | - Pulps of fibres derived from recovered (waste and scrap) paper or paperboard | 0 | - | 11 | - |
 | 4706.30.00 | - Lain-lain, dari bambu | - Other, of bamboo | 0 | - | 11 | - |
@@ -64,7 +64,7 @@ lang:
 | 4706.93.10 | - - - Pulp Abaca | - - - Abaca pulp | 0 | - | 11 | - |
 | 4706.93.90 | - - - Lain-lain | - - - Other | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 47.07 | Kertas atau kertas karton yang dipulihkan (sisa dan skrap). | Recovered (waste and scrap) paper or paperboard. |  |  |  |  |
+| **47.07** | **Kertas atau kertas karton yang dipulihkan (sisa dan skrap).** | **Recovered (waste and scrap) paper or paperboard.** |  |  |  |  |
 | 4707.10.00 | - Kertas atau kertas karton kraft tidak dikelantang atau kertas atau kertas karton bergelombang | - Unbleached kraft paper or paperboard or corrugated paper or paperboard | 0 | - | 11 | - |
 | 4707.20.00 | - Kertas atau kertas karton lainnya dibuat terutama dari pulp kimia yang dikelantang tidak diwarnai keseluruhannya | - Other paper or paperboard made mainly of bleached chemical pulp, not coloured in the mass | 0 | - | 11 | - |
 | 4707.30.00 | - Kertas atau kertas karton dibuat terutama dari pulp mekanik (misalnya, koran, jurnal dan barang cetak semacam itu) | - Paper or paperboard made mainly of mechanical pulp (for example, newspapers, journals and similar printed matter) | 0 | - | 11 | - |

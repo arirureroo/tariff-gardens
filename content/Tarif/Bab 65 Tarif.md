@@ -37,12 +37,12 @@ lang:
 |  |  |  |  |  |  |  |
 | 6504.00.00 | Topi dan tutup kepala lainnya, dianyam atau dibuat dengan merakit strip dari berbagai bahan, diberi garis atau dirapikan pinggirannya maupun tidak. | Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed. | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 65.05 | Topi dan tutup kepala lainnya, rajutan atau kaitan, atau dibuat dari renda, kain kempa atau kain tekstil lainnya, dalam lembaran (tetapi tidak dalam bentuk strip), diberi garis, dirapikan pinggirannya maupun tidak; jaring rambut dari berbagai bahan, diberi garis dirapikan pinggirannya maupun tidak. | Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed. |  |  |  |  |
+| **65.05** | **Topi dan tutup kepala lainnya, rajutan atau kaitan, atau dibuat dari renda, kain kempa atau kain tekstil lainnya, dalam lembaran (tetapi tidak dalam bentuk strip), diberi garis, dirapikan pinggirannya maupun tidak; jaring rambut dari berbagai bahan, diberi garis dirapikan pinggirannya maupun tidak.** | **Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed.** |  |  |  |  |
 | 6505.00.10 | - Tutup kepala dari jenis yang digunakan untuk keperluan religius | - Headgear of a kind used for religious purposes | 10 | - | 11 | - |
 | 6505.00.20 | - Jaring rambut | - Hair-nets | 10 | - | 11 | - |
 | 6505.00.90 | - Lain-lain | - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 65.06 | Tutup kepala lainnya, diberi garis atau dirapikan pinggirannya maupun tidak. | Other headgear, whether or not lined or trimmed. |  |  |  |  |
+| **65.06** | **Tutup kepala lainnya, diberi garis atau dirapikan pinggirannya maupun tidak.** | **Other headgear, whether or not lined or trimmed.** |  |  |  |  |
 | 6506.10 | - Tutup kepala pengaman : | - Safety headgear : |  |  |  |  |
 | 6506.10.10 | - - Helm untuk pengendara sepeda motor | - - Helmets for motorcyclists | 20 | - | 11 | - |
 | 6506.10.20 | - - Helm pelindung industri, helm petugas pemadam kebakaran, tidak termasuk helm baja | - - Industrial safety helmets and firefighters’ helmets, excluding steel helmets | 10 | - | 11 | - |

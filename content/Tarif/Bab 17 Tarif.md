@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 17.01 | Gula tebu atau gula bit dan sukrosa murni kimiawi, dalam bentuk padat. | Cane or beet sugar and chemically pure sucrose, in solid form. |  |  |  |  |
+| **17.01** | **Gula tebu atau gula bit dan sukrosa murni kimiawi, dalam bentuk padat.** | **Cane or beet sugar and chemically pure sucrose, in solid form.** |  |  |  |  |
 |  | - Gula kasar tidak mengandung tambahan bahan perasa atau pewarna : | - Raw sugar not containing added flavouring or colouring matter : |  |  |  |  |
 | 1701.12.00 | - - Gula bit | - - Beet sugar | 790,-/kg | - | 11 | - |
 | 1701.13.00 | - - Gula tebu yang dirinci pada Catatan subpos 2 pada Bab ini | - - Cane sugar specified in Subheading Note 2 to this Chapter | 550,-/kg | - | 11 | - |
@@ -43,7 +43,7 @@ lang:
 | 1701.99.10 | - - - Gula dimurnikan | - - - Refined sugar | 790,-/kg | - | 11 | - |
 | 1701.99.90 | - - - Lain-lain | - - - Other | 790,-/kg | - | 11*) | - |
 |  |  |  |  |  |  |  |
-| 17.02 | Gula lainnya, termasuk laktosa, maltosa, glukosa dan fruktosa murni kimiawi, dalam bentuk padat; sirop gula tidak mengandung tambahan bahan perasa atau pewarna; madu artifisial, dicampur dengan madu alam maupun tidak; karamel. | Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel. |  |  |  |  |
+| **17.02** | **Gula lainnya, termasuk laktosa, maltosa, glukosa dan fruktosa murni kimiawi, dalam bentuk padat; sirop gula tidak mengandung tambahan bahan perasa atau pewarna; madu artifisial, dicampur dengan madu alam maupun tidak; karamel.** | **Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel.** |  |  |  |  |
 |  | - Laktosa dan sirop laktosa : | - Lactose and lactose syrup : |  |  |  |  |
 | 1702.11.00 | - - Mengandung laktosa 99 % atau lebih menurut beratnya, dinyatakan sebagai laktosa anhidrat, dihitung berdasarkan bahan kering | - - Containing by weight 99 % or more lactose, expressed as anhydrous lactose, calculated on the dry matter | 5 | - | 11 | - |
 | 1702.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -70,7 +70,7 @@ lang:
 | 1702.90.91 | - - - Sirop gula | - - - Sugar syrups | 5 | - | 11 | - |
 | 1702.90.99 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 17.03 | Tetes hasil dari ekstraksi atau pemurnian gula. | Molasses resulting from the extraction or refining of sugar. |  |  |  |  |
+| **17.03** | **Tetes hasil dari ekstraksi atau pemurnian gula.** | **Molasses resulting from the extraction or refining of sugar.** |  |  |  |  |
 | 1703.10 | - Tetes tebu : | - Cane molasses : |  |  |  |  |
 | 1703.10.10 | - - Mengandung bahan pemberi rasa atau pewarna tambahan | - - Containing added flavouring or colouring matter | 5 | - | 11 | - |
 | 1703.10.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -78,7 +78,7 @@ lang:
 | 1703.90.10 | - - Mengandung bahan pemberi rasa atau pewarna tambahan | - - Containing added flavouring or colouring matter | 5 | - | 11 | - |
 | 1703.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 17.04 | Kembang gula (termasuk coklat putih), tidak mengandung kakao. | Sugar confectionery (including white chocolate), not containing cocoa. |  |  |  |  |
+| **17.04** | **Kembang gula (termasuk coklat putih), tidak mengandung kakao.** | **Sugar confectionery (including white chocolate), not containing cocoa.** |  |  |  |  |
 | 1704.10.00 | - Permen karet, dilapisi gula maupun tidak | - Chewing gum, whether or not sugar-coated | 20 | - | 11 | - |
 | 1704.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 1704.90.10 | - - Pastiles dan drop mengandung obat | - - Medicated pastilles and drops | 15 | - | 11 | - |

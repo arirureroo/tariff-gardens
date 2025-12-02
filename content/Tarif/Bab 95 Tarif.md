@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 95.03 | Sepeda roda tiga, skuter, mobil berpedal dan mainan beroda semacam itu; kereta boneka; boneka; mainan lainnya; model yang diperkecil ("skala") dan model rekreasi semacam itu, dapat digerakkan atau tidak; puzzle dari segala jenis. | Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size ("scale") models and similar recreational models, working or not; puzzles of all kinds. |  |  |  |  |
+| **95.03** | **Sepeda roda tiga, skuter, mobil berpedal dan mainan beroda semacam itu; kereta boneka; boneka; mainan lainnya; model yang diperkecil ("skala") dan model rekreasi semacam itu, dapat digerakkan atau tidak; puzzle dari segala jenis.** | **Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size ("scale") models and similar recreational models, working or not; puzzles of all kinds.** |  |  |  |  |
 | 9503.00.10 | - Sepeda roda tiga, skuter, mobil berpedal dan mainan beroda semacam itu; kereta boneka | - Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages | 20 | - | 11 | - |
 |  | - Boneka : | - Dolls : |  |  |  |  |
 | 9503.00.21 | - - Boneka, dikenakan pakaian atau tidak | - - Dolls, whether or not dressed | 20 | - | 11 | - |
@@ -52,7 +52,7 @@ lang:
 | 9503.00.94 | - - Mainan lainnya, dari karet | - - Other toys, of rubber | 15 | - | 11 | - |
 | 9503.00.99 | - - Lain-lain | - - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 95.04 | Konsol dan mesin video game, permainan meja atau dalam ruangan, termasuk pintable, biliar, meja khusus untuk permainan kasino dan perlengkapan boling otomatis, mesin permainan yang dioperasikan dengan koin, uang kertas, kartu bank, token atau dengan alat pembayaran lainnya. | Video game consoles and machines, table or parlour games, including pintables, billiards, special tables for casino games and automatic bowling equipment, amusement machines operated by coins, banknotes, bank cards, tokens or by any other means of payment. |  |  |  |  |
+| **95.04** | **Konsol dan mesin video game, permainan meja atau dalam ruangan, termasuk pintable, biliar, meja khusus untuk permainan kasino dan perlengkapan boling otomatis, mesin permainan yang dioperasikan dengan koin, uang kertas, kartu bank, token atau dengan alat pembayaran lainnya.** | **Video game consoles and machines, table or parlour games, including pintables, billiards, special tables for casino games and automatic bowling equipment, amusement machines operated by coins, banknotes, bank cards, tokens or by any other means of payment.** |  |  |  |  |
 | 9504.20 | - Barang dan aksesori untuk biliar dari segala jenis : | - Articles and accessories for billiards of all kinds : |  |  |  |  |
 | 9504.20.20 | - - Meja untuk biliar dari segala jenis | - - Tables for billiards of all kinds | 15 | - | 11 | - |
 | 9504.20.30 | - - Kapur biliar | - - Billiard chalks | 15 | - | 11 | - |
@@ -86,11 +86,11 @@ lang:
 | 9504.90.95 | - - - - Dari kayu, dari kertas atau dari plastik | - - - - Of wood, of paper or of plastics | 10 | - | 11 | - |
 | 9504.90.99 | - - - - Lain-lain | - - - - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 95.05 | Barang festival, karnaval atau hiburan lainnya, termasuk alat sulap dan lelucon. | Festive, carnival or other entertainment articles, including conjuring tricks and novelty jokes. |  |  |  |  |
+| **95.05** | **Barang festival, karnaval atau hiburan lainnya, termasuk alat sulap dan lelucon.** | **Festive, carnival or other entertainment articles, including conjuring tricks and novelty jokes.** |  |  |  |  |
 | 9505.10.00 | - Barang untuk festival natal | - Articles for Christmas festivities | 15 | - | 11 | - |
 | 9505.90.00 | - Lain-lain | - Other | 15 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 95.06 | Barang dan perlengkapan untuk latihan fisik umum, gimnastik, atletik, olahraga lainnya (termasuk meja tenis) atau permainan luar ruangan, tidak dirinci atau termasuk dalam pos lain pada Bab ini; kolam renang dan paddling pool. | Articles and equipment for general physical exercise, gymnastics, athletics, other sports (including table-tennis) or outdoor games, not specified or included elsewhere in this Chapter; swimming pools and paddling pools. |  |  |  |  |
+| **95.06** | **Barang dan perlengkapan untuk latihan fisik umum, gimnastik, atletik, olahraga lainnya (termasuk meja tenis) atau permainan luar ruangan, tidak dirinci atau termasuk dalam pos lain pada Bab ini; kolam renang dan paddling pool.** | **Articles and equipment for general physical exercise, gymnastics, athletics, other sports (including table-tennis) or outdoor games, not specified or included elsewhere in this Chapter; swimming pools and paddling pools.** |  |  |  |  |
 |  | - Ski salju dan perlengkapan ski salju lainnya : | - Snow-skis and other snow-ski equipment : |  |  |  |  |
 | 9506.11.00 | - - Ski | - - Skis | 10 | - | 11 | - |
 | 9506.12.00 | - - Pengencang ski (pengikat ski) | - - Ski-fastenings (ski-bindings) | 10 | - | 11 | - |
@@ -121,13 +121,13 @@ lang:
 | 9506.99.30 | - - - Shuttlecock | - - - Shuttlecocks | 15 | - | 11 | - |
 | 9506.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 95.07 | Joran, mata kail dan perlengkapan pancing lainnya; jaring ikan, jaring kupu-kupu dan jaring semacam itu; “burung” pemikat (selain barang-barang dari pos 92.08 atau 97.05) dan perlengkapan berburu atau menembak semacam itu. | Fishing rods, fish-hooks and other line fishing tackle; fish landing nets, butterfly nets and similar nets; decoy “birds” (other than those of heading 92.08 or 97.05) and similar hunting or shooting requisites. |  |  |  |  |
+| **95.07** | **Joran, mata kail dan perlengkapan pancing lainnya; jaring ikan, jaring kupu-kupu dan jaring semacam itu; “burung” pemikat (selain barang-barang dari pos 92.08 atau 97.05) dan perlengkapan berburu atau menembak semacam itu.** | **Fishing rods, fish-hooks and other line fishing tackle; fish landing nets, butterfly nets and similar nets; decoy “birds” (other than those of heading 92.08 or 97.05) and similar hunting or shooting requisites.** |  |  |  |  |
 | 9507.10.00 | - Joran | - Fishing rods | 15 | - | 11 | - |
 | 9507.20.00 | - Mata kail, snelled maupun tidak | - Fish-hooks, whether or not snelled | 15 | - | 11 | - |
 | 9507.30.00 | - Penggulung tali pancing | - Fishing reels | 15 | - | 11 | - |
 | 9507.90.00 | - Lain-lain | - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 95.08 | Sirkus keliling dan travelling menagerie; wahana taman hiburan dan hiburan taman air; permainan taman hiburan, termasuk galeri tembak; teater keliling. | Travelling circuses and travelling menageries; amusement park rides and water park amusements; fairground amusements, including shooting galleries; travelling theatres. |  |  |  |  |
+| **95.08** | **Sirkus keliling dan travelling menagerie; wahana taman hiburan dan hiburan taman air; permainan taman hiburan, termasuk galeri tembak; teater keliling.** | **Travelling circuses and travelling menageries; amusement park rides and water park amusements; fairground amusements, including shooting galleries; travelling theatres.** |  |  |  |  |
 | 9508.10.00 | - Sirkus keliling dan travelling menagerie | - Travelling circuses and travelling menageries | 15 | - | 11 | - |
 |  | - Wahana taman hiburan dan hiburan taman air : | - Amusement park rides and water park amusements : |  |  |  |  |
 | 9508.21.00 | - - Roller coaster | - - Roller coasters | 15 | - | 11 | - |

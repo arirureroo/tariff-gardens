@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 56.01 | Gumpalan bahan tekstil dan barang daripadanya; serat tekstil, panjangnya tidak melebihi 5 mm (flock), debu tekstil dan mill nep. | Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 mm in length (flock), textile dust and mill neps. |  |  |  |  |
+| **56.01** | **Gumpalan bahan tekstil dan barang daripadanya; serat tekstil, panjangnya tidak melebihi 5 mm (flock), debu tekstil dan mill nep.** | **Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 mm in length (flock), textile dust and mill neps.** |  |  |  |  |
 |  | - Gumpalan bahan tekstil dan barang daripadanya : | - Wadding of textile materials and articles thereof : |  |  |  |  |
 | 5601.21.00 | - - Dari kapas | - - Of cotton | 15 | - | 11 | - |
 | 5601.22 | - - Dari serat buatan : | - - Of man-made fibres : |  |  |  |  |
@@ -44,14 +44,14 @@ lang:
 | 5601.30.20 | - - Flock serat polipropilena | - - Polypropylene fibre flock | 5 | - | 11 | - |
 | 5601.30.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 56.02 | Kain kempa, diresapi, dilapisi, ditutupi atau dilaminasi maupun tidak. | Felt, whether or not impregnated, coated, covered or laminated. |  |  |  |  |
+| **56.02** | **Kain kempa, diresapi, dilapisi, ditutupi atau dilaminasi maupun tidak.** | **Felt, whether or not impregnated, coated, covered or laminated.** |  |  |  |  |
 | 5602.10.00 | - Kain kempa tenunan jarum dan kain serat tusuk- ikat | - Needleloom felt and stitch-bonded fibre fabrics | 10 | - | 11 | - |
 |  | - Kain kempa lainnya, tidak diresapi, dilapisi, ditutupi atau dilaminasi : | - Other felt, not impregnated, coated, covered or laminated : |  |  |  |  |
 | 5602.21.00 | - - Dari wol atau bulu hewan halus | - - Of wool or fine animal hair | 5 | - | 11 | - |
 | 5602.29.00 | - - Dari bahan tekstil lainnya | - - Of other textile materials | 5 | - | 11 | - |
 | 5602.90.00 | - Lain-lain | - Other | 10 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 56.03 | Bukan tenunan, diresapi, dilapisi, ditutupi atau dilaminasi maupun tidak. | Nonwovens, whether or not impregnated, coated, covered or laminated. |  |  |  |  |
+| **56.03** | **Bukan tenunan, diresapi, dilapisi, ditutupi atau dilaminasi maupun tidak.** | **Nonwovens, whether or not impregnated, coated, covered or laminated.** |  |  |  |  |
 |  | - Dari filamen buatan : | - Of man-made filaments : |  |  |  |  |
 | 5603.11.00 | - - Beratnya tidak lebih dari 25 g/m2 | - - Weighing not more than 25 g/m2 | 5 | - | 11 | - |
 | 5603.12.00 | - - Beratnya lebih dari 25 g/m2 tetapi tidak lebih dari 70 g/m2 | - - Weighing more than 25 g/m2 but not more than 70 g/m2 | 5 | - | 11 | - |
@@ -63,7 +63,7 @@ lang:
 | 5603.93.00 | - - Beratnya lebih dari 70 g/m2 tetapi tidak lebih dari 150 g/m2 | - - Weighing more than 70 g/m2 but not more than 150 g/m2 | 5 | - | 11 | - |
 | 5603.94.00 | - - Beratnya lebih dari 150 g/m2 | - - Weighing more than 150 g/m2 | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 56.04 | Benang dan tali karet, ditutupi tekstil; benang tekstil, dan strip serta sejenisnya dari pos 54.04 atau 54.05, diresapi, dilapisi, ditutupi atau diselubungi dengan karet atau plastik. | Rubber thread and cord, textile covered; textile yarn, and strip and the like of heading 54.04 or 54.05, impregnated, coated, covered or sheathed with rubber or plastics. |  |  |  |  |
+| **56.04** | **Benang dan tali karet, ditutupi tekstil; benang tekstil, dan strip serta sejenisnya dari pos 54.04 atau 54.05, diresapi, dilapisi, ditutupi atau diselubungi dengan karet atau plastik.** | **Rubber thread and cord, textile covered; textile yarn, and strip and the like of heading 54.04 or 54.05, impregnated, coated, covered or sheathed with rubber or plastics.** |  |  |  |  |
 | 5604.10.00 | - Benang dan tali karet, ditutupi tekstil | - Rubber thread and cord, textile covered | 5 | - | 11 | - |
 | 5604.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 5604.90.10 | - - Catgut imitasi, dari benang sutra | - - Imitation catgut, of silk yarn | 5 | - | 11 | - |
@@ -75,7 +75,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 5606.00.00 | Benang berpalut, dan strip serta sejenisnya dari pos 54.04 atau 54.05, berpalut (selain yang disebutkan dalam pos 56.05 dan benang bulu kuda berpalut); benang chenille (termasuk benang flock chenille); benang loop-wale. | Gimped yarn, and strip and the like of heading 54.04 or 54.05, gimped (other than those of heading 56.05 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 56.07 | Benang pintal, tali, tambang dan kabel, dianyam atau dijalin maupun tidak dan diresapi, dilapisi, ditutupi atau diselubungi dengan karet atau plastik maupun tidak. | Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics. |  |  |  |  |
+| **56.07** | **Benang pintal, tali, tambang dan kabel, dianyam atau dijalin maupun tidak dan diresapi, dilapisi, ditutupi atau diselubungi dengan karet atau plastik maupun tidak.** | **Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics.** |  |  |  |  |
 |  | - Dari serat sisal atau serat tekstil lainnya dari genus Agave : | - Of sisal or other textile fibres of the genus Agave : |  |  |  |  |
 | 5607.21.00 | - - Benang pintal jenis binder atau baler | - - Binder or baler twine | 5 | - | 11 | - |
 | 5607.29.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -94,7 +94,7 @@ lang:
 | 5607.90.30 | - - Dari serat jute atau serat tekstil kulit pohon lainnya dari pos 53.03 | - - Of jute or other textile bast fibres of heading 53.03 | 5 | - | 11 | - |
 | 5607.90.90 | - - Lain-lain | - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 56.08 | Jaring disimpul dari benang pintal, tali atau tambang; jaring ikan jadi dan jaring jadi lainnya, dari bahan tekstil. | Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials. |  |  |  |  |
+| **56.08** | **Jaring disimpul dari benang pintal, tali atau tambang; jaring ikan jadi dan jaring jadi lainnya, dari bahan tekstil.** | **Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials.** |  |  |  |  |
 |  | - Dari bahan tekstil buatan : | - Of man-made textile materials : |  |  |  |  |
 | 5608.11.00 | - - Jaring ikan jadi | - - Made up fishing nets | 5 | - | 11 | - |
 | 5608.19 | - - Lain-lain : | - - Other : |  |  |  |  |

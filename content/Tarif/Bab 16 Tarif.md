@@ -31,11 +31,11 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 16.01 | Sosis dan produk semacamnya, dari daging, sisa daging, darah atau serangga; olahan makanan berasal dari produk ini. | Sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products. |  |  |  |  |
+| **16.01** | **Sosis dan produk semacamnya, dari daging, sisa daging, darah atau serangga; olahan makanan berasal dari produk ini.** | **Sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products.** |  |  |  |  |
 | 1601.00.10 | - Dalam kemasan kedap udara untuk penjualan eceran | - In airtight containers for retail sale | 30 | - | 11 | - |
 | 1601.00.90 | - Lain-lain | - Other | 30 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 16.02 | Daging, sisa daging, darah atau serangga lainnya yang diolah atau diawetkan. | Other prepared or preserved meat, meat offal, blood or insects. |  |  |  |  |
+| **16.02** | **Daging, sisa daging, darah atau serangga lainnya yang diolah atau diawetkan.** | **Other prepared or preserved meat, meat offal, blood or insects.** |  |  |  |  |
 | 1602.10 | - Olahan homogen : | - Homogenised preparations : |  |  |  |  |
 | 1602.10.10 | - - Mengandung babi, dalam kemasan kedap udara untuk penjualan eceran | - - Containing pork, in airtight containers for retail sale | 30 | - | 11 | - |
 | 1602.10.90 | - - Lain-lain | - - Other | 30 | - | 11 | - |
@@ -72,11 +72,11 @@ lang:
 | 1602.90.20 | - - Olahan dari darah | - - Preparations of blood | 30 | - | 11 | - |
 | 1602.90.90 | - - Lain-lain | - - Other | 30 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 16.03 | Ekstrak dan jus dari daging, ikan atau krustasea, moluska atau invertebrata air lainnya. | Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates. |  |  |  |  |
+| **16.03** | **Ekstrak dan jus dari daging, ikan atau krustasea, moluska atau invertebrata air lainnya.** | **Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates.** |  |  |  |  |
 | 1603.00.10 | - Dari daging | - Of meat | 5 | - | 11 | - |
 | 1603.00.90 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 16.04 | Ikan diolah atau diawetkan; kaviar dan pengganti kaviar yang diolah dari telur ikan. | Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs. |  |  |  |  |
+| **16.04** | **Ikan diolah atau diawetkan; kaviar dan pengganti kaviar yang diolah dari telur ikan.** | **Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs.** |  |  |  |  |
 |  | - Ikan, utuh atau dalam potongan, tetapi tidak dicincang : | - Fish, whole or in pieces, but not minced : |  |  |  |  |
 | 1604.11 | - - Salmon : | - - Salmon : |  |  |  |  |
 | 1604.11.10 | - - - Dalam kemasan kedap udara untuk penjualan eceran | - - - In airtight containers for retail sale | 5 | - | 11 | - |
@@ -127,7 +127,7 @@ lang:
 | 1604.31.00 | - - Kaviar | - - Caviar | 5 | - | 11 | - |
 | 1604.32.00 | - - Pengganti kaviar | - - Caviar substitutes | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 16.05 | Krustasea, moluska dan invertebrata air lainnya, diolah atau diawetkan. | Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved. |  |  |  |  |
+| **16.05** | **Krustasea, moluska dan invertebrata air lainnya, diolah atau diawetkan.** | **Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved.** |  |  |  |  |
 | 1605.10 | - Kepiting : | - Crab : |  |  |  |  |
 |  | - - Dalam kemasan kedap udara untuk penjualan eceran : | - - In airtight containers for retail sale : |  |  |  |  |
 | 1605.10.11 | - - - Swimming crab (kepiting dari keluarga Portunidae) | - - - Swimming crabs (crabs of the family Portunidae) | 15 | - | 11 | - |

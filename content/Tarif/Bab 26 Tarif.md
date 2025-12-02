@@ -32,7 +32,7 @@ lang:
 | POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
-| 26.01 | Bijih besi dan konsentratnya, termasuk pirit besi digongseng. | Iron ores and concentrates, including roasted iron pyrites. |  |  |  |  |
+| **26.01** | **Bijih besi dan konsentratnya, termasuk pirit besi digongseng.** | **Iron ores and concentrates, including roasted iron pyrites.** |  |  |  |  |
 |  | - Bijih besi dan konsentratnya, selain pirit besi digongseng : | - Iron ores and concentrates, other than roasted iron pyrites : |  |  |  |  |
 | 2601.11 | - - Tidak diaglomerasi : | - - Non-agglomerated : |  |  |  |  |
 | 2601.11.10 | - - - Hematit dan konsentratnya | - - - Haematite and concentrates | 0 | *) | 11 | - |
@@ -62,27 +62,27 @@ lang:
 |  |  |  |  |  |  |  |
 | 2611.00.00 | Bijih tungsten dan konsentratnya. | Tungsten ores and concentrates. | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 26.12 | Bijih uranium atau torium dan konsentratnya. | Uranium or thorium ores and concentrates. |  |  |  |  |
+| **26.12** | **Bijih uranium atau torium dan konsentratnya.** | **Uranium or thorium ores and concentrates.** |  |  |  |  |
 | 2612.10.00 | - Bijih uranium dan konsentratnya | - Uranium ores and concentrates | 5 | - | 11 | - |
 | 2612.20.00 | - Bijih torium dan konsentratnya | - Thorium ores and concentrates | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 26.13 | Bijih molibdenum dan konsentratnya. | Molybdenum ores and concentrates. |  |  |  |  |
+| **26.13** | **Bijih molibdenum dan konsentratnya.** | **Molybdenum ores and concentrates.** |  |  |  |  |
 | 2613.10.00 | - Digongseng | - Roasted | 5 | - | 11 | - |
 | 2613.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 26.14 | Bijih titanium dan konsentratnya. | Titanium ores and concentrates. |  |  |  |  |
+| **26.14** | **Bijih titanium dan konsentratnya.** | **Titanium ores and concentrates.** |  |  |  |  |
 | 2614.00.10 | - Bijih ilmenit dan konsentratnya | - Ilmenite ores and concentrates | 5 | *) | 11 | - |
 | 2614.00.90 | - Lain-lain | - Other | 5 | *) | 11 | - |
 |  |  |  |  |  |  |  |
-| 26.15 | Bijih niobium, tantalum, vanadium atau zirkonium dan konsentratnya. | Niobium, tantalum, vanadium or zirconium ores and concentrates. |  |  |  |  |
+| **26.15** | **Bijih niobium, tantalum, vanadium atau zirkonium dan konsentratnya.** | **Niobium, tantalum, vanadium or zirconium ores and concentrates.** |  |  |  |  |
 | 2615.10.00 | - Bijih zirkonium dan konsentratnya | - Zirconium ores and concentrates | 5 | - | 11 | - |
 | 2615.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 26.16 | Bijih logam mulia dan konsentratnya. | Precious metal ores and concentrates. |  |  |  |  |
+| **26.16** | **Bijih logam mulia dan konsentratnya.** | **Precious metal ores and concentrates.** |  |  |  |  |
 | 2616.10.00 | - Bijih perak dan konsentratnya | - Silver ores and concentrates | 5 | - | 11 | - |
 | 2616.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 26.17 | Bijih lainnya dan konsentratnya. | Other ores and concentrates. |  |  |  |  |
+| **26.17** | **Bijih lainnya dan konsentratnya.** | **Other ores and concentrates.** |  |  |  |  |
 | 2617.10.00 | - Bijih antimoni dan konsentratnya | - Antimony ores and concentrates | 5 | - | 11 | - |
 | 2617.90.00 | - Lain-lain | - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
@@ -90,7 +90,7 @@ lang:
 |  |  |  |  |  |  |  |
 | 2619.00.00 | Terak, sampah (selain terak butiran), kerak logam dan sisa lainnya dari pembuatan besi atau baja. | Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel. | 0 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 26.20 | Terak, abu dan residu (selain dari pembuatan besi atau baja) mengandung logam, arsenik atau senyawanya. | Slag, ash and residues (other than from the manufacture of iron or steel) containing metals, arsenic or their compounds. |  |  |  |  |
+| **26.20** | **Terak, abu dan residu (selain dari pembuatan besi atau baja) mengandung logam, arsenik atau senyawanya.** | **Slag, ash and residues (other than from the manufacture of iron or steel) containing metals, arsenic or their compounds.** |  |  |  |  |
 |  | - Dengan kandungan utama seng : | - Containing mainly zinc : |  |  |  |  |
 | 2620.11.00 | - - Hard zinc spelter | - - Hard zinc spelter | 5 | - | 11 | - |
 | 2620.19.00 | - - Lain-lain | - - Other | 5 | - | 11 | - |
@@ -106,7 +106,7 @@ lang:
 | 2620.99.10 | - - - Terak dan timah keras | - - - Slag and hardhead of tin | 5 | - | 11 | - |
 | 2620.99.90 | - - - Lain-lain | - - - Other | 5 | - | 11 | - |
 |  |  |  |  |  |  |  |
-| 26.21 | Terak logam dan abu lainnya, termasuk abu rumput laut (kelp); abu dan residu dari pembakaran limbah rumah tangga. | Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste. |  |  |  |  |
+| **26.21** | **Terak logam dan abu lainnya, termasuk abu rumput laut (kelp); abu dan residu dari pembakaran limbah rumah tangga.** | **Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste.** |  |  |  |  |
 | 2621.10.00 | - Abu dan residu dari pembakaran limbah rumah tangga | - Ash and residues from the incineration of municipal waste | 5 | - | 11 | - |
 | 2621.90 | - Lain-lain : | - Other : |  |  |  |  |
 | 2621.90.10 | - - Garam kalium mentah yang diperoleh di industri gula dari residu molase bit | - - Crude potassium salts obtained in the sugar industry from residues of beet molasses | 5 | - | 11 | - |
