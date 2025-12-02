@@ -23,9 +23,9 @@ Ketentuan khusus
 
 Isi ketentuan khusus:
 
-[[bab/Bab 100|Bab 98]]Ketentuan khusus untuk industri alat transportasi
+[[Bab/Bab 100|Bab 98]]Ketentuan khusus untuk industri alat transportasi
 
-[[bab/Bab 99|Bab 99]]Peranti lunak dan barang digital lainnya
+[[Bab/Bab 99|Bab 99]]Peranti lunak dan barang digital lainnya
 
 
 ---
@@ -34,6 +34,6 @@ Isi ketentuan khusus:
 
 Contents ofSpecial provisions:
 
-[[bab/Bab 100|Chapter 98]]Works of art, collectors' pieces and antiques
+[[Bab/Bab 100|Chapter 98]]Works of art, collectors' pieces and antiques
 
-[[bab/Bab 99|Chapter 99]]Software and other digital goods
+[[Bab/Bab 99|Chapter 99]]Software and other digital goods
