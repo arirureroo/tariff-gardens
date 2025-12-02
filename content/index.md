@@ -114,3 +114,11 @@ Goods classification based on the Harmonized System (HS) for customs purposes in
 Proyek digital garden ini dikelola oleh / This digital garden project is maintained by:
 
 **[ri.](https://github.com/arirureroo)**
+
+## Kolaborasi / Collaboration
+
+Nemu typo atau mau benerin kode? Silakan kirim PR ke [github](https://github.com/arirureroo/tariff-gardens). Kalau perubahannya masif, buka issue dulu. Kalau enggak, kirim aja.
+
+Spot a typo or want to tweak the code? Feel free to send a PR to [github](https://github.com/arirureroo/tariff-gardens). If it's a huge change, open an issue first. Otherwise, just send it.
+
+Peace.

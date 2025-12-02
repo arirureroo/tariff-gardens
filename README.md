@@ -1,18 +1,37 @@
-# Quartz v4
+# Tariff Gardens
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Sup. This is **Tariff Gardens**.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+It's a digital garden for **HS Codes** (Harmonization System) and customs tariffs. Basically, I took a bunch of messy HTML files about import/export taxes and made them linkable using **Quartz v4**.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## The Structure
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- **`bagian/`**: The 21 main sections.
+- **`bab/`**: The 100 chapters with notes.
+- **`tarif/`**: The actual tariff tables.
+- **`Ketentuan Khusus` / `KUMHS`**: Extra rules.
 
-## Sponsors
+HS Code format: `AABB.CC.DD` (Chapter.Heading.Subheading.Post).
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Run it
+
+Standard node stuff.
+
+1.  Install:
+
+    ```bash
+    npm install
+    ```
+
+2.  Run:
+    ```bash
+    npx quartz build --serve
+    ```
+
+Go to `localhost:8080`.
+
+## Help me out
+
+Spot a typo or want to tweak the code? Feel free to send a PR. If it's a huge change, open an issue first. Otherwise, just send it.
+
+Peace.
