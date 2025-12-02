@@ -29,7 +29,7 @@ lang:
 
 # Bab 30 Tarif: Produk farmasi
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 30.01 | Kelenjar dan bagian tubuh lainnya untuk keperluan terapeutik-organ tubuh, kering, berupa bubuk maupun tidak; ekstrak dari kelenjar atau organ tubuh lainnya atau dari sekresinya untuk keperluan terapeutik organ tubuh; heparin dan garamnya; subtansi lainnya dari manusia atau hewan disiapkan untuk keperluan terapeutik atau profilaktik, tidak dirinci atau termasuk dalam pos lainnya. | Glands and other organs for organo-therapeutic uses, dried, whether or not powdered; extracts of glands or other organs or of their secretions for organo-therapeutic uses; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, not elsewhere specified or included. |  |  |  |  |

@@ -28,7 +28,7 @@ lang:
 
 # Bab 44 Tarif: Kayu dan barang dari kayu
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 44.01 | Kayu bakar, berbentuk log, billet, ranting, ikatan cabang atau bentuk semacam itu; kayu dalam bentuk keping atau pecahan kayu; serbuk gergaji dan sisa serta skrap kayu, diaglomerasi berbentuk log, briket, pelet atau bentuk semacam itu maupun tidak diaglomerasi | Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms. |  |  |  |  |

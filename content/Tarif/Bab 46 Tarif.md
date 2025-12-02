@@ -27,7 +27,7 @@ lang:
 
 # Bab 46 Tarif: Barang anyaman
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 46.01 | Anyaman dan produk semacam itu dari bahan anyaman, strip maupun tidak; bahan anyaman, anyaman dan produk semacam itu dari bahan anyaman, diikat bersama menjadi untaian atau tenunan sejajar, dalam bentuk lembaran, merupakan barang jadi maupun tidak (misalnya, mat, matting, tirai). | Plaits and similar products of plaiting materials, whether or not assembled into strips; plaiting materials, plaits and similar products of plaiting materials, bound together in parallel strands or woven, in sheet form, whether or not being finished articles (for example, mats, matting, screens). |  |  |  |  |

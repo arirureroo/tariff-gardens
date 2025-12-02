@@ -29,7 +29,7 @@ lang:
 
 # Bab 42 Tarif: Barang dari kulit
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 4201.00.00 | Saddlery dan harness untuk semua macam binatang (termasuk tali kekang, kekang, penutup lutut, penutup mulut, tutup sadel, tas sadel, jaket anjing dan sejenisnya), dari berbagai bahan. | Saddlery and harness for any animal (including traces, leads, knee pads, muzzles, saddle cloths, saddle bags, dog coats and the like), of any material. | 20 | - | 11 | - |

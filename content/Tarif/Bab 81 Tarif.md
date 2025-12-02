@@ -27,7 +27,7 @@ lang:
 
 # Bab 81 Tarif: Logam tidak mulia lainnya
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 81.01 | Tungsten (wolfram) dan barang dari padanya, termasuk sisa dan skrap. | Tungsten (wolfram) and articles thereof, including waste and scrap. |  |  |  |  |

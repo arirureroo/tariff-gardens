@@ -27,7 +27,7 @@ lang:
 
 # Bab 43 Tarif: Kulit berbulu dan bulu tiruan
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 43.01 | Kulit berbulu mentah (termasuk kepala, ekor, cakar dan bagian atau potongan lainnya, cocok digunakan untuk pakaian kulit berbulu), selain hides dan skins mentah dari pos 41.01, 41.02 atau 41.03. | Raw furskins (including heads, tails, paws and other pieces or cuttings, suitable for furriers' use), other than raw hides and skins of heading 41.01, 41.02 or 41.03. |  |  |  |  |

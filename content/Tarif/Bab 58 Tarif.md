@@ -29,7 +29,7 @@ lang:
 
 # Bab 58 Tarif: Kain tenun khusus
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 58.01 | Kain tenunan berbulu dan kain chenille, selain kain dari pos 58.02 atau 58.06. | Woven pile fabrics and chenille fabrics, other than fabrics of heading 58.02 or 58.06. |  |  |  |  |

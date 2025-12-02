@@ -28,7 +28,7 @@ lang:
 
 # Bab 5 Tarif: Produk hewani lainnya
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 0501.00.00 | Rambut manusia, tidak dikerjakan, dicuci atau digosok maupun tidak; sisa rambut manusia. | Human hair, unworked, whether or not washed or scoured; waste of human hair. | 5 | - | 11 | - |

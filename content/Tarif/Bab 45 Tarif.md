@@ -25,7 +25,7 @@ lang:
 
 # Bab 45 Tarif: Gabus dan barang dari gabus
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 45.01 | Gabus alam, mentah atau diolah sederhana; gabus sisa; gabus pecahan, butiran atau gilingan. | Natural cork, raw or simply prepared; waste cork; crushed, granulated or ground cork. |  |  |  |  |

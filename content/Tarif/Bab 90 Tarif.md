@@ -29,7 +29,7 @@ lang:
 
 # Bab 90 Tarif: Instrumen optik, medis
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 90.01 | Serat optik dan bundel serat optik; kabel serat optik selain yang dimaksud dari pos 85.44; lembaran dan pelat dari bahan polarisasi; lensa (termasuk lensa kontak), prisma, cermin dan elemen optik lainnya, dari berbagai bahan, tidak terpasang, selain elemen semacam itu dari kaca tidak dikerjakan secara optik. | Optical fibres and optical fibre bundles; optical fibre cables other than those of heading 85.44; sheets and plates of polarising material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked. |  |  |  |  |

@@ -26,7 +26,7 @@ lang:
 
 # Bab 60 Tarif: Kain rajutan
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 60.01 | Kain berbulu, termasuk kain "berbulu panjang" dan kain terry, rajutan atau kaitan. | Pile fabrics, including “long pile” fabrics and terry fabrics, knitted or crocheted. |  |  |  |  |

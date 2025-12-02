@@ -29,7 +29,7 @@ lang:
 
 # Bab 14 Tarif: Bahan anyaman nabati
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 14.01 | Bahan nabati dari jenis yang terutama dipakai untuk anyam-anyaman (misalnya, bambu, rotan, buluh, kumbuh, osier, rafia, jerami serealia dibersihkan, dikelantang atau dicelup, dan kulit pohon limau). | Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark). |  |  |  |  |

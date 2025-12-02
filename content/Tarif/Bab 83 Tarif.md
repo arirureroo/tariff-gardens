@@ -29,7 +29,7 @@ lang:
 
 # Bab 83 Tarif: Aneka barang dari logam tidak mulia
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 83.01 | Gembok dan kunci (dioperasikan dengan anak kunci, kombinasi atau secara listrik), dari logam tidak mulia; kunci jepit dan bingkai dengan kunci jepit, kunci terpasang, dari logam tidak mulia; anak kunci untuk semua barang tersebut, dari logam tidak mulia. | Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal. |  |  |  |  |
 | 8301.10.00 | - Gembok | - Padlocks | 10 | - | 11 | - |

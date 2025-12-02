@@ -29,7 +29,7 @@ lang:
 
 # Bab 4 Tarif: Produk susu, telur, madu
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 04.01 | Susu dan kepala susu, tidak dipekatkan maupun tidak mengandung tambahan gula atau bahan pemanis lainnya. | Milk and cream, not concentrated nor containing added sugar or other sweetening matter. |  |  |  |  |

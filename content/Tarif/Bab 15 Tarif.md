@@ -29,7 +29,7 @@ lang:
 
 # Bab 15 Tarif: Minyak dan lemak
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 15.01 | Lemak babi (termasuk lard) dan lemak unggas, selain dari pos 02.09 atau 15.03. | Pig fat (including lard) and poultry fat, other than that of heading 02.09 or 15.03. |  |  |  |  |

@@ -29,7 +29,7 @@ lang:
 
 # Bab 82 Tarif: Perkakas dari logam tidak mulia
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 82.01 | Perkakas tangan, sebagai berikut : sekop datar, sekop lengkung, beliung, bajak, cangkul, garu dan pengeruk; kapak, sabit paruh dan alat potong semacam itu; gunting bunga dan pemangkas dari segala jenis; sabit tangkai panjang, sabit, pisau jerami, gunting untuk tanaman pagar, pengiris kayu dan perkakas lainnya dari jenis yang digunakan dalam pertanian, perkebunan atau kehutanan. | Hand tools, the following : spades, shovels, mattocks, picks, hoes, forks and rakes; axes, bill hooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges and other tools of a kind used in agriculture, horticulture or forestry. |  |  |  |  |

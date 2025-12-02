@@ -27,7 +27,7 @@ lang:
 
 # Bab 88 Tarif: Pesawat terbang
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 8801.00.00 | Balon udara dan balon udara yang dapat dikemudikan; pesawat layang, pesawat layang gantung dan kendaraan udara lainnya tanpa tenaga penggerak. | Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft. | 0 | - | 11 | 40 |

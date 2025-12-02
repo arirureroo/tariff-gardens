@@ -27,7 +27,7 @@ lang:
 
 # Bab 59 Tarif: Kain tekstil diresapi
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 59.01 | Kain tekstil dilapisi dengan perekat atau zat mengandung pati, dari jenis yang digunakan untuk kulit luar buku atau sejenisnya; kain kalkir; kanvas lukis siap pakai; buckram dan kain tekstil kaku semacam itu dari jenis yang digunakan untuk dasar topi. | Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations. |  |  |  |  |

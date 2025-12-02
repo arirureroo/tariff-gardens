@@ -28,7 +28,7 @@ lang:
 
 # Bab 21 Tarif: Aneka olahan makanan
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 21.01 | Ekstrak, esens dan konsentrat, dari kopi, teh atau mate dan olahan dengan dasar produk ini atau dengan dasar kopi, teh atau mate; chicory digongseng dan pengganti kopi yang digongseng lainnya, dan ekstrak, esens dan konsentratnya. | Extracts, essences and concentrates, of coffee, tea or maté, and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof. |  |  |  |  |

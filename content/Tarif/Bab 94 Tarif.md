@@ -31,7 +31,7 @@ lang:
 
 # Bab 94 Tarif: Furnitur, tempat tidur
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 94.01 | Tempat duduk (selain barang yang dimaksud dari pos 94.02), dapat diubah menjadi tempat tidur maupun tidak, dan bagiannya. | Seats (other than those of heading 94.02), whether or not convertible into beds, and parts thereof. |  |  |  |  |

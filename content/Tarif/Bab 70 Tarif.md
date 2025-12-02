@@ -29,7 +29,7 @@ lang:
 
 # Bab 70 Tarif: Kaca dan barang dari kaca
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 7001.00.00 | Pecahan dan sisa serta skrap lainnya dari kaca, kecuali kaca dari tabung sinar katoda atau kaca aktif lainnya dari pos 85.49; kaca dalam bentuk butiran. | Cullet and other waste and scrap of glass, excluding glass from cathode-ray tubes or other activated glass of heading 85.49; glass in the mass. | 5 | - | 11 | - |

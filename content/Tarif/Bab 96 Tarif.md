@@ -29,7 +29,7 @@ lang:
 
 # Bab 96 Tarif: Aneka barang hasil industri
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 96.01 | Gading, tulang, tempurung kura-kura, tanduk, tanduk rusa, koral, kulit kerang dan bahan ukiran hewani lainnya dikerjakan, serta barang dari bahan tersebut (termasuk barang yang diperoleh melalui pencetakan). | Worked ivory, bone, tortoise-shell, horn, antlers, coral, mother-of-pearl and other animal carving material, and articles of these materials (including articles obtained by moulding). |  |  |  |  |

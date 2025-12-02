@@ -29,7 +29,7 @@ lang:
 
 # Bab 95 Tarif: Mainan, permainan, olahraga
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 95.03 | Sepeda roda tiga, skuter, mobil berpedal dan mainan beroda semacam itu; kereta boneka; boneka; mainan lainnya; model yang diperkecil ("skala") dan model rekreasi semacam itu, dapat digerakkan atau tidak; puzzle dari segala jenis. | Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size ("scale") models and similar recreational models, working or not; puzzles of all kinds. |  |  |  |  |

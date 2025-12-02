@@ -25,7 +25,7 @@ lang:
 
 # Bab 75 Tarif: Nikel dan barangnya
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 75.01 | Mate nikel, sinter oksida nikel dan produk-antara lainnya dari metalurgi nikel. | Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy. |  |  |  |  |

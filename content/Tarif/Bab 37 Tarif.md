@@ -28,7 +28,7 @@ lang:
 
 # Bab 37 Tarif: Barang fotografi, sinematografi
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 37.01 | Pelat dan film fotografi berbentuk lembaran, peka cahaya, tidak disinari, dari bahan apapun selain kertas, kertas karton atau tekstil; film cetak instan berbentuk lembaran, peka cahaya, tidak disinari, dalam kemasan maupun tidak. | Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs. |  |  |  |  |

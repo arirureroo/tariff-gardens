@@ -29,7 +29,7 @@ lang:
 
 # Bab 86 Tarif: Lokomotif dan kereta api
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 86.01 | Lokomotif rel digerakkan dengan sumber tenaga listrik dari luar atau dengan akumulator listrik. | Rail locomotives powered from an external source of electricity or by electric accumulators. |  |  |  |  |

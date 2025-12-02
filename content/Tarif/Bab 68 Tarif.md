@@ -29,7 +29,7 @@ lang:
 
 # Bab 68 Tarif: Barang dari batu, semen
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 6801.00.00 | Batu jalan, batu tepi jalan dan batu ubin, dari batu alami (kecuali batu sabak). | Setts, curbstones and flagstones, of natural stone (except slate). | 5 | - | 11 | - |

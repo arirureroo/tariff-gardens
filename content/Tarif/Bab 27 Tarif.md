@@ -28,7 +28,7 @@ lang:
 
 # Bab 27 Tarif: Bahan bakar mineral, minyak
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 27.01 | Batu bara; briket, ovoid dan bahan bakar padat semacam itu dibuat dari batu bara. | Coal; briquettes, ovoids and similar solid fuels manufactured from coal. |  |  |  |  |

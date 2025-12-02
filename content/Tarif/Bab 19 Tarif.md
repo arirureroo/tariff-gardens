@@ -28,7 +28,7 @@ lang:
 
 # Bab 19 Tarif: Olahan serealia, tepung
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 19.01 | Ekstrak malt; olahan makanan dari tepung, menir, tepung kasar, pati atau ekstrak malt, tidak mengandung kakao atau mengandung kakao kurang dari 40 % menurut beratnya yang dihitung atas dasar kakao yang dihilangkan seluruh lemaknya, tidak dirinci atau termasuk pos lainnya; olahan makanan dari pos 04.01 sampai dengan 04.04, tidak mengandung kakao atau mengandung kakao kurang dari 5 % menurut beratnya yang dihitung atas dasar kakao yang dihilangkan seluruh lemaknya, tidak dirinci atau termasuk pos lainnya. | Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 04.01 to 04.04, not containing cocoa or containing less than 5 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included. |  |  |  |  |

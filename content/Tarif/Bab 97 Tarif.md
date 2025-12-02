@@ -29,7 +29,7 @@ lang:
 
 # Bab 97 Tarif: Karya seni, barang antik
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 97.01 | Lukisan, gambar dan gambar pastel, dikerjakan seluruhnya dengan tangan, selain gambar dari pos 49.06 dan selain barang jadi yang dicat atau didekorasi dengan tangan; kolase, mosaik dan plakat hiasan semacam itu. | Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading 49.06 and other than hand-painted or hand-decorated manufactured articles; collages, mosaics and similar decorative plaques. |  |  |  |  |

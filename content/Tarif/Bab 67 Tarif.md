@@ -27,7 +27,7 @@ lang:
 
 # Bab 67 Tarif: Bulu unggas olahan
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 6701.00.00 | Kulit dan bagian lainnya dari unggas dengan bulu atau bulu halusnya, bulu, bagian dari bulu, bulu halus dan barang terbuat dari padanya (selain barang dari pos 05.05 dan pena bulu angsa serta bulu lepas olahan). | Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading 05.05 and worked quills and scapes). | 15 | - | 11 | - |

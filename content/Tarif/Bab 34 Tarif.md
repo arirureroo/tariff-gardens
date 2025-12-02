@@ -29,7 +29,7 @@ lang:
 
 # Bab 34 Tarif: Sabun, lilin
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 34.01 | Sabun; produk dan preparat aktif-permukaan organik digunakan sebagai sabun, dalam bentuk batangan, cake, potongan atau bentukan yang dicetak, mengandung sabun maupun tidak; produk dan preparat aktif permukaan organik untuk membersihkan kulit dalam bentuk cair atau krim dan disiapkan untuk penjualan eceran, mengandung sabun maupun tidak; kertas, gumpalan, kain kempa dan bukan tenunan, diresapi, dilapisi atau ditutupi dengan sabun atau deterjen. | Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent. |  |  |  |  |

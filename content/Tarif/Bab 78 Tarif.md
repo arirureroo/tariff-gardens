@@ -25,7 +25,7 @@ lang:
 
 # Bab 78 Tarif: Timbal dan barangnya
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 78.01 | Timbal tidak ditempa. | Unwrought lead. |  |  |  |  |
 | 7801.10.00 | - Timbal dimurnikan | - Refined lead | 5 | - | 11 | - |

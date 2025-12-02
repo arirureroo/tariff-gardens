@@ -29,7 +29,7 @@ lang:
 
 # Bab 20 Tarif: Olahan sayuran, buah
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 20.01 | Sayuran, buah, kacang dan bagian tanaman lainnya yang dapat dimakan, diolah atau diawetkan dengan cuka atau asam asetat. | Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid. |  |  |  |  |

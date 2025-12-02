@@ -29,7 +29,7 @@ lang:
 
 # Bab 89 Tarif: Kapal dan bangunan terapung
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 89.01 | Kapal pesiar, kapal ekskursi, kapal feri, kapal kargo, tongkang dan kendaraan air semacam itu untuk pengangkutan orang atau barang. | Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods. |  |  |  |  |

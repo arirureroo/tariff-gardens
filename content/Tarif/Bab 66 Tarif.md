@@ -27,7 +27,7 @@ lang:
 
 # Bab 66 Tarif: Payung, tongkat
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 66.01 | Payung dan payung panas (termasuk payung berbentuk tongkat jalan, payung taman dan payung semacam itu). | Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas). |  |  |  |  |

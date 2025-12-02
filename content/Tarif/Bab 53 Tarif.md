@@ -29,7 +29,7 @@ lang:
 
 # Bab 53 Tarif: Serat tekstil nabati lainnya
 
-| POS TARIF HS CODE | U R A I A N B A R A N G | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
+| POS TARIF HS CODE | URAIAN BARANG | DESCRIPTION OF GOODS | BEA MASUK IMPORT DUTY (% / Rupiah) | BEA KELUAR EXPORT DUTY (% / Rupiah) | PPN VAT (%) | PPnBM SALES TAX ON LUXURY GODDS (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 | 53.01 | Lena, mentah atau sudah dikerjakan tetapi tidak dipintal; tow lena dan sisa lena (termasuk sisa benang dan garnetted stock). | Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock). |  |  |  |  |
