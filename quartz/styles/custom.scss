@@ -4,58 +4,70 @@
 
 // Tariff table styling for wider description columns
 .table-container {
+  // Ensure horizontal scrolling works
+  overflow-x: auto;
+  
   > table {
-    // Set minimum table width to ensure columns have room
-    min-width: 1200px;
-    table-layout: fixed;
+    // Let the table size naturally
+    width: 100%;
     
-    // Column 1: POS TARIF HS CODE
+    // Column 1: POS TARIF HS CODE - fixed width for HS codes
     th:nth-child(1),
     td:nth-child(1) {
-      width: 120px;
-      min-width: 100px;
+      min-width: 80px;
+      white-space: nowrap;
     }
     
     // Column 2: URAIAN BARANG (Indonesian description) - wider
     th:nth-child(2),
     td:nth-child(2) {
-      width: 25%;
-      min-width: 250px;
+      min-width: 300px;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
     }
     
     // Column 3: DESCRIPTION OF GOODS (English description) - wider
     th:nth-child(3),
     td:nth-child(3) {
-      width: 25%;
-      min-width: 250px;
+      min-width: 300px;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
     }
     
-    // Column 4: BEA MASUK IMPORT DUTY
+    // Column 4: BEA MASUK IMPORT DUTY - narrow
     th:nth-child(4),
     td:nth-child(4) {
-      width: 12%;
-      min-width: 100px;
+      min-width: 70px;
+      text-align: center;
     }
     
-    // Column 5: BEA KELUAR EXPORT DUTY
+    // Column 5: BEA KELUAR EXPORT DUTY - narrow
     th:nth-child(5),
     td:nth-child(5) {
-      width: 12%;
-      min-width: 100px;
+      min-width: 70px;
+      text-align: center;
     }
     
-    // Column 6: PPN VAT
+    // Column 6: PPN VAT - very narrow
     th:nth-child(6),
     td:nth-child(6) {
-      width: 8%;
-      min-width: 70px;
+      min-width: 50px;
+      text-align: center;
     }
     
-    // Column 7: PPnBM SALES TAX
+    // Column 7: PPnBM SALES TAX - narrow
     th:nth-child(7),
     td:nth-child(7) {
-      width: 10%;
-      min-width: 80px;
+      min-width: 60px;
+      text-align: center;
+    }
+    
+    // Header styling
+    th {
+      white-space: normal;
+      word-wrap: break-word;
+      vertical-align: bottom;
+      font-size: 0.85rem;
     }
   }
 }
