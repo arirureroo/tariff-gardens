@@ -1,3 +1,61 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Tariff table styling for wider description columns
+.table-container {
+  > table {
+    // Set minimum table width to ensure columns have room
+    min-width: 1200px;
+    table-layout: fixed;
+    
+    // Column 1: POS TARIF HS CODE
+    th:nth-child(1),
+    td:nth-child(1) {
+      width: 120px;
+      min-width: 100px;
+    }
+    
+    // Column 2: URAIAN BARANG (Indonesian description) - wider
+    th:nth-child(2),
+    td:nth-child(2) {
+      width: 25%;
+      min-width: 250px;
+    }
+    
+    // Column 3: DESCRIPTION OF GOODS (English description) - wider
+    th:nth-child(3),
+    td:nth-child(3) {
+      width: 25%;
+      min-width: 250px;
+    }
+    
+    // Column 4: BEA MASUK IMPORT DUTY
+    th:nth-child(4),
+    td:nth-child(4) {
+      width: 12%;
+      min-width: 100px;
+    }
+    
+    // Column 5: BEA KELUAR EXPORT DUTY
+    th:nth-child(5),
+    td:nth-child(5) {
+      width: 12%;
+      min-width: 100px;
+    }
+    
+    // Column 6: PPN VAT
+    th:nth-child(6),
+    td:nth-child(6) {
+      width: 8%;
+      min-width: 70px;
+    }
+    
+    // Column 7: PPnBM SALES TAX
+    th:nth-child(7),
+    td:nth-child(7) {
+      width: 10%;
+      min-width: 80px;
+    }
+  }
+}
