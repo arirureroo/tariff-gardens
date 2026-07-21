@@ -14,6 +14,8 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
+    "build": "npx quartz build",
+    "postbuild": "node scripts/generate-sw.mjs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
@@ -64,6 +66,7 @@
     "pixi.js": "^8.14.1",
     "preact": "^10.27.2",
     "preact-render-to-string": "^6.6.3",
+    "workbox-build": "^7.3.0",
     "pretty-bytes": "^7.1.0",
     "pretty-time": "^1.1.0",
     "reading-time": "^1.5.0",

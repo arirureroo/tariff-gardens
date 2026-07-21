@@ -82,6 +82,7 @@ export default (() => {
           </>
         )}
 
+        <link rel="manifest" href="/manifest.webmanifest" />
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
