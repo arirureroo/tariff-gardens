@@ -15,7 +15,7 @@ const result = await generateSW({
   directoryIndex: null,
   mode: "production",
   navigateFallback: "/index.html",
-  navigateFallbackDenylist: [/\/api\//, /\/static\//, /\/tags\//],
+  navigateFallbackDenylist: [/\/api\//],
   maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
   runtimeCaching: [
     {
