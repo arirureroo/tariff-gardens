@@ -2,6 +2,7 @@ import fs from "node:fs/promises"
 import path from "node:path"
 import { generateSW } from "workbox-build"
 
+// For better offline support with fonts
 const rootDir = path.resolve(process.cwd(), "public")
 
 const result = await generateSW({
@@ -19,24 +20,46 @@ const result = await generateSW({
   maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
   runtimeCaching: [
     {
-      urlPattern: /^https:\/\/fonts\.(?:gstatic|googleapis)\.com\//,
-      handler: "StaleWhileRevalidate",
+      urlPattern: /^https:\/\/fonts\.googleapis\.com\//,
+      handler: "NetworkFirst",
       options: {
-        cacheName: "google-fonts",
+        cacheName: "google-fonts-stylesheets",
+        networkTimeoutSeconds: 3,
+        expiration: {
+          maxEntries: 20,
+          maxAgeSeconds: 60 * 60 * 24 * 365,
+        },
+        cacheableResponse: {
+          statuses: [0, 200],
+        },
+      },
+    },
+    {
+      urlPattern: /^https:\/\/fonts\.gstatic\.com\//,
+      handler: "CacheFirst",
+      options: {
+        cacheName: "google-fonts-webfonts",
         expiration: {
           maxEntries: 30,
           maxAgeSeconds: 60 * 60 * 24 * 365,
+        },
+        cacheableResponse: {
+          statuses: [0, 200],
         },
       },
     },
     {
       urlPattern: /^https:\/\/cdnjs\.cloudflare\.com\//,
-      handler: "StaleWhileRevalidate",
+      handler: "NetworkFirst",
       options: {
         cacheName: "cdnjs",
+        networkTimeoutSeconds: 3,
         expiration: {
           maxEntries: 50,
           maxAgeSeconds: 60 * 60 * 24 * 30,
+        },
+        cacheableResponse: {
+          statuses: [0, 200],
         },
       },
     },
